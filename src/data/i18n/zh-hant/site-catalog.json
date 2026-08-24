@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "zh-hant",
   "sourceLocale": "en",
-  "sourceCatalogHash": "298eaa83ea9f1b989243c3da763e258047054b5b8516f56eaa231c63b38b9c11",
-  "generatedAt": "2026-08-23T03:28:16.269Z",
+  "sourceCatalogHash": "a945534217abc6093932f6bdc2d50e449bca6caad2e09bd7a7a12168dda30524",
+  "generatedAt": "2026-08-24T03:34:26.450Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAGXTG7BAOVioqqEY6eoRu-2",
-      "AAHDTG7BAOVioqqEY6eoSBO8",
-      "AAEaTG7BAOVioqqEY6eoSyz3",
-      "AAE9TG7BAOVioqqEY6eoSmZh",
-      "AAF6TG7BAOVioqqEY6eoSgV_",
-      "AAGETG7BAOVioqqEY6eeq775",
-      "AAEATG7BAOVioqqEY6e-mS14",
-      "AAEKTG7BAOVioqqEY6e91TY-",
-      "AAGhTG7BAOVioqqEY6eflu76",
-      "AAFsTG7BAOVioqqEY6eBSk1Q"
+      "AAHyTG7BAOVioqqEY6eBS4oY",
+      "AAGpTG7BAOVioqqEY6e51ifv",
+      "AAHvTG7BAOVioqqEY6e0Sscm",
+      "AAE4TG7BAOVioqqEY6eBS49Z",
+      "AAGyTG7BAOVioqqEY6eBuRjc",
+      "AAFiTG7BAOVioqqEY6eBSz9T",
+      "AAEVTG7BAOVioqqEY6eiGfxa",
+      "AAEKTG7BAOVioqqEY6edXi_c",
+      "AAECTG7BAOVioqqEY6eBS9pY",
+      "AAHaTG7BAOVioqqEY6eMU1me"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd"
@@ -39,26 +39,28 @@
   },
   "categoryGlossarySourceHash": "69c58b580fac55644532e4210a9b02c21cf7feb641cc8250cf5b4673088ed847",
   "translationSummary": {
-    "ready": 346,
-    "skipped": 3,
+    "ready": 355,
+    "skipped": 4,
     "skippedProductIds": [
       "AAGxTG7BAOVioqqEY6e7uzWC",
       "AAGXTG7BAOVioqqEY6eoRu-2",
-      "AAE9TG7BAOVioqqEY6eoSmZh"
+      "AAE9TG7BAOVioqqEY6eoSmZh",
+      "AAFiTG7BAOVioqqEY6eBSz9T"
     ],
-    "reused": 338,
-    "generated": 8,
+    "reused": 346,
+    "generated": 9,
     "generatedProductIds": [
-      "AAHDTG7BAOVioqqEY6eoSBO8",
-      "AAEaTG7BAOVioqqEY6eoSyz3",
-      "AAF6TG7BAOVioqqEY6eoSgV_",
-      "AAGETG7BAOVioqqEY6eeq775",
-      "AAEATG7BAOVioqqEY6e-mS14",
-      "AAEKTG7BAOVioqqEY6e91TY-",
-      "AAGhTG7BAOVioqqEY6eflu76",
-      "AAFsTG7BAOVioqqEY6eBSk1Q"
+      "AAHyTG7BAOVioqqEY6eBS4oY",
+      "AAGpTG7BAOVioqqEY6e51ifv",
+      "AAHvTG7BAOVioqqEY6e0Sscm",
+      "AAE4TG7BAOVioqqEY6eBS49Z",
+      "AAGyTG7BAOVioqqEY6eBuRjc",
+      "AAEVTG7BAOVioqqEY6eiGfxa",
+      "AAEKTG7BAOVioqqEY6edXi_c",
+      "AAECTG7BAOVioqqEY6eBS9pY",
+      "AAHaTG7BAOVioqqEY6eMU1me"
     ],
-    "retriedBacklog": 1,
+    "retriedBacklog": 3,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -1369,6 +1371,397 @@
             "contentHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8",
             "attempts": 0,
             "updatedAt": "2026-08-23T03:07:09.480Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFiTG7BAOVioqqEY6eBSz9T",
+      "sourceId": "AAFiTG7BAOVioqqEY6eBSz9T",
+      "sourceFingerprint": "8eaf8dbab827a16b8793bb924d02b8e0441387c58cad97ef37a7717504bf5add",
+      "locale": "en",
+      "slug": "religious-led-simulation-candle-plastic-christmas-ebsz9t",
+      "title": "Religious LED Simulation Candle, Plastic, Christmas",
+      "eyebrow": "LED simulation candle",
+      "summary": "This LED simulation candle brings the look of hand-carved wax into your Christmas décor. Made of plastic with a realistic finish, it glows safely without flame. Ideal for religious ornaments, holiday displays, and gift-giving.",
+      "description": "A hand-carved appearance sets this LED candle apart, giving it the texture of real wax while remaining lightweight plastic. The electronic light mimics a warm candle glow, offering a safe alternative to open flames.\n\nCrafted for holiday decor, this candle suits Christmas-themed religious settings. Its plastic construction ensures durability and easy storage. Use it as part of a centerpiece, on a mantel, or in a prayer corner.\n\nAs a flameless option, it removes concerns about wax drips or fire hazards, making it suitable for homes and gatherings.",
+      "catholicContext": "Candles are traditional in Catholic homes and prayer spaces, but this item is a decorative simulation, not a liturgical candle.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hf37cc55b9688455c8ce2c92552e6594cE.webp",
+      "imageAlt": "Religious LED Simulation Candle, Plastic, Christmas",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf37cc55b9688455c8ce2c92552e6594cE.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Haef62e2a7449448bb5b485a441fbf5888.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6b7219d134334e93ae5d90311ac0487dK.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H18c3b4c89ca14d1cb853b2b0223d41e92.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3959167b77f04cbfa1445f0cec882f75B.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb871d9c0875c4c5ea68cb051e1e388cb4.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97be0367fbf74034ab6884c565d8cff6m.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--22",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--22",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5d02e50dffc845b0a9276b451a1da174Q.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--21",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--21",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1bbeabafca4b4932b67229e70d4831947.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--24",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--24",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3ba932752d2248098ddf0a31446731e9D.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--23",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--23",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H909fb14ee1744444af5571219e53c26eQ.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--18",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--18",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ef87b2d21d04aa0ba1c71abb93fe2dfr.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--17",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--17",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hac5e39fbd72f456488054029dab8d715o.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--20",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--20",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc29b4c1c3d8a4755a0f52c76997ba4ce3.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--19",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--19",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc60dfa94e5604d5e8e72ecf674dcd26eK.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--14",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--14",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8546604da4514e4b915b29359d82a2b4F.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--13",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--13",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7b1bfd24041b45b3998c6f9c07d8f266p.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--16",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--16",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H159df54c7fe24db58d3191f202df7769V.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--15",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--15",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H86bdda37635c4337a86fb83a95b9bbf6i.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--10",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--10",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd02675a37f224c5f8932035d313c6d76E.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--9",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--9",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Had4ed47e682b49aeb1cb37012c29582bZ.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--12",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--12",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H53cb6a39e7ed4a708783b9dc927add8f5.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--11",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--11",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9f3b60e195a147e8801d9a56a25c3c49K.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--6",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--6",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb576b9381bb469294a7b781dc3843a9O.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--5",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--5",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H88b7a1a98bc34f4ca7f19b69eeabbfb7k.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--8",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--8",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heecdffcae8654a2f8b44230f4df3a6fe2.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--7",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--7",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H535ec2cd876b411593350de33c4fabceZ.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--2",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--2",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe7ccdb2abd44d3837fd74044d1e7f2z.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--1",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--1",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H580a10be5f2041f0a6371cb7d22681cd3.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--4",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--4",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5db2dd10a50b45d18f850281e96c8204x.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--3",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--3",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb202cb3ac32b41c8b7a2188afbf6cd68j.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--30",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--30",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--30"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3a38012c4f7e49ccab2aed788bf6d7962.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--29",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--29",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--29"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5fb157202aff4703b51508195f44c526S.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--26",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--26",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7f78b2aef9524446a35328927e7855891.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--25",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--25",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H71d31ee6e2474150b60367efd622e52eo.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--28",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--28",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf96decaede6d4a96be46497bd2bacd62U.webp",
+          "alt": "Religious LED Simulation Candle, Plastic, Christmas - ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--27",
+          "label": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--27",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T-V--27"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Simulated hand-carved wax texture",
+        "LED light for a warm, flameless glow",
+        "Plastic material for durability and light weight",
+        "Designed for Christmas holiday decoration",
+        "Religious style suitable for devotional displays"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Plastic"
+        },
+        {
+          "name": "Application",
+          "value": "Christmas lights"
+        },
+        {
+          "name": "Occasion",
+          "value": "Christmas"
+        },
+        {
+          "name": "Style",
+          "value": "Religious"
+        },
+        {
+          "name": "Use",
+          "value": "Holiday Decoration & Gift"
+        }
+      ],
+      "applications": [
+        "Christmas home decoration",
+        "Religious ornament for mantel or shelf",
+        "Holiday gift for family or friends",
+        "Ambient lighting for festive gatherings"
+      ],
+      "faq": [
+        {
+          "question": "Is this candle safe to leave on for long periods?",
+          "answer": "As an LED simulation candle, it operates without an open flame, reducing fire risk. However, always follow general safety practices for electronic decorations and turn off when unattended if desired."
+        },
+        {
+          "question": "Can this candle be used outdoors?",
+          "answer": "The product facts do not specify outdoor use. It is designed for Christmas decoration, but we recommend indoor use to protect the electronic components and plastic finish."
+        },
+        {
+          "question": "Does the candle come in different sizes or colors?",
+          "answer": "The available information does not mention size or color variations. Contact us for current options and availability."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.65",
+          "max": "0.75"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Religious LED Simulation Candle, Plastic, Christmas",
+          "description": "A plastic LED candle with hand-carved wax-like finish, designed for religious Christmas decoration. Safe, flameless, and reusable. Find it at OUOOO.",
+          "sku": "ALI-AAFiTG7BAOVioqqEY6eBSz9T",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hf37cc55b9688455c8ce2c92552e6594cE.jpg",
+            "https://sc04.alicdn.com/kf/Haef62e2a7449448bb5b485a441fbf5888.jpg",
+            "https://sc04.alicdn.com/kf/H6b7219d134334e93ae5d90311ac0487dK.jpg",
+            "https://sc04.alicdn.com/kf/H18c3b4c89ca14d1cb853b2b0223d41e92.jpg",
+            "https://sc04.alicdn.com/kf/H3959167b77f04cbfa1445f0cec882f75B.jpg",
+            "https://sc04.alicdn.com/kf/Hb871d9c0875c4c5ea68cb051e1e388cb4.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Plastic"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Application",
+              "value": "Christmas lights"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Christmas"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Use",
+              "value": "Holiday Decoration & Gift"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.65",
+              "maxPrice": "0.75",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is this candle safe to leave on for long periods?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "As an LED simulation candle, it operates without an open flame, reducing fire risk. However, always follow general safety practices for electronic decorations and turn off when unattended if desired."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can this candle be used outdoors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product facts do not specify outdoor use. It is designed for Christmas decoration, but we recommend indoor use to protect the electronic components and plastic finish."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the candle come in different sizes or colors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The available information does not mention size or color variations. Contact us for current options and availability."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09",
+            "contentHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:07:52.401Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -78001,6 +78394,2180 @@
             "contentHash": "efa3079e3ed48dbd2bca5b8a1796e5c6506a5617f90887de83947dc116de47e3",
             "attempts": 1,
             "updatedAt": "2026-08-23T03:28:16.268Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHyTG7BAOVioqqEY6eBS4oY",
+      "sourceId": "AAHyTG7BAOVioqqEY6eBS4oY",
+      "sourceFingerprint": "3f54a19c5c65f9e8b59d0a2d49321f3976af9ad569c9f432810ea131cbb8f215",
+      "locale": "zh-hant",
+      "slug": "large-golden-jesus-crucifix-wall-hanging-122x85mm-ebs4oy",
+      "title": "大型金色耶穌受難十字架掛牆裝飾 122x85mm",
+      "eyebrow": "掛牆十字架",
+      "summary": "這款大型掛牆十字架尺寸為122x85mm，金色飾面搭配紅色和白色軟琺瑯點綴，提供四種顏色款式。這是一件展示基督受難形象的大型精緻掛飾。",
+      "description": "此掛牆十字架帶有基督受難像，尺寸為122x85mm，是牆面或架子上的醒目裝飾。金色飾面搭配紅色和白色軟琺瑯細節，為傳統設計增添對比。提供四種款式，可依顏色偏好選擇。作為十字架，它在視覺上將虔敬聚焦於基督的犧牲，適合個人祈禱空間。",
+      "catholicContext": "十字苦像是帶有基督身體的十字架，是個人祈禱和家庭奉獻中常見的焦點。",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "裝飾品",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHyTG7BAOVioqqEY6eBS4oY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H7b74294ba53741b5907bde253b6d88fbm.webp",
+      "imageAlt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7b74294ba53741b5907bde253b6d88fbm.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H50d4183485fe47748ab1efb392018d6aW.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdcfaef5cd6b04d3d91b81eab9d6f5e440.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H37aa876b060f40deb841077408a28eb6n.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5ddfebe47af249e3b1de600fc463d3c5k.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8d356a5c857140228412d748d5ca89a2g.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1edf54eca1f84f73ae5f2ef2be617ec05.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm - 2",
+          "label": "2",
+          "sku": "ALI-AAHyTG7BAOVioqqEY6eBS4oY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H198e42ccee4845ef81949ef16509d670D.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm - 3",
+          "label": "3",
+          "sku": "ALI-AAHyTG7BAOVioqqEY6eBS4oY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H36330addb19f4376aca9f1bdcf90c068s.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm - 4",
+          "label": "4",
+          "sku": "ALI-AAHyTG7BAOVioqqEY6eBS4oY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H03a04005a51e424a81fbe46cc63d3de6N.webp",
+          "alt": "大型金色耶穌受難十字架掛牆裝飾 122x85mm - 1",
+          "label": "1",
+          "sku": "ALI-AAHyTG7BAOVioqqEY6eBS4oY-V--2"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "大型尺寸：122x85mm",
+        "金色飾面搭配紅色和白色軟琺瑯",
+        "描繪基督受難於十字架（十字苦像）",
+        "掛牆設計",
+        "提供四種顏色款式"
+      ],
+      "specifications": [
+        {
+          "name": "尺寸",
+          "value": "122x85mm"
+        },
+        {
+          "name": "材質",
+          "value": "金屬配軟琺瑯"
+        },
+        {
+          "name": "顏色",
+          "value": "金色搭配紅白點綴"
+        },
+        {
+          "name": "款式",
+          "value": "4種"
+        }
+      ],
+      "applications": [
+        "居家牆面裝飾",
+        "祈禱室展示",
+        "宗教禮品",
+        "靈修使用"
+      ],
+      "faq": [
+        {
+          "question": "這款十字苦像的尺寸是多少？",
+          "answer": "十字苦像高122毫米，寬85毫米。"
+        },
+        {
+          "question": "有哪些顏色選擇？",
+          "answer": "十字苦像提供四種款式，均以金色飾面搭配紅色和白色軟琺瑯點綴。款式可能在這些顏色的排列或比例上有所不同。"
+        },
+        {
+          "question": "這是十字架還是十字苦像？",
+          "answer": "這是十字苦像，因為它包含了十字架上的基督受難像，如標題所示。"
+        }
+      ],
+      "pricing": {
+        "price": "0.98",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.90",
+          "max": "0.98"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "大型金色耶穌受難十字架掛牆裝飾 122x85mm",
+          "description": "這款大型掛牆十字架尺寸為122x85mm，金色飾面搭配紅色和白色軟琺瑯點綴，提供四種顏色款式。這是一件展示基督受難形象的大型精緻掛飾。",
+          "sku": "ALI-AAHyTG7BAOVioqqEY6eBS4oY",
+          "image": [
+            "https://sc04.alicdn.com/kf/H7b74294ba53741b5907bde253b6d88fbm.jpg",
+            "https://sc04.alicdn.com/kf/H50d4183485fe47748ab1efb392018d6aW.jpg",
+            "https://sc04.alicdn.com/kf/Hdcfaef5cd6b04d3d91b81eab9d6f5e440.jpg",
+            "https://sc04.alicdn.com/kf/H37aa876b060f40deb841077408a28eb6n.jpg",
+            "https://sc04.alicdn.com/kf/H5ddfebe47af249e3b1de600fc463d3c5k.jpg",
+            "https://sc04.alicdn.com/kf/H8d356a5c857140228412d748d5ca89a2g.jpg"
+          ],
+          "category": "裝飾品",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "尺寸",
+              "value": "122x85mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "材質",
+              "value": "金屬配軟琺瑯"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "顏色",
+              "value": "金色搭配紅白點綴"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "款式",
+              "value": "4種"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.98",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.90",
+              "maxPrice": "0.98",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "這款十字苦像的尺寸是多少？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "十字苦像高122毫米，寬85毫米。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "有哪些顏色選擇？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "十字苦像提供四種款式，均以金色飾面搭配紅色和白色軟琺瑯點綴。款式可能在這些顏色的排列或比例上有所不同。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這是十字架還是十字苦像？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "這是十字苦像，因為它包含了十字架上的基督受難像，如標題所示。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "98e60cebb60c7e45053dc01c1c9aef2c5cfe9e4d1ed8eb853bb9edf790eaa30c",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "98e60cebb60c7e45053dc01c1c9aef2c5cfe9e4d1ed8eb853bb9edf790eaa30c",
+            "contentHash": "98e60cebb60c7e45053dc01c1c9aef2c5cfe9e4d1ed8eb853bb9edf790eaa30c",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:07:51.889Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "98e60cebb60c7e45053dc01c1c9aef2c5cfe9e4d1ed8eb853bb9edf790eaa30c",
+            "contentHash": "97fff4484599fedd44c447185966baee1fc6c72a2651e43e17c0d5b09dbeb90d",
+            "attempts": 1,
+            "updatedAt": "2026-08-24T03:32:07.517Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGpTG7BAOVioqqEY6e51ifv",
+      "sourceId": "AAGpTG7BAOVioqqEY6e51ifv",
+      "sourceFingerprint": "9613665b55eb3b61b90bf54781bd58568ff69ee1dd8720f039314d1b59e122f2",
+      "locale": "zh-hant",
+      "slug": "18k-gold-plated-virgin-mary-open-ring-e51ifv",
+      "title": "18K金鍍金聖母瑪利亞開口戒指",
+      "eyebrow": "聖母瑪利亞幾何開口戒指",
+      "summary": "一款極簡開口戒指，採用幾何風格的聖母瑪利亞輪廓，銅質基底鍍18K金，並點綴鋯石。適合日常佩戴或作為低調的瑪利亞飾品。提供兩種金色調款式。",
+      "description": "這款開口戒指將聖母瑪利亞的幾何詮釋融入現代飾品。銅質基底鍍18K金，鋯石點綴增添細微光芒。開放式設計適合各種手指尺寸，無需精確尺寸。提供兩種金色款式（Gold-14611和Gold-14612），適合尋求當代瑪利亞飾品的人士。雖非聖儀，但可作為日常穿搭中對信仰的具體表達。",
+      "catholicContext": "聖母瑪利亞是天主教信仰的核心人物，常透過藝術和珠寶來表達尊敬。",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "161",
+          "name": "戒指",
+          "slug": "rings"
+        }
+      ],
+      "sku": "ALI-AAGpTG7BAOVioqqEY6e51ifv",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hea22cb089a714826b7eee7af6e5fee31p.webp",
+      "imageAlt": "18K金鍍金聖母瑪利亞開口戒指",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hea22cb089a714826b7eee7af6e5fee31p.webp",
+          "alt": "18K金鍍金聖母瑪利亞開口戒指"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H849b05d262d74bd88f4c5fa059dc015cH.webp",
+          "alt": "18K金鍍金聖母瑪利亞開口戒指"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb61d349449b640d29ca1f89cd9a21a519.webp",
+          "alt": "18K金鍍金聖母瑪利亞開口戒指"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H801ab91b33524519ab010d31d84eff19d.webp",
+          "alt": "18K金鍍金聖母瑪利亞開口戒指"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7d07a5e9c2dd446e9664a0b59ae354e4d.webp",
+          "alt": "18K金鍍金聖母瑪利亞開口戒指"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H396f27c6fc0e4d93a8a956bf4c723a58x.webp",
+          "alt": "18K金鍍金聖母瑪利亞開口戒指"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H316866334e474f3d97b6dd5c684cd13c1.webp",
+          "alt": "18K金鍍金聖母瑪利亞開口戒指 - 金色-14611",
+          "label": "金色-14611",
+          "sku": "ALI-AAGpTG7BAOVioqqEY6e51ifv-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1e41802629ab45a190b8b3a542202eb8z.webp",
+          "alt": "18K金鍍金聖母瑪利亞開口戒指 - 金色-14612",
+          "label": "金色-14612",
+          "sku": "ALI-AAGpTG7BAOVioqqEY6e51ifv-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "銅質基底鍍18K金",
+        "鋯石點綴增添光彩",
+        "幾何極簡聖母瑪利亞設計",
+        "開口式設計適應不同手指尺寸",
+        "提供兩種金色款式：金色-14611和金色-14612",
+        "時尚復古美學"
+      ],
+      "specifications": [
+        {
+          "name": "基底材質",
+          "value": "銅"
+        },
+        {
+          "name": "鍍層",
+          "value": "18K金"
+        },
+        {
+          "name": "寶石",
+          "value": "鋯石"
+        },
+        {
+          "name": "設計",
+          "value": "幾何聖母瑪利亞"
+        },
+        {
+          "name": "風格",
+          "value": "開口戒指"
+        },
+        {
+          "name": "款式",
+          "value": "金色-14611、金色-14612"
+        }
+      ],
+      "applications": [
+        "日常配飾，適合休閒或正式場合",
+        "瑪利亞虔誠的個人提醒",
+        "送給喜愛極簡宗教珠寶的禮物",
+        "與其他戒指疊戴"
+      ],
+      "faq": [
+        {
+          "question": "有哪些顏色款式可選？",
+          "answer": "這款戒指有兩種金色調款式：金色-14611和金色-14612。兩者均採用相同的銅質基底和18K金鍍層。"
+        },
+        {
+          "question": "戒指可以調整大小嗎？",
+          "answer": "開口式設計允許一定的彈性，適應不同手指尺寸，無需傳統鉸鏈或扣環。"
+        },
+        {
+          "question": "戒指由什麼材料製成？",
+          "answer": "戒指為銅質基底鍍18K金，並鑲有鋯石。不含珍貴寶石或純金。"
+        }
+      ],
+      "pricing": {
+        "price": "0.76",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "18K金鍍金聖母瑪利亞開口戒指",
+          "description": "一款極簡開口戒指，採用幾何風格的聖母瑪利亞輪廓，銅質基底鍍18K金，並點綴鋯石。適合日常佩戴或作為低調的瑪利亞飾品。提供兩種金色調款式。",
+          "sku": "ALI-AAGpTG7BAOVioqqEY6e51ifv",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hea22cb089a714826b7eee7af6e5fee31p.png",
+            "https://sc04.alicdn.com/kf/H849b05d262d74bd88f4c5fa059dc015cH.png",
+            "https://sc04.alicdn.com/kf/Hb61d349449b640d29ca1f89cd9a21a519.png",
+            "https://sc04.alicdn.com/kf/H801ab91b33524519ab010d31d84eff19d.png",
+            "https://sc04.alicdn.com/kf/H7d07a5e9c2dd446e9664a0b59ae354e4d.png",
+            "https://sc04.alicdn.com/kf/H396f27c6fc0e4d93a8a956bf4c723a58x.png"
+          ],
+          "category": "戒指",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "基底材質",
+              "value": "銅"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "鍍層",
+              "value": "18K金"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "寶石",
+              "value": "鋯石"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "設計",
+              "value": "幾何聖母瑪利亞"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "風格",
+              "value": "開口戒指"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "款式",
+              "value": "金色-14611、金色-14612"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.76",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "有哪些顏色款式可選？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "這款戒指有兩種金色調款式：金色-14611和金色-14612。兩者均採用相同的銅質基底和18K金鍍層。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "戒指可以調整大小嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "開口式設計允許一定的彈性，適應不同手指尺寸，無需傳統鉸鏈或扣環。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "戒指由什麼材料製成？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "戒指為銅質基底鍍18K金，並鑲有鋯石。不含珍貴寶石或純金。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "8b697fe05e94615617725a6864c19f561dead697aa37fcea6ff868a0768e4f81",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "8b697fe05e94615617725a6864c19f561dead697aa37fcea6ff868a0768e4f81",
+            "contentHash": "8b697fe05e94615617725a6864c19f561dead697aa37fcea6ff868a0768e4f81",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:07:45.647Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "8b697fe05e94615617725a6864c19f561dead697aa37fcea6ff868a0768e4f81",
+            "contentHash": "9667ce0c52d5489251ec2cb52021f5d66c262ec8a39a07c117a51e58b2d5fb7f",
+            "attempts": 1,
+            "updatedAt": "2026-08-24T03:32:14.131Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHvTG7BAOVioqqEY6e0Sscm",
+      "sourceId": "AAHvTG7BAOVioqqEY6e0Sscm",
+      "sourceFingerprint": "669fdf24caebdf63cb191b6d58644399dbdb4dfedb6bcf92a837004ec4da7709",
+      "locale": "zh-hant",
+      "slug": "6mm-scented-wood-bead-rosary-necklace-with-marian-pendant-e0sscm",
+      "title": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜",
+      "eyebrow": "香薰木珠玫瑰經項鍊",
+      "summary": "一款手工製作的玫瑰經項鍊，採用6毫米香薰木珠、聖母瑪利亞吊墜和鑽石Figaro鏈條。提供紅色和白色兩種款式，將傳統玫瑰經形式與可穿戴飾品結合。",
+      "description": "這款玫瑰經項鍊將6毫米香薰木珠與聖母瑪利亞吊墜及鑽石Figaro鏈條相結合。木珠帶來自然、觸感良好的質感，而鏈條則增添金屬對比。有紅色和白色可供選擇，是採購 devotional 珠寶的實用選擇。\n\n聖母瑪利亞吊墜作為對聖母瑪利亞的視覺提醒。作為玫瑰經，它支持傳統祈禱實踐。對於天主教零售商，這為 devotional 珠寶產品線提供了多用途的補充。",
+      "catholicContext": "玫瑰經是專注於默想耶穌基督和聖母瑪利亞生平事蹟的天主教祈禱。",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "天主教玫瑰經念珠",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAHvTG7BAOVioqqEY6e0Sscm",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hb7fce07d33fa40b98c3268bbe956fec5C.webp",
+      "imageAlt": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb7fce07d33fa40b98c3268bbe956fec5C.webp",
+          "alt": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb025c97862dc4381b08be7c90bd176eek.webp",
+          "alt": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5809fbf5926044559be3d14e78ded996e.webp",
+          "alt": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd1f8d32daeae4207a9784723b28ff675l.webp",
+          "alt": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd052f817eef349e89b3570401f5f6438e.webp",
+          "alt": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Haa513e212d2b4003bed47a5b0677ae13s.webp",
+          "alt": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H864bb8fb83eb4f7aa9e8410ad4f721c91.webp",
+          "alt": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜 - 白色",
+          "label": "白色",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6e0Sscm-V-3331185"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfc15edb242164ce2ac7a406057ea84594.webp",
+          "alt": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜 - 紅色",
+          "label": "紅色",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6e0Sscm-V-3331260"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "手工製作",
+        "6毫米香薰木珠",
+        "聖母瑪利亞吊墜",
+        "鑽石Figaro鏈條",
+        "提供紅色或白色"
+      ],
+      "specifications": [
+        {
+          "name": "珠子尺寸",
+          "value": "6毫米"
+        },
+        {
+          "name": "珠子材質",
+          "value": "香薰木"
+        },
+        {
+          "name": "吊墜",
+          "value": "聖母瑪利亞"
+        },
+        {
+          "name": "鏈條款式",
+          "value": "鑽石Figaro"
+        },
+        {
+          "name": "顏色選擇",
+          "value": "紅色、白色"
+        }
+      ],
+      "applications": [
+        "個人祈禱用途",
+        "天主教禮品",
+        "宗教珠寶零售",
+        "靈修飾品"
+      ],
+      "faq": [
+        {
+          "question": "這款玫瑰經項鍊有哪些顏色選擇？",
+          "answer": "根據產品資訊，這款玫瑰經提供紅色和白色兩種款式。"
+        },
+        {
+          "question": "這款玫瑰經使用什麼類型的鏈條？",
+          "answer": "這款玫瑰經採用鑽石Figaro鏈條，具有獨特的金屬外觀。"
+        },
+        {
+          "question": "這款玫瑰經是手工製作的嗎？",
+          "answer": "是的，產品描述為手工製作，確保個別工藝。"
+        }
+      ],
+      "pricing": {
+        "price": "0.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.38",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "6毫米香薰木珠玫瑰經項鍊，附聖母瑪利亞吊墜",
+          "description": "一款手工製作的玫瑰經項鍊，採用6毫米香薰木珠、聖母瑪利亞吊墜和鑽石Figaro鏈條。提供紅色和白色兩種款式，將傳統玫瑰經形式與可穿戴飾品結合。",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6e0Sscm",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb7fce07d33fa40b98c3268bbe956fec5C.png",
+            "https://sc04.alicdn.com/kf/Hb025c97862dc4381b08be7c90bd176eek.png",
+            "https://sc04.alicdn.com/kf/H5809fbf5926044559be3d14e78ded996e.png",
+            "https://sc04.alicdn.com/kf/Hd1f8d32daeae4207a9784723b28ff675l.png",
+            "https://sc04.alicdn.com/kf/Hd052f817eef349e89b3570401f5f6438e.png",
+            "https://sc04.alicdn.com/kf/Haa513e212d2b4003bed47a5b0677ae13s.png"
+          ],
+          "category": "天主教玫瑰經念珠",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "珠子尺寸",
+              "value": "6毫米"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "珠子材質",
+              "value": "香薰木"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "吊墜",
+              "value": "聖母瑪利亞"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "鏈條款式",
+              "value": "鑽石Figaro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "顏色選擇",
+              "value": "紅色、白色"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.38",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "這款玫瑰經項鍊有哪些顏色選擇？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "根據產品資訊，這款玫瑰經提供紅色和白色兩種款式。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這款玫瑰經使用什麼類型的鏈條？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "這款玫瑰經採用鑽石Figaro鏈條，具有獨特的金屬外觀。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這款玫瑰經是手工製作的嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "是的，產品描述為手工製作，確保個別工藝。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "47bce5c083b1b53f22918f6d2f84f55f2d7ace341d83e0e74eda729bdd3abc71",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "47bce5c083b1b53f22918f6d2f84f55f2d7ace341d83e0e74eda729bdd3abc71",
+            "contentHash": "47bce5c083b1b53f22918f6d2f84f55f2d7ace341d83e0e74eda729bdd3abc71",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:07:44.437Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "47bce5c083b1b53f22918f6d2f84f55f2d7ace341d83e0e74eda729bdd3abc71",
+            "contentHash": "b2409bb76b0c4a0f8cf8e96ac7b9e477e5a2ac42598dbd998dbb7a7295677014",
+            "attempts": 1,
+            "updatedAt": "2026-08-24T03:32:19.549Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE4TG7BAOVioqqEY6eBS49Z",
+      "sourceId": "AAE4TG7BAOVioqqEY6eBS49Z",
+      "sourceFingerprint": "aa9d04220ba707dd98611acc4abec920eea3dc99f3ca1a51de51b9f340ecd8da",
+      "locale": "zh-hant",
+      "slug": "st-benedict-medal-wooden-bead-rosary-ebs49z",
+      "title": "聖本篤聖牌木珠玫瑰經念珠",
+      "eyebrow": "聖本篤聖牌玫瑰經念珠",
+      "summary": "一款以10毫米木珠和聖本篤聖牌為中心墜飾的玫瑰經念珠，並附十字架吊墜。有五種顏色選擇：黑色、白色、咖啡色、黑色2、白色2。適合個人祈禱或作為禮物。",
+      "description": "此玫瑰經念珠採用10毫米木珠製成，設計觸感舒適且耐用，適合日常使用。包含聖本篤聖牌作為中心墜飾，並附十字架吊墜，是廣為人知的天主教靈修用品。念珠提供五種顏色：黑色、白色、咖啡色、黑色2和白色2，可依個人喜好或送禮需求選擇。木珠帶來自然輕盈的手感。與所有靈修用品一樣，此念珠用於祈禱和默想，非取代禮儀實踐。",
+      "catholicContext": "玫瑰經是天主教傳統祈禱方式，專注於默想耶穌基督和聖母瑪利亞生平事蹟。",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "天主教玫瑰經念珠",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAE4TG7BAOVioqqEY6eBS49Z",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H18ab20cc88f94a16b57a148dad180c6dY.webp",
+      "imageAlt": "聖本篤聖牌木珠玫瑰經念珠",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H18ab20cc88f94a16b57a148dad180c6dY.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H461621cea6dd4ba98b344fce84567fe5G.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8806c025940e454c8caae53acfde94a7T.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb1e2ff2f9d9346babe98486ef51bec43K.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7e6b4eaa3f264deba2706c9a9d640386T.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd29236e5ff2e4aa4bd664f3e16ebfa08A.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H25707a215beb4b979eeb33842dd404e8v.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠 - 白色",
+          "label": "白色",
+          "sku": "ALI-AAE4TG7BAOVioqqEY6eBS49Z-V-3331185"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5810cbe5aafa46b5bf49134ebfa6bf4c1.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠 - 白色2",
+          "label": "白色2",
+          "sku": "ALI-AAE4TG7BAOVioqqEY6eBS49Z-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1c2a5177b90249c5b23588d1ab7ea52cH.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠 - 咖啡色",
+          "label": "咖啡色",
+          "sku": "ALI-AAE4TG7BAOVioqqEY6eBS49Z-V-3778969"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb888090165a443ffbe4ff9f15cc0d3dc7.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠 - 黑色2",
+          "label": "黑色2",
+          "sku": "ALI-AAE4TG7BAOVioqqEY6eBS49Z-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9597b7bb14434af4960c48aee8d1a6dcE.webp",
+          "alt": "聖本篤聖牌木珠玫瑰經念珠 - 黑色",
+          "label": "黑色",
+          "sku": "ALI-AAE4TG7BAOVioqqEY6eBS49Z-V-3327837"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "10毫米木珠",
+        "包含聖本篤聖牌",
+        "十字架吊墜",
+        "五種顏色選擇：黑色、白色、咖啡色、黑色2、白色2",
+        "天主教玫瑰經設計"
+      ],
+      "specifications": [
+        {
+          "name": "珠子尺寸",
+          "value": "10毫米"
+        },
+        {
+          "name": "材質",
+          "value": "木質"
+        },
+        {
+          "name": "顏色選擇",
+          "value": "黑色、白色、咖啡色、黑色2、白色2"
+        }
+      ],
+      "applications": [
+        "個人祈禱和默想",
+        "天主教場合的禮物",
+        "居家靈修使用",
+        "宗教教育輔助"
+      ],
+      "faq": [
+        {
+          "question": "聖本篤聖牌玫瑰經念珠有哪些顏色？",
+          "answer": "此念珠有五種顏色選擇：黑色、白色、咖啡色、黑色2和白色2。"
+        },
+        {
+          "question": "珠子尺寸是多少？",
+          "answer": "珠子直徑為10毫米，木質製成。"
+        },
+        {
+          "question": "此玫瑰經念珠是否附有聖本篤聖牌？",
+          "answer": "是的，念珠包含聖本篤聖牌作為中心墜飾，並附十字架吊墜。"
+        }
+      ],
+      "pricing": {
+        "price": "0.60",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.50",
+          "max": "0.60"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "聖本篤聖牌木珠玫瑰經念珠",
+          "description": "一款以10毫米木珠和聖本篤聖牌為中心墜飾的玫瑰經念珠，並附十字架吊墜。有五種顏色選擇：黑色、白色、咖啡色、黑色2、白色2。適合個人祈禱或作為禮物。",
+          "sku": "ALI-AAE4TG7BAOVioqqEY6eBS49Z",
+          "image": [
+            "https://sc04.alicdn.com/kf/H18ab20cc88f94a16b57a148dad180c6dY.jpg",
+            "https://sc04.alicdn.com/kf/H461621cea6dd4ba98b344fce84567fe5G.jpg",
+            "https://sc04.alicdn.com/kf/H8806c025940e454c8caae53acfde94a7T.jpg",
+            "https://sc04.alicdn.com/kf/Hb1e2ff2f9d9346babe98486ef51bec43K.jpg",
+            "https://sc04.alicdn.com/kf/H7e6b4eaa3f264deba2706c9a9d640386T.jpg",
+            "https://sc04.alicdn.com/kf/Hd29236e5ff2e4aa4bd664f3e16ebfa08A.jpg"
+          ],
+          "category": "天主教玫瑰經念珠",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "珠子尺寸",
+              "value": "10毫米"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "材質",
+              "value": "木質"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "顏色選擇",
+              "value": "黑色、白色、咖啡色、黑色2、白色2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.60",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.50",
+              "maxPrice": "0.60",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "聖本篤聖牌玫瑰經念珠有哪些顏色？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "此念珠有五種顏色選擇：黑色、白色、咖啡色、黑色2和白色2。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "珠子尺寸是多少？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "珠子直徑為10毫米，木質製成。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "此玫瑰經念珠是否附有聖本篤聖牌？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "是的，念珠包含聖本篤聖牌作為中心墜飾，並附十字架吊墜。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "187d84be3b83805a11081862f4fe607739bf00214fc61526d9c0627e692181eb",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "187d84be3b83805a11081862f4fe607739bf00214fc61526d9c0627e692181eb",
+            "contentHash": "187d84be3b83805a11081862f4fe607739bf00214fc61526d9c0627e692181eb",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:08:16.679Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "187d84be3b83805a11081862f4fe607739bf00214fc61526d9c0627e692181eb",
+            "contentHash": "9cfa5c5adde321900412eea5c19e7b6471c9d095ff7518b9e46abfe28e3795a8",
+            "attempts": 1,
+            "updatedAt": "2026-08-24T03:32:25.244Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGyTG7BAOVioqqEY6eBuRjc",
+      "sourceId": "AAGyTG7BAOVioqqEY6eBuRjc",
+      "sourceFingerprint": "1557f59adb874dda013053be397b362647abb1e71c9c828782711a8a4c718651",
+      "locale": "zh-hant",
+      "slug": "mini-rosary-bracelet-for-baby-first-communion-favor-eburjc",
+      "title": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物",
+      "eyebrow": "玫瑰經手鍊",
+      "summary": "一款以玫瑰造型珠子製成的迷你十端玫瑰經手鍊，尺寸適合新生兒或嬰兒。提供粉紅、藍、紫、白等顏色選擇，可作為洗禮、初領聖體或婚禮賓客的小禮物。",
+      "description": "這款玫瑰經手鍊採用小巧的玫瑰造型珠子，以緊湊的十端形式呈現，適合嬰兒纖細的手腕。手鍊提供九種顏色選擇，包括粉紅、藍、紫及多種白色調。\n\n由於是迷你十端設計（通常為一串十端），因此便於放入禮物袋或禮物盒中。同一設計也適用於洗禮配件、初領聖體禮物或婚禮紀念品。\n\n我們提供此商品的批發訂購。如需大宗數量或特定顏色搭配的詳細資訊，請與我們聯繫。",
+      "catholicContext": "玫瑰經是天主教的一種祈禱方式，專注於默想耶穌基督及聖母瑪利亞的生平事蹟。",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "玫瑰經手鍊",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H667eeaec51ad4f05ab000a9b8be709d9a.webp",
+      "imageAlt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H667eeaec51ad4f05ab000a9b8be709d9a.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3bf4da98c28b4e568319464580cb85aao.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H469e9cfd613740d2ac4cbd41ce20b465Y.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H42c2573ed557443882daca6e08d28de1x.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7ff2756255124dacb3df20f9e45d6597r.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc0f801aea58549128aba496454e00182V.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物 - 粉紅2",
+          "label": "pink2",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2ac370675eb24b728814c8ae6b5c2a43J.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物 - 白2",
+          "label": "white2",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha52733793bf24056ba9b011eae372c1ff.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物 - 白3",
+          "label": "white3",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H63f39f72b299482eae813af6cceb53c3e.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物 - 粉紅3",
+          "label": "pink3",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbb65e12ec32047a99e89c8a903477e75O.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物 - 白",
+          "label": "white",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-3331185"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H89e982a2cca1466999a52c8a47a9ffdc8.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物 - 粉紅",
+          "label": "pink",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-3328925"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He23c93126d6d4a0f8827d482edc908e3n.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物 - 紫",
+          "label": "purple",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-3851110"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He5776e58eaa14d22aec3525785620fd2w.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物 - 藍",
+          "label": "blue",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-123085"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hab53d52139f84de1bb96256f77dd99dcH.webp",
+          "alt": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物 - 白4",
+          "label": "white4",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--15"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "玫瑰造型珠子設計",
+        "迷你十端尺寸，適合新生兒與嬰兒",
+        "九種顏色選擇：粉紅、藍、紫及多種白色",
+        "適合作為聖體、洗禮或婚禮小禮物",
+        "可批發訂購"
+      ],
+      "specifications": [
+        {
+          "name": "類別",
+          "value": "玫瑰經手鍊"
+        },
+        {
+          "name": "顏色選擇",
+          "value": "粉紅、粉紅2、粉紅3、藍、紫、白、白2、白3、白4"
+        }
+      ],
+      "applications": [
+        "嬰兒洗禮配件",
+        "初領聖體小禮物",
+        "婚禮小禮物",
+        "新生兒禮物"
+      ],
+      "faq": [
+        {
+          "question": "這款玫瑰經手鍊有哪些尺寸？",
+          "answer": "產品名稱標示為迷你十端尺寸，適合新生兒與嬰兒，但未列出精確尺寸。如需測量細節，請與我們聯繫。"
+        },
+        {
+          "question": "可以選擇哪些顏色？",
+          "answer": "手鍊提供粉紅、藍、紫及多種白色。具體顏色選擇為：粉紅、粉紅2、粉紅3、藍、紫、白、白2、白3、白4。"
+        },
+        {
+          "question": "可以大量訂購此手鍊作為活動使用嗎？",
+          "answer": "可以，此商品提供批發訂購。請與我們聯繫討論數量與供貨情況。"
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.30",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "迷你玫瑰經手鍊｜嬰兒款・初領聖體禮物",
+          "description": "一款以玫瑰造型珠子製成的迷你十端玫瑰經手鍊，尺寸適合新生兒或嬰兒。提供粉紅、藍、紫、白等顏色選擇，可作為洗禮、初領聖體或婚禮賓客的小禮物。",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc",
+          "image": [
+            "https://sc04.alicdn.com/kf/H667eeaec51ad4f05ab000a9b8be709d9a.jpg",
+            "https://sc04.alicdn.com/kf/H3bf4da98c28b4e568319464580cb85aao.jpg",
+            "https://sc04.alicdn.com/kf/H469e9cfd613740d2ac4cbd41ce20b465Y.jpg",
+            "https://sc04.alicdn.com/kf/H42c2573ed557443882daca6e08d28de1x.jpg",
+            "https://sc04.alicdn.com/kf/H7ff2756255124dacb3df20f9e45d6597r.jpg"
+          ],
+          "category": "玫瑰經手鍊",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "類別",
+              "value": "玫瑰經手鍊"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "顏色選擇",
+              "value": "粉紅、粉紅2、粉紅3、藍、紫、白、白2、白3、白4"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.30",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "這款玫瑰經手鍊有哪些尺寸？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "產品名稱標示為迷你十端尺寸，適合新生兒與嬰兒，但未列出精確尺寸。如需測量細節，請與我們聯繫。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "可以選擇哪些顏色？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "手鍊提供粉紅、藍、紫及多種白色。具體顏色選擇為：粉紅、粉紅2、粉紅3、藍、紫、白、白2、白3、白4。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "可以大量訂購此手鍊作為活動使用嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以，此商品提供批發訂購。請與我們聯繫討論數量與供貨情況。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+            "contentHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:07:59.938Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+            "contentHash": "ad67525a4aedbf3a9078cac1b3db972c681daf2143080d410f1733b744f46add",
+            "attempts": 1,
+            "updatedAt": "2026-08-24T03:32:32.534Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEVTG7BAOVioqqEY6eiGfxa",
+      "sourceId": "AAEVTG7BAOVioqqEY6eiGfxa",
+      "sourceFingerprint": "7ba5a0578bcfe3d87186be2a2359b3f23e80ec5d16e9c6c12ae36f741499564b",
+      "locale": "zh-hant",
+      "slug": "our-lady-of-aparecida-cartoon-pvc-stickers-eigfxa",
+      "title": "阿帕雷西達聖母卡通PVC貼紙",
+      "eyebrow": "卡通天使女孩PVC貼紙",
+      "summary": "這些卡通風格PVC貼紙以親切插畫風格呈現阿帕雷西達聖母。每張貼紙由軟橡膠製成，適合裝飾筆記本、筆電或手工藝品。提供多種藍色與粉色款式。",
+      "description": "這組PVC貼紙以卡通天使女孩風格呈現阿帕雷西達聖母，將親切的聖母形象與俏皮美學結合。貼紙由軟橡膠製成，柔韌且易於貼合各種表面。\n\n每張貼紙提供多種藍色與粉色變體，讓您選擇適合作品的造型。它們設計為DIY配件，適合個性化裝飾日記、電子設備或其他手工藝品。\n\n對天主教禮品店而言，這些貼紙為年輕族群提供親和力的虔敬裝飾，同時尊崇聖母名號。",
+      "catholicContext": "阿帕雷西達聖母是巴西備受尊崇的聖母名號，此類圖像常用於民間敬禮。",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "飾品配件",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAEVTG7BAOVioqqEY6eiGfxa",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H2d7c42b444e54a19b522b47a53cb5abcs.webp",
+      "imageAlt": "阿帕雷西達聖母卡通PVC貼紙",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2d7c42b444e54a19b522b47a53cb5abcs.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7b6d72d02f64a35b4320048bea48ea74.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf67afc9cad53401a81bc456b97f4d917E.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3905709993c548d99f1f1dbe30aa2468G.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7816b8bd6df947448eee1fa5808a07a0a.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H389a8fe414264e1a833bcf02861a2fe1d.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙 - 粉色風格6",
+          "label": "pink-style-6",
+          "sku": "ALI-AAEVTG7BAOVioqqEY6eiGfxa-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe1fd001d284481790a00c270cea371cR.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙 - 粉色風格5",
+          "label": "pink-style-5",
+          "sku": "ALI-AAEVTG7BAOVioqqEY6eiGfxa-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H099d2516f766427a95897e47dd25adaf5.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙 - 藍色風格7",
+          "label": "blue-style7",
+          "sku": "ALI-AAEVTG7BAOVioqqEY6eiGfxa-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5774730b0d204031a94dfa6318685811a.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙 - 粉色風格2",
+          "label": "pink-style-2",
+          "sku": "ALI-AAEVTG7BAOVioqqEY6eiGfxa-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha358dbfe3ee84f35933bf81c1a9e2863g.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙 - 藍色風格1",
+          "label": "blue-style-1",
+          "sku": "ALI-AAEVTG7BAOVioqqEY6eiGfxa-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf2c6438f04944ba687537b0080e8c1ddV.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙 - 粉色風格4",
+          "label": "pink-style-4",
+          "sku": "ALI-AAEVTG7BAOVioqqEY6eiGfxa-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H02a6fb742bfa49ceae5b38bc2ab227a1O.webp",
+          "alt": "阿帕雷西達聖母卡通PVC貼紙 - 藍色風格3",
+          "label": "blue-style3",
+          "sku": "ALI-AAEVTG7BAOVioqqEY6eiGfxa-V--3"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "阿帕雷西達聖母卡通天使女孩設計",
+        "軟橡膠PVC材質，貼合靈活",
+        "提供藍色與粉色款式",
+        "適合DIY手工藝品及裝飾配件"
+      ],
+      "specifications": [
+        {
+          "name": "材質",
+          "value": "軟橡膠（PVC）"
+        },
+        {
+          "name": "設計",
+          "value": "阿帕雷西達聖母卡通天使女孩"
+        },
+        {
+          "name": "款式變體",
+          "value": "藍色風格1、藍色風格3、藍色風格7、粉色風格2、粉色風格4、粉色風格5、粉色風格6"
+        }
+      ],
+      "applications": [
+        "裝飾筆記本、筆電或水瓶",
+        "為剪貼簿或日記增添虔敬氛圍",
+        "宗教教育或青年團體的手工藝項目",
+        "禮物袋或卡片裝飾"
+      ],
+      "faq": [
+        {
+          "question": "這些貼紙是什麼材質？",
+          "answer": "這些貼紙由軟橡膠（PVC）製成，柔韌耐用，適合各種裝飾用途。"
+        },
+        {
+          "question": "有哪些顏色可選？",
+          "answer": "貼紙提供多種款式，包括藍色風格1、藍色風格3、藍色風格7、粉色風格2、粉色風格4、粉色風格5和粉色風格6。"
+        },
+        {
+          "question": "這些貼紙可以用在筆電表面嗎？",
+          "answer": "可以，軟PVC材質適合光滑表面，如筆電、筆記本或其他硬質封面，但建議先在小面積測試。"
+        }
+      ],
+      "pricing": {
+        "price": "0.09",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.06",
+          "max": "0.09"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "阿帕雷西達聖母卡通PVC貼紙",
+          "description": "這些卡通風格PVC貼紙以親切插畫風格呈現阿帕雷西達聖母。每張貼紙由軟橡膠製成，適合裝飾筆記本、筆電或手工藝品。提供多種藍色與粉色款式。",
+          "sku": "ALI-AAEVTG7BAOVioqqEY6eiGfxa",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2d7c42b444e54a19b522b47a53cb5abcs.jpg",
+            "https://sc04.alicdn.com/kf/Hf7b6d72d02f64a35b4320048bea48ea74.jpg",
+            "https://sc04.alicdn.com/kf/Hf67afc9cad53401a81bc456b97f4d917E.jpg",
+            "https://sc04.alicdn.com/kf/H3905709993c548d99f1f1dbe30aa2468G.jpg",
+            "https://sc04.alicdn.com/kf/H7816b8bd6df947448eee1fa5808a07a0a.jpg"
+          ],
+          "category": "飾品配件",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "材質",
+              "value": "軟橡膠（PVC）"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "設計",
+              "value": "阿帕雷西達聖母卡通天使女孩"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "款式變體",
+              "value": "藍色風格1、藍色風格3、藍色風格7、粉色風格2、粉色風格4、粉色風格5、粉色風格6"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.09",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.06",
+              "maxPrice": "0.09",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "這些貼紙是什麼材質？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "這些貼紙由軟橡膠（PVC）製成，柔韌耐用，適合各種裝飾用途。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "有哪些顏色可選？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "貼紙提供多種款式，包括藍色風格1、藍色風格3、藍色風格7、粉色風格2、粉色風格4、粉色風格5和粉色風格6。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這些貼紙可以用在筆電表面嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以，軟PVC材質適合光滑表面，如筆電、筆記本或其他硬質封面，但建議先在小面積測試。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7f01f49a1e5aaa7dcd8653e959dbf820e10fbe985b842bdbf40c1dcb77301425",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7f01f49a1e5aaa7dcd8653e959dbf820e10fbe985b842bdbf40c1dcb77301425",
+            "contentHash": "7f01f49a1e5aaa7dcd8653e959dbf820e10fbe985b842bdbf40c1dcb77301425",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:07:58.240Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "7f01f49a1e5aaa7dcd8653e959dbf820e10fbe985b842bdbf40c1dcb77301425",
+            "contentHash": "12f9d97605bdd19c4ded529a0e2b06974560c1e53a239f26c42ea33c9d288d2e",
+            "attempts": 1,
+            "updatedAt": "2026-08-24T03:34:05.989Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEKTG7BAOVioqqEY6edXi_c",
+      "sourceId": "AAEKTG7BAOVioqqEY6edXi_c",
+      "sourceFingerprint": "b76cbd7c9e1f0b11110be5ee1ac630f934481d33ac6d009f49bc542d840d6fa9",
+      "locale": "zh-hant",
+      "slug": "multicolor-plastic-rosary-necklace-with-cross-pendant-edxi_c",
+      "title": "多色塑料玫瑰經項鍊帶十字架吊墜",
+      "eyebrow": "塑料玫瑰經項鍊",
+      "summary": "這款中性玫瑰經項鍊採用多色塑料珠子和發光十字架吊墜，搭配鏈條。由亞克力、樹脂和lucite製成，輕盈且明顯的天主教飾品。",
+      "description": "這款玫瑰經項鍊呈現多色珠子序列，搭配十字形吊墜，由亞克力、樹脂和lucite組合製成。鏈條類型為鏈條，風格歸類為宗教，具體為天主教。其發光特點可能吸引尋求視覺獨特祈禱輔助的人。由於由塑料材料製成，可能耐用且易於保養，但未提供具體保養說明。",
+      "catholicContext": "玫瑰經是天主教祈禱，專注於默想耶穌基督和聖母瑪利亞生平的事件。",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "天主教玫瑰經念珠",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEKTG7BAOVioqqEY6edXi_c",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hc4604e7897814e91b29b5266ad00f53bR.webp",
+      "imageAlt": "多色塑料玫瑰經項鍊帶十字架吊墜",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc4604e7897814e91b29b5266ad00f53bR.webp",
+          "alt": "多色塑料玫瑰經項鍊帶十字架吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H65efcaadbd694cd09334023b563f2de6C.webp",
+          "alt": "多色塑料玫瑰經項鍊帶十字架吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He33fb3e2621c45fb9420e413750c5f37A.webp",
+          "alt": "多色塑料玫瑰經項鍊帶十字架吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9cf8b9e8ca304529a73940eab43191ffd.webp",
+          "alt": "多色塑料玫瑰經項鍊帶十字架吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc9fc3e8d9037494ebb1a7298a091f21dc.webp",
+          "alt": "多色塑料玫瑰經項鍊帶十字架吊墜"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4d72a0bdf87d492199d7dabe550869d9m.webp",
+          "alt": "多色塑料玫瑰經項鍊帶十字架吊墜"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#9a6b63",
+      "features": [
+        "多色珠子玫瑰經佈局",
+        "十字形吊墜",
+        "發光（夜光）特點",
+        "由亞克力、樹脂和lucite製成",
+        "中性設計搭配鏈條",
+        "歸類於天主教宗教類型"
+      ],
+      "specifications": [
+        {
+          "name": "材質",
+          "value": "亞克力、樹脂、Lucite"
+        },
+        {
+          "name": "性別",
+          "value": "中性"
+        },
+        {
+          "name": "項鍊類型",
+          "value": "吊墜項鍊"
+        },
+        {
+          "name": "鏈條類型",
+          "value": "鏈條"
+        },
+        {
+          "name": "形狀/圖案",
+          "value": "十字架"
+        },
+        {
+          "name": "風格",
+          "value": "宗教"
+        }
+      ],
+      "applications": [
+        "個人祈禱輔助玫瑰經",
+        "日常佩戴的宗教飾品",
+        "天主教場合的禮物（未明確說明）",
+        "作為信仰的視覺提醒"
+      ],
+      "faq": [
+        {
+          "question": "這款玫瑰經項鍊由什麼材料製成？",
+          "answer": "這款玫瑰經項鍊由亞克力、樹脂和lucite組合製成，這些都是塑料的類型。"
+        },
+        {
+          "question": "這款玫瑰經有發光功能嗎？",
+          "answer": "是的，產品標題表明它具有發光特性，暗示珠子或十字架可能在黑暗中發光，但具體發光機制未指定。"
+        },
+        {
+          "question": "這款玫瑰經是十字架還是苦像？",
+          "answer": "產品形狀/圖案列為'十字架'。十字架不包括基督的身體（corpus），而苦像則包括。提供的資訊未指定是否有身體，因此稱為十字架。"
+        }
+      ],
+      "pricing": {
+        "price": "0.08",
+        "regularPrice": "0.08",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.06",
+          "max": "0.08"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "多色塑料玫瑰經項鍊帶十字架吊墜",
+          "description": "這款中性玫瑰經項鍊採用多色塑料珠子和發光十字架吊墜，搭配鏈條。由亞克力、樹脂和lucite製成，輕盈且明顯的天主教飾品。",
+          "sku": "ALI-AAEKTG7BAOVioqqEY6edXi_c",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hc4604e7897814e91b29b5266ad00f53bR.jpg",
+            "https://sc04.alicdn.com/kf/H65efcaadbd694cd09334023b563f2de6C.jpg",
+            "https://sc04.alicdn.com/kf/He33fb3e2621c45fb9420e413750c5f37A.jpg",
+            "https://sc04.alicdn.com/kf/H9cf8b9e8ca304529a73940eab43191ffd.jpg",
+            "https://sc04.alicdn.com/kf/Hc9fc3e8d9037494ebb1a7298a091f21dc.jpg",
+            "https://sc04.alicdn.com/kf/H4d72a0bdf87d492199d7dabe550869d9m.jpg"
+          ],
+          "category": "天主教玫瑰經念珠",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "材質",
+              "value": "亞克力、樹脂、Lucite"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "性別",
+              "value": "中性"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "項鍊類型",
+              "value": "吊墜項鍊"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "鏈條類型",
+              "value": "鏈條"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "形狀/圖案",
+              "value": "十字架"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "風格",
+              "value": "宗教"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.08",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.06",
+              "maxPrice": "0.08",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "這款玫瑰經項鍊由什麼材料製成？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "這款玫瑰經項鍊由亞克力、樹脂和lucite組合製成，這些都是塑料的類型。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這款玫瑰經有發光功能嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "是的，產品標題表明它具有發光特性，暗示珠子或十字架可能在黑暗中發光，但具體發光機制未指定。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這款玫瑰經是十字架還是苦像？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "產品形狀/圖案列為'十字架'。十字架不包括基督的身體（corpus），而苦像則包括。提供的資訊未指定是否有身體，因此稱為十字架。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "cfc4b24328fb44ea08da4001636c090c5be744ab97351250566bfaa556d03ef6",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "cfc4b24328fb44ea08da4001636c090c5be744ab97351250566bfaa556d03ef6",
+            "contentHash": "cfc4b24328fb44ea08da4001636c090c5be744ab97351250566bfaa556d03ef6",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:08:16.879Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "cfc4b24328fb44ea08da4001636c090c5be744ab97351250566bfaa556d03ef6",
+            "contentHash": "42a4eadd66ea8ce8f57f4e8ba3a5f7c4e9c2f85994ce6b5bbb1437e000a3d697",
+            "attempts": 1,
+            "updatedAt": "2026-08-24T03:34:11.396Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAECTG7BAOVioqqEY6eBS9pY",
+      "sourceId": "AAECTG7BAOVioqqEY6eBS9pY",
+      "sourceFingerprint": "ea2c1bcbba2c27034aa89eecaa65bb835c48f02004f5de948c8339ab41189e78",
+      "locale": "zh-hant",
+      "slug": "antique-copper-mary-rosary-centerpiece-medal-ebs9py",
+      "title": "復古銅聖母玫瑰經中心墜飾牌",
+      "eyebrow": "復古銅聖母玫瑰經中心墜飾牌",
+      "summary": "一款復古風格的銅製玫瑰經中心墜飾牌，帶有聖母瑪利亞的形象。提供七種設計款式，適合玫瑰經維修、手工藝項目或靈修飾品製作。金屬結構呈現傳統、仿舊的外觀。",
+      "description": "這款中心墜飾牌由銅製成，具有仿古飾面，喚起經典的靈修風格。它描繪了聖母瑪利亞，設計用於連接玫瑰經。提供七種款式，您可以選擇適合您庫存需求的特定設計。\n\n作為中心墜飾，它將玫瑰經珠環與苦像連接起來。銅材質耐用，色調溫暖，與許多珠飾風格相得益彰。適合批發商、天主教禮品店或供應玫瑰經組件的工藝品供應商。\n\n每個款式都提供對聖母瑪利亞的不同藝術詮釋，使產品線多樣化。仿古飾面意味著可能出現輕微的銅綠變化，為作品增添個性。",
+      "catholicContext": "聖母瑪利亞在天主教靈修中佔有核心地位，玫瑰經中心墜飾常以她的形象用於祈禱反思。",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "飾品配件",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAECTG7BAOVioqqEY6eBS9pY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H81e95e73501d4732bcf4fb0f51e7fe778.webp",
+      "imageAlt": "復古銅聖母玫瑰經中心墜飾牌",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H81e95e73501d4732bcf4fb0f51e7fe778.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He226388a285d4d35a653e5084faf0647S.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc3fe22d6088541039fe37c6896bf18a8P.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc9af9f4fb6c04e9993841f2a29b83b9fa.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H856fd3b2540e4e519571e796490acdaep.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H64cb3ad072b44396b2002e478e7e6e03z.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha3f4bb31065a4db3813f25797a686d4fu.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌 - 7",
+          "label": "7",
+          "sku": "ALI-AAECTG7BAOVioqqEY6eBS9pY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H32760910eda74bd6979c31b12b8b9f76M.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌 - 3",
+          "label": "3",
+          "sku": "ALI-AAECTG7BAOVioqqEY6eBS9pY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcdeb86afcb3740a492ddad864fc3819bd.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌 - 2",
+          "label": "2",
+          "sku": "ALI-AAECTG7BAOVioqqEY6eBS9pY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4d8c3fbafbaf4efbaccab405a72762edf.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌 - 5",
+          "label": "5",
+          "sku": "ALI-AAECTG7BAOVioqqEY6eBS9pY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6aecdc8bc8f24aaa9ae78eb18f21dc727.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌 - 1",
+          "label": "1",
+          "sku": "ALI-AAECTG7BAOVioqqEY6eBS9pY-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0901a0c24ae6499bb608ccd1b06693e8J.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌 - 6",
+          "label": "6",
+          "sku": "ALI-AAECTG7BAOVioqqEY6eBS9pY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H37d7385be1114de9b51d787bbe264fcb4.webp",
+          "alt": "復古銅聖母玫瑰經中心墜飾牌 - 4",
+          "label": "4",
+          "sku": "ALI-AAECTG7BAOVioqqEY6eBS9pY-V--1"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "由銅製成，具有仿古飾面",
+        "描繪聖母瑪利亞，適合用作玫瑰經中心墜飾",
+        "提供七種設計款式",
+        "設計用作玫瑰經中心墜飾",
+        "宗教設計，適用於靈修飾品"
+      ],
+      "specifications": [
+        {
+          "name": "材質",
+          "value": "銅"
+        },
+        {
+          "name": "飾面",
+          "value": "仿古"
+        },
+        {
+          "name": "設計",
+          "value": "宗教（聖母瑪利亞）"
+        },
+        {
+          "name": "款式選項",
+          "value": "7"
+        }
+      ],
+      "applications": [
+        "更換磨損或損壞的玫瑰經中心墜飾",
+        "組裝客製化玫瑰經以供零售",
+        "製作復古美學的靈修飾品",
+        "為天主教禮品店補充配件"
+      ],
+      "faq": [
+        {
+          "question": "這款玫瑰經中心墜飾由什麼材料製成？",
+          "answer": "這款中心墜飾由銅製成，具有仿古飾面，呈現傳統、仿舊的外觀。"
+        },
+        {
+          "question": "有多少種設計款式可供選擇？",
+          "answer": "提供七種款式，每種款式呈現不同的聖母瑪利亞設計。"
+        },
+        {
+          "question": "這款中心墜飾可以用於玫瑰經維修嗎？",
+          "answer": "可以，它設計用作玫瑰經中心墜飾，因此可以替換玫瑰經上現有的中心墜飾。"
+        }
+      ],
+      "pricing": {
+        "price": "0.15",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.08",
+          "max": "0.15"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "復古銅聖母玫瑰經中心墜飾牌",
+          "description": "一款復古風格的銅製玫瑰經中心墜飾牌，帶有聖母瑪利亞的形象。提供七種設計款式，適合玫瑰經維修、手工藝項目或靈修飾品製作。金屬結構呈現傳統、仿舊的外觀。",
+          "sku": "ALI-AAECTG7BAOVioqqEY6eBS9pY",
+          "image": [
+            "https://sc04.alicdn.com/kf/H81e95e73501d4732bcf4fb0f51e7fe778.jpg",
+            "https://sc04.alicdn.com/kf/He226388a285d4d35a653e5084faf0647S.jpg",
+            "https://sc04.alicdn.com/kf/Hc3fe22d6088541039fe37c6896bf18a8P.jpg",
+            "https://sc04.alicdn.com/kf/Hc9af9f4fb6c04e9993841f2a29b83b9fa.jpg",
+            "https://sc04.alicdn.com/kf/H856fd3b2540e4e519571e796490acdaep.jpg",
+            "https://sc04.alicdn.com/kf/H64cb3ad072b44396b2002e478e7e6e03z.jpg"
+          ],
+          "category": "飾品配件",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "材質",
+              "value": "銅"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "飾面",
+              "value": "仿古"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "設計",
+              "value": "宗教（聖母瑪利亞）"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "款式選項",
+              "value": "7"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.15",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.08",
+              "maxPrice": "0.15",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "這款玫瑰經中心墜飾由什麼材料製成？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "這款中心墜飾由銅製成，具有仿古飾面，呈現傳統、仿舊的外觀。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "有多少種設計款式可供選擇？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "提供七種款式，每種款式呈現不同的聖母瑪利亞設計。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這款中心墜飾可以用於玫瑰經維修嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以，它設計用作玫瑰經中心墜飾，因此可以替換玫瑰經上現有的中心墜飾。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "490d807974b4698e6b316fa52be094fff05332ea780bc300c48db59a7a82e96c",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "490d807974b4698e6b316fa52be094fff05332ea780bc300c48db59a7a82e96c",
+            "contentHash": "490d807974b4698e6b316fa52be094fff05332ea780bc300c48db59a7a82e96c",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:08:04.529Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "490d807974b4698e6b316fa52be094fff05332ea780bc300c48db59a7a82e96c",
+            "contentHash": "75edafadcb0b5b46a1bd7bcd91ae5eab6078fcd6843133ea7a0e18fa3c55b645",
+            "attempts": 1,
+            "updatedAt": "2026-08-24T03:34:18.224Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHaTG7BAOVioqqEY6eMU1me",
+      "sourceId": "AAHaTG7BAOVioqqEY6eMU1me",
+      "sourceFingerprint": "083fa80ef3b9b19f586e91fe9500c65ed2ebc4f76651e25906ef725e90f3de65",
+      "locale": "zh-hant",
+      "slug": "diy-beaded-handbag-kit-with-acrylic-pearls-emu1me",
+      "title": "DIY 串珠手袋套件（含壓克力珍珠）",
+      "eyebrow": "DIY 串珠手袋套件",
+      "summary": "這款 DIY 串珠手袋套件採用可拆式組裝設計，配備 ABS 直孔珠和繽紛壓克力珍珠。提供 13 種顏色選擇，為打造獨特配件帶來可自訂的手作體驗。",
+      "description": "對於尋找多功能手工套件的買家，這款 DIY 串珠手袋套件結合可拆式組裝與繽紛 ABS 直孔珠及壓克力珍珠。此套件允許創意自訂，珠子可重新排列並重新組裝，以形成不同設計。共有 13 種顏色選擇，包含淺藍、灰、純白、玫瑰紅、寶藍、黃、橙、棕、黑、紅、白、粉紅和綠，能滿足多種美學偏好。直孔設計簡化了穿線過程，適合各種技能水平。無論是個人使用或團體活動，這款手袋套件提供了一種動手製作配件的實作方式。",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "飾品配件",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H12f488daf8f54305b298270908928b20z.webp",
+      "imageAlt": "DIY 串珠手袋套件（含壓克力珍珠）",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H12f488daf8f54305b298270908928b20z.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠）"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8b54490e231f4ca092a8cf8f001b9297s.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠）"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb42d1e136aad472a8d29a4d01c242287D.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠）"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcc5f3d39dcc24abdb518a2ba0b55f9cdp.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠）"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8fab1b0751f949d8a458771c46e33398h.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠）"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H242b1e492c9e4f8f9206c1f9863aea36p.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠）"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0ef6f761e2064c438f7bf8d01076cf38n.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 黑色",
+          "label": "black",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V-3327837"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf2eed225b8664b2c8c6ddeb502545228g.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 橙色",
+          "label": "orange",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V-3558409"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H15ce0fa3f5c64674900dbce4276cc085G.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 綠色",
+          "label": "green",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V-216016296"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He5f53e6924be41debc2e135d7d5855dd0.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 灰色",
+          "label": "gray",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V-5412614"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8f880c3280984d058f8f9bf988babecbx.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 棕色",
+          "label": "brown",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V-3399503"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0d180636272249baab9d11fc7a5dc44cQ.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 粉紅色",
+          "label": "pink",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V-3328925"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0721378fa53149419b7b850e6b5a05f8e.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 黃色",
+          "label": "yellow",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V-3354417"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3675210fddf846c1a9a209543f3bf740q.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 淺藍色",
+          "label": "aqua-blue",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hee1b4fb7e9e84bffab5c08b37a05496fv.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 紅色",
+          "label": "red",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V-3331260"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3715426dc2344326836e5b19715516f36.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 玫瑰紅色",
+          "label": "rose-red",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H010caa7b5753444bb924deec9abed11bf.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 白色",
+          "label": "white",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V-3331185"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heddbf603ea3744f0951d7617c62767737.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 純白色",
+          "label": "pure-white",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H870889df83a64f0187f62db485d83b2bT.webp",
+          "alt": "DIY 串珠手袋套件（含壓克力珍珠） - 寶藍色",
+          "label": "royal-blue",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me-V--6"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "可拆式組裝，方便自訂與重新排列",
+        "採用 ABS 直孔珠，穿線簡單",
+        "含繽紛壓克力珍珠，增添視覺質感",
+        "提供 13 種顏色選擇：淺藍、灰、純白、玫瑰紅、寶藍、黃、橙、棕、黑、紅、白、粉紅、綠",
+        "適合 DIY 手工藝與手袋製作"
+      ],
+      "specifications": [
+        {
+          "name": "材質",
+          "value": "ABS 塑膠珠與壓克力珍珠"
+        },
+        {
+          "name": "珠子類型",
+          "value": "直孔"
+        },
+        {
+          "name": "組裝方式",
+          "value": "可拆式"
+        },
+        {
+          "name": "顏色選擇",
+          "value": "13 種（淺藍、灰、純白、玫瑰紅、寶藍、黃、橙、棕、黑、紅、白、粉紅、綠）"
+        }
+      ],
+      "applications": [
+        "DIY 手袋製作",
+        "可自訂配件設計",
+        "創意團體或課堂專案",
+        "個人化禮物製作"
+      ],
+      "faq": [
+        {
+          "question": "這款 DIY 串珠手袋套件包含哪些材料？",
+          "answer": "此套件包含 ABS 塑膠製成的直孔珠，以及用於裝飾的繽紛壓克力珍珠。手袋設計為可組裝和拆解。"
+        },
+        {
+          "question": "這款手袋套件有多少種顏色選擇？",
+          "answer": "共有 13 種顏色選擇：淺藍、灰、純白、玫瑰紅、寶藍、黃、橙、棕、黑、紅、白、粉紅和綠。"
+        },
+        {
+          "question": "手袋組裝後可以自訂嗎？",
+          "answer": "可以，可拆式組裝讓您可以重新排列或更換珠子，實現自訂和設計變更。"
+        }
+      ],
+      "pricing": {
+        "price": "6.30",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "6.00",
+          "max": "6.30"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "DIY 串珠手袋套件（含壓克力珍珠）",
+          "description": "這款 DIY 串珠手袋套件採用可拆式組裝設計，配備 ABS 直孔珠和繽紛壓克力珍珠。提供 13 種顏色選擇，為打造獨特配件帶來可自訂的手作體驗。",
+          "sku": "ALI-AAHaTG7BAOVioqqEY6eMU1me",
+          "image": [
+            "https://sc04.alicdn.com/kf/H12f488daf8f54305b298270908928b20z.png",
+            "https://sc04.alicdn.com/kf/H8b54490e231f4ca092a8cf8f001b9297s.png",
+            "https://sc04.alicdn.com/kf/Hb42d1e136aad472a8d29a4d01c242287D.png",
+            "https://sc04.alicdn.com/kf/Hcc5f3d39dcc24abdb518a2ba0b55f9cdp.png",
+            "https://sc04.alicdn.com/kf/H8fab1b0751f949d8a458771c46e33398h.png",
+            "https://sc04.alicdn.com/kf/H242b1e492c9e4f8f9206c1f9863aea36p.png"
+          ],
+          "category": "飾品配件",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "材質",
+              "value": "ABS 塑膠珠與壓克力珍珠"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "珠子類型",
+              "value": "直孔"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "組裝方式",
+              "value": "可拆式"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "顏色選擇",
+              "value": "13 種（淺藍、灰、純白、玫瑰紅、寶藍、黃、橙、棕、黑、紅、白、粉紅、綠）"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "6.30",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "6.00",
+              "maxPrice": "6.30",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "這款 DIY 串珠手袋套件包含哪些材料？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "此套件包含 ABS 塑膠製成的直孔珠，以及用於裝飾的繽紛壓克力珍珠。手袋設計為可組裝和拆解。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這款手袋套件有多少種顏色選擇？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "共有 13 種顏色選擇：淺藍、灰、純白、玫瑰紅、寶藍、黃、橙、棕、黑、紅、白、粉紅和綠。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "手袋組裝後可以自訂嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以，可拆式組裝讓您可以重新排列或更換珠子，實現自訂和設計變更。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "afe832474a6072ce285a2b631fb793b1900d2e3265d9a37713b93293b9c90d3c",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "afe832474a6072ce285a2b631fb793b1900d2e3265d9a37713b93293b9c90d3c",
+            "contentHash": "afe832474a6072ce285a2b631fb793b1900d2e3265d9a37713b93293b9c90d3c",
+            "attempts": 0,
+            "updatedAt": "2026-08-24T03:08:14.196Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "afe832474a6072ce285a2b631fb793b1900d2e3265d9a37713b93293b9c90d3c",
+            "contentHash": "3d93bd5437afd6e59193d3e813e6c1717a31e261d96e13ab535e801ac9784cce",
+            "attempts": 1,
+            "updatedAt": "2026-08-24T03:34:26.448Z",
             "model": "deepseek-v4-flash"
           }
         }
