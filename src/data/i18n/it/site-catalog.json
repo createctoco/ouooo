@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "it",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a945534217abc6093932f6bdc2d50e449bca6caad2e09bd7a7a12168dda30524",
-  "generatedAt": "2026-08-24T03:17:29.114Z",
+  "sourceCatalogHash": "79bdf555002057e7f0305866fe8bbed3cce324419293e6db8415d8dc90d5df91",
+  "generatedAt": "2026-08-25T03:13:51.538Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAHyTG7BAOVioqqEY6eBS4oY",
-      "AAGpTG7BAOVioqqEY6e51ifv",
-      "AAHvTG7BAOVioqqEY6e0Sscm",
-      "AAE4TG7BAOVioqqEY6eBS49Z",
-      "AAGyTG7BAOVioqqEY6eBuRjc",
-      "AAFiTG7BAOVioqqEY6eBSz9T",
-      "AAEVTG7BAOVioqqEY6eiGfxa",
-      "AAEKTG7BAOVioqqEY6edXi_c",
-      "AAECTG7BAOVioqqEY6eBS9pY",
-      "AAHaTG7BAOVioqqEY6eMU1me"
+      "AAE8TG7BAOVioqqEY6eoXkHx",
+      "AAGMTG7BAOVioqqEY6e0kwy1",
+      "AAHcTG7BAOVioqqEY6eepIEV",
+      "AAEBTG7BAOVioqqEY6eiAJ88",
+      "AAG4TG7BAOVioqqEY6eYM-WE",
+      "AAE0TG7BAOVioqqEY6eBRnX0",
+      "AAEITG7BAOVioqqEY6eMrXfU",
+      "AAHUTG7BAOVioqqEY6e7K9aU",
+      "AAFlTG7BAOVioqqEY6e0b3hG",
+      "AAEkTG7BAOVioqqEY6eOmWAZ"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd"
@@ -37,31 +37,33 @@
     "brooch": "Spilla",
     "uncategorized": "Non categorizzato"
   },
-  "categoryGlossarySourceHash": "b6c56a83072314b56383fbfa434e33dfc4e91cf06a3a3e3c5578f25bc7ae98a6",
+  "categoryGlossarySourceHash": "b977a2b717741eb323106d1e21c2cdda18d509f7f966e8c98ed0dd88af22c4ba",
   "translationSummary": {
-    "ready": 354,
-    "skipped": 5,
+    "ready": 363,
+    "skipped": 6,
     "skippedProductIds": [
       "AAGxTG7BAOVioqqEY6e7uzWC",
       "AAEDTG7BAOVioqqEY6erMoEh",
       "AAGXTG7BAOVioqqEY6eoRu-2",
       "AAE9TG7BAOVioqqEY6eoSmZh",
-      "AAFiTG7BAOVioqqEY6eBSz9T"
+      "AAFiTG7BAOVioqqEY6eBSz9T",
+      "AAFlTG7BAOVioqqEY6e0b3hG"
     ],
-    "reused": 345,
-    "generated": 9,
+    "reused": 353,
+    "generated": 10,
     "generatedProductIds": [
-      "AAHyTG7BAOVioqqEY6eBS4oY",
-      "AAGpTG7BAOVioqqEY6e51ifv",
-      "AAHvTG7BAOVioqqEY6e0Sscm",
-      "AAE4TG7BAOVioqqEY6eBS49Z",
       "AAGyTG7BAOVioqqEY6eBuRjc",
-      "AAEVTG7BAOVioqqEY6eiGfxa",
-      "AAEKTG7BAOVioqqEY6edXi_c",
-      "AAECTG7BAOVioqqEY6eBS9pY",
-      "AAHaTG7BAOVioqqEY6eMU1me"
+      "AAE8TG7BAOVioqqEY6eoXkHx",
+      "AAGMTG7BAOVioqqEY6e0kwy1",
+      "AAHcTG7BAOVioqqEY6eepIEV",
+      "AAEBTG7BAOVioqqEY6eiAJ88",
+      "AAG4TG7BAOVioqqEY6eYM-WE",
+      "AAE0TG7BAOVioqqEY6eBRnX0",
+      "AAEITG7BAOVioqqEY6eMrXfU",
+      "AAHUTG7BAOVioqqEY6e7K9aU",
+      "AAEkTG7BAOVioqqEY6eOmWAZ"
     ],
-    "retriedBacklog": 4,
+    "retriedBacklog": 5,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -2124,6 +2126,397 @@
             "contentHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09",
             "attempts": 0,
             "updatedAt": "2026-08-24T03:07:52.401Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFlTG7BAOVioqqEY6e0b3hG",
+      "sourceId": "AAFlTG7BAOVioqqEY6e0b3hG",
+      "sourceFingerprint": "c951c6ed49d6f1c92a092b1312c9609bf616ffb7d1b6f2053c580c89fe30968c",
+      "locale": "en",
+      "slug": "led-electronic-wax-candle-with-our-lady-and-jesus-e0b3hg",
+      "title": "LED Electronic Wax Candle with Our Lady and Jesus",
+      "eyebrow": "LED electronic wax candle set",
+      "summary": "An LED electronic wax candle with acrylic imagery of Our Lady and Jesus. Made of plastic, designed for holiday decoration and gifting. It provides a safe alternative to traditional candles, suitable for Christmas settings.",
+      "description": "This LED electronic wax candle brings a reverent Marian image to your holiday decor without the hazards of an open flame. The plastic body and acrylic imagery keep weight low and handling simple, while the built-in LED illuminates the candle with a gentle glow. It is positioned for Christmas use as both a decoration and a gift. Because it is electronic, there is no wax to spill or smoke to manage. Reliable and reusable, it suits homes, offices, or parish gathering spaces. We offer this item through our sourcing platform; contact us for ordering details.",
+      "catholicContext": "Our Lady is a traditional English Catholic title for the Virgin Mary, and Marian imagery is widely used in Catholic devotional items.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He8a178ab54fb4917a28d895acf4ceacev.webp",
+      "imageAlt": "LED Electronic Wax Candle with Our Lady and Jesus",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He8a178ab54fb4917a28d895acf4ceacev.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7f5aef497fa4d3d8ece0ef054fec12f3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H796fd0f21b714f07bc2bd10cf4ea0f1dj.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd418f0b174f24318ba5e304dadcd4133Y.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H67092c68c8b04ded860bb8bf08565ff6x.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdfedc4818d65477d8765b8d00c06d2a3d.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H71d31ee6e2474150b60367efd622e52eo.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3a38012c4f7e49ccab2aed788bf6d7962.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb202cb3ac32b41c8b7a2188afbf6cd68j.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Had4ed47e682b49aeb1cb37012c29582bZ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8546604da4514e4b915b29359d82a2b4F.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc60dfa94e5604d5e8e72ecf674dcd26eK.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H159df54c7fe24db58d3191f202df7769V.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7b1bfd24041b45b3998c6f9c07d8f266p.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ef87b2d21d04aa0ba1c71abb93fe2dfr.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H909fb14ee1744444af5571219e53c26eQ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc29b4c1c3d8a4755a0f52c76997ba4ce3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hac5e39fbd72f456488054029dab8d715o.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5d02e50dffc845b0a9276b451a1da174Q.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97be0367fbf74034ab6884c565d8cff6m.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3ba932752d2248098ddf0a31446731e9D.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1bbeabafca4b4932b67229e70d4831947.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7f78b2aef9524446a35328927e7855891.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5fb157202aff4703b51508195f44c526S.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf96decaede6d4a96be46497bd2bacd62U.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe7ccdb2abd44d3837fd74044d1e7f2z.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H535ec2cd876b411593350de33c4fabceZ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5db2dd10a50b45d18f850281e96c8204x.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H580a10be5f2041f0a6371cb7d22681cd3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb576b9381bb469294a7b781dc3843a9O.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9f3b60e195a147e8801d9a56a25c3c49K.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heecdffcae8654a2f8b44230f4df3a6fe2.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H88b7a1a98bc34f4ca7f19b69eeabbfb7k.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd02675a37f224c5f8932035d313c6d76E.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H86bdda37635c4337a86fb83a95b9bbf6i.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H53cb6a39e7ed4a708783b9dc927add8f5.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Plastic construction with acrylic imagery",
+        "LED illumination for a flameless glow",
+        "Depicts Our Lady and Jesus",
+        "Intended for Christmas decoration and gifting",
+        "Reusable electronic design"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Plastic"
+        },
+        {
+          "name": "Style",
+          "value": "Religious"
+        },
+        {
+          "name": "Occasion",
+          "value": "Christmas"
+        },
+        {
+          "name": "Use",
+          "value": "Holiday Decoration & Gift"
+        },
+        {
+          "name": "Application",
+          "value": "Christmas lights, Christmas gifts"
+        }
+      ],
+      "applications": [
+        "Christmas table centerpiece",
+        "Mantel or shelf decoration",
+        "Thoughtful gift for Catholic friends or family",
+        "Quiet prayer corner accent"
+      ],
+      "faq": [
+        {
+          "question": "What material is this LED candle made of?",
+          "answer": "The candle is made of plastic, with acrylic imagery for the religious figures."
+        },
+        {
+          "question": "Is this candle safe to leave on for long periods?",
+          "answer": "Since it is an LED electronic candle, it does not produce a flame, making it safer than traditional candles for extended use."
+        },
+        {
+          "question": "Can I use this candle outside of the Christmas season?",
+          "answer": "While positioned for Christmas, its religious imagery makes it suitable for year-round devotional display, though it is not explicitly certified for outdoor use."
+        }
+      ],
+      "pricing": {
+        "price": "0.75",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.65",
+          "max": "0.75"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "LED Electronic Wax Candle with Our Lady and Jesus",
+          "description": "Plastic LED electronic wax candle featuring Our Lady and Jesus, suitable for Christmas decoration and gifts. Safe, flameless, and reusable.",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG",
+          "image": [
+            "https://sc04.alicdn.com/kf/He8a178ab54fb4917a28d895acf4ceacev.jpg",
+            "https://sc04.alicdn.com/kf/Hf7f5aef497fa4d3d8ece0ef054fec12f3.jpg",
+            "https://sc04.alicdn.com/kf/H796fd0f21b714f07bc2bd10cf4ea0f1dj.jpg",
+            "https://sc04.alicdn.com/kf/Hd418f0b174f24318ba5e304dadcd4133Y.jpg",
+            "https://sc04.alicdn.com/kf/H67092c68c8b04ded860bb8bf08565ff6x.jpg",
+            "https://sc04.alicdn.com/kf/Hdfedc4818d65477d8765b8d00c06d2a3d.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Plastic"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Christmas"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Use",
+              "value": "Holiday Decoration & Gift"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Application",
+              "value": "Christmas lights, Christmas gifts"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.75",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.65",
+              "maxPrice": "0.75",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is this LED candle made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The candle is made of plastic, with acrylic imagery for the religious figures."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this candle safe to leave on for long periods?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since it is an LED electronic candle, it does not produce a flame, making it safer than traditional candles for extended use."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I use this candle outside of the Christmas season?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While positioned for Christmas, its religious imagery makes it suitable for year-round devotional display, though it is not explicitly certified for outdoor use."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+            "contentHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:09.942Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -79327,8 +79720,8 @@
       "slug": "mini-rosary-bracelet-for-baby-first-communion-favor-eburjc",
       "title": "Bracciale Rosario Mini per Bambino, Regalo Prima Comunione",
       "eyebrow": "Bracciale rosario",
-      "summary": "Un bracciale rosario mini denario con perline a forma di rosa, pensato per neonati o bambini. Disponibile nelle varianti rosa, blu, viola e bianco, funziona come regalo per battesimi, prime comunioni o ospiti di matrimonio.",
-      "description": "Questo bracciale rosario utilizza piccole perline a forma di rosa in un formato denario compatto, rendendolo una misura delicata per il polso di un bambino. Il bracciale è offerto in nove varianti di colore, tra cui rosa, blu, viola e diverse tonalità di bianco.\n\nEssendo un mini denario—tipicamente una singola decina—è facile da inserire in una borsa regalo o in una scatola portafavore. Lo stesso design funziona per accessori battesimali, regali di prima comunione o ricordi di matrimonio.\n\nForniamo questo articolo per ordini all'ingrosso. Contattateci se avete bisogno di dettagli su quantità o mix di colori specifici.",
+      "summary": "Un bracciale rosario denario mini con grani a forma di rosa, pensato per neonati o bebè. Disponibile nelle varianti rosa, blu, viola e bianco, è ideale come regalo per battesimi, prime comunioni o ospiti di matrimonio.",
+      "description": "Questo bracciale rosario utilizza piccoli grani a forma di rosa in un formato denario compatto, adattandosi delicatamente al polso di un bambino. Il bracciale è offerto in nove varianti di colore, tra cui rosa, blu, viola e diverse tonalità di bianco.\n\nEssendo un mini denario—tipicamente una singola decina—è facile da inserire in una busta regalo o in una scatola porta regalo. Lo stesso design funziona per accessori da battesimo, regali per la prima comunione o ricordi di matrimonio.\n\nForniamo questo articolo per ordini all'ingrosso. Contattateci se avete bisogno di dettagli su quantità all'ingrosso o mix di colori specifico.",
       "catholicContext": "Il Rosario è una preghiera cattolica incentrata sulla contemplazione degli eventi della vita di Gesù Cristo e della Vergine Maria.",
       "catholicRelevance": "explicit",
       "categories": [
@@ -79421,11 +79814,11 @@
       ],
       "accent": "#6d7887",
       "features": [
-        "Design con perline a forma di rosa",
-        "Misura mini denario per neonati e bambini",
+        "Design a grani di rosa",
+        "Misura mini denario per neonati e bebè",
         "Disponibile in nove varianti di colore: rosa, blu, viola e più bianchi",
         "Adatto come regalo per comunione, battesimo o matrimonio",
-        "Ordinabile all'ingrosso"
+        "Ordini all'ingrosso disponibili"
       ],
       "specifications": [
         {
@@ -79438,15 +79831,15 @@
         }
       ],
       "applications": [
-        "Accessorio battesimale per neonati",
-        "Regalo di prima comunione",
-        "Favore per matrimonio",
+        "Accessorio per battesimo del bambino",
+        "Regalo per prima comunione",
+        "Regalo di matrimonio",
         "Regalo per neonato"
       ],
       "faq": [
         {
           "question": "Quali taglie sono disponibili per questo bracciale rosario?",
-          "answer": "Il titolo del prodotto indica una misura mini denario pensata per neonati e bambini, ma le dimensioni esatte non sono elencate. Contattateci per i dettagli sulle misure se necessario."
+          "answer": "Il titolo del prodotto indica una misura mini denario pensata per neonati e bebè, ma le dimensioni esatte non sono elencate. Contattateci per i dettagli delle misure se necessario."
         },
         {
           "question": "Quali opzioni di colore posso scegliere?",
@@ -79471,7 +79864,7 @@
           "@context": "https://schema.org",
           "@type": "Product",
           "name": "Bracciale Rosario Mini per Bambino, Regalo Prima Comunione",
-          "description": "Un bracciale rosario mini denario con perline a forma di rosa, pensato per neonati o bambini. Disponibile nelle varianti rosa, blu, viola e bianco, funziona come regalo per battesimi, prime comunioni o ospiti di matrimonio.",
+          "description": "Un bracciale rosario denario mini con grani a forma di rosa, pensato per neonati o bebè. Disponibile nelle varianti rosa, blu, viola e bianco, è ideale come regalo per battesimi, prime comunioni o ospiti di matrimonio.",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc",
           "image": [
             "https://sc04.alicdn.com/kf/H667eeaec51ad4f05ab000a9b8be709d9a.jpg",
@@ -79515,7 +79908,7 @@
               "name": "Quali taglie sono disponibili per questo bracciale rosario?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Il titolo del prodotto indica una misura mini denario pensata per neonati e bambini, ma le dimensioni esatte non sono elencate. Contattateci per i dettagli sulle misure se necessario."
+                "text": "Il titolo del prodotto indica una misura mini denario pensata per neonati e bebè, ma le dimensioni esatte non sono elencate. Contattateci per i dettagli delle misure se necessario."
               }
             },
             {
@@ -79539,22 +79932,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+        "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
-            "contentHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+            "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
+            "contentHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
             "attempts": 0,
             "updatedAt": "2026-08-24T03:07:59.938Z",
             "model": "deepseek-v4-flash"
           },
           "it": {
             "status": "ready",
-            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
-            "contentHash": "7adc83c827f0aa533f5795040e4f5d88e94319ff6bf927f36228e7d7de9edf65",
+            "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
+            "contentHash": "434e6d503940e1f9d0be66a57d60a0b0ad4e42e6da8d0021dd9e8d6b98cef948",
             "attempts": 1,
-            "updatedAt": "2026-08-24T03:15:32.520Z",
+            "updatedAt": "2026-08-25T03:11:28.260Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -80561,6 +80954,2214 @@
             "contentHash": "3ac507f893a043ff5603db1cb8b11bd5a70f73a51f28f2c5fd32d57f2b98ec9d",
             "attempts": 1,
             "updatedAt": "2026-08-24T03:17:29.113Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE8TG7BAOVioqqEY6eoXkHx",
+      "sourceId": "AAE8TG7BAOVioqqEY6eoXkHx",
+      "sourceFingerprint": "377df4c6801a21c94bde4f81a02edd7c1775ee2f663495433bc94993cdd1207f",
+      "locale": "it",
+      "slug": "vintage-cross-pendant-earrings-with-crystal-rhinestones-eoxkhx",
+      "title": "Orecchini pendente a croce vintage con cristalli e strass",
+      "eyebrow": "orecchini pendente",
+      "summary": "Questi orecchini pendente a croce vintage combinano una montatura in lega di zinco con accenti scintillanti in cristallo e strass. Lo stile religioso si adatta sia a look casual che eleganti. Ideali per progetti di bigiotteria fai-da-te e linee di accessori all'ingrosso.",
+      "description": "Un design di ispirazione vintage distingue questi orecchini pendente. La silhouette della croce è realizzata in lega di zinco, con dettagli in cristallo e strass che catturano la luce. La finitura anticata conferisce loro un aspetto vissuto e caratteristico che si abbina bene con outfit moderni o tradizionali.\n\nGli orecchini pendono come pendenti, aggiungendo movimento e visibilità. Il loro stile religioso unisex li rende un'aggiunta versatile a qualsiasi collezione di gioielli. Usali come base per personalizzazioni fai-da-te o vendili come pezzi pronti da indossare.",
+      "catholicContext": "La croce è un simbolo centrale della fede cristiana, spesso indossata come espressione di devozione.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessori",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAE8TG7BAOVioqqEY6eoXkHx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/08/H2fbc955f1c0c4351ba89e44f3d8249d5J.webp",
+      "imageAlt": "Orecchini pendente a croce vintage con cristalli e strass",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H2fbc955f1c0c4351ba89e44f3d8249d5J.webp",
+          "alt": "Orecchini pendente a croce vintage con cristalli e strass"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/He5ea9cafd46747aeb113086154d1a247D.webp",
+          "alt": "Orecchini pendente a croce vintage con cristalli e strass"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H73975a1741e5450392f2d4a3cb71dcc6p.webp",
+          "alt": "Orecchini pendente a croce vintage con cristalli e strass"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H72ee80f8939d4e26936b703532e4aa9b1.webp",
+          "alt": "Orecchini pendente a croce vintage con cristalli e strass"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Hd0fc854ded5a4cd0b26f847434239187A.webp",
+          "alt": "Orecchini pendente a croce vintage con cristalli e strass"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Realizzato in lega di zinco",
+        "Presenta accenti in cristallo e strass",
+        "Stile orecchino pendente",
+        "Design religioso vintage",
+        "Adatto per la creazione di bigiotteria fai-da-te"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale principale",
+          "value": "Lega"
+        },
+        {
+          "name": "Tipo di orecchino",
+          "value": "Pendente"
+        },
+        {
+          "name": "Pietra principale",
+          "value": "Cristallo, strass"
+        },
+        {
+          "name": "Stile",
+          "value": "Religioso"
+        },
+        {
+          "name": "Marchio",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [
+        "Uso quotidiano",
+        "Regali per occasioni religiose",
+        "Personalizzazione di gioielli fai-da-te",
+        "Esposizione al dettaglio di accessori"
+      ],
+      "faq": [
+        {
+          "question": "Di che materiale sono fatti questi orecchini?",
+          "answer": "Gli orecchini sono realizzati in lega di zinco, un metallo durevole adatto alla bigiotteria."
+        },
+        {
+          "question": "Questi orecchini hanno una pietra?",
+          "answer": "Sì, presentano accenti in cristallo e strass."
+        },
+        {
+          "question": "Posso usarli per creare gioielli fai-da-te?",
+          "answer": "Sì, sono progettati come orecchini pendente e possono essere incorporati nelle tue creazioni di gioielli."
+        }
+      ],
+      "pricing": {
+        "price": "0.18",
+        "regularPrice": "0.18",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.13",
+          "max": "0.18"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Orecchini pendente a croce vintage con cristalli e strass",
+          "description": "Questi orecchini pendente a croce vintage combinano una montatura in lega di zinco con accenti scintillanti in cristallo e strass. Lo stile religioso si adatta sia a look casual che eleganti. Ideali per progetti di bigiotteria fai-da-te e linee di accessori all'ingrosso.",
+          "sku": "ALI-AAE8TG7BAOVioqqEY6eoXkHx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2fbc955f1c0c4351ba89e44f3d8249d5J.jpg",
+            "https://sc04.alicdn.com/kf/He5ea9cafd46747aeb113086154d1a247D.jpg",
+            "https://sc04.alicdn.com/kf/H73975a1741e5450392f2d4a3cb71dcc6p.jpg",
+            "https://sc04.alicdn.com/kf/H72ee80f8939d4e26936b703532e4aa9b1.jpg",
+            "https://sc04.alicdn.com/kf/Hd0fc854ded5a4cd0b26f847434239187A.jpg"
+          ],
+          "category": "Accessori",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale principale",
+              "value": "Lega"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo di orecchino",
+              "value": "Pendente"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pietra principale",
+              "value": "Cristallo, strass"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stile",
+              "value": "Religioso"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Marchio",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.18",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.13",
+              "maxPrice": "0.18",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di che materiale sono fatti questi orecchini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gli orecchini sono realizzati in lega di zinco, un metallo durevole adatto alla bigiotteria."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Questi orecchini hanno una pietra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, presentano accenti in cristallo e strass."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Posso usarli per creare gioielli fai-da-te?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, sono progettati come orecchini pendente e possono essere incorporati nelle tue creazioni di gioielli."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "contentHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.605Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "contentHash": "7deb783f35ed27ced4a07a2984656dc232d30f43627e55fbcf6a44769b5ddb90",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:11:34.075Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGMTG7BAOVioqqEY6e0kwy1",
+      "sourceId": "AAGMTG7BAOVioqqEY6e0kwy1",
+      "sourceFingerprint": "578c21e322119a9c551aa879425f4541a78de9a7f44fb7ff52d9ce9556e2990e",
+      "locale": "it",
+      "slug": "children-s-pink-rose-rosary-bracelet-with-cross-pendant-e0kwy1",
+      "title": "Bracciale Rosario Rosa per Bambini con Ciondolo Croce",
+      "eyebrow": "bracciale rosario per bambini",
+      "summary": "Un bracciale rosario per bambini con perline in tonalità rosa, ciondolo a croce e placcatura argento. Realizzato in lega di rame con perline in pietra naturale, questo pezzo è adatto come regalo religioso o per anniversari.",
+      "description": "Questo bracciale rosario è pensato per i bambini, con una combinazione di colori rosa e una costruzione a perline. Il bracciale è realizzato in lega di rame con placcatura argento, e la pietra principale è pietra naturale. Include un ciondolo a croce con incastonatura a castone. Lo stile generale è religioso, specificamente cattolico, ed è classificato come bracciale a perline. Questo articolo è adatto come regalo per anniversari o per uso devozionale personale.",
+      "catholicContext": "Il Rosario è una preghiera cattolica incentrata sulla contemplazione degli eventi della vita di Gesù Cristo e della Vergine Maria.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracciali rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGMTG7BAOVioqqEY6e0kwy1",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hbb75849e05f347a0a2bb8426be67934aw.webp",
+      "imageAlt": "Bracciale Rosario Rosa per Bambini con Ciondolo Croce",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbb75849e05f347a0a2bb8426be67934aw.webp",
+          "alt": "Bracciale Rosario Rosa per Bambini con Ciondolo Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbd32caafc29844cfa5b1ddfc4edf8271K.webp",
+          "alt": "Bracciale Rosario Rosa per Bambini con Ciondolo Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8c87b109d281407fafa85ca5558f37dc8.webp",
+          "alt": "Bracciale Rosario Rosa per Bambini con Ciondolo Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b0f3d6130b141ea8b19f101a5a6428eR.webp",
+          "alt": "Bracciale Rosario Rosa per Bambini con Ciondolo Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b2bdebbc85d4cfb99ca7535bc3dd6f1M.webp",
+          "alt": "Bracciale Rosario Rosa per Bambini con Ciondolo Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2c994aabb20547b3b004cd55dca672c8V.webp",
+          "alt": "Bracciale Rosario Rosa per Bambini con Ciondolo Croce"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Design con fiore rosa",
+        "Ciondolo a croce",
+        "Lega di rame placcata argento",
+        "Pietra principale in pietra naturale",
+        "Stile bracciale a perline",
+        "Taglia per bambini"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale principale del gioiello",
+          "value": "Lega"
+        },
+        {
+          "name": "Tipo di materiale",
+          "value": "Lega di rame"
+        },
+        {
+          "name": "Pietra principale",
+          "value": "Pietra naturale"
+        },
+        {
+          "name": "Placcatura",
+          "value": "Placcato argento"
+        },
+        {
+          "name": "Tipo di bracciale o braccialetto",
+          "value": "Bracciali a perline"
+        },
+        {
+          "name": "Genere",
+          "value": "Bambini"
+        },
+        {
+          "name": "Tipo religioso",
+          "value": "Cattolicesimo"
+        },
+        {
+          "name": "Occasione",
+          "value": "Anniversario"
+        }
+      ],
+      "applications": [
+        "Gioielli religiosi per bambini",
+        "Regalo per anniversario",
+        "Uso devozionale personale",
+        "Uso quotidiano"
+      ],
+      "faq": [
+        {
+          "question": "Quali materiali sono usati per questo bracciale rosario?",
+          "answer": "Il bracciale è realizzato in lega di rame con placcatura argento e presenta perline di pietra naturale. Anche il ciondolo a croce è realizzato con la stessa lega di rame."
+        },
+        {
+          "question": "Questo bracciale è adatto ai bambini?",
+          "answer": "Sì, il bracciale è specificamente progettato per bambini, come indicato dall'attributo di genere. È un bracciale a perline con taglia per bambini."
+        },
+        {
+          "question": "Per quale occasione è pensato questo bracciale?",
+          "answer": "Questo bracciale è pensato per occasioni di anniversario e funge anche da gioiello religioso, rendendolo adatto per scopi devozionali o come regalo."
+        }
+      ],
+      "pricing": {
+        "price": "0.30",
+        "regularPrice": "0.30",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracciale Rosario Rosa per Bambini con Ciondolo Croce",
+          "description": "Un bracciale rosario per bambini con perline in tonalità rosa, ciondolo a croce e placcatura argento. Realizzato in lega di rame con perline in pietra naturale, questo pezzo è adatto come regalo religioso o per anniversari.",
+          "sku": "ALI-AAGMTG7BAOVioqqEY6e0kwy1",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hbb75849e05f347a0a2bb8426be67934aw.png",
+            "https://sc04.alicdn.com/kf/Hbd32caafc29844cfa5b1ddfc4edf8271K.png",
+            "https://sc04.alicdn.com/kf/H8c87b109d281407fafa85ca5558f37dc8.png",
+            "https://sc04.alicdn.com/kf/H3b0f3d6130b141ea8b19f101a5a6428eR.png",
+            "https://sc04.alicdn.com/kf/H1b2bdebbc85d4cfb99ca7535bc3dd6f1M.png",
+            "https://sc04.alicdn.com/kf/H2c994aabb20547b3b004cd55dca672c8V.png"
+          ],
+          "category": "Bracciali rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale principale del gioiello",
+              "value": "Lega"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo di materiale",
+              "value": "Lega di rame"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pietra principale",
+              "value": "Pietra naturale"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Placcatura",
+              "value": "Placcato argento"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo di bracciale o braccialetto",
+              "value": "Bracciali a perline"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Genere",
+              "value": "Bambini"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo religioso",
+              "value": "Cattolicesimo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasione",
+              "value": "Anniversario"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.30",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quali materiali sono usati per questo bracciale rosario?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il bracciale è realizzato in lega di rame con placcatura argento e presenta perline di pietra naturale. Anche il ciondolo a croce è realizzato con la stessa lega di rame."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Questo bracciale è adatto ai bambini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, il bracciale è specificamente progettato per bambini, come indicato dall'attributo di genere. È un bracciale a perline con taglia per bambini."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Per quale occasione è pensato questo bracciale?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Questo bracciale è pensato per occasioni di anniversario e funge anche da gioiello religioso, rendendolo adatto per scopi devozionali o come regalo."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "contentHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.588Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "contentHash": "f5b0a1585bfd2313da557b910b23de52ddbe2b075fcfe7eea171bfec068a4835",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:11:40.591Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHcTG7BAOVioqqEY6eepIEV",
+      "sourceId": "AAHcTG7BAOVioqqEY6eepIEV",
+      "sourceFingerprint": "d883546171af2d7057ecb94e0e30b9f20a74f7001de0ebc86ec3a9f0f601de4a",
+      "locale": "it",
+      "slug": "st-benedict-alloy-pendant-with-rope-eepiev",
+      "title": "Ciondolo di San Benedetto in lega con cordino",
+      "eyebrow": "Ciondolo di San Benedetto in lega",
+      "summary": "Questo ciondolo di San Benedetto è realizzato in lega con una finitura argento retrò. Viene fornito con un cordino, pronto da indossare o da regalare come dono religioso. Un semplice accessorio devozionale per uso personale o rivendita.",
+      "description": "Realizzato in lega, questo ciondolo presenta un design retrò e una finitura argento. Il cordino incluso permette di indossarlo immediatamente. Come rappresentazione di San Benedetto, serve come promemoria visibile della fede. Questo articolo è adatto a singoli devoti o come parte di un assortimento di doni religiosi. La sua costruzione semplice attrae gli acquirenti alla ricerca di gioielli cattolici durevoli ed economici. Il ciondolo arriva senza imballaggio aggiuntivo o documentazione, quindi considera le opzioni di presentazione per l'esposizione al dettaglio.",
+      "catholicContext": "Le medaglie di San Benedetto sono una forma popolare di gioielleria devozionale nella tradizione cattolica, spesso usate come espressione di fede.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Rosari cattolici",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
+      "imageAlt": "Ciondolo di San Benedetto in lega con cordino",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
+          "alt": "Ciondolo di San Benedetto in lega con cordino"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1be0ced8cc4b446ba94ec184101031ebc.webp",
+          "alt": "Ciondolo di San Benedetto in lega con cordino"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf99d9620ee2d484ea3a1d385460557255.webp",
+          "alt": "Ciondolo di San Benedetto in lega con cordino"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4b2835e28f24486e8ab7cc4bd084dd3e5.webp",
+          "alt": "Ciondolo di San Benedetto in lega con cordino"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1f973fb717034e56aae1f94bbde3ceb1w.webp",
+          "alt": "Ciondolo di San Benedetto in lega con cordino"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc7484ba47de944d7a052ffb03e308a63f.webp",
+          "alt": "Ciondolo di San Benedetto in lega con cordino - ciondolo-argento-con-cordino",
+          "label": "ciondolo-argento-con-cordino",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H07f0cd5c3c9048758e53abd810b88f3eJ.webp",
+          "alt": "Ciondolo di San Benedetto in lega con cordino - ciondolo-argento",
+          "label": "ciondolo-argento",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--1"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Realizzato in lega con finitura argento",
+        "Design retrò",
+        "Include cordino per indossarlo",
+        "Disponibile in due varianti: ciondolo singolo o con cordino",
+        "Categorizzato sotto Rosari cattolici"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Lega"
+        },
+        {
+          "name": "Design",
+          "value": "Retrò"
+        },
+        {
+          "name": "Variante",
+          "value": "Ciondolo argento o con cordino"
+        }
+      ],
+      "applications": [
+        "Uso devozionale personale",
+        "Dono religioso per Pasqua",
+        "Creazione di gioielli o artigianato",
+        "Rivendita al dettaglio in negozi di articoli cattolici"
+      ],
+      "faq": [
+        {
+          "question": "Di che materiale è fatto questo ciondolo di San Benedetto?",
+          "answer": "Il ciondolo è realizzato in lega, con una finitura argento."
+        },
+        {
+          "question": "Il ciondolo viene fornito con catena o cordino?",
+          "answer": "Sì, una variante include un cordino. L'altra variante è solo il ciondolo."
+        },
+        {
+          "question": "Qual è lo stile del ciondolo?",
+          "answer": "Il design è descritto come retrò."
+        }
+      ],
+      "pricing": {
+        "price": "0.35",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.35",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ciondolo di San Benedetto in lega con cordino",
+          "description": "Questo ciondolo di San Benedetto è realizzato in lega con una finitura argento retrò. Viene fornito con un cordino, pronto da indossare o da regalare come dono religioso. Un semplice accessorio devozionale per uso personale o rivendita.",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hd33211fa19c2444da0ed691ddaae7012X.jpg",
+            "https://sc04.alicdn.com/kf/H1be0ced8cc4b446ba94ec184101031ebc.jpg",
+            "https://sc04.alicdn.com/kf/Hf99d9620ee2d484ea3a1d385460557255.jpg",
+            "https://sc04.alicdn.com/kf/H4b2835e28f24486e8ab7cc4bd084dd3e5.jpg",
+            "https://sc04.alicdn.com/kf/H1f973fb717034e56aae1f94bbde3ceb1w.jpg"
+          ],
+          "category": "Rosari cattolici",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Lega"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Retrò"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Ciondolo argento o con cordino"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.35",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.35",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di che materiale è fatto questo ciondolo di San Benedetto?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il ciondolo è realizzato in lega, con una finitura argento."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Il ciondolo viene fornito con catena o cordino?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, una variante include un cordino. L'altra variante è solo il ciondolo."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Qual è lo stile del ciondolo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il design è descritto come retrò."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "contentHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.512Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "contentHash": "04b3b662b8ad4610943803f7a66144513c94f2d6795d8cc491ebd18792353c6a",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:11:46.697Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEBTG7BAOVioqqEY6eiAJ88",
+      "sourceId": "AAEBTG7BAOVioqqEY6eiAJ88",
+      "sourceFingerprint": "e0d5760fc9913554714ca2f9ce125b7166fced3820a55da5fd23d4c06fc487f9",
+      "locale": "it",
+      "slug": "saint-christopher-metal-keychain-with-key-holder-eiaj88",
+      "title": "Portachiavi metallico di San Cristoforo con portachiavi",
+      "eyebrow": "Portachiavi San Cristoforo",
+      "summary": "Questo portachiavi di San Cristoforo combina un anello portachiavi in metallo con un portachiavi incorporato. Disponibile nelle varianti bicolore marrone, grigio o rosso, è un accessorio pratico per l'uso quotidiano. L'immagine di San Cristoforo, patrono dei viaggiatori, lo rende un regalo significativo per chi apprezza la tradizione cattolica.",
+      "description": "Realizzato in metallo, questo portachiavi presenta un anello portachiavi resistente e un portachiavi separato, permettendoti di organizzare le chiavi con facilità. Il fronte mostra un'immagine di San Cristoforo, un santo tradizionalmente associato ai viaggi sicuri. Disponibile nelle opzioni di colore marrone, grigio e rosso, ciascuna con due distinte tonalità (Brown1, Brown2, Gray1, Gray2, Red1, Red2), puoi scegliere la variante che meglio si adatta al tuo stile personale o al destinatario del regalo. Che venga usato come portachiavi quotidiano o come piccolo segno di fede, questo articolo offre sia praticità che un tocco devozionale discreto.",
+      "catholicContext": "San Cristoforo è venerato come patrono dei viaggiatori, e la sua immagine è comune su oggetti devozionali per i viaggi.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "83",
+          "name": "Portachiavi",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H6d7af685d0b54ba9b280f59c36b2f796w.webp",
+      "imageAlt": "Portachiavi metallico di San Cristoforo con portachiavi",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6d7af685d0b54ba9b280f59c36b2f796w.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc450331e942d4c27a43b68aee24804cfI.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He39a1099c3cc4df7b823bbbb571735b4O.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hed9f3a4267214964b503340f0e202d06Z.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hae357bb522654167ad1f75200665d0d2s.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf8f98391bbda4354b01caa9bd5c97c827.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H34d8116c901e433e8749249dccdde3c2y.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi - gray2",
+          "label": "gray2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8e1b7498478b49769a078a5e7eecebf4K.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi - brown2",
+          "label": "brown2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7e5669a8a04c477eab5bc29b45a2f087b.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi - red2",
+          "label": "red2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He8fe17eef436462c8ae804e6be8da841T.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi - brown1",
+          "label": "brown1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde102366b7ee49b4bb05da787771c4b4g.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi - red1",
+          "label": "red1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00ca232fa5be4301a4ac3600364854b3U.webp",
+          "alt": "Portachiavi metallico di San Cristoforo con portachiavi - gray1",
+          "label": "gray1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Costruzione in metallo",
+        "Include anello portachiavi e portachiavi",
+        "Raffigura San Cristoforo, patrono dei viaggiatori",
+        "Disponibile in varianti marrone, grigio o rosso",
+        "Due tonalità per ogni variante di colore (es. Brown1, Brown2)"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Metallo"
+        },
+        {
+          "name": "Immagine principale",
+          "value": "San Cristoforo"
+        },
+        {
+          "name": "Varianti",
+          "value": "Brown1, Brown2, Gray1, Gray2, Red1, Red2"
+        }
+      ],
+      "applications": [
+        "Organizzazione quotidiana delle chiavi",
+        "Regalo per viaggiatori cattolici",
+        "Uso personale come promemoria devozionale",
+        "Piccolo dono per eventi parrocchiali o gruppi giovanili"
+      ],
+      "faq": [
+        {
+          "question": "Di quali materiali è fatto questo portachiavi?",
+          "answer": "Questo portachiavi di San Cristoforo è realizzato in metallo, come specificato nei dettagli del prodotto."
+        },
+        {
+          "question": "Quali varianti di colore sono disponibili?",
+          "answer": "Il portachiavi è disponibile in marrone, grigio e rosso, ciascuno con due tonalità (Brown1, Brown2, Gray1, Gray2, Red1, Red2)."
+        },
+        {
+          "question": "Questo portachiavi include un portachiavi?",
+          "answer": "Sì, il titolo del prodotto indica che è un 'Portachiavi San Cristoforo' con anello portachiavi in metallo, quindi funge sia da portachiavi che da portachiavi."
+        }
+      ],
+      "pricing": {
+        "price": "0.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Portachiavi metallico di San Cristoforo con portachiavi",
+          "description": "Questo portachiavi di San Cristoforo combina un anello portachiavi in metallo con un portachiavi incorporato. Disponibile nelle varianti bicolore marrone, grigio o rosso, è un accessorio pratico per l'uso quotidiano. L'immagine di San Cristoforo, patrono dei viaggiatori, lo rende un regalo significativo per chi apprezza la tradizione cattolica.",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88",
+          "image": [
+            "https://sc04.alicdn.com/kf/H6d7af685d0b54ba9b280f59c36b2f796w.jpg",
+            "https://sc04.alicdn.com/kf/Hc450331e942d4c27a43b68aee24804cfI.jpg",
+            "https://sc04.alicdn.com/kf/He39a1099c3cc4df7b823bbbb571735b4O.jpg",
+            "https://sc04.alicdn.com/kf/Hed9f3a4267214964b503340f0e202d06Z.jpg",
+            "https://sc04.alicdn.com/kf/Hae357bb522654167ad1f75200665d0d2s.jpg",
+            "https://sc04.alicdn.com/kf/Hf8f98391bbda4354b01caa9bd5c97c827.jpg"
+          ],
+          "category": "Portachiavi",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Metallo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Immagine principale",
+              "value": "San Cristoforo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varianti",
+              "value": "Brown1, Brown2, Gray1, Gray2, Red1, Red2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di quali materiali è fatto questo portachiavi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Questo portachiavi di San Cristoforo è realizzato in metallo, come specificato nei dettagli del prodotto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali varianti di colore sono disponibili?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il portachiavi è disponibile in marrone, grigio e rosso, ciascuno con due tonalità (Brown1, Brown2, Gray1, Gray2, Red1, Red2)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Questo portachiavi include un portachiavi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, il titolo del prodotto indica che è un 'Portachiavi San Cristoforo' con anello portachiavi in metallo, quindi funge sia da portachiavi che da portachiavi."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "contentHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:49.053Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "contentHash": "ffb64c2f7c37a33f750d4fd093fa3172cc611160f9ce629d511cbe8c2b72aea4",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:11:53.757Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAG4TG7BAOVioqqEY6eYM-WE",
+      "sourceId": "AAG4TG7BAOVioqqEY6eYM-WE",
+      "sourceFingerprint": "fdfcd72749fad704223f074acbda2a8caa9a044c4fbd2b45c0dab90c0208b5c6",
+      "locale": "it",
+      "slug": "wholesales-religious-supplies-plastic-cross-easter-flip-top-cap-eym-we",
+      "title": "Bottiglia Acqua Santa 100ml con Tappo Ribaltabile a Croce di Plastica per Pasqua",
+      "eyebrow": "Decorazioni",
+      "summary": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua, 100ml, in Polipropilene, Articoli Religiosi all'Ingrosso",
+      "description": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua, 100ml, in Polipropilene, Articoli Religiosi all'Ingrosso",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Decorazioni",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG4TG7BAOVioqqEY6eYM-WE",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H98eea82dfdad405382a0fd73b61328d2P.webp",
+      "imageAlt": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98eea82dfdad405382a0fd73b61328d2P.webp",
+          "alt": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H79294427a2f24b0587f5a1ab69dddafd4.webp",
+          "alt": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hefa7c4596a7c4f0c989064947a46c07fN.webp",
+          "alt": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H35673fab67864ac583297a1fcb3b33ccj.webp",
+          "alt": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H38799564ffe3412e98b301605dcf7cd00.webp",
+          "alt": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H894b2c1822b04fe789caaac23b8234c6E.webp",
+          "alt": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Dimensioni: 12*6,5*3,5cm",
+        "Capacità: 100ml",
+        "Peso: 19g",
+        "Materiale bottiglia: HDPE (polietilene ad alta densità)",
+        "Materiale tappo: PP (polipropilene)",
+        "Colore: Bianco",
+        "Tipo: HDPE",
+        "Stile: Religioso, Croce"
+      ],
+      "specifications": [
+        {
+          "name": "Dimensioni",
+          "value": "12*6,5*3,5cm"
+        },
+        {
+          "name": "Capacità",
+          "value": "100ml"
+        },
+        {
+          "name": "Peso",
+          "value": "19g"
+        },
+        {
+          "name": "Materiale bottiglia",
+          "value": "HDPE (polietilene ad alta densità)"
+        },
+        {
+          "name": "Materiale tappo",
+          "value": "PP (polipropilene)"
+        },
+        {
+          "name": "Colore",
+          "value": "Bianco"
+        },
+        {
+          "name": "Tipo",
+          "value": "HDPE"
+        },
+        {
+          "name": "Stile",
+          "value": "Religioso, Croce"
+        },
+        {
+          "name": "Materiale",
+          "value": "Plastica"
+        },
+        {
+          "name": "Caratteristica",
+          "value": "Fatto a mano"
+        },
+        {
+          "name": "Tecnica",
+          "value": "Calandratura"
+        },
+        {
+          "name": "Motivo",
+          "value": "Moderno"
+        },
+        {
+          "name": "Tipo di prodotto",
+          "value": "Altro"
+        },
+        {
+          "name": "Applicazione",
+          "value": "Arte e collezionismo, Decorazione e regalo per festività, Decorazione e regalo per matrimoni, Souvenir, Pesce d'aprile, Regalo aziendale, Decorazione per la casa, Ritorno a scuola, Capodanno cinese, Natale, Giornata della Terra, Pasqua, Festa del papà, Diploma, Halloween, Festa della mamma, Capodanno, Ringraziamento, San Valentino"
+        },
+        {
+          "name": "Luogo di origine",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Numero modello",
+          "value": "HWB02"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.32",
+        "regularPrice": "0.32",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.32"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bottiglia Acqua Santa 100ml con Tappo Ribaltabile a Croce di Plastica per Pasqua",
+          "description": "Bottiglia per Acqua Santa con Tappo Ribaltabile a Croce di Plastica per Pasqua, 100ml, in Polipropilene, Articoli Religiosi all'Ingrosso",
+          "sku": "ALI-AAG4TG7BAOVioqqEY6eYM-WE",
+          "image": [
+            "https://sc04.alicdn.com/kf/H98eea82dfdad405382a0fd73b61328d2P.jpg",
+            "https://sc04.alicdn.com/kf/H79294427a2f24b0587f5a1ab69dddafd4.jpg",
+            "https://sc04.alicdn.com/kf/Hefa7c4596a7c4f0c989064947a46c07fN.jpg",
+            "https://sc04.alicdn.com/kf/H35673fab67864ac583297a1fcb3b33ccj.jpg",
+            "https://sc04.alicdn.com/kf/H38799564ffe3412e98b301605dcf7cd00.jpg",
+            "https://sc04.alicdn.com/kf/H894b2c1822b04fe789caaac23b8234c6E.jpg"
+          ],
+          "category": "Decorazioni",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Dimensioni",
+              "value": "12*6,5*3,5cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Capacità",
+              "value": "100ml"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Peso",
+              "value": "19g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale bottiglia",
+              "value": "HDPE (polietilene ad alta densità)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale tappo",
+              "value": "PP (polipropilene)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Colore",
+              "value": "Bianco"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo",
+              "value": "HDPE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stile",
+              "value": "Religioso, Croce"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Plastica"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Caratteristica",
+              "value": "Fatto a mano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tecnica",
+              "value": "Calandratura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motivo",
+              "value": "Moderno"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo di prodotto",
+              "value": "Altro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Applicazione",
+              "value": "Arte e collezionismo, Decorazione e regalo per festività, Decorazione e regalo per matrimoni, Souvenir, Pesce d'aprile, Regalo aziendale, Decorazione per la casa, Ritorno a scuola, Capodanno cinese, Natale, Giornata della Terra, Pasqua, Festa del papà, Diploma, Halloween, Festa della mamma, Capodanno, Ringraziamento, San Valentino"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Luogo di origine",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Numero modello",
+              "value": "HWB02"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.32",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.32",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "contentHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:21.876Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "contentHash": "6998dd67706892cb0d6bda2c12766affeefa0b7edfabd17de180767c0c175979",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:11:58.778Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE0TG7BAOVioqqEY6eBRnX0",
+      "sourceId": "AAE0TG7BAOVioqqEY6eBRnX0",
+      "sourceFingerprint": "defbcb225bdd2d9323a4fa3e149e001168ab73219ebb2aa36af770666a08cbdf",
+      "locale": "it",
+      "slug": "retro-st-benedict-cross-pendant-with-inri-ebrnx0",
+      "title": "Ciondolo Croce Retro di San Benedetto con INRI",
+      "eyebrow": "Ciondolo croce di San Benedetto",
+      "summary": "Un ciondolo a croce di 7,5x4,5 cm con finitura retrò e incisione INRI. Il design fa riferimento alla tradizione di San Benedetto, popolare nei gioielli devozionali cattolici. Offerto in multiple varianti di colore per la pianificazione dell'assortimento.",
+      "description": "Questo ciondolo a croce misura 7,5 per 4,5 centimetri, una dimensione che funziona bene come punto focale su collane con cordino o catena. Lo stile retrò gli conferisce un aspetto antico, mentre l'iscrizione INRI sopra la figura segue una convenzione familiare del crocifisso. Sebbene il titolo menzioni San Benedetto, gli attributi visibili confermano solo il design e le dimensioni della croce. Disponibile in più colori, si adatta agli acquirenti che costruiscono inventario vario per negozi di articoli religiosi o linee artigianali. Forniamo questo articolo come accessorio in metallo non prezioso; non sono disponibili specifiche su materiale o finitura. Contattateci per la disponibilità attuale delle varianti.",
+      "catholicContext": "La medaglia di San Benedetto è un oggetto devozionale riconosciuto nella tradizione cattolica, spesso associato alla protezione contro il male, sebbene questo ciondolo non sia descritto come benedetto o consacrato.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessori",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hb6aff92bad3e40f3adf0715c25fd7f3fT.webp",
+      "imageAlt": "Ciondolo Croce Retro di San Benedetto con INRI",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb6aff92bad3e40f3adf0715c25fd7f3fT.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b9d5553e4484232ba83fc9c25158d400.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hceefcca35c8f410f9dbf3fd7790032bd5.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha82fdc029a3a442086dd51f0086bb029e.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H54f7cbf0bf874296b78c5507a9497fdfC.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb1c105449bf9411b9093af26722f299fO.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb38b265133e4a7e98f10f17abc66e4dS.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 17",
+          "label": "17",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9cccdbf4a0bc414a890dd8fee9bf6287i.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 16",
+          "label": "16",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4776e2fa54544be3a3e4b1282a2a2ecbW.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 19",
+          "label": "19",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He5822315e0964ec1b2415f1f12cc1a4b5.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 18",
+          "label": "18",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4dd8aef436cc41349c55d8a422fba5512.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 21",
+          "label": "21",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf046cb8464e74a33b90d1d145cc27093X.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 20",
+          "label": "20",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H02c4cb85499c49e986568fca11d6b0912.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 23",
+          "label": "23",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97c2409913094cef9b8bbbf2432cdf4fF.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 22",
+          "label": "22",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He73445e5408d444db912af0bfb73b1f14.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 1",
+          "label": "1",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3d2fb6eda04e475184ce7822f0349bac2.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 3",
+          "label": "3",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ae39999e6e343428cdb67cfff453ec5l.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 2",
+          "label": "2",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00aa0d38b9f74c3f928a026d929080f1m.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 5",
+          "label": "5",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H25b8e00d6ca045a1be91029184ca34adM.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 4",
+          "label": "4",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7d2ad023099d4653b04e4ab704460d1el.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 7",
+          "label": "7",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb5917ffb85b6400f85ecef7930c8a6a0F.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 6",
+          "label": "6",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf13a65d5c4ef484c9e00b63cb0943989o.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 9",
+          "label": "9",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb20e9058bcf844ed98b4706a7cab503cP.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 8",
+          "label": "8",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9cb407ad54bb4977b7112da2719b2ed5F.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 11",
+          "label": "11",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha19f3b3f8fd9423b87d47d22deee3ada8.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 10",
+          "label": "10",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5137144f8cdf40c8ac11fed77599dbefP.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 13",
+          "label": "13",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He6eed8fa26ce42f09d7adf0efb6bad39t.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 12",
+          "label": "12",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1d2faa3a6f0c483d820d8c441bfd184cz.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 15",
+          "label": "15",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0406b1bf7a254ea39b7f6be2eb1c30ebg.webp",
+          "alt": "Ciondolo Croce Retro di San Benedetto con INRI - 14",
+          "label": "14",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--14"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Ciondolo a croce con iscrizione INRI, che fa riferimento al tradizionale titulus di Cristo",
+        "Misura 7,5 x 4,5 cm",
+        "Stile retrò",
+        "Disponibile in più colori",
+        "Categoria di design: Croce"
+      ],
+      "specifications": [
+        {
+          "name": "Altezza",
+          "value": "7,5 cm"
+        },
+        {
+          "name": "Larghezza",
+          "value": "4,5 cm"
+        },
+        {
+          "name": "Design",
+          "value": "Croce"
+        },
+        {
+          "name": "Varianti di colore",
+          "value": "Multiple (22 varianti)"
+        }
+      ],
+      "applications": [
+        "Utilizzato come ciondolo su collane o cordini",
+        "Incluso in assortimenti di gioielli religiosi",
+        "Utilizzato in progetti artigianali per la creazione di rosari o corone",
+        "Esposto come croce decorativa in case o veicoli"
+      ],
+      "faq": [
+        {
+          "question": "Quali sono le dimensioni di questo ciondolo a croce?",
+          "answer": "Il ciondolo misura 7,5 cm di altezza e 4,5 cm di larghezza."
+        },
+        {
+          "question": "È un crocifisso o una semplice croce?",
+          "answer": "Il prodotto è descritto come un ciondolo a croce con iscrizione INRI. La presenza di un corpus non è specificata, quindi è meglio descriverlo come una croce con il titulus INRI."
+        },
+        {
+          "question": "Quante opzioni di colore sono disponibili?",
+          "answer": "Il prodotto è offerto in più colori, con 22 varianti elencate."
+        }
+      ],
+      "pricing": {
+        "price": "0.37",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.37"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ciondolo Croce Retro di San Benedetto con INRI",
+          "description": "Un ciondolo a croce di 7,5x4,5 cm con finitura retrò e incisione INRI. Il design fa riferimento alla tradizione di San Benedetto, popolare nei gioielli devozionali cattolici. Offerto in multiple varianti di colore per la pianificazione dell'assortimento.",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb6aff92bad3e40f3adf0715c25fd7f3fT.jpg",
+            "https://sc04.alicdn.com/kf/H1b9d5553e4484232ba83fc9c25158d400.jpg",
+            "https://sc04.alicdn.com/kf/Hceefcca35c8f410f9dbf3fd7790032bd5.jpg",
+            "https://sc04.alicdn.com/kf/Ha82fdc029a3a442086dd51f0086bb029e.jpg",
+            "https://sc04.alicdn.com/kf/H54f7cbf0bf874296b78c5507a9497fdfC.jpg",
+            "https://sc04.alicdn.com/kf/Hb1c105449bf9411b9093af26722f299fO.jpg"
+          ],
+          "category": "Accessori",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Altezza",
+              "value": "7,5 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Larghezza",
+              "value": "4,5 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Croce"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varianti di colore",
+              "value": "Multiple (22 varianti)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.37",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.37",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quali sono le dimensioni di questo ciondolo a croce?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il ciondolo misura 7,5 cm di altezza e 4,5 cm di larghezza."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "È un crocifisso o una semplice croce?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il prodotto è descritto come un ciondolo a croce con iscrizione INRI. La presenza di un corpus non è specificata, quindi è meglio descriverlo come una croce con il titulus INRI."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quante opzioni di colore sono disponibili?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il prodotto è offerto in più colori, con 22 varianti elencate."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "contentHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:56.065Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "contentHash": "2e0e6f048e02f5034735c84b8a77616daccee17e2747f2e819a48f1ce8c2a3aa",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:12:07.956Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEITG7BAOVioqqEY6eMrXfU",
+      "sourceId": "AAEITG7BAOVioqqEY6eMrXfU",
+      "sourceFingerprint": "f4b5d833aed962788cdf00484f1d7184762adbe7ce67c1e6eacb19307f9f2f8e",
+      "locale": "it",
+      "slug": "colorful-polymer-clay-rosary-necklace-with-alloy-pendant-emrxfu",
+      "title": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega",
+      "eyebrow": "Collana Rosario Cattolica",
+      "summary": "Questa collana rosario cattolica presenta perline in argilla polimerica colorate e fantasia disponibili nelle misure da 6mm o 8mm, abbinate a un ciondolo in lega raffigurante Gesù. Progettata come grani di preghiera per la devozione personale, offre un'opzione resistente e leggera per l'uso quotidiano.",
+      "description": "Questa collana rosario è realizzata con perline in argilla polimerica colorate e fantasia, disponibili in diametri da 6mm o 8mm. Le perline sono infilate insieme a un ciondolo in lega con finitura argento raffigurante Gesù, adatto alla preghiera e alla pratica devozionale cattolica. La costruzione in argilla polimerica fornisce un'alternativa leggera e non metallica alle tradizionali perline in vetro o legno. Scegli la dimensione delle perline che preferisci per una vestibilità comoda. La collana funge da aiuto tangibile per recitare il Rosario, una preghiera che medita sugli eventi chiave della vita di Gesù e Maria.",
+      "catholicContext": "Il Rosario è una preghiera cattolica incentrata sulla contemplazione degli eventi della vita di Gesù Cristo e della Vergine Maria.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Rosari cattolici",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+      "imageAlt": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+          "alt": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6c0e8190e813496bb448287c2ca5c47dL.webp",
+          "alt": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb29ee531bd1046f8966c73a20f70c59cx.webp",
+          "alt": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hceb2b21113f34558a32090262a7b36a29.webp",
+          "alt": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3cc441c229674006b552f973e6a3ffbc9.webp",
+          "alt": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde7324582aa34d5899d9119b929fab00N.webp",
+          "alt": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+          "alt": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega - 6mm",
+          "label": "6mm",
+          "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU-V--2"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Perline in argilla polimerica colorate e fantasia nelle misure da 6mm o 8mm",
+        "Ciondolo in lega con finitura argento raffigurante Gesù",
+        "Design da rosario cattolico per la preghiera",
+        "Materiale leggero e resistente",
+        "Disponibile in finitura colore argento"
+      ],
+      "specifications": [
+        {
+          "name": "Dimensione delle perline",
+          "value": "6mm o 8mm"
+        },
+        {
+          "name": "Materiale",
+          "value": "Argilla polimerica, lega"
+        },
+        {
+          "name": "Colore",
+          "value": "Argento"
+        },
+        {
+          "name": "Stile",
+          "value": "Collana"
+        }
+      ],
+      "applications": [
+        "Preghiera personale del Rosario",
+        "Gioiello devozionale",
+        "Regalo per occasioni cattoliche",
+        "Accessorio per l'uso quotidiano"
+      ],
+      "faq": [
+        {
+          "question": "Quali dimensioni delle perline sono disponibili per questa collana rosario?",
+          "answer": "Questa collana rosario è disponibile nelle misure delle perline da 6mm o 8mm, consentendo di scegliere la scala che risulta più comoda da maneggiare durante la preghiera."
+        },
+        {
+          "question": "Quali materiali vengono utilizzati in questo rosario?",
+          "answer": "Le perline sono realizzate in argilla polimerica colorata, e il ciondolo è in lega con finitura argento. La combinazione offre una costruzione leggera e resistente."
+        },
+        {
+          "question": "Questo rosario è adatto all'uso devozionale quotidiano?",
+          "answer": "Sì, le perline in argilla polimerica e il ciondolo in lega sono progettati per una manipolazione regolare, rendendolo adatto alla pratica devozionale quotidiana come rosario e come gioiello religioso."
+        }
+      ],
+      "pricing": {
+        "price": "0.80",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.80",
+          "max": "1.10"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collana Rosario Cattolica in Argilla Polimerica Colorata con Ciondolo in Lega",
+          "description": "Questa collana rosario cattolica presenta perline in argilla polimerica colorate e fantasia disponibili nelle misure da 6mm o 8mm, abbinate a un ciondolo in lega raffigurante Gesù. Progettata come grani di preghiera per la devozione personale, offre un'opzione resistente e leggera per l'uso quotidiano.",
+          "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU",
+          "image": [
+            "https://sc04.alicdn.com/kf/He9abf08ba52d463f9220e963907c9a86r.jpg",
+            "https://sc04.alicdn.com/kf/H6c0e8190e813496bb448287c2ca5c47dL.jpg",
+            "https://sc04.alicdn.com/kf/Hb29ee531bd1046f8966c73a20f70c59cx.jpg",
+            "https://sc04.alicdn.com/kf/Hceb2b21113f34558a32090262a7b36a29.jpg",
+            "https://sc04.alicdn.com/kf/H3cc441c229674006b552f973e6a3ffbc9.jpg",
+            "https://sc04.alicdn.com/kf/Hde7324582aa34d5899d9119b929fab00N.jpg"
+          ],
+          "category": "Rosari cattolici",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Dimensione delle perline",
+              "value": "6mm o 8mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Argilla polimerica, lega"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Colore",
+              "value": "Argento"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stile",
+              "value": "Collana"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.80",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.80",
+              "maxPrice": "1.10",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quali dimensioni delle perline sono disponibili per questa collana rosario?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Questa collana rosario è disponibile nelle misure delle perline da 6mm o 8mm, consentendo di scegliere la scala che risulta più comoda da maneggiare durante la preghiera."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali materiali vengono utilizzati in questo rosario?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le perline sono realizzate in argilla polimerica colorata, e il ciondolo è in lega con finitura argento. La combinazione offre una costruzione leggera e resistente."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Questo rosario è adatto all'uso devozionale quotidiano?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, le perline in argilla polimerica e il ciondolo in lega sono progettati per una manipolazione regolare, rendendolo adatto alla pratica devozionale quotidiana come rosario e come gioiello religioso."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "contentHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:10.197Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "contentHash": "675103a4285f6571dfcebffe06e92b689051154e2080192988d8b2a23b4a3dec",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:12:14.926Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHUTG7BAOVioqqEY6e7K9aU",
+      "sourceId": "AAHUTG7BAOVioqqEY6e7K9aU",
+      "sourceFingerprint": "3477133df743fedbd732949bbc421f58e3c6b44d2a4da2525bf2e6b31c2ebd34",
+      "locale": "it",
+      "slug": "catholic-graffiti-sticker-sheet-60-waterproof-pvc-decals-e7k9au",
+      "title": "Foglio di Adesivi Cattolici Graffiti – 60 Decalcomanie in PVC Impermeabili",
+      "eyebrow": "Foglio di adesivi in PVC a tema cattolico",
+      "summary": "Questo pacchetto di 60 adesivi a tema cattolico utilizza PVC resistente e impermeabile con laminazione lucida e stampa digitale. Le decalcomanie in stile cartone animato sono adatte a telefoni, bottiglie d'acqua e monopattini, rendendole una scelta pratica per aggiungere arte ispirata alla fede agli oggetti di uso quotidiano.",
+      "description": "Il set di adesivi include 60 adesivi singoli con immagini cattoliche in stile cartone animato, stampati digitalmente e rifiniti con laminazione lucida. Il materiale in PVC è morbido, durevole ed ecologico, progettato per aderire a superfici curve come bottiglie e manubri. Ogni adesivo può essere applicato su superfici lisce per una decorazione permanente o riposizionabile. Poiché sono impermeabili, sono adatti per oggetti che entrano in contatto con l'umidità, come bottiglie d'acqua e attrezzature da esterno. Il set offre una varietà di design in un unico pacchetto, fornendo opzioni per personalizzare più oggetti personali.",
+      "catholicContext": "Gli adesivi presentano immagini a tema cattolico, che si collegano alle devozioni popolari nella cultura cattolica, ma non sono articoli benedetti o consacrati.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Decorazioni",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHUTG7BAOVioqqEY6e7K9aU",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H8abd7a50804e4d029855fb84e6a7daec6.webp",
+      "imageAlt": "Foglio di Adesivi Cattolici Graffiti – 60 Decalcomanie in PVC Impermeabili",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8abd7a50804e4d029855fb84e6a7daec6.webp",
+          "alt": "Foglio di Adesivi Cattolici Graffiti – 60 Decalcomanie in PVC Impermeabili"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fb293fe40274f29877445270931e03dx.webp",
+          "alt": "Foglio di Adesivi Cattolici Graffiti – 60 Decalcomanie in PVC Impermeabili"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H20b889d3b2fd41a3a7ff6f2bb53b079bB.webp",
+          "alt": "Foglio di Adesivi Cattolici Graffiti – 60 Decalcomanie in PVC Impermeabili"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5707cb59cacd45af9166927359ec3ccbe.webp",
+          "alt": "Foglio di Adesivi Cattolici Graffiti – 60 Decalcomanie in PVC Impermeabili"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H81a57fa2f8464f4f80a25cdd1ffd9777I.webp",
+          "alt": "Foglio di Adesivi Cattolici Graffiti – 60 Decalcomanie in PVC Impermeabili"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6ee6bd5980dc479f99191d842a3e135bK.webp",
+          "alt": "Foglio di Adesivi Cattolici Graffiti – 60 Decalcomanie in PVC Impermeabili"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "60 adesivi per pacchetto con design cattolici in stile cartone animato",
+        "Stampa digitale per grafiche nitide e colorate",
+        "Laminazione lucida aggiunge uno strato lucido e protettivo",
+        "Materiale in PVC impermeabile resistente a umidità e usura",
+        "Morbido e flessibile, si adatta a varie forme di superficie",
+        "Scelta di materiale ecologico"
+      ],
+      "specifications": [
+        {
+          "name": "Tipo di prodotto",
+          "value": "Adesivo"
+        },
+        {
+          "name": "Materiale",
+          "value": "PVC"
+        },
+        {
+          "name": "Stampa",
+          "value": "Stampa digitale"
+        },
+        {
+          "name": "Finitura superficiale",
+          "value": "Laminazione lucida"
+        },
+        {
+          "name": "Stile",
+          "value": "Cartone animato"
+        },
+        {
+          "name": "Impermeabile",
+          "value": "Sì"
+        }
+      ],
+      "applications": [
+        "Decorare custodie per telefono",
+        "Personalizzare bottiglie d'acqua",
+        "Aggiungere stile ai monopattini",
+        "Confezione regalo a tema o lavoretti"
+      ],
+      "faq": [
+        {
+          "question": "Di che materiale sono fatti questi adesivi?",
+          "answer": "Gli adesivi sono realizzati in PVC, che è morbido, durevole ed ecologico. Hanno una laminazione lucida e stampa digitale."
+        },
+        {
+          "question": "Gli adesivi sono impermeabili?",
+          "answer": "Sì, gli adesivi sono impermeabili, rendendoli adatti a oggetti che potrebbero bagnarsi, come bottiglie d'acqua o attrezzature da esterno."
+        },
+        {
+          "question": "Quanti adesivi sono inclusi?",
+          "answer": "Il pacchetto include 60 adesivi, offrendo una varietà di design cattolici in stile cartone animato."
+        }
+      ],
+      "pricing": {
+        "price": "0.60",
+        "regularPrice": "0.60",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.50",
+          "max": "0.60"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Foglio di Adesivi Cattolici Graffiti – 60 Decalcomanie in PVC Impermeabili",
+          "description": "Questo pacchetto di 60 adesivi a tema cattolico utilizza PVC resistente e impermeabile con laminazione lucida e stampa digitale. Le decalcomanie in stile cartone animato sono adatte a telefoni, bottiglie d'acqua e monopattini, rendendole una scelta pratica per aggiungere arte ispirata alla fede agli oggetti di uso quotidiano.",
+          "sku": "ALI-AAHUTG7BAOVioqqEY6e7K9aU",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8abd7a50804e4d029855fb84e6a7daec6.png",
+            "https://sc04.alicdn.com/kf/H3fb293fe40274f29877445270931e03dx.png",
+            "https://sc04.alicdn.com/kf/H20b889d3b2fd41a3a7ff6f2bb53b079bB.png",
+            "https://sc04.alicdn.com/kf/H5707cb59cacd45af9166927359ec3ccbe.png",
+            "https://sc04.alicdn.com/kf/H81a57fa2f8464f4f80a25cdd1ffd9777I.png",
+            "https://sc04.alicdn.com/kf/H6ee6bd5980dc479f99191d842a3e135bK.png"
+          ],
+          "category": "Decorazioni",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo di prodotto",
+              "value": "Adesivo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "PVC"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stampa",
+              "value": "Stampa digitale"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finitura superficiale",
+              "value": "Laminazione lucida"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stile",
+              "value": "Cartone animato"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Impermeabile",
+              "value": "Sì"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.60",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.50",
+              "maxPrice": "0.60",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di che materiale sono fatti questi adesivi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gli adesivi sono realizzati in PVC, che è morbido, durevole ed ecologico. Hanno una laminazione lucida e stampa digitale."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Gli adesivi sono impermeabili?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, gli adesivi sono impermeabili, rendendoli adatti a oggetti che potrebbero bagnarsi, come bottiglie d'acqua o attrezzature da esterno."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quanti adesivi sono inclusi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il pacchetto include 60 adesivi, offrendo una varietà di design cattolici in stile cartone animato."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "contentHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:56.660Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "contentHash": "56b5d04093b4bd5e62851940b556791dd1b41fa2dd6659df54e2d47ec28c9ca8",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:12:21.896Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEkTG7BAOVioqqEY6eOmWAZ",
+      "sourceId": "AAEkTG7BAOVioqqEY6eOmWAZ",
+      "sourceFingerprint": "68426610d9b6aeb36b0d91193d10d00cfc5c2bac719a96dcb6ef5ecdd6bd43b9",
+      "locale": "it",
+      "slug": "8x10mm-wooden-bead-rosary-necklace-with-cross-eomwaz",
+      "title": "Collana Rosario in perline di legno 8x10mm con Croce",
+      "eyebrow": "Collana rosario in perline di legno",
+      "summary": "Questa collana rosario in perline di legno 8x10mm presenta una croce ed è disponibile in sei finiture marroni. Ideale per la preghiera personale, regali e creazione di gioielli. Ogni variante offre una tonalità di legno naturale, adatta all'uso devozionale.",
+      "description": "Questa collana rosario è realizzata con perline di legno da 8x10mm, offrendo una consistenza sostanziosa e tattile per la preghiera. Il design include un ciondolo a croce, rendendolo un set completo per le devozioni. È disponibile in sei distinte varianti marroni, permettendoti di scegliere la tonalità che preferisci. Che sia per uso personale, come regalo pensato, o come base per progetti di gioielli personalizzati, queste perline offrono versatilità. La costruzione in legno è leggera e la finitura naturale mette in risalto il carattere del legno.",
+      "catholicContext": "Il Rosario è una preghiera cattolica incentrata sulla contemplazione degli eventi della vita di Gesù Cristo e della Vergine Maria.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Rosari cattolici",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H29e4ca8c55d74387a315607d317ad5d1B.webp",
+      "imageAlt": "Collana Rosario in perline di legno 8x10mm con Croce",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H29e4ca8c55d74387a315607d317ad5d1B.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H268bd0c92f474ca1bfc117ff9955baddn.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd3885d4ae5924f7da4691a3df02699c6t.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hea473f75d9774d00ba96e096f5b62c93V.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd5cea6457c3f461b996bbaf6916b0ebeq.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7aef075e1a104ef0b5c63a48e8fe751eW.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbc50558701084c84a77b9801e56e5669n.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce - brown-3",
+          "label": "brown-3",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H923b157f94034ab899245e0e81ffcd24N.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce - brown-4",
+          "label": "brown-4",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83e7e07e9422437c9f158fb40b59ba6bq.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce - brown-1",
+          "label": "brown-1",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc0567aa6585a415dad2b609b78c13fa0S.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce - brown-2",
+          "label": "brown-2",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8d1336b7ce014f868e9d9e68e35d45b4N.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce - brown-5",
+          "label": "brown-5",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H040f5f99e45b46d6af6b107c27175aa28.webp",
+          "alt": "Collana Rosario in perline di legno 8x10mm con Croce - brown-6",
+          "label": "brown-6",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--6"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Dimensione perline: 8x10mm",
+        "Materiale: legno",
+        "Design: rosario con croce",
+        "Disponibile in sei varianti marroni",
+        "Adatto per creazione di gioielli e uso devozionale"
+      ],
+      "specifications": [
+        {
+          "name": "Dimensione perline",
+          "value": "8x10mm"
+        },
+        {
+          "name": "Materiale",
+          "value": "Legno"
+        },
+        {
+          "name": "Design",
+          "value": "Rosario con croce"
+        },
+        {
+          "name": "Varianti colore",
+          "value": "Brown-1, Brown-2, Brown-3, Brown-4, Brown-5, Brown-6"
+        }
+      ],
+      "applications": [
+        "Preghiera e devozione personale",
+        "Creazione di regali religiosi",
+        "Forniture per artigianato e creazione di gioielli",
+        "Strumento educativo per insegnare il Rosario"
+      ],
+      "faq": [
+        {
+          "question": "Quali sono le dimensioni delle perline?",
+          "answer": "Le perline misurano 8x10mm, offrendo una dimensione comoda per la manipolazione durante la preghiera."
+        },
+        {
+          "question": "Quale materiale è usato per le perline?",
+          "answer": "Le perline sono fatte di legno, offrendo una sensazione naturale e leggera."
+        },
+        {
+          "question": "Sono disponibili diverse opzioni di colore?",
+          "answer": "Sì, il rosario è disponibile in sei varianti marroni, da Brown-1 a Brown-6."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.60",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collana Rosario in perline di legno 8x10mm con Croce",
+          "description": "Questa collana rosario in perline di legno 8x10mm presenta una croce ed è disponibile in sei finiture marroni. Ideale per la preghiera personale, regali e creazione di gioielli. Ogni variante offre una tonalità di legno naturale, adatta all'uso devozionale.",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ",
+          "image": [
+            "https://sc04.alicdn.com/kf/H29e4ca8c55d74387a315607d317ad5d1B.jpg",
+            "https://sc04.alicdn.com/kf/H268bd0c92f474ca1bfc117ff9955baddn.jpg",
+            "https://sc04.alicdn.com/kf/Hd3885d4ae5924f7da4691a3df02699c6t.jpg",
+            "https://sc04.alicdn.com/kf/Hea473f75d9774d00ba96e096f5b62c93V.jpg",
+            "https://sc04.alicdn.com/kf/Hd5cea6457c3f461b996bbaf6916b0ebeq.jpg",
+            "https://sc04.alicdn.com/kf/H7aef075e1a104ef0b5c63a48e8fe751eW.jpg"
+          ],
+          "category": "Rosari cattolici",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Dimensione perline",
+              "value": "8x10mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Legno"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Rosario con croce"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varianti colore",
+              "value": "Brown-1, Brown-2, Brown-3, Brown-4, Brown-5, Brown-6"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.60",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quali sono le dimensioni delle perline?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le perline misurano 8x10mm, offrendo una dimensione comoda per la manipolazione durante la preghiera."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quale materiale è usato per le perline?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le perline sono fatte di legno, offrendo una sensazione naturale e leggera."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Sono disponibili diverse opzioni di colore?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, il rosario è disponibile in sei varianti marroni, da Brown-1 a Brown-6."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "contentHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:04.844Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "contentHash": "d0a9d4e26a16c11dff75b49752999f6faffbb1aff3f4779bcc6cf15c33a62ca7",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:13:51.537Z",
             "model": "deepseek-v4-flash"
           }
         }

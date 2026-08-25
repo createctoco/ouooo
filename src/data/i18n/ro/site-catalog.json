@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "ro",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a945534217abc6093932f6bdc2d50e449bca6caad2e09bd7a7a12168dda30524",
-  "generatedAt": "2026-08-24T03:34:38.513Z",
+  "sourceCatalogHash": "79bdf555002057e7f0305866fe8bbed3cce324419293e6db8415d8dc90d5df91",
+  "generatedAt": "2026-08-25T03:34:17.970Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAHyTG7BAOVioqqEY6eBS4oY",
-      "AAGpTG7BAOVioqqEY6e51ifv",
-      "AAHvTG7BAOVioqqEY6e0Sscm",
-      "AAE4TG7BAOVioqqEY6eBS49Z",
-      "AAGyTG7BAOVioqqEY6eBuRjc",
-      "AAFiTG7BAOVioqqEY6eBSz9T",
-      "AAEVTG7BAOVioqqEY6eiGfxa",
-      "AAEKTG7BAOVioqqEY6edXi_c",
-      "AAECTG7BAOVioqqEY6eBS9pY",
-      "AAHaTG7BAOVioqqEY6eMU1me"
+      "AAE8TG7BAOVioqqEY6eoXkHx",
+      "AAGMTG7BAOVioqqEY6e0kwy1",
+      "AAHcTG7BAOVioqqEY6eepIEV",
+      "AAEBTG7BAOVioqqEY6eiAJ88",
+      "AAG4TG7BAOVioqqEY6eYM-WE",
+      "AAE0TG7BAOVioqqEY6eBRnX0",
+      "AAEITG7BAOVioqqEY6eMrXfU",
+      "AAHUTG7BAOVioqqEY6e7K9aU",
+      "AAFlTG7BAOVioqqEY6e0b3hG",
+      "AAEkTG7BAOVioqqEY6eOmWAZ"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd"
@@ -37,31 +37,33 @@
     "brooch": "Broșă",
     "uncategorized": "Necategorisit"
   },
-  "categoryGlossarySourceHash": "b6c56a83072314b56383fbfa434e33dfc4e91cf06a3a3e3c5578f25bc7ae98a6",
+  "categoryGlossarySourceHash": "b977a2b717741eb323106d1e21c2cdda18d509f7f966e8c98ed0dd88af22c4ba",
   "translationSummary": {
-    "ready": 354,
-    "skipped": 5,
+    "ready": 363,
+    "skipped": 6,
     "skippedProductIds": [
       "AAGxTG7BAOVioqqEY6e7uzWC",
       "AAEDTG7BAOVioqqEY6erMoEh",
       "AAGXTG7BAOVioqqEY6eoRu-2",
       "AAE9TG7BAOVioqqEY6eoSmZh",
-      "AAFiTG7BAOVioqqEY6eBSz9T"
+      "AAFiTG7BAOVioqqEY6eBSz9T",
+      "AAFlTG7BAOVioqqEY6e0b3hG"
     ],
-    "reused": 345,
-    "generated": 9,
+    "reused": 353,
+    "generated": 10,
     "generatedProductIds": [
-      "AAHyTG7BAOVioqqEY6eBS4oY",
-      "AAGpTG7BAOVioqqEY6e51ifv",
-      "AAHvTG7BAOVioqqEY6e0Sscm",
-      "AAE4TG7BAOVioqqEY6eBS49Z",
       "AAGyTG7BAOVioqqEY6eBuRjc",
-      "AAEVTG7BAOVioqqEY6eiGfxa",
-      "AAEKTG7BAOVioqqEY6edXi_c",
-      "AAECTG7BAOVioqqEY6eBS9pY",
-      "AAHaTG7BAOVioqqEY6eMU1me"
+      "AAE8TG7BAOVioqqEY6eoXkHx",
+      "AAGMTG7BAOVioqqEY6e0kwy1",
+      "AAHcTG7BAOVioqqEY6eepIEV",
+      "AAEBTG7BAOVioqqEY6eiAJ88",
+      "AAG4TG7BAOVioqqEY6eYM-WE",
+      "AAE0TG7BAOVioqqEY6eBRnX0",
+      "AAEITG7BAOVioqqEY6eMrXfU",
+      "AAHUTG7BAOVioqqEY6e7K9aU",
+      "AAEkTG7BAOVioqqEY6eOmWAZ"
     ],
-    "retriedBacklog": 4,
+    "retriedBacklog": 5,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -2124,6 +2126,397 @@
             "contentHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09",
             "attempts": 0,
             "updatedAt": "2026-08-24T03:07:52.401Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFlTG7BAOVioqqEY6e0b3hG",
+      "sourceId": "AAFlTG7BAOVioqqEY6e0b3hG",
+      "sourceFingerprint": "c951c6ed49d6f1c92a092b1312c9609bf616ffb7d1b6f2053c580c89fe30968c",
+      "locale": "en",
+      "slug": "led-electronic-wax-candle-with-our-lady-and-jesus-e0b3hg",
+      "title": "LED Electronic Wax Candle with Our Lady and Jesus",
+      "eyebrow": "LED electronic wax candle set",
+      "summary": "An LED electronic wax candle with acrylic imagery of Our Lady and Jesus. Made of plastic, designed for holiday decoration and gifting. It provides a safe alternative to traditional candles, suitable for Christmas settings.",
+      "description": "This LED electronic wax candle brings a reverent Marian image to your holiday decor without the hazards of an open flame. The plastic body and acrylic imagery keep weight low and handling simple, while the built-in LED illuminates the candle with a gentle glow. It is positioned for Christmas use as both a decoration and a gift. Because it is electronic, there is no wax to spill or smoke to manage. Reliable and reusable, it suits homes, offices, or parish gathering spaces. We offer this item through our sourcing platform; contact us for ordering details.",
+      "catholicContext": "Our Lady is a traditional English Catholic title for the Virgin Mary, and Marian imagery is widely used in Catholic devotional items.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He8a178ab54fb4917a28d895acf4ceacev.webp",
+      "imageAlt": "LED Electronic Wax Candle with Our Lady and Jesus",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He8a178ab54fb4917a28d895acf4ceacev.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7f5aef497fa4d3d8ece0ef054fec12f3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H796fd0f21b714f07bc2bd10cf4ea0f1dj.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd418f0b174f24318ba5e304dadcd4133Y.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H67092c68c8b04ded860bb8bf08565ff6x.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdfedc4818d65477d8765b8d00c06d2a3d.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H71d31ee6e2474150b60367efd622e52eo.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3a38012c4f7e49ccab2aed788bf6d7962.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb202cb3ac32b41c8b7a2188afbf6cd68j.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Had4ed47e682b49aeb1cb37012c29582bZ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8546604da4514e4b915b29359d82a2b4F.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc60dfa94e5604d5e8e72ecf674dcd26eK.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H159df54c7fe24db58d3191f202df7769V.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7b1bfd24041b45b3998c6f9c07d8f266p.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ef87b2d21d04aa0ba1c71abb93fe2dfr.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H909fb14ee1744444af5571219e53c26eQ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc29b4c1c3d8a4755a0f52c76997ba4ce3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hac5e39fbd72f456488054029dab8d715o.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5d02e50dffc845b0a9276b451a1da174Q.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97be0367fbf74034ab6884c565d8cff6m.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3ba932752d2248098ddf0a31446731e9D.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1bbeabafca4b4932b67229e70d4831947.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7f78b2aef9524446a35328927e7855891.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5fb157202aff4703b51508195f44c526S.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf96decaede6d4a96be46497bd2bacd62U.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe7ccdb2abd44d3837fd74044d1e7f2z.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H535ec2cd876b411593350de33c4fabceZ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5db2dd10a50b45d18f850281e96c8204x.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H580a10be5f2041f0a6371cb7d22681cd3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb576b9381bb469294a7b781dc3843a9O.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9f3b60e195a147e8801d9a56a25c3c49K.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heecdffcae8654a2f8b44230f4df3a6fe2.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H88b7a1a98bc34f4ca7f19b69eeabbfb7k.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd02675a37f224c5f8932035d313c6d76E.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H86bdda37635c4337a86fb83a95b9bbf6i.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H53cb6a39e7ed4a708783b9dc927add8f5.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Plastic construction with acrylic imagery",
+        "LED illumination for a flameless glow",
+        "Depicts Our Lady and Jesus",
+        "Intended for Christmas decoration and gifting",
+        "Reusable electronic design"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Plastic"
+        },
+        {
+          "name": "Style",
+          "value": "Religious"
+        },
+        {
+          "name": "Occasion",
+          "value": "Christmas"
+        },
+        {
+          "name": "Use",
+          "value": "Holiday Decoration & Gift"
+        },
+        {
+          "name": "Application",
+          "value": "Christmas lights, Christmas gifts"
+        }
+      ],
+      "applications": [
+        "Christmas table centerpiece",
+        "Mantel or shelf decoration",
+        "Thoughtful gift for Catholic friends or family",
+        "Quiet prayer corner accent"
+      ],
+      "faq": [
+        {
+          "question": "What material is this LED candle made of?",
+          "answer": "The candle is made of plastic, with acrylic imagery for the religious figures."
+        },
+        {
+          "question": "Is this candle safe to leave on for long periods?",
+          "answer": "Since it is an LED electronic candle, it does not produce a flame, making it safer than traditional candles for extended use."
+        },
+        {
+          "question": "Can I use this candle outside of the Christmas season?",
+          "answer": "While positioned for Christmas, its religious imagery makes it suitable for year-round devotional display, though it is not explicitly certified for outdoor use."
+        }
+      ],
+      "pricing": {
+        "price": "0.75",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.65",
+          "max": "0.75"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "LED Electronic Wax Candle with Our Lady and Jesus",
+          "description": "Plastic LED electronic wax candle featuring Our Lady and Jesus, suitable for Christmas decoration and gifts. Safe, flameless, and reusable.",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG",
+          "image": [
+            "https://sc04.alicdn.com/kf/He8a178ab54fb4917a28d895acf4ceacev.jpg",
+            "https://sc04.alicdn.com/kf/Hf7f5aef497fa4d3d8ece0ef054fec12f3.jpg",
+            "https://sc04.alicdn.com/kf/H796fd0f21b714f07bc2bd10cf4ea0f1dj.jpg",
+            "https://sc04.alicdn.com/kf/Hd418f0b174f24318ba5e304dadcd4133Y.jpg",
+            "https://sc04.alicdn.com/kf/H67092c68c8b04ded860bb8bf08565ff6x.jpg",
+            "https://sc04.alicdn.com/kf/Hdfedc4818d65477d8765b8d00c06d2a3d.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Plastic"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Christmas"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Use",
+              "value": "Holiday Decoration & Gift"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Application",
+              "value": "Christmas lights, Christmas gifts"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.75",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.65",
+              "maxPrice": "0.75",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is this LED candle made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The candle is made of plastic, with acrylic imagery for the religious figures."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this candle safe to leave on for long periods?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since it is an LED electronic candle, it does not produce a flame, making it safer than traditional candles for extended use."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I use this candle outside of the Christmas season?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While positioned for Christmas, its religious imagery makes it suitable for year-round devotional display, though it is not explicitly certified for outdoor use."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+            "contentHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:09.942Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -79325,10 +79718,10 @@
       "sourceFingerprint": "1557f59adb874dda013053be397b362647abb1e71c9c828782711a8a4c718651",
       "locale": "ro",
       "slug": "mini-rosary-bracelet-for-baby-first-communion-favor-eburjc",
-      "title": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie",
-      "eyebrow": "Brățară cu rozariu",
-      "summary": "O brățară cu rozariu denar mini, cu mărgele în formă de trandafir, potrivită pentru un nou-născut sau un bebeluș. Disponibilă în variante roz, albastru, mov și alb, este potrivită ca favor pentru botezuri, prima împărtășanie sau nunți.",
-      "description": "Această brățară cu rozariu folosește mărgele mici în formă de trandafir într-un format denar compact, fiind o potrivire delicată pentru încheietura unui bebeluș. Brățara este oferită în nouă variante de culoare, inclusiv roz, albastru, mov și mai multe nuanțe de alb.\n\nDeoarece este un denar mini – de obicei un singur deceniu – este ușor de introdus într-o pungă cadou sau într-o cutie pentru favoruri. Același design funcționează pentru accesorii de botez, favoruri pentru prima împărtășanie sau suveniruri de nuntă.\n\nSursăm acest articol pentru comenzi en-gros. Contactați-ne pentru detalii despre cantități mari sau amestecuri specifice de culori.",
+      "title": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie",
+      "eyebrow": "Brățară rozariu",
+      "summary": "O brățară rozariu denar mini cu margele în formă de trandafir, potrivită pentru un nou-născut sau bebeluș. Disponibilă în variante roz, albastru, mov și alb, funcționează ca favor pentru botezuri, prima împărtășanie sau nunți.",
+      "description": "Această brățară rozariu folosește mărgele mici în formă de trandafir într-un format denar compact, fiind o potrivire delicată pentru încheietura unui bebeluș. Brățara este oferită în nouă variante de culoare, inclusiv roz, albastru, mov și mai multe nuanțe de alb.\n\nDeoarece este un denar mini – de obicei un singur deceniu – este ușor de introdus într-o pungă cadou sau o cutie favor. Același design funcționează pentru accesorii de botez, favoruri pentru prima împărtășanie sau suveniruri de nuntă.\n\nAprovizionăm acest produs pentru comenzi en-gros. Contactați-ne dacă aveți nevoie de detalii despre cantități în vrac sau amestecul specific de culori.",
       "catholicContext": "Rozariul este o rugăciune catolică centrată pe contemplarea evenimentelor din viața lui Isus Hristos și a Fecioarei Maria.",
       "catholicRelevance": "explicit",
       "categories": [
@@ -79340,81 +79733,81 @@
       ],
       "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc",
       "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H667eeaec51ad4f05ab000a9b8be709d9a.webp",
-      "imageAlt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie",
+      "imageAlt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie",
       "gallery": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H667eeaec51ad4f05ab000a9b8be709d9a.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H3bf4da98c28b4e568319464580cb85aao.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H469e9cfd613740d2ac4cbd41ce20b465Y.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H42c2573ed557443882daca6e08d28de1x.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H7ff2756255124dacb3df20f9e45d6597r.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie"
         }
       ],
       "variantImages": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc0f801aea58549128aba496454e00182V.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - roz2",
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - roz2",
           "label": "roz2",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--12"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H2ac370675eb24b728814c8ae6b5c2a43J.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - alb2",
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - alb2",
           "label": "alb2",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--11"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha52733793bf24056ba9b011eae372c1ff.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - alb3",
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - alb3",
           "label": "alb3",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--14"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H63f39f72b299482eae813af6cceb53c3e.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - roz3",
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - roz3",
           "label": "roz3",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--13"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbb65e12ec32047a99e89c8a903477e75O.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - alb",
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - alb",
           "label": "alb",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-3331185"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H89e982a2cca1466999a52c8a47a9ffdc8.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - roz",
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - roz",
           "label": "roz",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-3328925"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/He23c93126d6d4a0f8827d482edc908e3n.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - mov",
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - mov",
           "label": "mov",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-3851110"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/He5776e58eaa14d22aec3525785620fd2w.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - albastru",
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - albastru",
           "label": "albastru",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-123085"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hab53d52139f84de1bb96256f77dd99dcH.webp",
-          "alt": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - alb4",
+          "alt": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie - alb4",
           "label": "alb4",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--15"
         }
@@ -79422,8 +79815,8 @@
       "accent": "#6d7887",
       "features": [
         "Design cu mărgele în formă de trandafir",
-        "Dimensiune denar mini pentru nou-născuți și bebeluși",
-        "Disponibilă în nouă variante de culoare: roz, albastru, mov și multiple nuanțe de alb",
+        "Mărime mini denar pentru nou-născuți și bebeluși",
+        "Disponibilă în nouă variante de culoare: roz, albastru, mov și mai multe nuanțe de alb",
         "Potrivită ca favor pentru împărtășanie, botez sau nuntă",
         "Comandă en-gros disponibilă"
       ],
@@ -79445,16 +79838,16 @@
       ],
       "faq": [
         {
-          "question": "Ce dimensiuni sunt disponibile pentru această brățară cu rozariu?",
-          "answer": "Titlul produsului indică o dimensiune denar mini, destinată nou-născuților și bebelușilor, dar dimensiunile exacte nu sunt listate. Contactați-ne pentru detalii despre măsurători, dacă este necesar."
+          "question": "Ce mărimi sunt disponibile pentru această brățară rozariu?",
+          "answer": "Titlul produsului indică o mărime mini denar destinată nou-născuților și bebelușilor, dar dimensiunile exacte nu sunt listate. Contactați-ne pentru detalii de măsurare dacă este necesar."
         },
         {
           "question": "Ce opțiuni de culoare pot alege?",
-          "answer": "Brățara este disponibilă în roz, albastru, mov și mai multe nuanțe de alb. Mai exact, variantele sunt: Roz, Roz2, Roz3, Albastru, Mov, Alb, Alb2, Alb3 și Alb4."
+          "answer": "Brățara este disponibilă în roz, albastru, mov și mai multe nuanțe de alb. Mai exact, variantele sunt Roz, Roz2, Roz3, Albastru, Mov, Alb, Alb2, Alb3 și Alb4."
         },
         {
-          "question": "Pot comanda această brățară în cantități mari pentru un eveniment?",
-          "answer": "Da, acest articol este oferit en-gros. Contactați-ne pentru a discuta despre cantități și disponibilitate."
+          "question": "Pot comanda această brățară în vrac pentru un eveniment?",
+          "answer": "Da, acest produs este oferit en-gros. Contactați-ne pentru a discuta despre cantități și disponibilitate."
         }
       ],
       "pricing": {
@@ -79470,8 +79863,8 @@
         "product": {
           "@context": "https://schema.org",
           "@type": "Product",
-          "name": "Brățară cu Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie",
-          "description": "O brățară cu rozariu denar mini, cu mărgele în formă de trandafir, potrivită pentru un nou-născut sau un bebeluș. Disponibilă în variante roz, albastru, mov și alb, este potrivită ca favor pentru botezuri, prima împărtășanie sau nunți.",
+          "name": "Brățară Rozariu Mini pentru Bebeluși, Favor pentru Prima Împărtășanie",
+          "description": "O brățară rozariu denar mini cu margele în formă de trandafir, potrivită pentru un nou-născut sau bebeluș. Disponibilă în variante roz, albastru, mov și alb, funcționează ca favor pentru botezuri, prima împărtășanie sau nunți.",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc",
           "image": [
             "https://sc04.alicdn.com/kf/H667eeaec51ad4f05ab000a9b8be709d9a.jpg",
@@ -79512,10 +79905,10 @@
           "mainEntity": [
             {
               "@type": "Question",
-              "name": "Ce dimensiuni sunt disponibile pentru această brățară cu rozariu?",
+              "name": "Ce mărimi sunt disponibile pentru această brățară rozariu?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Titlul produsului indică o dimensiune denar mini, destinată nou-născuților și bebelușilor, dar dimensiunile exacte nu sunt listate. Contactați-ne pentru detalii despre măsurători, dacă este necesar."
+                "text": "Titlul produsului indică o mărime mini denar destinată nou-născuților și bebelușilor, dar dimensiunile exacte nu sunt listate. Contactați-ne pentru detalii de măsurare dacă este necesar."
               }
             },
             {
@@ -79523,15 +79916,15 @@
               "name": "Ce opțiuni de culoare pot alege?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Brățara este disponibilă în roz, albastru, mov și mai multe nuanțe de alb. Mai exact, variantele sunt: Roz, Roz2, Roz3, Albastru, Mov, Alb, Alb2, Alb3 și Alb4."
+                "text": "Brățara este disponibilă în roz, albastru, mov și mai multe nuanțe de alb. Mai exact, variantele sunt Roz, Roz2, Roz3, Albastru, Mov, Alb, Alb2, Alb3 și Alb4."
               }
             },
             {
               "@type": "Question",
-              "name": "Pot comanda această brățară în cantități mari pentru un eveniment?",
+              "name": "Pot comanda această brățară în vrac pentru un eveniment?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Da, acest articol este oferit en-gros. Contactați-ne pentru a discuta despre cantități și disponibilitate."
+                "text": "Da, acest produs este oferit en-gros. Contactați-ne pentru a discuta despre cantități și disponibilitate."
               }
             }
           ]
@@ -79539,22 +79932,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+        "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
-            "contentHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+            "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
+            "contentHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
             "attempts": 0,
             "updatedAt": "2026-08-24T03:07:59.938Z",
             "model": "deepseek-v4-flash"
           },
           "ro": {
             "status": "ready",
-            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
-            "contentHash": "bba1ca47a7b26d82cebb9bbd0b4303670f8e48ecbae2445ad9f82cea19b827a9",
+            "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
+            "contentHash": "cc2f6c95bcf982cf6d688fa496d4e4e91054be2bb7551c3d09438e29cdd3bacb",
             "attempts": 1,
-            "updatedAt": "2026-08-24T03:32:29.343Z",
+            "updatedAt": "2026-08-25T03:31:35.295Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -80561,6 +80954,2214 @@
             "contentHash": "018d686c566c661ea67c3008a64fcff53911494d0eb3384bb5378fb915b2fcc1",
             "attempts": 1,
             "updatedAt": "2026-08-24T03:34:38.511Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE8TG7BAOVioqqEY6eoXkHx",
+      "sourceId": "AAE8TG7BAOVioqqEY6eoXkHx",
+      "sourceFingerprint": "377df4c6801a21c94bde4f81a02edd7c1775ee2f663495433bc94993cdd1207f",
+      "locale": "ro",
+      "slug": "vintage-cross-pendant-earrings-with-crystal-rhinestones-eoxkhx",
+      "title": "Cercei Pandantiv Cruce Vintage cu Cristale și Strass",
+      "eyebrow": "cercei pandantiv",
+      "summary": "Acești cercei pandantiv cruce vintage combină o ramă din aliaj de zinc cu accente strălucitoare din cristal și strass. Stilul religios se potrivește atât ținutelor casual, cât și celor elegante. Ideal pentru proiecte DIY de bijuterii și linii de accesorii en-gros.",
+      "description": "Un design inspirat din vintage diferențiază acești cercei pandantiv. Silueta crucii este realizată din aliaj de zinc, cu detalii din cristal și strass care captează lumina. Finisajul antic le conferă un aspect uzat, plin de caracter, care se potrivește atât cu ținutele moderne, cât și cu cele tradiționale.\n\nCerceii atârnă ca pandantive, adăugând mișcare și vizibilitate. Stilul religios unisex îi face o adiție versatilă pentru orice colecție de bijuterii. Folosiți-i ca bază pentru personalizare DIY sau vindeți-i ca piese gata de purtat.",
+      "catholicContext": "Crucea este un simbol central al credinței creștine, adesea purtată ca expresie a devoțiunii.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accesorii",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAE8TG7BAOVioqqEY6eoXkHx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/08/H2fbc955f1c0c4351ba89e44f3d8249d5J.webp",
+      "imageAlt": "Cercei Pandantiv Cruce Vintage cu Cristale și Strass",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H2fbc955f1c0c4351ba89e44f3d8249d5J.webp",
+          "alt": "Cercei Pandantiv Cruce Vintage cu Cristale și Strass"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/He5ea9cafd46747aeb113086154d1a247D.webp",
+          "alt": "Cercei Pandantiv Cruce Vintage cu Cristale și Strass"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H73975a1741e5450392f2d4a3cb71dcc6p.webp",
+          "alt": "Cercei Pandantiv Cruce Vintage cu Cristale și Strass"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H72ee80f8939d4e26936b703532e4aa9b1.webp",
+          "alt": "Cercei Pandantiv Cruce Vintage cu Cristale și Strass"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Hd0fc854ded5a4cd0b26f847434239187A.webp",
+          "alt": "Cercei Pandantiv Cruce Vintage cu Cristale și Strass"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Realizați din aliaj de zinc",
+        "Accente din cristal și strass",
+        "Stil cercei pandantiv",
+        "Design religios vintage",
+        "Potriviți pentru realizarea de bijuterii DIY"
+      ],
+      "specifications": [
+        {
+          "name": "Material principal",
+          "value": "Aliaj"
+        },
+        {
+          "name": "Tip cercei",
+          "value": "Pandantiv"
+        },
+        {
+          "name": "Piatra principală",
+          "value": "Cristal, Strass"
+        },
+        {
+          "name": "Stil",
+          "value": "Religios"
+        },
+        {
+          "name": "Brand",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [
+        "Purtare zilnică",
+        "Cadou pentru ocazii religioase",
+        "Personalizare bijuterii DIY",
+        "Prezentare în retail pentru accesorii"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material sunt fabricați acești cercei?",
+          "answer": "Cerceii sunt fabricați din aliaj de zinc, un metal durabil potrivit pentru bijuteriile de costum."
+        },
+        {
+          "question": "Au acești cercei o piatră?",
+          "answer": "Da, au accente din cristal și strass."
+        },
+        {
+          "question": "Pot să îi folosesc pentru realizarea de bijuterii DIY?",
+          "answer": "Da, sunt proiectați ca cercei pandantiv și pot fi integrați în propriile creații de bijuterii."
+        }
+      ],
+      "pricing": {
+        "price": "0.18",
+        "regularPrice": "0.18",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.13",
+          "max": "0.18"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Cercei Pandantiv Cruce Vintage cu Cristale și Strass",
+          "description": "Acești cercei pandantiv cruce vintage combină o ramă din aliaj de zinc cu accente strălucitoare din cristal și strass. Stilul religios se potrivește atât ținutelor casual, cât și celor elegante. Ideal pentru proiecte DIY de bijuterii și linii de accesorii en-gros.",
+          "sku": "ALI-AAE8TG7BAOVioqqEY6eoXkHx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2fbc955f1c0c4351ba89e44f3d8249d5J.jpg",
+            "https://sc04.alicdn.com/kf/He5ea9cafd46747aeb113086154d1a247D.jpg",
+            "https://sc04.alicdn.com/kf/H73975a1741e5450392f2d4a3cb71dcc6p.jpg",
+            "https://sc04.alicdn.com/kf/H72ee80f8939d4e26936b703532e4aa9b1.jpg",
+            "https://sc04.alicdn.com/kf/Hd0fc854ded5a4cd0b26f847434239187A.jpg"
+          ],
+          "category": "Accesorii",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material principal",
+              "value": "Aliaj"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip cercei",
+              "value": "Pandantiv"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Piatra principală",
+              "value": "Cristal, Strass"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Religios"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Brand",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.18",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.13",
+              "maxPrice": "0.18",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material sunt fabricați acești cercei?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cerceii sunt fabricați din aliaj de zinc, un metal durabil potrivit pentru bijuteriile de costum."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Au acești cercei o piatră?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, au accente din cristal și strass."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Pot să îi folosesc pentru realizarea de bijuterii DIY?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, sunt proiectați ca cercei pandantiv și pot fi integrați în propriile creații de bijuterii."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "contentHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.605Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "contentHash": "0a6b711edd21658f7590b251bfa103143c80b18199c8c3b8c884ad280fadc433",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:31:42.393Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGMTG7BAOVioqqEY6e0kwy1",
+      "sourceId": "AAGMTG7BAOVioqqEY6e0kwy1",
+      "sourceFingerprint": "578c21e322119a9c551aa879425f4541a78de9a7f44fb7ff52d9ce9556e2990e",
+      "locale": "ro",
+      "slug": "children-s-pink-rose-rosary-bracelet-with-cross-pendant-e0kwy1",
+      "title": "Brățară rozariu roz pentru copii cu pandantiv cruce",
+      "eyebrow": "brățară rozariu pentru copii",
+      "summary": "O brățară rozariu cu mărgele pentru copii, în nuanțe de roz, cu pandantiv cruce și placată cu argint. Realizată din aliaj de cupru cu mărgele din piatră naturală, această piesă este potrivită pentru cadouri religioase și de aniversare.",
+      "description": "Această brățară rozariu este concepută pentru copii, având o schemă de culori roz și o construcție cu mărgele. Brățara este fabricată din aliaj de cupru cu placare cu argint, iar piatra principală este piatră naturală. Include un pandantiv cruce, montat în casetă. Stilul general este religios, specific catolic, și este categorisită ca brățară cu mărgele. Acest articol este potrivit ca dar de aniversare sau pentru uz devoțional personal.",
+      "catholicContext": "Rozariul este o rugăciune catolică centrată pe contemplarea evenimentelor din viața lui Iisus Hristos și a Fecioarei Maria.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Brățări cu rozariu",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGMTG7BAOVioqqEY6e0kwy1",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hbb75849e05f347a0a2bb8426be67934aw.webp",
+      "imageAlt": "Brățară rozariu roz pentru copii cu pandantiv cruce",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbb75849e05f347a0a2bb8426be67934aw.webp",
+          "alt": "Brățară rozariu roz pentru copii cu pandantiv cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbd32caafc29844cfa5b1ddfc4edf8271K.webp",
+          "alt": "Brățară rozariu roz pentru copii cu pandantiv cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8c87b109d281407fafa85ca5558f37dc8.webp",
+          "alt": "Brățară rozariu roz pentru copii cu pandantiv cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b0f3d6130b141ea8b19f101a5a6428eR.webp",
+          "alt": "Brățară rozariu roz pentru copii cu pandantiv cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b2bdebbc85d4cfb99ca7535bc3dd6f1M.webp",
+          "alt": "Brățară rozariu roz pentru copii cu pandantiv cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2c994aabb20547b3b004cd55dca672c8V.webp",
+          "alt": "Brățară rozariu roz pentru copii cu pandantiv cruce"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Design cu floare de trandafir roz",
+        "Pandantiv cruce",
+        "Aliaj de cupru placat cu argint",
+        "Piatră principală naturală",
+        "Stil brățară cu mărgele",
+        "Mărime pentru copii"
+      ],
+      "specifications": [
+        {
+          "name": "Material principal al bijuteriei",
+          "value": "Aliaj"
+        },
+        {
+          "name": "Tip material",
+          "value": "Aliaj de cupru"
+        },
+        {
+          "name": "Piatra principală",
+          "value": "Piatră naturală"
+        },
+        {
+          "name": "Placare",
+          "value": "Placat cu argint"
+        },
+        {
+          "name": "Tip brățară",
+          "value": "Brățări cu mărgele"
+        },
+        {
+          "name": "Gen",
+          "value": "Copii"
+        },
+        {
+          "name": "Tip religios",
+          "value": "Catolicism"
+        },
+        {
+          "name": "Ocazie",
+          "value": "Aniversare"
+        }
+      ],
+      "applications": [
+        "Bijuterii religioase pentru copii",
+        "Cadou de aniversare",
+        "Uz devoțional personal",
+        "Purtare zilnică"
+      ],
+      "faq": [
+        {
+          "question": "Din ce materiale este fabricată această brățară rozariu?",
+          "answer": "Brățara este fabricată din aliaj de cupru cu placare cu argint și are mărgele din piatră naturală. Pandantivul cruce este, de asemenea, realizat din același aliaj de cupru."
+        },
+        {
+          "question": "Este această brățară potrivită pentru copii?",
+          "answer": "Da, brățara este concepută special pentru copii, așa cum indică atributul de gen. Este un stil de brățară cu mărgele, cu o mărime pentru copii."
+        },
+        {
+          "question": "Pentru ce ocazie este destinată această brățară?",
+          "answer": "Această brățară este destinată ocaziilor aniversare și servește, de asemenea, ca o piesă de bijuterie religioasă, fiind potrivită pentru scopuri devoționale sau ca dar."
+        }
+      ],
+      "pricing": {
+        "price": "0.30",
+        "regularPrice": "0.30",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Brățară rozariu roz pentru copii cu pandantiv cruce",
+          "description": "O brățară rozariu cu mărgele pentru copii, în nuanțe de roz, cu pandantiv cruce și placată cu argint. Realizată din aliaj de cupru cu mărgele din piatră naturală, această piesă este potrivită pentru cadouri religioase și de aniversare.",
+          "sku": "ALI-AAGMTG7BAOVioqqEY6e0kwy1",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hbb75849e05f347a0a2bb8426be67934aw.png",
+            "https://sc04.alicdn.com/kf/Hbd32caafc29844cfa5b1ddfc4edf8271K.png",
+            "https://sc04.alicdn.com/kf/H8c87b109d281407fafa85ca5558f37dc8.png",
+            "https://sc04.alicdn.com/kf/H3b0f3d6130b141ea8b19f101a5a6428eR.png",
+            "https://sc04.alicdn.com/kf/H1b2bdebbc85d4cfb99ca7535bc3dd6f1M.png",
+            "https://sc04.alicdn.com/kf/H2c994aabb20547b3b004cd55dca672c8V.png"
+          ],
+          "category": "Brățări cu rozariu",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material principal al bijuteriei",
+              "value": "Aliaj"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip material",
+              "value": "Aliaj de cupru"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Piatra principală",
+              "value": "Piatră naturală"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Placare",
+              "value": "Placat cu argint"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip brățară",
+              "value": "Brățări cu mărgele"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Gen",
+              "value": "Copii"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip religios",
+              "value": "Catolicism"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Ocazie",
+              "value": "Aniversare"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.30",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce materiale este fabricată această brățară rozariu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brățara este fabricată din aliaj de cupru cu placare cu argint și are mărgele din piatră naturală. Pandantivul cruce este, de asemenea, realizat din același aliaj de cupru."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Este această brățară potrivită pentru copii?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, brățara este concepută special pentru copii, așa cum indică atributul de gen. Este un stil de brățară cu mărgele, cu o mărime pentru copii."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Pentru ce ocazie este destinată această brățară?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Această brățară este destinată ocaziilor aniversare și servește, de asemenea, ca o piesă de bijuterie religioasă, fiind potrivită pentru scopuri devoționale sau ca dar."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "contentHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.588Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "contentHash": "0497af79b16b117cf98829cc252aa460662e8eed976a59154604ba220ad99c20",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:31:50.673Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHcTG7BAOVioqqEY6eepIEV",
+      "sourceId": "AAHcTG7BAOVioqqEY6eepIEV",
+      "sourceFingerprint": "d883546171af2d7057ecb94e0e30b9f20a74f7001de0ebc86ec3a9f0f601de4a",
+      "locale": "ro",
+      "slug": "st-benedict-alloy-pendant-with-rope-eepiev",
+      "title": "Pandantiv din aliaj Sfântul Benedict cu șnur",
+      "eyebrow": "Pandantiv din aliaj Sfântul Benedict",
+      "summary": "Acest pandantiv Sfântul Benedict este realizat din aliaj, cu un finisaj argintiu retro. Vine cu un șnur de agățat, fiind gata de purtat sau de oferit cadou religios. Un accesoriu simplu de devoțiune pentru uz personal sau revânzare.",
+      "description": "Realizat din aliaj, acest pandantiv are un design retro și un finisaj argintiu. Șnurul inclus permite purtarea imediată. Ca reprezentare a Sfântului Benedict, servește ca o reamintire vizibilă a credinței. Această piesă este potrivită pentru credincioșii individuali sau ca parte dintr-un sortiment de cadouri religioase. Construcția sa simplă atrage cumpărătorii care caută bijuterii catolice durabile și la preț accesibil. Pandantivul ajunge fără ambalaj suplimentar sau documentație, așa că luați în considerare opțiunile de prezentare pentru expunerea la vânzare cu amănuntul.",
+      "catholicContext": "Medaliile Sfântului Benedict sunt o formă populară de bijuterie devoțională în tradiția catolică, adesea folosite ca expresie a credinței.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Rozarii catolice",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
+      "imageAlt": "Pandantiv din aliaj Sfântul Benedict cu șnur",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
+          "alt": "Pandantiv din aliaj Sfântul Benedict cu șnur"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1be0ced8cc4b446ba94ec184101031ebc.webp",
+          "alt": "Pandantiv din aliaj Sfântul Benedict cu șnur"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf99d9620ee2d484ea3a1d385460557255.webp",
+          "alt": "Pandantiv din aliaj Sfântul Benedict cu șnur"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4b2835e28f24486e8ab7cc4bd084dd3e5.webp",
+          "alt": "Pandantiv din aliaj Sfântul Benedict cu șnur"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1f973fb717034e56aae1f94bbde3ceb1w.webp",
+          "alt": "Pandantiv din aliaj Sfântul Benedict cu șnur"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc7484ba47de944d7a052ffb03e308a63f.webp",
+          "alt": "Pandantiv din aliaj Sfântul Benedict cu șnur - pandantiv argintiu cu șnur",
+          "label": "pandantiv-argintiu-cu-snur",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H07f0cd5c3c9048758e53abd810b88f3eJ.webp",
+          "alt": "Pandantiv din aliaj Sfântul Benedict cu șnur - pandantiv argintiu",
+          "label": "pandantiv-argintiu",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--1"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Realizat din aliaj cu finisaj argintiu",
+        "Design retro",
+        "Include șnur pentru agățat",
+        "Disponibil în două variante: pandantiv simplu sau cu șnur",
+        "Categorisit la Rozarii catolice"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Aliaj"
+        },
+        {
+          "name": "Design",
+          "value": "Retro"
+        },
+        {
+          "name": "Variantă",
+          "value": "Pandantiv argintiu sau cu șnur"
+        }
+      ],
+      "applications": [
+        "Purtare personală devoțională",
+        "Cadou religios de Paște",
+        "Realizare de bijuterii sau meșteșugărit",
+        "Revânzare cu amănuntul în magazine catolice"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material este realizat acest pandantiv Sfântul Benedict?",
+          "answer": "Pandantivul este realizat din aliaj, cu un finisaj argintiu."
+        },
+        {
+          "question": "Pandantivul vine cu lanț sau șnur?",
+          "answer": "Da, o variantă include un șnur. Cealaltă variantă este doar pandantivul."
+        },
+        {
+          "question": "Ce stil are pandantivul?",
+          "answer": "Designul este descris ca fiind retro."
+        }
+      ],
+      "pricing": {
+        "price": "0.35",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.35",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pandantiv din aliaj Sfântul Benedict cu șnur",
+          "description": "Acest pandantiv Sfântul Benedict este realizat din aliaj, cu un finisaj argintiu retro. Vine cu un șnur de agățat, fiind gata de purtat sau de oferit cadou religios. Un accesoriu simplu de devoțiune pentru uz personal sau revânzare.",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hd33211fa19c2444da0ed691ddaae7012X.jpg",
+            "https://sc04.alicdn.com/kf/H1be0ced8cc4b446ba94ec184101031ebc.jpg",
+            "https://sc04.alicdn.com/kf/Hf99d9620ee2d484ea3a1d385460557255.jpg",
+            "https://sc04.alicdn.com/kf/H4b2835e28f24486e8ab7cc4bd084dd3e5.jpg",
+            "https://sc04.alicdn.com/kf/H1f973fb717034e56aae1f94bbde3ceb1w.jpg"
+          ],
+          "category": "Rozarii catolice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Aliaj"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Retro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantă",
+              "value": "Pandantiv argintiu sau cu șnur"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.35",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.35",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material este realizat acest pandantiv Sfântul Benedict?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pandantivul este realizat din aliaj, cu un finisaj argintiu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Pandantivul vine cu lanț sau șnur?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, o variantă include un șnur. Cealaltă variantă este doar pandantivul."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce stil are pandantivul?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Designul este descris ca fiind retro."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "contentHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.512Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "contentHash": "bb37a9ff8bd2274eb3b685948fd6b19e35fc33e6bddc6b2f2e51da275da71c44",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:31:58.253Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEBTG7BAOVioqqEY6eiAJ88",
+      "sourceId": "AAEBTG7BAOVioqqEY6eiAJ88",
+      "sourceFingerprint": "e0d5760fc9913554714ca2f9ce125b7166fced3820a55da5fd23d4c06fc487f9",
+      "locale": "ro",
+      "slug": "saint-christopher-metal-keychain-with-key-holder-eiaj88",
+      "title": "Breloc metalic Sfântul Cristofor cu suport pentru chei",
+      "eyebrow": "Breloc Sfântul Cristofor",
+      "summary": "Acest breloc Sfântul Cristofor combină un inel metalic pentru chei cu un suport încorporat pentru chei. Este disponibil în variante bicolor maro, gri sau roșu, fiind un accesoriu practic pentru utilizarea zilnică. Imaginea Sfântului Cristofor, patronul călătorilor, îl face un cadou semnificativ pentru cei care apreciază tradiția catolică.",
+      "description": "Fabricat din metal, acest breloc are un inel durabil pentru chei și un suport separat pentru chei, permițându-vă să vă organizați cheile cu ușurință. Partea din față prezintă o imagine a Sfântului Cristofor, un sfânt asociat în mod tradițional cu călătoriile sigure. Disponibil în variante de culoare maro, gri și roșu, fiecare cu două nuanțe distincte (Brown1, Brown2, Gray1, Gray2, Red1, Red2), puteți alege varianta care se potrivește cel mai bine stilului dumneavoastră personal sau destinatarului cadoului. Fie că este folosit ca breloc zilnic sau ca un mic simbol de credință, acest articol oferă atât practicitate, cât și o notă devoțională subtilă.",
+      "catholicContext": "Sfântul Cristofor este venerat ca patron al călătorilor, iar imaginea sa este comună pe obiecte devoționale pentru călătorii.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "83",
+          "name": "Brelocuri",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H6d7af685d0b54ba9b280f59c36b2f796w.webp",
+      "imageAlt": "Breloc metalic Sfântul Cristofor cu suport pentru chei",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6d7af685d0b54ba9b280f59c36b2f796w.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc450331e942d4c27a43b68aee24804cfI.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He39a1099c3cc4df7b823bbbb571735b4O.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hed9f3a4267214964b503340f0e202d06Z.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hae357bb522654167ad1f75200665d0d2s.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf8f98391bbda4354b01caa9bd5c97c827.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H34d8116c901e433e8749249dccdde3c2y.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei - gri2",
+          "label": "Gray2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8e1b7498478b49769a078a5e7eecebf4K.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei - maro2",
+          "label": "Brown2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7e5669a8a04c477eab5bc29b45a2f087b.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei - roșu2",
+          "label": "Red2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He8fe17eef436462c8ae804e6be8da841T.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei - maro1",
+          "label": "Brown1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde102366b7ee49b4bb05da787771c4b4g.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei - roșu1",
+          "label": "Red1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00ca232fa5be4301a4ac3600364854b3U.webp",
+          "alt": "Breloc metalic Sfântul Cristofor cu suport pentru chei - gri1",
+          "label": "Gray1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Construcție metalică",
+        "Include inel pentru chei și suport pentru chei",
+        "Înfățișează pe Sfântul Cristofor, patronul călătorilor",
+        "Disponibil în variante maro, gri sau roșu",
+        "Două nuanțe pentru fiecare variantă de culoare (de exemplu, Brown1, Brown2)"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Metal"
+        },
+        {
+          "name": "Imagine principală",
+          "value": "Sfântul Cristofor"
+        },
+        {
+          "name": "Variante",
+          "value": "Brown1, Brown2, Gray1, Gray2, Red1, Red2"
+        }
+      ],
+      "applications": [
+        "Organizarea zilnică a cheilor",
+        "Cadou pentru călătorii catolici",
+        "Utilizare personală ca amintire devoțională",
+        "Cadou mic pentru evenimente parohiale sau grupuri de tineret"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material este fabricat acest breloc?",
+          "answer": "Acest breloc Sfântul Cristofor este fabricat din metal, conform specificațiilor produsului."
+        },
+        {
+          "question": "Ce variante de culoare sunt disponibile?",
+          "answer": "Brelocul este disponibil în maro, gri și roșu, fiecare cu două nuanțe (Brown1, Brown2, Gray1, Gray2, Red1, Red2)."
+        },
+        {
+          "question": "Acest breloc include un suport pentru chei?",
+          "answer": "Da, titlul produsului indică faptul că este un 'Suport pentru chei Sfântul Cristofor' cu inel metalic, deci funcționează atât ca breloc, cât și ca suport pentru chei."
+        }
+      ],
+      "pricing": {
+        "price": "0.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Breloc metalic Sfântul Cristofor cu suport pentru chei",
+          "description": "Acest breloc Sfântul Cristofor combină un inel metalic pentru chei cu un suport încorporat pentru chei. Este disponibil în variante bicolor maro, gri sau roșu, fiind un accesoriu practic pentru utilizarea zilnică. Imaginea Sfântului Cristofor, patronul călătorilor, îl face un cadou semnificativ pentru cei care apreciază tradiția catolică.",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88",
+          "image": [
+            "https://sc04.alicdn.com/kf/H6d7af685d0b54ba9b280f59c36b2f796w.jpg",
+            "https://sc04.alicdn.com/kf/Hc450331e942d4c27a43b68aee24804cfI.jpg",
+            "https://sc04.alicdn.com/kf/He39a1099c3cc4df7b823bbbb571735b4O.jpg",
+            "https://sc04.alicdn.com/kf/Hed9f3a4267214964b503340f0e202d06Z.jpg",
+            "https://sc04.alicdn.com/kf/Hae357bb522654167ad1f75200665d0d2s.jpg",
+            "https://sc04.alicdn.com/kf/Hf8f98391bbda4354b01caa9bd5c97c827.jpg"
+          ],
+          "category": "Brelocuri",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Metal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Imagine principală",
+              "value": "Sfântul Cristofor"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Brown1, Brown2, Gray1, Gray2, Red1, Red2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material este fabricat acest breloc?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Acest breloc Sfântul Cristofor este fabricat din metal, conform specificațiilor produsului."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce variante de culoare sunt disponibile?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brelocul este disponibil în maro, gri și roșu, fiecare cu două nuanțe (Brown1, Brown2, Gray1, Gray2, Red1, Red2)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Acest breloc include un suport pentru chei?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, titlul produsului indică faptul că este un 'Suport pentru chei Sfântul Cristofor' cu inel metalic, deci funcționează atât ca breloc, cât și ca suport pentru chei."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "contentHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:49.053Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "contentHash": "a1d5e26883cc36e08f442617fec53bfebb837f366c08821bf167ad223998e493",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:06.987Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAG4TG7BAOVioqqEY6eYM-WE",
+      "sourceId": "AAG4TG7BAOVioqqEY6eYM-WE",
+      "sourceFingerprint": "fdfcd72749fad704223f074acbda2a8caa9a044c4fbd2b45c0dab90c0208b5c6",
+      "locale": "ro",
+      "slug": "wholesales-religious-supplies-plastic-cross-easter-flip-top-cap-eym-we",
+      "title": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce",
+      "eyebrow": "Ornamente",
+      "summary": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce 100ml Plastic Polipropilenă Meșteșuguri",
+      "description": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce 100ml Plastic Polipropilenă Meșteșuguri",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornamente",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG4TG7BAOVioqqEY6eYM-WE",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H98eea82dfdad405382a0fd73b61328d2P.webp",
+      "imageAlt": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98eea82dfdad405382a0fd73b61328d2P.webp",
+          "alt": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H79294427a2f24b0587f5a1ab69dddafd4.webp",
+          "alt": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hefa7c4596a7c4f0c989064947a46c07fN.webp",
+          "alt": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H35673fab67864ac583297a1fcb3b33ccj.webp",
+          "alt": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H38799564ffe3412e98b301605dcf7cd00.webp",
+          "alt": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H894b2c1822b04fe789caaac23b8234c6E.webp",
+          "alt": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Dimensiune: 12*6,5*3,5 cm",
+        "Capacitate: 100 ml",
+        "Greutate: 19 g",
+        "Material sticlă: HDPE (polietilenă de înaltă densitate)",
+        "Material capac: PP (polipropilenă)",
+        "Culoare: Alb",
+        "Tip: HDPE",
+        "Stil: Religios, Cruce"
+      ],
+      "specifications": [
+        {
+          "name": "Dimensiune",
+          "value": "12*6,5*3,5 cm"
+        },
+        {
+          "name": "Capacitate",
+          "value": "100 ml"
+        },
+        {
+          "name": "Greutate",
+          "value": "19 g"
+        },
+        {
+          "name": "Material sticlă",
+          "value": "HDPE (polietilenă de înaltă densitate)"
+        },
+        {
+          "name": "Material capac",
+          "value": "PP (polipropilenă)"
+        },
+        {
+          "name": "Culoare",
+          "value": "Alb"
+        },
+        {
+          "name": "Tip",
+          "value": "HDPE"
+        },
+        {
+          "name": "Stil",
+          "value": "Religios, Cruce"
+        },
+        {
+          "name": "Material",
+          "value": "Plastic"
+        },
+        {
+          "name": "Caracteristică",
+          "value": "Făcut manual"
+        },
+        {
+          "name": "Tehnică",
+          "value": "calandrare"
+        },
+        {
+          "name": "Model",
+          "value": "Modern"
+        },
+        {
+          "name": "Tip produs",
+          "value": "Altul"
+        },
+        {
+          "name": "Aplicație",
+          "value": "Artă și colectii, Decoratiuni de sarbatori si cadou, Decoratiuni de nunta si cadou, Suvenir, Ziua de Aprilie, Cadou de afaceri, Decoratiuni pentru acasa, Inapoi la scoala, Anul Nou Chinezesc, Craciun, Ziua Pamantului, Pasti, Ziua Tatalui, Absolvire, Halloween, Ziua Mamei, Anul Nou, Ziua Recunostintei, Valentine's Day"
+        },
+        {
+          "name": "Loc de origine",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Număr model",
+          "value": "HWB02"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.32",
+        "regularPrice": "0.32",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.32"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce",
+          "description": "Provizii religioase en-gros Sticlă cu apă sfințită din plastic cu capac flip-top cruce 100ml Plastic Polipropilenă Meșteșuguri",
+          "sku": "ALI-AAG4TG7BAOVioqqEY6eYM-WE",
+          "image": [
+            "https://sc04.alicdn.com/kf/H98eea82dfdad405382a0fd73b61328d2P.jpg",
+            "https://sc04.alicdn.com/kf/H79294427a2f24b0587f5a1ab69dddafd4.jpg",
+            "https://sc04.alicdn.com/kf/Hefa7c4596a7c4f0c989064947a46c07fN.jpg",
+            "https://sc04.alicdn.com/kf/H35673fab67864ac583297a1fcb3b33ccj.jpg",
+            "https://sc04.alicdn.com/kf/H38799564ffe3412e98b301605dcf7cd00.jpg",
+            "https://sc04.alicdn.com/kf/H894b2c1822b04fe789caaac23b8234c6E.jpg"
+          ],
+          "category": "Ornamente",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Dimensiune",
+              "value": "12*6,5*3,5 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Capacitate",
+              "value": "100 ml"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Greutate",
+              "value": "19 g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material sticlă",
+              "value": "HDPE (polietilenă de înaltă densitate)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material capac",
+              "value": "PP (polipropilenă)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Culoare",
+              "value": "Alb"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip",
+              "value": "HDPE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Religios, Cruce"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Plastic"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Caracteristică",
+              "value": "Făcut manual"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnică",
+              "value": "calandrare"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Model",
+              "value": "Modern"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip produs",
+              "value": "Altul"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Aplicație",
+              "value": "Artă și colectii, Decoratiuni de sarbatori si cadou, Decoratiuni de nunta si cadou, Suvenir, Ziua de Aprilie, Cadou de afaceri, Decoratiuni pentru acasa, Inapoi la scoala, Anul Nou Chinezesc, Craciun, Ziua Pamantului, Pasti, Ziua Tatalui, Absolvire, Halloween, Ziua Mamei, Anul Nou, Ziua Recunostintei, Valentine's Day"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Loc de origine",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Număr model",
+              "value": "HWB02"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.32",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.32",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "contentHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:21.876Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "contentHash": "0f60eb1193272542b3afdc75ef1bdc293572aec601deb2a62feef82c80b7a68b",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:13.530Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE0TG7BAOVioqqEY6eBRnX0",
+      "sourceId": "AAE0TG7BAOVioqqEY6eBRnX0",
+      "sourceFingerprint": "defbcb225bdd2d9323a4fa3e149e001168ab73219ebb2aa36af770666a08cbdf",
+      "locale": "ro",
+      "slug": "retro-st-benedict-cross-pendant-with-inri-ebrnx0",
+      "title": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI",
+      "eyebrow": "Pandantiv cu Crucea Sf. Benedict",
+      "summary": "Un pandantiv în formă de cruce de 7,5x4,5 cm, cu finisaj retro și inscripția INRI. Designul face referire la tradiția Sf. Benedict, populară în bijuteriile devoționale catolice. Oferit în mai multe variante de culoare pentru planificarea sortimentelor.",
+      "description": "Acest pandantiv în formă de cruce măsoară 7,5 pe 4,5 centimetri, o dimensiune care funcționează bine ca punct focal pe coliere cu șnur sau lanț. Stilul retro îi conferă un aspect antic, iar inscripția INRI deasupra figurii urmează o convenție familiară a crucifixului. Deși titlul menționează Sf. Benedict, atributele vizibile confirmă doar designul și dimensiunea crucii. Disponibil în mai multe culori, se potrivește cumpărătorilor care construiesc un inventar variat pentru magazine de articole religioase sau linii de artizanat. Acest articol este furnizat ca un accesoriu din metal neprețios; nu sunt disponibile detalii despre material sau finisaj. Contactați-ne pentru disponibilitatea actuală a variantelor.",
+      "catholicContext": "Medalia Sf. Benedict este un obiect devoțional recunoscut în tradiția catolică, adesea asociată cu protecția împotriva răului, deși acest pandantiv nu este descris ca fiind binecuvântat sau consacrat.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accesorii",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hb6aff92bad3e40f3adf0715c25fd7f3fT.webp",
+      "imageAlt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb6aff92bad3e40f3adf0715c25fd7f3fT.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b9d5553e4484232ba83fc9c25158d400.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hceefcca35c8f410f9dbf3fd7790032bd5.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha82fdc029a3a442086dd51f0086bb029e.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H54f7cbf0bf874296b78c5507a9497fdfC.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb1c105449bf9411b9093af26722f299fO.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb38b265133e4a7e98f10f17abc66e4dS.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 17",
+          "label": "17",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9cccdbf4a0bc414a890dd8fee9bf6287i.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 16",
+          "label": "16",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4776e2fa54544be3a3e4b1282a2a2ecbW.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 19",
+          "label": "19",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He5822315e0964ec1b2415f1f12cc1a4b5.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 18",
+          "label": "18",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4dd8aef436cc41349c55d8a422fba5512.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 21",
+          "label": "21",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf046cb8464e74a33b90d1d145cc27093X.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 20",
+          "label": "20",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H02c4cb85499c49e986568fca11d6b0912.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 23",
+          "label": "23",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97c2409913094cef9b8bbbf2432cdf4fF.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 22",
+          "label": "22",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He73445e5408d444db912af0bfb73b1f14.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 1",
+          "label": "1",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3d2fb6eda04e475184ce7822f0349bac2.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 3",
+          "label": "3",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ae39999e6e343428cdb67cfff453ec5l.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 2",
+          "label": "2",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00aa0d38b9f74c3f928a026d929080f1m.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 5",
+          "label": "5",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H25b8e00d6ca045a1be91029184ca34adM.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 4",
+          "label": "4",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7d2ad023099d4653b04e4ab704460d1el.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 7",
+          "label": "7",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb5917ffb85b6400f85ecef7930c8a6a0F.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 6",
+          "label": "6",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf13a65d5c4ef484c9e00b63cb0943989o.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 9",
+          "label": "9",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb20e9058bcf844ed98b4706a7cab503cP.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 8",
+          "label": "8",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9cb407ad54bb4977b7112da2719b2ed5F.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 11",
+          "label": "11",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha19f3b3f8fd9423b87d47d22deee3ada8.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 10",
+          "label": "10",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5137144f8cdf40c8ac11fed77599dbefP.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 13",
+          "label": "13",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He6eed8fa26ce42f09d7adf0efb6bad39t.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 12",
+          "label": "12",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1d2faa3a6f0c483d820d8c441bfd184cz.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 15",
+          "label": "15",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0406b1bf7a254ea39b7f6be2eb1c30ebg.webp",
+          "alt": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI - 14",
+          "label": "14",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--14"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Pandantiv în formă de cruce cu inscripția INRI, referindu-se la titulus tradițional al lui Hristos",
+        "Măsoară 7,5 x 4,5 cm",
+        "Design retro",
+        "Disponibil în mai multe culori",
+        "Categorie de design: Cruce"
+      ],
+      "specifications": [
+        {
+          "name": "Înălțime",
+          "value": "7,5 cm"
+        },
+        {
+          "name": "Lățime",
+          "value": "4,5 cm"
+        },
+        {
+          "name": "Design",
+          "value": "Cruce"
+        },
+        {
+          "name": "Variante de culoare",
+          "value": "Multiple (22 variante)"
+        }
+      ],
+      "applications": [
+        "Folosit ca pandantiv pe coliere sau șnururi",
+        "Inclus în sortimente de bijuterii religioase",
+        "Folosit în proiecte de artizanat pentru realizarea de rozarii sau coroane",
+        "Expus ca o cruce decorativă în case sau vehicule"
+      ],
+      "faq": [
+        {
+          "question": "Care sunt dimensiunile acestui pandantiv în formă de cruce?",
+          "answer": "Pandantivul măsoară 7,5 cm în înălțime și 4,5 cm în lățime."
+        },
+        {
+          "question": "Este acesta un crucifix sau o cruce simplă?",
+          "answer": "Produsul este descris ca un pandantiv în formă de cruce cu inscripția INRI. Prezența unui corpus nu este specificată, deci este cel mai bine descris ca o cruce cu titulus INRI."
+        },
+        {
+          "question": "Câte opțiuni de culoare sunt disponibile?",
+          "answer": "Produsul este oferit în mai multe culori, cu 22 de variante listate."
+        }
+      ],
+      "pricing": {
+        "price": "0.37",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.37"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pandantiv cu Crucea Sf. Benedict, Retro, cu INRI",
+          "description": "Un pandantiv în formă de cruce de 7,5x4,5 cm, cu finisaj retro și inscripția INRI. Designul face referire la tradiția Sf. Benedict, populară în bijuteriile devoționale catolice. Oferit în mai multe variante de culoare pentru planificarea sortimentelor.",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb6aff92bad3e40f3adf0715c25fd7f3fT.jpg",
+            "https://sc04.alicdn.com/kf/H1b9d5553e4484232ba83fc9c25158d400.jpg",
+            "https://sc04.alicdn.com/kf/Hceefcca35c8f410f9dbf3fd7790032bd5.jpg",
+            "https://sc04.alicdn.com/kf/Ha82fdc029a3a442086dd51f0086bb029e.jpg",
+            "https://sc04.alicdn.com/kf/H54f7cbf0bf874296b78c5507a9497fdfC.jpg",
+            "https://sc04.alicdn.com/kf/Hb1c105449bf9411b9093af26722f299fO.jpg"
+          ],
+          "category": "Accesorii",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Înălțime",
+              "value": "7,5 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lățime",
+              "value": "4,5 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Cruce"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante de culoare",
+              "value": "Multiple (22 variante)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.37",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.37",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Care sunt dimensiunile acestui pandantiv în formă de cruce?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pandantivul măsoară 7,5 cm în înălțime și 4,5 cm în lățime."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Este acesta un crucifix sau o cruce simplă?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Produsul este descris ca un pandantiv în formă de cruce cu inscripția INRI. Prezența unui corpus nu este specificată, deci este cel mai bine descris ca o cruce cu titulus INRI."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Câte opțiuni de culoare sunt disponibile?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Produsul este oferit în mai multe culori, cu 22 de variante listate."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "contentHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:56.065Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "contentHash": "c99de4620e4097e7bc534209a28619f1346b385a42c666122699438c65243163",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:23.972Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEITG7BAOVioqqEY6eMrXfU",
+      "sourceId": "AAEITG7BAOVioqqEY6eMrXfU",
+      "sourceFingerprint": "f4b5d833aed962788cdf00484f1d7184762adbe7ce67c1e6eacb19307f9f2f8e",
+      "locale": "ro",
+      "slug": "colorful-polymer-clay-rosary-necklace-with-alloy-pendant-emrxfu",
+      "title": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj",
+      "eyebrow": "Colier Rozariu Catolic",
+      "summary": "Acest colier rozariu catolic prezintă mărgele colorate din lut polimeric cu model, disponibile în dimensiuni de 6mm sau 8mm, acompaniate de un pandantiv din aliaj cu Iisus. Proiectat ca mărgele de rugăciune pentru devoțiune personală, oferă o opțiune durabilă și ușoară pentru utilizarea zilnică.",
+      "description": "Acest colier rozariu este realizat cu mărgele colorate din lut polimeric, cu un design modelat, disponibile în diametre de 6mm sau 8mm. Mărgelele sunt înșirate cu un pandantiv din aliaj cu finisaj argintiu, înfățișându-l pe Iisus, potrivit pentru rugăciunea și practica devoțională catolică. Construcția din lut polimeric oferă o alternativă ușoară, non-metalică, la mărgelele tradiționale din sticlă sau lemn. Alege dimensiunea preferată a mărgelelor pentru o potrivire confortabilă. Colierul servește ca un ajutor tangibil pentru recitarea Rozariului, o rugăciune care meditează asupra evenimentelor cheie din viețile lui Iisus și al Mariei.",
+      "catholicContext": "Rozariul este o rugăciune catolică centrată pe contemplarea evenimentelor din viețile lui Iisus Hristos și al Fecioarei Maria.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Rozarii catolice",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+      "imageAlt": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+          "alt": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6c0e8190e813496bb448287c2ca5c47dL.webp",
+          "alt": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb29ee531bd1046f8966c73a20f70c59cx.webp",
+          "alt": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hceb2b21113f34558a32090262a7b36a29.webp",
+          "alt": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3cc441c229674006b552f973e6a3ffbc9.webp",
+          "alt": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde7324582aa34d5899d9119b929fab00N.webp",
+          "alt": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+          "alt": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj - 6mm",
+          "label": "6mm",
+          "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU-V--2"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Mărgele colorate din lut polimeric cu model, în dimensiuni de 6mm sau 8mm",
+        "Pandantiv din aliaj cu finisaj argintiu, înfățișându-l pe Iisus",
+        "Design de rozariu catolic pentru rugăciune",
+        "Material ușor și durabil",
+        "Disponibil cu finisaj argintiu"
+      ],
+      "specifications": [
+        {
+          "name": "Dimensiunea mărgelelor",
+          "value": "6mm sau 8mm"
+        },
+        {
+          "name": "Material",
+          "value": "Lut polimeric, aliaj"
+        },
+        {
+          "name": "Culoare",
+          "value": "Argintiu"
+        },
+        {
+          "name": "Stil",
+          "value": "Colier"
+        }
+      ],
+      "applications": [
+        "Rugăciune personală cu Rozariul",
+        "Bijuterie devoțională",
+        "Cadou pentru ocazii catolice",
+        "Accesoriu de purtat zilnic"
+      ],
+      "faq": [
+        {
+          "question": "Ce dimensiuni de mărgele sunt disponibile pentru acest colier rozariu?",
+          "answer": "Acest colier rozariu este disponibil cu mărgele de 6mm sau 8mm, permițându-vă să alegeți dimensiunea care se simte cea mai confortabilă pentru manipulare în timpul rugăciunii."
+        },
+        {
+          "question": "Ce materiale sunt folosite pentru acest rozariu?",
+          "answer": "Mărgelele sunt realizate din lut polimeric colorat, iar pandantivul este din aliaj cu finisaj argintiu. Combinația oferă o construcție ușoară și durabilă."
+        },
+        {
+          "question": "Este acest rozariu potrivit pentru utilizarea zilnică în devoțiune?",
+          "answer": "Da, mărgelele din lut polimeric și pandantivul din aliaj sunt proiectate pentru manipulare regulată, făcându-l potrivit pentru practica devoțională zilnică ca rozariu și ca bijuterie religioasă."
+        }
+      ],
+      "pricing": {
+        "price": "0.80",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.80",
+          "max": "1.10"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Colier Rozariu din Lut Polimeric Colorat cu Pandantiv din Aliaj",
+          "description": "Acest colier rozariu catolic prezintă mărgele colorate din lut polimeric cu model, disponibile în dimensiuni de 6mm sau 8mm, acompaniate de un pandantiv din aliaj cu Iisus. Proiectat ca mărgele de rugăciune pentru devoțiune personală, oferă o opțiune durabilă și ușoară pentru utilizarea zilnică.",
+          "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU",
+          "image": [
+            "https://sc04.alicdn.com/kf/He9abf08ba52d463f9220e963907c9a86r.jpg",
+            "https://sc04.alicdn.com/kf/H6c0e8190e813496bb448287c2ca5c47dL.jpg",
+            "https://sc04.alicdn.com/kf/Hb29ee531bd1046f8966c73a20f70c59cx.jpg",
+            "https://sc04.alicdn.com/kf/Hceb2b21113f34558a32090262a7b36a29.jpg",
+            "https://sc04.alicdn.com/kf/H3cc441c229674006b552f973e6a3ffbc9.jpg",
+            "https://sc04.alicdn.com/kf/Hde7324582aa34d5899d9119b929fab00N.jpg"
+          ],
+          "category": "Rozarii catolice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Dimensiunea mărgelelor",
+              "value": "6mm sau 8mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Lut polimeric, aliaj"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Culoare",
+              "value": "Argintiu"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Colier"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.80",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.80",
+              "maxPrice": "1.10",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ce dimensiuni de mărgele sunt disponibile pentru acest colier rozariu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Acest colier rozariu este disponibil cu mărgele de 6mm sau 8mm, permițându-vă să alegeți dimensiunea care se simte cea mai confortabilă pentru manipulare în timpul rugăciunii."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce materiale sunt folosite pentru acest rozariu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mărgelele sunt realizate din lut polimeric colorat, iar pandantivul este din aliaj cu finisaj argintiu. Combinația oferă o construcție ușoară și durabilă."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Este acest rozariu potrivit pentru utilizarea zilnică în devoțiune?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, mărgelele din lut polimeric și pandantivul din aliaj sunt proiectate pentru manipulare regulată, făcându-l potrivit pentru practica devoțională zilnică ca rozariu și ca bijuterie religioasă."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "contentHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:10.197Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "contentHash": "8255aef32d1a8e36ef5977d1f8ffd5daa7894a3122809cd73b5317cd559be7a8",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:32.484Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHUTG7BAOVioqqEY6e7K9aU",
+      "sourceId": "AAHUTG7BAOVioqqEY6e7K9aU",
+      "sourceFingerprint": "3477133df743fedbd732949bbc421f58e3c6b44d2a4da2525bf2e6b31c2ebd34",
+      "locale": "ro",
+      "slug": "catholic-graffiti-sticker-sheet-60-waterproof-pvc-decals-e7k9au",
+      "title": "Foaie de abțibilduri catolice graffiti – 60 de decalcomanii din PVC impermeabile",
+      "eyebrow": "Foaie de abțibilduri PVC cu temă catolică",
+      "summary": "Acest pachet de 60 de abțibilduri cu temă catolică folosește PVC durabil și impermeabil, cu laminare lucioasă și imprimare digitală. Decalcomaniile în stil desen animat sunt potrivite pentru telefoane, sticle de apă și trotinete, fiind o alegere practică pentru a adăuga artă inspirată de credință obiectelor de zi cu zi.",
+      "description": "Setul de abțibilduri include 60 de abțibilduri individuale cu imagini catolice în stil desen animat, imprimate digital și finisate cu laminare lucioasă. Materialul PVC este moale, durabil și ecologic, conceput pentru a rezista pe suprafețe curbate, cum ar fi sticlele și ghidonul. Fiecare abțibild poate fi aplicat pe suprafețe netede pentru o decorare permanentă sau repoziționabilă. Deoarece sunt impermeabile, sunt potrivite pentru obiecte care intră în contact cu umezeala, cum ar fi sticlele de apă și echipamentele pentru exterior. Setul oferă o varietate de modele într-un singur pachet, oferind diversitate pentru personalizarea mai multor bunuri.",
+      "catholicContext": "Abțibildurile prezintă imagini cu temă catolică, legate de devoțiunile populare din cultura catolică, dar nu sunt obiecte binecuvântate sau sfințite.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornamente",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHUTG7BAOVioqqEY6e7K9aU",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H8abd7a50804e4d029855fb84e6a7daec6.webp",
+      "imageAlt": "Foaie de abțibilduri catolice graffiti – 60 de decalcomanii din PVC impermeabile",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8abd7a50804e4d029855fb84e6a7daec6.webp",
+          "alt": "Foaie de abțibilduri catolice graffiti – 60 de decalcomanii din PVC impermeabile"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fb293fe40274f29877445270931e03dx.webp",
+          "alt": "Foaie de abțibilduri catolice graffiti – 60 de decalcomanii din PVC impermeabile"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H20b889d3b2fd41a3a7ff6f2bb53b079bB.webp",
+          "alt": "Foaie de abțibilduri catolice graffiti – 60 de decalcomanii din PVC impermeabile"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5707cb59cacd45af9166927359ec3ccbe.webp",
+          "alt": "Foaie de abțibilduri catolice graffiti – 60 de decalcomanii din PVC impermeabile"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H81a57fa2f8464f4f80a25cdd1ffd9777I.webp",
+          "alt": "Foaie de abțibilduri catolice graffiti – 60 de decalcomanii din PVC impermeabile"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6ee6bd5980dc479f99191d842a3e135bK.webp",
+          "alt": "Foaie de abțibilduri catolice graffiti – 60 de decalcomanii din PVC impermeabile"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "60 de abțibilduri per pachet cu modele catolice în stil desen animat",
+        "Imprimare digitală pentru grafică clară și colorată",
+        "Laminarea lucioasă adaugă un strat protector strălucitor",
+        "Material PVC impermeabil rezistă la umezeală și uzură",
+        "Moale și flexibil, se conformează diferitelor forme de suprafață",
+        "Alegere de material ecologic"
+      ],
+      "specifications": [
+        {
+          "name": "Tip produs",
+          "value": "Abțibild adeziv"
+        },
+        {
+          "name": "Material",
+          "value": "PVC"
+        },
+        {
+          "name": "Imprimare",
+          "value": "Imprimare digitală"
+        },
+        {
+          "name": "Finisare suprafață",
+          "value": "Laminare lucioasă"
+        },
+        {
+          "name": "Stil",
+          "value": "Desen animat"
+        },
+        {
+          "name": "Impermeabil",
+          "value": "Da"
+        }
+      ],
+      "applications": [
+        "Decorarea huselor de telefon",
+        "Personalizarea sticlelor de apă",
+        "Adăugarea de stil trotinetelor",
+        "Împachetarea cadourilor tematice sau meșteșuguri"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material sunt fabricate aceste abțibilduri?",
+          "answer": "Abțibildurile sunt fabricate din PVC, care este moale, durabil și ecologic. Acestea au laminare lucioasă și imprimare digitală."
+        },
+        {
+          "question": "Sunt abțibildurile impermeabile?",
+          "answer": "Da, abțibildurile sunt impermeabile, fiind potrivite pentru obiecte care se pot uda, cum ar fi sticlele de apă sau echipamentele pentru exterior."
+        },
+        {
+          "question": "Câte abțibilduri sunt incluse?",
+          "answer": "Pachetul include 60 de abțibilduri, oferind o varietate de modele catolice în stil desen animat."
+        }
+      ],
+      "pricing": {
+        "price": "0.60",
+        "regularPrice": "0.60",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.50",
+          "max": "0.60"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Foaie de abțibilduri catolice graffiti – 60 de decalcomanii din PVC impermeabile",
+          "description": "Acest pachet de 60 de abțibilduri cu temă catolică folosește PVC durabil și impermeabil, cu laminare lucioasă și imprimare digitală. Decalcomaniile în stil desen animat sunt potrivite pentru telefoane, sticle de apă și trotinete, fiind o alegere practică pentru a adăuga artă inspirată de credință obiectelor de zi cu zi.",
+          "sku": "ALI-AAHUTG7BAOVioqqEY6e7K9aU",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8abd7a50804e4d029855fb84e6a7daec6.png",
+            "https://sc04.alicdn.com/kf/H3fb293fe40274f29877445270931e03dx.png",
+            "https://sc04.alicdn.com/kf/H20b889d3b2fd41a3a7ff6f2bb53b079bB.png",
+            "https://sc04.alicdn.com/kf/H5707cb59cacd45af9166927359ec3ccbe.png",
+            "https://sc04.alicdn.com/kf/H81a57fa2f8464f4f80a25cdd1ffd9777I.png",
+            "https://sc04.alicdn.com/kf/H6ee6bd5980dc479f99191d842a3e135bK.png"
+          ],
+          "category": "Ornamente",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Tip produs",
+              "value": "Abțibild adeziv"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "PVC"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Imprimare",
+              "value": "Imprimare digitală"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finisare suprafață",
+              "value": "Laminare lucioasă"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Desen animat"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Impermeabil",
+              "value": "Da"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.60",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.50",
+              "maxPrice": "0.60",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material sunt fabricate aceste abțibilduri?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Abțibildurile sunt fabricate din PVC, care este moale, durabil și ecologic. Acestea au laminare lucioasă și imprimare digitală."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Sunt abțibildurile impermeabile?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, abțibildurile sunt impermeabile, fiind potrivite pentru obiecte care se pot uda, cum ar fi sticlele de apă sau echipamentele pentru exterior."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Câte abțibilduri sunt incluse?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pachetul include 60 de abțibilduri, oferind o varietate de modele catolice în stil desen animat."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "contentHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:56.660Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "contentHash": "97b2aaeac0cc3f68129b4331550858c0a821a5e8ea73876ecc49cd4293b41748",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:41.381Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEkTG7BAOVioqqEY6eOmWAZ",
+      "sourceId": "AAEkTG7BAOVioqqEY6eOmWAZ",
+      "sourceFingerprint": "68426610d9b6aeb36b0d91193d10d00cfc5c2bac719a96dcb6ef5ecdd6bd43b9",
+      "locale": "ro",
+      "slug": "8x10mm-wooden-bead-rosary-necklace-with-cross-eomwaz",
+      "title": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce",
+      "eyebrow": "Colier rozariu cu mărgele de lemn",
+      "summary": "Acest colier rozariu cu mărgele de lemn de 8x10mm are o cruce și este disponibil în șase finisaje maro. Ideal pentru rugăciune personală, cadouri și realizarea de bijuterii. Fiecare variantă oferă un ton natural de lemn, potrivit pentru utilizare devoțională.",
+      "description": "Acest colier rozariu este realizat din mărgele de lemn de 8x10mm, oferind o senzație substanțială și tactilă pentru rugăciune. Designul include un pandantiv cu cruce, făcându-l un set complet pentru devoțiuni. Este disponibil în șase variante distincte de maro, permițându-vă să alegeți o nuanță care se potrivește preferințelor dumneavoastră. Fie pentru uz personal, ca un cadou atent, sau ca bază pentru proiecte de bijuterii personalizate, aceste mărgele oferă versatilitate. Construcția din lemn este ușoară, iar finisajul natural evidențiază caracterul lemnului.",
+      "catholicContext": "Rozariul este o rugăciune catolică centrată pe contemplarea evenimentelor din viața lui Isus Hristos și a Fecioarei Maria.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Rozarii catolice",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H29e4ca8c55d74387a315607d317ad5d1B.webp",
+      "imageAlt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H29e4ca8c55d74387a315607d317ad5d1B.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H268bd0c92f474ca1bfc117ff9955baddn.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd3885d4ae5924f7da4691a3df02699c6t.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hea473f75d9774d00ba96e096f5b62c93V.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd5cea6457c3f461b996bbaf6916b0ebeq.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7aef075e1a104ef0b5c63a48e8fe751eW.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbc50558701084c84a77b9801e56e5669n.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce - maro-3",
+          "label": "maro-3",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H923b157f94034ab899245e0e81ffcd24N.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce - maro-4",
+          "label": "maro-4",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83e7e07e9422437c9f158fb40b59ba6bq.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce - maro-1",
+          "label": "maro-1",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc0567aa6585a415dad2b609b78c13fa0S.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce - maro-2",
+          "label": "maro-2",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8d1336b7ce014f868e9d9e68e35d45b4N.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce - maro-5",
+          "label": "maro-5",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H040f5f99e45b46d6af6b107c27175aa28.webp",
+          "alt": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce - maro-6",
+          "label": "maro-6",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--6"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Dimensiunea mărgelelor: 8x10mm",
+        "Material: lemn",
+        "Design: rozariu cu cruce",
+        "Disponibil în șase variante maro",
+        "Potrivit pentru realizarea de bijuterii și utilizare devoțională"
+      ],
+      "specifications": [
+        {
+          "name": "Dimensiunea mărgelelor",
+          "value": "8x10mm"
+        },
+        {
+          "name": "Material",
+          "value": "Lemn"
+        },
+        {
+          "name": "Design",
+          "value": "Rozariu cu cruce"
+        },
+        {
+          "name": "Variante de culoare",
+          "value": "Maro-1, Maro-2, Maro-3, Maro-4, Maro-5, Maro-6"
+        }
+      ],
+      "applications": [
+        "Rugăciune personală și devoțiune",
+        "Realizarea de cadouri religioase",
+        "Material pentru meșteșuguri și realizarea de bijuterii",
+        "Instrument educațional pentru predarea despre Rozariu"
+      ],
+      "faq": [
+        {
+          "question": "Care sunt dimensiunile mărgelelor?",
+          "answer": "Mărgelele măsoară 8x10mm, oferind o dimensiune confortabilă pentru manipulare în timpul rugăciunii."
+        },
+        {
+          "question": "Ce material este folosit pentru mărgele?",
+          "answer": "Mărgelele sunt fabricate din lemn, oferind o senzație naturală și ușoară."
+        },
+        {
+          "question": "Există opțiuni de culori diferite?",
+          "answer": "Da, rozariul este disponibil în șase variante maro, de la Maro-1 la Maro-6."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.60",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Colier Rozariu cu Mărgele de Lemn 8x10mm cu Cruce",
+          "description": "Acest colier rozariu cu mărgele de lemn de 8x10mm are o cruce și este disponibil în șase finisaje maro. Ideal pentru rugăciune personală, cadouri și realizarea de bijuterii. Fiecare variantă oferă un ton natural de lemn, potrivit pentru utilizare devoțională.",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ",
+          "image": [
+            "https://sc04.alicdn.com/kf/H29e4ca8c55d74387a315607d317ad5d1B.jpg",
+            "https://sc04.alicdn.com/kf/H268bd0c92f474ca1bfc117ff9955baddn.jpg",
+            "https://sc04.alicdn.com/kf/Hd3885d4ae5924f7da4691a3df02699c6t.jpg",
+            "https://sc04.alicdn.com/kf/Hea473f75d9774d00ba96e096f5b62c93V.jpg",
+            "https://sc04.alicdn.com/kf/Hd5cea6457c3f461b996bbaf6916b0ebeq.jpg",
+            "https://sc04.alicdn.com/kf/H7aef075e1a104ef0b5c63a48e8fe751eW.jpg"
+          ],
+          "category": "Rozarii catolice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Dimensiunea mărgelelor",
+              "value": "8x10mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Lemn"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Rozariu cu cruce"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante de culoare",
+              "value": "Maro-1, Maro-2, Maro-3, Maro-4, Maro-5, Maro-6"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.60",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Care sunt dimensiunile mărgelelor?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mărgelele măsoară 8x10mm, oferind o dimensiune confortabilă pentru manipulare în timpul rugăciunii."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce material este folosit pentru mărgele?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mărgelele sunt fabricate din lemn, oferind o senzație naturală și ușoară."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Există opțiuni de culori diferite?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, rozariul este disponibil în șase variante maro, de la Maro-1 la Maro-6."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "contentHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:04.844Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "contentHash": "b4f73e422d379ee16db2286d1d728d88619e697b47c3a0efada8ec314a86a324",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:34:17.968Z",
             "model": "deepseek-v4-flash"
           }
         }

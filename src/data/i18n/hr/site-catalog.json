@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "hr",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a945534217abc6093932f6bdc2d50e449bca6caad2e09bd7a7a12168dda30524",
-  "generatedAt": "2026-08-24T03:27:20.481Z",
+  "sourceCatalogHash": "79bdf555002057e7f0305866fe8bbed3cce324419293e6db8415d8dc90d5df91",
+  "generatedAt": "2026-08-25T03:25:11.283Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAHyTG7BAOVioqqEY6eBS4oY",
-      "AAGpTG7BAOVioqqEY6e51ifv",
-      "AAHvTG7BAOVioqqEY6e0Sscm",
-      "AAE4TG7BAOVioqqEY6eBS49Z",
-      "AAGyTG7BAOVioqqEY6eBuRjc",
-      "AAFiTG7BAOVioqqEY6eBSz9T",
-      "AAEVTG7BAOVioqqEY6eiGfxa",
-      "AAEKTG7BAOVioqqEY6edXi_c",
-      "AAECTG7BAOVioqqEY6eBS9pY",
-      "AAHaTG7BAOVioqqEY6eMU1me"
+      "AAE8TG7BAOVioqqEY6eoXkHx",
+      "AAGMTG7BAOVioqqEY6e0kwy1",
+      "AAHcTG7BAOVioqqEY6eepIEV",
+      "AAEBTG7BAOVioqqEY6eiAJ88",
+      "AAG4TG7BAOVioqqEY6eYM-WE",
+      "AAE0TG7BAOVioqqEY6eBRnX0",
+      "AAEITG7BAOVioqqEY6eMrXfU",
+      "AAHUTG7BAOVioqqEY6e7K9aU",
+      "AAFlTG7BAOVioqqEY6e0b3hG",
+      "AAEkTG7BAOVioqqEY6eOmWAZ"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd"
@@ -37,31 +37,33 @@
     "brooch": "Broš",
     "uncategorized": "Nekategorizirano"
   },
-  "categoryGlossarySourceHash": "b6c56a83072314b56383fbfa434e33dfc4e91cf06a3a3e3c5578f25bc7ae98a6",
+  "categoryGlossarySourceHash": "b977a2b717741eb323106d1e21c2cdda18d509f7f966e8c98ed0dd88af22c4ba",
   "translationSummary": {
-    "ready": 354,
-    "skipped": 5,
+    "ready": 363,
+    "skipped": 6,
     "skippedProductIds": [
       "AAGxTG7BAOVioqqEY6e7uzWC",
       "AAEDTG7BAOVioqqEY6erMoEh",
       "AAGXTG7BAOVioqqEY6eoRu-2",
       "AAE9TG7BAOVioqqEY6eoSmZh",
-      "AAFiTG7BAOVioqqEY6eBSz9T"
+      "AAFiTG7BAOVioqqEY6eBSz9T",
+      "AAFlTG7BAOVioqqEY6e0b3hG"
     ],
-    "reused": 345,
-    "generated": 9,
+    "reused": 353,
+    "generated": 10,
     "generatedProductIds": [
-      "AAHyTG7BAOVioqqEY6eBS4oY",
-      "AAGpTG7BAOVioqqEY6e51ifv",
-      "AAHvTG7BAOVioqqEY6e0Sscm",
-      "AAE4TG7BAOVioqqEY6eBS49Z",
       "AAGyTG7BAOVioqqEY6eBuRjc",
-      "AAEVTG7BAOVioqqEY6eiGfxa",
-      "AAEKTG7BAOVioqqEY6edXi_c",
-      "AAECTG7BAOVioqqEY6eBS9pY",
-      "AAHaTG7BAOVioqqEY6eMU1me"
+      "AAE8TG7BAOVioqqEY6eoXkHx",
+      "AAGMTG7BAOVioqqEY6e0kwy1",
+      "AAHcTG7BAOVioqqEY6eepIEV",
+      "AAEBTG7BAOVioqqEY6eiAJ88",
+      "AAG4TG7BAOVioqqEY6eYM-WE",
+      "AAE0TG7BAOVioqqEY6eBRnX0",
+      "AAEITG7BAOVioqqEY6eMrXfU",
+      "AAHUTG7BAOVioqqEY6e7K9aU",
+      "AAEkTG7BAOVioqqEY6eOmWAZ"
     ],
-    "retriedBacklog": 4,
+    "retriedBacklog": 5,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -2124,6 +2126,397 @@
             "contentHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09",
             "attempts": 0,
             "updatedAt": "2026-08-24T03:07:52.401Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFlTG7BAOVioqqEY6e0b3hG",
+      "sourceId": "AAFlTG7BAOVioqqEY6e0b3hG",
+      "sourceFingerprint": "c951c6ed49d6f1c92a092b1312c9609bf616ffb7d1b6f2053c580c89fe30968c",
+      "locale": "en",
+      "slug": "led-electronic-wax-candle-with-our-lady-and-jesus-e0b3hg",
+      "title": "LED Electronic Wax Candle with Our Lady and Jesus",
+      "eyebrow": "LED electronic wax candle set",
+      "summary": "An LED electronic wax candle with acrylic imagery of Our Lady and Jesus. Made of plastic, designed for holiday decoration and gifting. It provides a safe alternative to traditional candles, suitable for Christmas settings.",
+      "description": "This LED electronic wax candle brings a reverent Marian image to your holiday decor without the hazards of an open flame. The plastic body and acrylic imagery keep weight low and handling simple, while the built-in LED illuminates the candle with a gentle glow. It is positioned for Christmas use as both a decoration and a gift. Because it is electronic, there is no wax to spill or smoke to manage. Reliable and reusable, it suits homes, offices, or parish gathering spaces. We offer this item through our sourcing platform; contact us for ordering details.",
+      "catholicContext": "Our Lady is a traditional English Catholic title for the Virgin Mary, and Marian imagery is widely used in Catholic devotional items.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He8a178ab54fb4917a28d895acf4ceacev.webp",
+      "imageAlt": "LED Electronic Wax Candle with Our Lady and Jesus",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He8a178ab54fb4917a28d895acf4ceacev.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7f5aef497fa4d3d8ece0ef054fec12f3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H796fd0f21b714f07bc2bd10cf4ea0f1dj.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd418f0b174f24318ba5e304dadcd4133Y.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H67092c68c8b04ded860bb8bf08565ff6x.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdfedc4818d65477d8765b8d00c06d2a3d.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H71d31ee6e2474150b60367efd622e52eo.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3a38012c4f7e49ccab2aed788bf6d7962.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb202cb3ac32b41c8b7a2188afbf6cd68j.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Had4ed47e682b49aeb1cb37012c29582bZ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8546604da4514e4b915b29359d82a2b4F.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc60dfa94e5604d5e8e72ecf674dcd26eK.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H159df54c7fe24db58d3191f202df7769V.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7b1bfd24041b45b3998c6f9c07d8f266p.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ef87b2d21d04aa0ba1c71abb93fe2dfr.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H909fb14ee1744444af5571219e53c26eQ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc29b4c1c3d8a4755a0f52c76997ba4ce3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hac5e39fbd72f456488054029dab8d715o.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5d02e50dffc845b0a9276b451a1da174Q.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97be0367fbf74034ab6884c565d8cff6m.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3ba932752d2248098ddf0a31446731e9D.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1bbeabafca4b4932b67229e70d4831947.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7f78b2aef9524446a35328927e7855891.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5fb157202aff4703b51508195f44c526S.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf96decaede6d4a96be46497bd2bacd62U.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe7ccdb2abd44d3837fd74044d1e7f2z.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H535ec2cd876b411593350de33c4fabceZ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5db2dd10a50b45d18f850281e96c8204x.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H580a10be5f2041f0a6371cb7d22681cd3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb576b9381bb469294a7b781dc3843a9O.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9f3b60e195a147e8801d9a56a25c3c49K.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heecdffcae8654a2f8b44230f4df3a6fe2.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H88b7a1a98bc34f4ca7f19b69eeabbfb7k.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd02675a37f224c5f8932035d313c6d76E.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H86bdda37635c4337a86fb83a95b9bbf6i.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H53cb6a39e7ed4a708783b9dc927add8f5.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Plastic construction with acrylic imagery",
+        "LED illumination for a flameless glow",
+        "Depicts Our Lady and Jesus",
+        "Intended for Christmas decoration and gifting",
+        "Reusable electronic design"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Plastic"
+        },
+        {
+          "name": "Style",
+          "value": "Religious"
+        },
+        {
+          "name": "Occasion",
+          "value": "Christmas"
+        },
+        {
+          "name": "Use",
+          "value": "Holiday Decoration & Gift"
+        },
+        {
+          "name": "Application",
+          "value": "Christmas lights, Christmas gifts"
+        }
+      ],
+      "applications": [
+        "Christmas table centerpiece",
+        "Mantel or shelf decoration",
+        "Thoughtful gift for Catholic friends or family",
+        "Quiet prayer corner accent"
+      ],
+      "faq": [
+        {
+          "question": "What material is this LED candle made of?",
+          "answer": "The candle is made of plastic, with acrylic imagery for the religious figures."
+        },
+        {
+          "question": "Is this candle safe to leave on for long periods?",
+          "answer": "Since it is an LED electronic candle, it does not produce a flame, making it safer than traditional candles for extended use."
+        },
+        {
+          "question": "Can I use this candle outside of the Christmas season?",
+          "answer": "While positioned for Christmas, its religious imagery makes it suitable for year-round devotional display, though it is not explicitly certified for outdoor use."
+        }
+      ],
+      "pricing": {
+        "price": "0.75",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.65",
+          "max": "0.75"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "LED Electronic Wax Candle with Our Lady and Jesus",
+          "description": "Plastic LED electronic wax candle featuring Our Lady and Jesus, suitable for Christmas decoration and gifts. Safe, flameless, and reusable.",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG",
+          "image": [
+            "https://sc04.alicdn.com/kf/He8a178ab54fb4917a28d895acf4ceacev.jpg",
+            "https://sc04.alicdn.com/kf/Hf7f5aef497fa4d3d8ece0ef054fec12f3.jpg",
+            "https://sc04.alicdn.com/kf/H796fd0f21b714f07bc2bd10cf4ea0f1dj.jpg",
+            "https://sc04.alicdn.com/kf/Hd418f0b174f24318ba5e304dadcd4133Y.jpg",
+            "https://sc04.alicdn.com/kf/H67092c68c8b04ded860bb8bf08565ff6x.jpg",
+            "https://sc04.alicdn.com/kf/Hdfedc4818d65477d8765b8d00c06d2a3d.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Plastic"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Christmas"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Use",
+              "value": "Holiday Decoration & Gift"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Application",
+              "value": "Christmas lights, Christmas gifts"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.75",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.65",
+              "maxPrice": "0.75",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is this LED candle made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The candle is made of plastic, with acrylic imagery for the religious figures."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this candle safe to leave on for long periods?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since it is an LED electronic candle, it does not produce a flame, making it safer than traditional candles for extended use."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I use this candle outside of the Christmas season?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While positioned for Christmas, its religious imagery makes it suitable for year-round devotional display, though it is not explicitly certified for outdoor use."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+            "contentHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:09.942Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -79325,10 +79718,10 @@
       "sourceFingerprint": "1557f59adb874dda013053be397b362647abb1e71c9c828782711a8a4c718651",
       "locale": "hr",
       "slug": "mini-rosary-bracelet-for-baby-first-communion-favor-eburjc",
-      "title": "Mini krunica narukvica za bebu, dar za prvu pričest",
+      "title": "Mini krunična narukvica za bebu, dar za prvu pričest",
       "eyebrow": "Krunična narukvica",
-      "summary": "Mini desetkasta krunica narukvica s ružicama, veličine za novorođenče ili bebu. Dostupna u ružičastoj, plavoj, ljubičastoj i bijeloj varijanti, služi kao dar za krštenja, prve pričesti ili goste na vjenčanjima.",
-      "description": "Ova krunica narukvica koristi male perle u obliku ruža u kompaktnom desetkastom formatu, što je čini nježnim pristajanjem za bebin zglob. Narukvica se nudi u devet varijanti boja, uključujući ružičastu, plavu, ljubičastu i nekoliko bijelih tonova.\n\nBudući da je mini desetkasta – obično jedno desetljeće – lako ju je staviti u vrećicu za darove ili kutiju za darove. Isti dizajn služi za dodatke za krštenje, darove za prvu pričest ili uspomene za vjenčanja.\n\nNabavljamo ovaj artikal za veleprodajne narudžbe. Kontaktirajte nas ako trebate detalje o velikim količinama ili specifičnom miješanju boja.",
+      "summary": "Mini krunična narukvica s perlicama u obliku ruže, namijenjena novorođenčadi i bebama. Dostupna u ružičastoj, plavoj, ljubičastoj i bijeloj varijanti. Služi kao dar za krštenje, prvu pričest ili vjenčane goste.",
+      "description": "Ova krunična narukvica koristi male perlice u obliku ruže u kompaktnom obliku desetice, što je čini ugodnom za bebin zglob. Narukvica je dostupna u devet varijanti boja, uključujući ružičastu, plavu, ljubičastu i nekoliko bijelih tonova.\n\nBudući da je mini desetica—obično jedna desetica—lako ju je staviti u vrećicu za darove ili kutiju za darove. Isti dizajn koristi se za dodatke za krštenje, darove za prvu pričest ili vjenčane uspomene.\n\nNabavljamo ovaj proizvod za veleprodajne narudžbe. Kontaktirajte nas za detalje o količinama i miješanju boja.",
       "catholicContext": "Krunica je katolička molitva usredotočena na razmatranje događaja iz života Isusa Krista i Djevice Marije.",
       "catholicRelevance": "explicit",
       "categories": [
@@ -79340,89 +79733,89 @@
       ],
       "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc",
       "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H667eeaec51ad4f05ab000a9b8be709d9a.webp",
-      "imageAlt": "Mini krunica narukvica za bebu, dar za prvu pričest",
+      "imageAlt": "Mini krunična narukvica za bebu, dar za prvu pričest",
       "gallery": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H667eeaec51ad4f05ab000a9b8be709d9a.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest"
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H3bf4da98c28b4e568319464580cb85aao.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest"
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H469e9cfd613740d2ac4cbd41ce20b465Y.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest"
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H42c2573ed557443882daca6e08d28de1x.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest"
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H7ff2756255124dacb3df20f9e45d6597r.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest"
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest"
         }
       ],
       "variantImages": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc0f801aea58549128aba496454e00182V.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest - pink2",
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest - ružičasta2",
           "label": "pink2",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--12"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H2ac370675eb24b728814c8ae6b5c2a43J.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest - white2",
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest - bijela2",
           "label": "white2",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--11"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha52733793bf24056ba9b011eae372c1ff.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest - white3",
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest - bijela3",
           "label": "white3",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--14"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H63f39f72b299482eae813af6cceb53c3e.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest - pink3",
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest - ružičasta3",
           "label": "pink3",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--13"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbb65e12ec32047a99e89c8a903477e75O.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest - white",
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest - bijela",
           "label": "white",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-3331185"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H89e982a2cca1466999a52c8a47a9ffdc8.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest - pink",
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest - ružičasta",
           "label": "pink",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-3328925"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/He23c93126d6d4a0f8827d482edc908e3n.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest - purple",
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest - ljubičasta",
           "label": "purple",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-3851110"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/He5776e58eaa14d22aec3525785620fd2w.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest - blue",
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest - plava",
           "label": "blue",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V-123085"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hab53d52139f84de1bb96256f77dd99dcH.webp",
-          "alt": "Mini krunica narukvica za bebu, dar za prvu pričest - white4",
+          "alt": "Mini krunična narukvica za bebu, dar za prvu pričest - bijela4",
           "label": "white4",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc-V--15"
         }
       ],
       "accent": "#6d7887",
       "features": [
-        "Dizajn s ružama",
-        "Mini desetkasta veličina za novorođenčad i bebe",
+        "Dizajn perlica u obliku ruže",
+        "Veličina mini desetice za novorođenčad i bebe",
         "Dostupno u devet varijanti boja: ružičasta, plava, ljubičasta i više bijelih",
         "Prikladno kao dar za pričest, krštenje ili vjenčanje",
         "Veleprodajne narudžbe dostupne"
@@ -79438,23 +79831,23 @@
         }
       ],
       "applications": [
-        "Dodatak za krštenje bebe",
+        "Dodatak za bebin krštenje",
         "Dar za prvu pričest",
-        "Dar za vjenčanje",
+        "Vjenčani dar",
         "Dar za novorođenče"
       ],
       "faq": [
         {
           "question": "Koje su veličine dostupne za ovu kruničnu narukvicu?",
-          "answer": "Naslov proizvoda označava mini desetkastu veličinu namijenjenu novorođenčadi i bebama, ali točne dimenzije nisu navedene. Kontaktirajte nas za detalje mjerenja ako je potrebno."
+          "answer": "Naslov proizvoda označava mini deseticu namijenjenu novorođenčadi i bebama, ali točne dimenzije nisu navedene. Kontaktirajte nas za detalje mjerenja ako je potrebno."
         },
         {
-          "question": "Između kojih opcija boja mogu birati?",
-          "answer": "Narukvica je dostupna u ružičastoj, plavoj, ljubičastoj i nekoliko bijelih nijansi. Konkretno, varijante su Pink, Pink2, Pink3, Blue, Purple, White, White2, White3 i White4."
+          "question": "Koje opcije boja mogu odabrati?",
+          "answer": "Narukvica je dostupna u ružičastoj, plavoj, ljubičastoj te nekoliko bijelih nijansi. Točnije, varijante su Pink, Pink2, Pink3, Blue, Purple, White, White2, White3 i White4."
         },
         {
-          "question": "Mogu li naručiti ovu narukvicu na veliko za event?",
-          "answer": "Da, ovaj artikal se nudi za veleprodaju. Kontaktirajte nas za raspravu o količinama i dostupnosti."
+          "question": "Mogu li naručiti ovu narukvicu na veliko za događaj?",
+          "answer": "Da, ovaj proizvod se nudi u veleprodaji. Kontaktirajte nas za raspravu o količinama i dostupnosti."
         }
       ],
       "pricing": {
@@ -79470,8 +79863,8 @@
         "product": {
           "@context": "https://schema.org",
           "@type": "Product",
-          "name": "Mini krunica narukvica za bebu, dar za prvu pričest",
-          "description": "Mini desetkasta krunica narukvica s ružicama, veličine za novorođenče ili bebu. Dostupna u ružičastoj, plavoj, ljubičastoj i bijeloj varijanti, služi kao dar za krštenja, prve pričesti ili goste na vjenčanjima.",
+          "name": "Mini krunična narukvica za bebu, dar za prvu pričest",
+          "description": "Mini krunična narukvica s perlicama u obliku ruže, namijenjena novorođenčadi i bebama. Dostupna u ružičastoj, plavoj, ljubičastoj i bijeloj varijanti. Služi kao dar za krštenje, prvu pričest ili vjenčane goste.",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc",
           "image": [
             "https://sc04.alicdn.com/kf/H667eeaec51ad4f05ab000a9b8be709d9a.jpg",
@@ -79515,23 +79908,23 @@
               "name": "Koje su veličine dostupne za ovu kruničnu narukvicu?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Naslov proizvoda označava mini desetkastu veličinu namijenjenu novorođenčadi i bebama, ali točne dimenzije nisu navedene. Kontaktirajte nas za detalje mjerenja ako je potrebno."
+                "text": "Naslov proizvoda označava mini deseticu namijenjenu novorođenčadi i bebama, ali točne dimenzije nisu navedene. Kontaktirajte nas za detalje mjerenja ako je potrebno."
               }
             },
             {
               "@type": "Question",
-              "name": "Između kojih opcija boja mogu birati?",
+              "name": "Koje opcije boja mogu odabrati?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Narukvica je dostupna u ružičastoj, plavoj, ljubičastoj i nekoliko bijelih nijansi. Konkretno, varijante su Pink, Pink2, Pink3, Blue, Purple, White, White2, White3 i White4."
+                "text": "Narukvica je dostupna u ružičastoj, plavoj, ljubičastoj te nekoliko bijelih nijansi. Točnije, varijante su Pink, Pink2, Pink3, Blue, Purple, White, White2, White3 i White4."
               }
             },
             {
               "@type": "Question",
-              "name": "Mogu li naručiti ovu narukvicu na veliko za event?",
+              "name": "Mogu li naručiti ovu narukvicu na veliko za događaj?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Da, ovaj artikal se nudi za veleprodaju. Kontaktirajte nas za raspravu o količinama i dostupnosti."
+                "text": "Da, ovaj proizvod se nudi u veleprodaji. Kontaktirajte nas za raspravu o količinama i dostupnosti."
               }
             }
           ]
@@ -79539,22 +79932,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+        "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
-            "contentHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+            "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
+            "contentHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
             "attempts": 0,
             "updatedAt": "2026-08-24T03:07:59.938Z",
             "model": "deepseek-v4-flash"
           },
           "hr": {
             "status": "ready",
-            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
-            "contentHash": "ec96a7211733a231a84a5d962d3e0c0790eb19cfb0be049361536378ba1d1e46",
+            "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
+            "contentHash": "b1b0f23eb1c0819588019663a7a2f000aa792d09e527d0dee477b704fcb883ac",
             "attempts": 1,
-            "updatedAt": "2026-08-24T03:25:04.773Z",
+            "updatedAt": "2026-08-25T03:22:16.390Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -80561,6 +80954,2214 @@
             "contentHash": "2ee5a1d32b08771ca0b20436f71a422cbd526f41f772c7b4563fffdc0ce0d9d5",
             "attempts": 1,
             "updatedAt": "2026-08-24T03:27:20.479Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE8TG7BAOVioqqEY6eoXkHx",
+      "sourceId": "AAE8TG7BAOVioqqEY6eoXkHx",
+      "sourceFingerprint": "377df4c6801a21c94bde4f81a02edd7c1775ee2f663495433bc94993cdd1207f",
+      "locale": "hr",
+      "slug": "vintage-cross-pendant-earrings-with-crystal-rhinestones-eoxkhx",
+      "title": "Vintage križ naušnice s kristalnim kamenčićima",
+      "eyebrow": "naušnice s privjeskom",
+      "summary": "Ove vintage naušnice s privjeskom u obliku križa kombiniraju okvir od cinkove legure s iskričavim kristalnim i kamenčićastim akcentima. Religiozni stil prikladan je i za ležerne i za svečane izglede. Idealne za DIY projekte nakita i veleprodajne linije dodataka.",
+      "description": "Dizajn inspiriran vintage stilom izdvaja ove naušnice s privjeskom. Silueta križa izrađena je od cinkove legure, s kristalnim i kamenčićastim detaljima koji hvataju svjetlost. Antikni završetak daje im iznošen, karakteran izgled koji se dobro slaže s modernim ili tradicionalnim odjevnim kombinacijama.\n\nNaušnice vise kao privjesci, dodajući pokret i vidljivost. Njihov uniseks religiozni stil čini ih svestranim dodatkom svakoj kolekciji nakita. Koristite ih kao osnovu za DIY prilagodbu ili ih prodajte kao gotove komade.",
+      "catholicContext": "Križ je središnji simbol kršćanske vjere, često se nosi kao izraz pobožnosti.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodaci",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAE8TG7BAOVioqqEY6eoXkHx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/08/H2fbc955f1c0c4351ba89e44f3d8249d5J.webp",
+      "imageAlt": "Vintage križ naušnice s kristalnim kamenčićima",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H2fbc955f1c0c4351ba89e44f3d8249d5J.webp",
+          "alt": "Vintage križ naušnice s kristalnim kamenčićima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/He5ea9cafd46747aeb113086154d1a247D.webp",
+          "alt": "Vintage križ naušnice s kristalnim kamenčićima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H73975a1741e5450392f2d4a3cb71dcc6p.webp",
+          "alt": "Vintage križ naušnice s kristalnim kamenčićima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H72ee80f8939d4e26936b703532e4aa9b1.webp",
+          "alt": "Vintage križ naušnice s kristalnim kamenčićima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Hd0fc854ded5a4cd0b26f847434239187A.webp",
+          "alt": "Vintage križ naušnice s kristalnim kamenčićima"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Izrađeno od cinkove legure",
+        "Sadrži kristalne i kamenčićaste akcente",
+        "Stil naušnica s privjeskom",
+        "Vintage religiozni dizajn",
+        "Prikladno za DIY izradu nakita"
+      ],
+      "specifications": [
+        {
+          "name": "Glavni materijal",
+          "value": "Legura"
+        },
+        {
+          "name": "Vrsta naušnica",
+          "value": "Privjesak"
+        },
+        {
+          "name": "Glavni kamen",
+          "value": "Kristal, kamenčić"
+        },
+        {
+          "name": "Stil",
+          "value": "Religiozni"
+        },
+        {
+          "name": "Marka",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [
+        "Svakodnevno nošenje",
+        "Darivanje za religiozne prigode",
+        "DIY prilagodba nakita",
+        "Maloprodajni izlog dodataka"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg su materijala ove naušnice?",
+          "answer": "Naušnice su izrađene od cinkove legure, izdržljivog metala prikladnog za modele nakita."
+        },
+        {
+          "question": "Imaju li ove naušnice kamen?",
+          "answer": "Da, imaju kristalne i kamenčićaste akcente."
+        },
+        {
+          "question": "Mogu li ih koristiti za DIY izradu nakita?",
+          "answer": "Da, dizajnirane su kao naušnice s privjeskom i mogu se uklopiti u vaše vlastite kreacije nakita."
+        }
+      ],
+      "pricing": {
+        "price": "0.18",
+        "regularPrice": "0.18",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.13",
+          "max": "0.18"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Vintage križ naušnice s kristalnim kamenčićima",
+          "description": "Ove vintage naušnice s privjeskom u obliku križa kombiniraju okvir od cinkove legure s iskričavim kristalnim i kamenčićastim akcentima. Religiozni stil prikladan je i za ležerne i za svečane izglede. Idealne za DIY projekte nakita i veleprodajne linije dodataka.",
+          "sku": "ALI-AAE8TG7BAOVioqqEY6eoXkHx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2fbc955f1c0c4351ba89e44f3d8249d5J.jpg",
+            "https://sc04.alicdn.com/kf/He5ea9cafd46747aeb113086154d1a247D.jpg",
+            "https://sc04.alicdn.com/kf/H73975a1741e5450392f2d4a3cb71dcc6p.jpg",
+            "https://sc04.alicdn.com/kf/H72ee80f8939d4e26936b703532e4aa9b1.jpg",
+            "https://sc04.alicdn.com/kf/Hd0fc854ded5a4cd0b26f847434239187A.jpg"
+          ],
+          "category": "Dodaci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni materijal",
+              "value": "Legura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta naušnica",
+              "value": "Privjesak"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni kamen",
+              "value": "Kristal, kamenčić"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Religiozni"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Marka",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.18",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.13",
+              "maxPrice": "0.18",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg su materijala ove naušnice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Naušnice su izrađene od cinkove legure, izdržljivog metala prikladnog za modele nakita."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Imaju li ove naušnice kamen?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, imaju kristalne i kamenčićaste akcente."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Mogu li ih koristiti za DIY izradu nakita?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, dizajnirane su kao naušnice s privjeskom i mogu se uklopiti u vaše vlastite kreacije nakita."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "contentHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.605Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "contentHash": "20a91d2d4682bee1a6eebee95605edaa032d9d3e4f082ee0580730ebc83ef41e",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:22:24.219Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGMTG7BAOVioqqEY6e0kwy1",
+      "sourceId": "AAGMTG7BAOVioqqEY6e0kwy1",
+      "sourceFingerprint": "578c21e322119a9c551aa879425f4541a78de9a7f44fb7ff52d9ce9556e2990e",
+      "locale": "hr",
+      "slug": "children-s-pink-rose-rosary-bracelet-with-cross-pendant-e0kwy1",
+      "title": "Dječja ružičasta krunična narukvica s privjeskom križa",
+      "eyebrow": "dječja krunična narukvica",
+      "summary": "Dječja krunična narukvica s perlicama u ružičastim tonovima, s privjeskom križa i srebrnim premazom. Izrađena od bakrene legure s prirodnim kamenim perlicama, pogodna za vjerske i obljetničke darove.",
+      "description": "Ova krunična narukvica dizajnirana je za djecu, s ružičastom shemom boja i konstrukcijom od perlica. Narukvica je izrađena od bakrene legure sa srebrnim premazom, a glavni kamen je prirodni kamen. Uključuje privjesak križa s okvirom. Cjelokupni stil je vjerski, točnije katolički, a kategorizirana je kao narukvica s perlicama. Ovaj je predmet prikladan kao dar za obljetnicu ili za osobnu pobožnu upotrebu.",
+      "catholicContext": "Krunica je katolička molitva usredotočena na razmatranje događaja iz života Isusa Krista i Djevice Marije.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Krunične narukvice",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGMTG7BAOVioqqEY6e0kwy1",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hbb75849e05f347a0a2bb8426be67934aw.webp",
+      "imageAlt": "Dječja ružičasta krunična narukvica s privjeskom križa",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbb75849e05f347a0a2bb8426be67934aw.webp",
+          "alt": "Dječja ružičasta krunična narukvica s privjeskom križa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbd32caafc29844cfa5b1ddfc4edf8271K.webp",
+          "alt": "Dječja ružičasta krunična narukvica s privjeskom križa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8c87b109d281407fafa85ca5558f37dc8.webp",
+          "alt": "Dječja ružičasta krunična narukvica s privjeskom križa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b0f3d6130b141ea8b19f101a5a6428eR.webp",
+          "alt": "Dječja ružičasta krunična narukvica s privjeskom križa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b2bdebbc85d4cfb99ca7535bc3dd6f1M.webp",
+          "alt": "Dječja ružičasta krunična narukvica s privjeskom križa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2c994aabb20547b3b004cd55dca672c8V.webp",
+          "alt": "Dječja ružičasta krunična narukvica s privjeskom križa"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Dizajn s ružičastim cvjetovima",
+        "Privjesak križa",
+        "Srebrni premaz na bakrenoj leguri",
+        "Prirodni kamen kao glavni kamen",
+        "Stil narukvice s perlicama",
+        "Dječja veličina"
+      ],
+      "specifications": [
+        {
+          "name": "Glavni materijal nakita",
+          "value": "Legura"
+        },
+        {
+          "name": "Vrsta materijala",
+          "value": "Bakrena legura"
+        },
+        {
+          "name": "Glavni kamen",
+          "value": "Prirodni kamen"
+        },
+        {
+          "name": "Premaz",
+          "value": "Srebrni premaz"
+        },
+        {
+          "name": "Vrsta narukvice",
+          "value": "Narukvice s perlicama"
+        },
+        {
+          "name": "Spol",
+          "value": "Dječji"
+        },
+        {
+          "name": "Vjerska pripadnost",
+          "value": "Katolicizam"
+        },
+        {
+          "name": "Prigoda",
+          "value": "Obljetnica"
+        }
+      ],
+      "applications": [
+        "Vjerski nakit za djecu",
+        "Dar za obljetnicu",
+        "Osobna pobožna upotreba",
+        "Svakodnevno nošenje"
+      ],
+      "faq": [
+        {
+          "question": "Od kojih je materijala izrađena ova krunična narukvica?",
+          "answer": "Narukvica je izrađena od bakrene legure sa srebrnim premazom, a sadrži perlice od prirodnog kamena. Privjesak križa također je izrađen od iste bakrene legure."
+        },
+        {
+          "question": "Je li ova narukvica prikladna za djecu?",
+          "answer": "Da, narukvica je posebno dizajnirana za djecu, kao što je naznačeno atributom spola. Riječ je o narukvici s perlicama u dječjoj veličini."
+        },
+        {
+          "question": "Za koju je prigodu ova narukvica namijenjena?",
+          "answer": "Ova je narukvica namijenjena za obljetnice, a također služi kao vjerski nakit, što je čini prikladnom za pobožne svrhe ili kao dar."
+        }
+      ],
+      "pricing": {
+        "price": "0.30",
+        "regularPrice": "0.30",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Dječja ružičasta krunična narukvica s privjeskom križa",
+          "description": "Dječja krunična narukvica s perlicama u ružičastim tonovima, s privjeskom križa i srebrnim premazom. Izrađena od bakrene legure s prirodnim kamenim perlicama, pogodna za vjerske i obljetničke darove.",
+          "sku": "ALI-AAGMTG7BAOVioqqEY6e0kwy1",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hbb75849e05f347a0a2bb8426be67934aw.png",
+            "https://sc04.alicdn.com/kf/Hbd32caafc29844cfa5b1ddfc4edf8271K.png",
+            "https://sc04.alicdn.com/kf/H8c87b109d281407fafa85ca5558f37dc8.png",
+            "https://sc04.alicdn.com/kf/H3b0f3d6130b141ea8b19f101a5a6428eR.png",
+            "https://sc04.alicdn.com/kf/H1b2bdebbc85d4cfb99ca7535bc3dd6f1M.png",
+            "https://sc04.alicdn.com/kf/H2c994aabb20547b3b004cd55dca672c8V.png"
+          ],
+          "category": "Krunične narukvice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni materijal nakita",
+              "value": "Legura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta materijala",
+              "value": "Bakrena legura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni kamen",
+              "value": "Prirodni kamen"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Premaz",
+              "value": "Srebrni premaz"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta narukvice",
+              "value": "Narukvice s perlicama"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spol",
+              "value": "Dječji"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vjerska pripadnost",
+              "value": "Katolicizam"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Prigoda",
+              "value": "Obljetnica"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.30",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojih je materijala izrađena ova krunična narukvica?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica je izrađena od bakrene legure sa srebrnim premazom, a sadrži perlice od prirodnog kamena. Privjesak križa također je izrađen od iste bakrene legure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li ova narukvica prikladna za djecu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, narukvica je posebno dizajnirana za djecu, kao što je naznačeno atributom spola. Riječ je o narukvici s perlicama u dječjoj veličini."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Za koju je prigodu ova narukvica namijenjena?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ova je narukvica namijenjena za obljetnice, a također služi kao vjerski nakit, što je čini prikladnom za pobožne svrhe ili kao dar."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "contentHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.588Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "contentHash": "d5da266add6f39bde780952967f7cf2022cbe93b01efa3d5b33a1f83fb265504",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:22:32.837Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHcTG7BAOVioqqEY6eepIEV",
+      "sourceId": "AAHcTG7BAOVioqqEY6eepIEV",
+      "sourceFingerprint": "d883546171af2d7057ecb94e0e30b9f20a74f7001de0ebc86ec3a9f0f601de4a",
+      "locale": "hr",
+      "slug": "st-benedict-alloy-pendant-with-rope-eepiev",
+      "title": "Privjesak sv. Benedikta od legure s užetom",
+      "eyebrow": "Privjesak sv. Benedikta od legure",
+      "summary": "Ovaj privjesak sv. Benedikta izrađen je od legure sa srebrnim retro završetkom. Isporučuje se s užetom za vješanje, što ga čini spremnim za nošenje ili darivanje kao vjerski dar. Jednostavan pobožni dodatak za osobnu upotrebu ili daljnju prodaju.",
+      "description": "Izrađen od legure, ovaj privjesak ima retro dizajn i srebrni ton. Uključeno uže omogućuje odmah nošenje. Kao prikaz svetog Benedikta, služi kao vidljivi podsjetnik na vjeru. Ovaj komad je prikladan za pojedine vjernike ili kao dio asortimana vjerskih darova. Njegova jednostavna konstrukcija privlači kupce koji traže izdržljiv i pristupačan katolički nakit. Privjesak dolazi bez dodatnog pakiranja ili dokumentacije, stoga razmotrite mogućnosti prezentacije za maloprodajni izlog.",
+      "catholicContext": "Medaljice svetog Benedikta popularan su oblik pobožnog nakita u katoličkoj tradiciji, često se koriste kao izraz vjere.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Katoličke krunice",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
+      "imageAlt": "Privjesak sv. Benedikta od legure s užetom",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
+          "alt": "Privjesak sv. Benedikta od legure s užetom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1be0ced8cc4b446ba94ec184101031ebc.webp",
+          "alt": "Privjesak sv. Benedikta od legure s užetom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf99d9620ee2d484ea3a1d385460557255.webp",
+          "alt": "Privjesak sv. Benedikta od legure s užetom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4b2835e28f24486e8ab7cc4bd084dd3e5.webp",
+          "alt": "Privjesak sv. Benedikta od legure s užetom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1f973fb717034e56aae1f94bbde3ceb1w.webp",
+          "alt": "Privjesak sv. Benedikta od legure s užetom"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc7484ba47de944d7a052ffb03e308a63f.webp",
+          "alt": "Privjesak sv. Benedikta od legure s užetom - srebrni-privjesak-s-užetom",
+          "label": "srebrni-privjesak-s-užetom",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H07f0cd5c3c9048758e53abd810b88f3eJ.webp",
+          "alt": "Privjesak sv. Benedikta od legure s užetom - srebrni-privjesak",
+          "label": "srebrni-privjesak",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--1"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Izrađen od legure sa srebrnim tonom",
+        "Retro dizajn",
+        "Uključuje uže za vješanje",
+        "Dostupan u dvije varijante: privjesak sam ili s užetom",
+        "Kategoriziran pod Katoličke krunice"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Legura"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Retro"
+        },
+        {
+          "name": "Varijanta",
+          "value": "Srebrni privjesak ili s užetom"
+        }
+      ],
+      "applications": [
+        "Osobno pobožno nošenje",
+        "Vjerski dar za Uskrs",
+        "Izrada nakita ili rukotvorina",
+        "Maloprodaja u katoličkim trgovinama darova"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg je materijala izrađen ovaj privjesak sv. Benedikta?",
+          "answer": "Privjesak je izrađen od legure, sa srebrnim tonom."
+        },
+        {
+          "question": "Dolazi li privjesak s lancem ili užetom?",
+          "answer": "Da, jedna varijanta uključuje uže za vješanje. Druga varijanta je samo privjesak."
+        },
+        {
+          "question": "Koji je stil privjeska?",
+          "answer": "Dizajn je opisan kao retro."
+        }
+      ],
+      "pricing": {
+        "price": "0.35",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.35",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Privjesak sv. Benedikta od legure s užetom",
+          "description": "Ovaj privjesak sv. Benedikta izrađen je od legure sa srebrnim retro završetkom. Isporučuje se s užetom za vješanje, što ga čini spremnim za nošenje ili darivanje kao vjerski dar. Jednostavan pobožni dodatak za osobnu upotrebu ili daljnju prodaju.",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hd33211fa19c2444da0ed691ddaae7012X.jpg",
+            "https://sc04.alicdn.com/kf/H1be0ced8cc4b446ba94ec184101031ebc.jpg",
+            "https://sc04.alicdn.com/kf/Hf99d9620ee2d484ea3a1d385460557255.jpg",
+            "https://sc04.alicdn.com/kf/H4b2835e28f24486e8ab7cc4bd084dd3e5.jpg",
+            "https://sc04.alicdn.com/kf/H1f973fb717034e56aae1f94bbde3ceb1w.jpg"
+          ],
+          "category": "Katoličke krunice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Legura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Retro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijanta",
+              "value": "Srebrni privjesak ili s užetom"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.35",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.35",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg je materijala izrađen ovaj privjesak sv. Benedikta?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Privjesak je izrađen od legure, sa srebrnim tonom."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Dolazi li privjesak s lancem ili užetom?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, jedna varijanta uključuje uže za vješanje. Druga varijanta je samo privjesak."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koji je stil privjeska?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dizajn je opisan kao retro."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "contentHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.512Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "contentHash": "fb7ea32d0dedd7ecdc6e5e36bdb6959bdeee139b5eb336ca6298629bb83b49da",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:22:41.013Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEBTG7BAOVioqqEY6eiAJ88",
+      "sourceId": "AAEBTG7BAOVioqqEY6eiAJ88",
+      "sourceFingerprint": "e0d5760fc9913554714ca2f9ce125b7166fced3820a55da5fd23d4c06fc487f9",
+      "locale": "hr",
+      "slug": "saint-christopher-metal-keychain-with-key-holder-eiaj88",
+      "title": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve",
+      "eyebrow": "Privjesak za ključeve Svetog Kristofora",
+      "summary": "Ovaj privjesak za ključeve Svetog Kristofora kombinira metalni prsten za ključeve s ugrađenim držačem za ključeve. Dostupan je u dvobojnim smeđim, sivim ili crvenim varijantama, što ga čini praktičnim dodatkom za svakodnevnu upotrebu. Lik Svetog Kristofora, zaštitnika putnika, čini ga smislenim darom za one koji cijene katoličku tradiciju.",
+      "description": "Izrađen od metala, ovaj privjesak za ključeve ima izdržljiv prsten za ključeve i zaseban držač za ključeve, što vam omogućuje lako organiziranje ključeva. Na prednjoj strani prikazan je lik Svetog Kristofora, sveca koji se tradicionalno povezuje sa sigurnim putovanjem. Dostupan u smeđoj, sivoj i crvenoj boji, svaka s dvije različite nijanse (Brown1, Brown2, Gray1, Gray2, Red1, Red2), možete odabrati varijantu koja najbolje odgovara vašem osobnom stilu ili daru. Bilo da se koristi kao svakodnevni privjesak za ključeve ili kao mali znak vjere, ovaj predmet nudi praktičnost i suptilan pobožni dodir.",
+      "catholicContext": "Sveti Kristofor štuje se kao zaštitnik putnika, a njegov lik čest je na pobožnim predmetima za putovanja.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "83",
+          "name": "Privjesci za ključeve",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H6d7af685d0b54ba9b280f59c36b2f796w.webp",
+      "imageAlt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6d7af685d0b54ba9b280f59c36b2f796w.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc450331e942d4c27a43b68aee24804cfI.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He39a1099c3cc4df7b823bbbb571735b4O.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hed9f3a4267214964b503340f0e202d06Z.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hae357bb522654167ad1f75200665d0d2s.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf8f98391bbda4354b01caa9bd5c97c827.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H34d8116c901e433e8749249dccdde3c2y.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve - gray2",
+          "label": "gray2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8e1b7498478b49769a078a5e7eecebf4K.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve - brown2",
+          "label": "brown2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7e5669a8a04c477eab5bc29b45a2f087b.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve - red2",
+          "label": "red2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He8fe17eef436462c8ae804e6be8da841T.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve - brown1",
+          "label": "brown1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde102366b7ee49b4bb05da787771c4b4g.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve - red1",
+          "label": "red1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00ca232fa5be4301a4ac3600364854b3U.webp",
+          "alt": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve - gray1",
+          "label": "gray1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Metalna konstrukcija",
+        "Uključuje prsten za ključeve i držač za ključeve",
+        "Prikazuje Svetog Kristofora, zaštitnika putnika",
+        "Dostupan u smeđim, sivim ili crvenim varijantama",
+        "Dvije nijanse po varijanti boje (npr. Brown1, Brown2)"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Metal"
+        },
+        {
+          "name": "Primarna slika",
+          "value": "Sveti Kristofor"
+        },
+        {
+          "name": "Varijante",
+          "value": "Brown1, Brown2, Gray1, Gray2, Red1, Red2"
+        }
+      ],
+      "applications": [
+        "Svakodnevna organizacija ključeva",
+        "Dar za katoličke putnike",
+        "Osobna upotreba kao pobožni podsjetnik",
+        "Mali znak za župne događaje ili mlade grupe"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg je materijala ovaj privjesak za ključeve?",
+          "answer": "Ovaj privjesak za ključeve Svetog Kristofora izrađen je od metala, kako je navedeno u detaljima proizvoda."
+        },
+        {
+          "question": "Koje su varijante boja dostupne?",
+          "answer": "Privjesak je dostupan u smeđoj, sivoj i crvenoj boji, svaka s dvije nijanse (Brown1, Brown2, Gray1, Gray2, Red1, Red2)."
+        },
+        {
+          "question": "Uključuje li ovaj privjesak za ključeve držač za ključeve?",
+          "answer": "Da, naslov proizvoda označava da je to 'držač za ključeve Svetog Kristofora' s metalnim prstenom, tako da funkcionira i kao privjesak za ključeve i kao držač za ključeve."
+        }
+      ],
+      "pricing": {
+        "price": "0.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Metalni privjesak za ključeve Svetog Kristofora s držačem za ključeve",
+          "description": "Ovaj privjesak za ključeve Svetog Kristofora kombinira metalni prsten za ključeve s ugrađenim držačem za ključeve. Dostupan je u dvobojnim smeđim, sivim ili crvenim varijantama, što ga čini praktičnim dodatkom za svakodnevnu upotrebu. Lik Svetog Kristofora, zaštitnika putnika, čini ga smislenim darom za one koji cijene katoličku tradiciju.",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88",
+          "image": [
+            "https://sc04.alicdn.com/kf/H6d7af685d0b54ba9b280f59c36b2f796w.jpg",
+            "https://sc04.alicdn.com/kf/Hc450331e942d4c27a43b68aee24804cfI.jpg",
+            "https://sc04.alicdn.com/kf/He39a1099c3cc4df7b823bbbb571735b4O.jpg",
+            "https://sc04.alicdn.com/kf/Hed9f3a4267214964b503340f0e202d06Z.jpg",
+            "https://sc04.alicdn.com/kf/Hae357bb522654167ad1f75200665d0d2s.jpg",
+            "https://sc04.alicdn.com/kf/Hf8f98391bbda4354b01caa9bd5c97c827.jpg"
+          ],
+          "category": "Privjesci za ključeve",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Metal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Primarna slika",
+              "value": "Sveti Kristofor"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante",
+              "value": "Brown1, Brown2, Gray1, Gray2, Red1, Red2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg je materijala ovaj privjesak za ključeve?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ovaj privjesak za ključeve Svetog Kristofora izrađen je od metala, kako je navedeno u detaljima proizvoda."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su varijante boja dostupne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Privjesak je dostupan u smeđoj, sivoj i crvenoj boji, svaka s dvije nijanse (Brown1, Brown2, Gray1, Gray2, Red1, Red2)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Uključuje li ovaj privjesak za ključeve držač za ključeve?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, naslov proizvoda označava da je to 'držač za ključeve Svetog Kristofora' s metalnim prstenom, tako da funkcionira i kao privjesak za ključeve i kao držač za ključeve."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "contentHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:49.053Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "contentHash": "d51464958dd721454227ac5e7c5405b8f53223abe93f0588d9bbf4e3f44a9d19",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:22:50.711Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAG4TG7BAOVioqqEY6eYM-WE",
+      "sourceId": "AAG4TG7BAOVioqqEY6eYM-WE",
+      "sourceFingerprint": "fdfcd72749fad704223f074acbda2a8caa9a044c4fbd2b45c0dab90c0208b5c6",
+      "locale": "hr",
+      "slug": "wholesales-religious-supplies-plastic-cross-easter-flip-top-cap-eym-we",
+      "title": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop",
+      "eyebrow": "Ukrasi",
+      "summary": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop za svetu vodu 100ml Plastični polipropilenski obrti",
+      "description": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop za svetu vodu 100ml Plastični polipropilenski obrti",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ukrasi",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG4TG7BAOVioqqEY6eYM-WE",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H98eea82dfdad405382a0fd73b61328d2P.webp",
+      "imageAlt": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98eea82dfdad405382a0fd73b61328d2P.webp",
+          "alt": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H79294427a2f24b0587f5a1ab69dddafd4.webp",
+          "alt": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hefa7c4596a7c4f0c989064947a46c07fN.webp",
+          "alt": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H35673fab67864ac583297a1fcb3b33ccj.webp",
+          "alt": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H38799564ffe3412e98b301605dcf7cd00.webp",
+          "alt": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H894b2c1822b04fe789caaac23b8234c6E.webp",
+          "alt": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Veličina: 12*6,5*3,5 cm",
+        "Kapacitet: 100 ml",
+        "Težina: 19 g",
+        "Materijal boce: HDPE (polietilen visoke gustoće)",
+        "Materijal čepa: PP (polipropilen)",
+        "Boja: bijela",
+        "Vrsta: HDPE",
+        "Stil: vjerski, križ"
+      ],
+      "specifications": [
+        {
+          "name": "Veličina",
+          "value": "12*6,5*3,5 cm"
+        },
+        {
+          "name": "Kapacitet",
+          "value": "100 ml"
+        },
+        {
+          "name": "Težina",
+          "value": "19 g"
+        },
+        {
+          "name": "Materijal boce",
+          "value": "HDPE (polietilen visoke gustoće)"
+        },
+        {
+          "name": "Materijal čepa",
+          "value": "PP (polipropilen)"
+        },
+        {
+          "name": "Boja",
+          "value": "bijela"
+        },
+        {
+          "name": "Vrsta",
+          "value": "HDPE"
+        },
+        {
+          "name": "Stil",
+          "value": "vjerski, križ"
+        },
+        {
+          "name": "Materijal",
+          "value": "plastika"
+        },
+        {
+          "name": "Značajka",
+          "value": "ručni rad"
+        },
+        {
+          "name": "Tehnika",
+          "value": "kalandriranje"
+        },
+        {
+          "name": "Uzorak",
+          "value": "moderan"
+        },
+        {
+          "name": "Vrsta proizvoda",
+          "value": "Ostalo"
+        },
+        {
+          "name": "Primjena",
+          "value": "Umjetnost i kolekcionarstvo, blagdanski ukrasi i darovi, vjenčani ukrasi i darovi, suveniri, April Fool's Day, poslovni dar, kućni ukrasi, povratak u školu, kineska Nova godina, Božić, Dan planeta Zemlje, Uskrs, Očev dan, matura, Noć vještica, Majčin dan, Nova godina, Dan zahvalnosti, Valentinovo"
+        },
+        {
+          "name": "Mjesto podrijetla",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Broj modela",
+          "value": "HWB02"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.32",
+        "regularPrice": "0.32",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.32"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop",
+          "description": "Veleprodajne vjerske potrepštine Plastični križ Uskrsna boca s poklopcem na preklop za svetu vodu 100ml Plastični polipropilenski obrti",
+          "sku": "ALI-AAG4TG7BAOVioqqEY6eYM-WE",
+          "image": [
+            "https://sc04.alicdn.com/kf/H98eea82dfdad405382a0fd73b61328d2P.jpg",
+            "https://sc04.alicdn.com/kf/H79294427a2f24b0587f5a1ab69dddafd4.jpg",
+            "https://sc04.alicdn.com/kf/Hefa7c4596a7c4f0c989064947a46c07fN.jpg",
+            "https://sc04.alicdn.com/kf/H35673fab67864ac583297a1fcb3b33ccj.jpg",
+            "https://sc04.alicdn.com/kf/H38799564ffe3412e98b301605dcf7cd00.jpg",
+            "https://sc04.alicdn.com/kf/H894b2c1822b04fe789caaac23b8234c6E.jpg"
+          ],
+          "category": "Ukrasi",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Veličina",
+              "value": "12*6,5*3,5 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kapacitet",
+              "value": "100 ml"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Težina",
+              "value": "19 g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal boce",
+              "value": "HDPE (polietilen visoke gustoće)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal čepa",
+              "value": "PP (polipropilen)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Boja",
+              "value": "bijela"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta",
+              "value": "HDPE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "vjerski, križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "plastika"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Značajka",
+              "value": "ručni rad"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnika",
+              "value": "kalandriranje"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Uzorak",
+              "value": "moderan"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta proizvoda",
+              "value": "Ostalo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Primjena",
+              "value": "Umjetnost i kolekcionarstvo, blagdanski ukrasi i darovi, vjenčani ukrasi i darovi, suveniri, April Fool's Day, poslovni dar, kućni ukrasi, povratak u školu, kineska Nova godina, Božić, Dan planeta Zemlje, Uskrs, Očev dan, matura, Noć vještica, Majčin dan, Nova godina, Dan zahvalnosti, Valentinovo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Mjesto podrijetla",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Broj modela",
+              "value": "HWB02"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.32",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.32",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "contentHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:21.876Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "contentHash": "07d1f58ff1127e4a89b14347224c71fe1e9e57665b450f2b4bc510b34befe2de",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:22:57.865Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE0TG7BAOVioqqEY6eBRnX0",
+      "sourceId": "AAE0TG7BAOVioqqEY6eBRnX0",
+      "sourceFingerprint": "defbcb225bdd2d9323a4fa3e149e001168ab73219ebb2aa36af770666a08cbdf",
+      "locale": "hr",
+      "slug": "retro-st-benedict-cross-pendant-with-inri-ebrnx0",
+      "title": "Retro privjesak s križem sv. Benedikta s natpisom INRI",
+      "eyebrow": "Privjesak s križem sv. Benedikta",
+      "summary": "Privjesak s križem dimenzija 7,5x4,5 cm s retro završnom obradom i natpisom INRI. Dizajn se referira na tradiciju sv. Benedikta, popularnu u katoličkom pobožnom nakitu. Nudi se u više boja za planiranje asortimana.",
+      "description": "Ovaj privjesak s križem dimenzija je 7,5 x 4,5 centimetara, veličine koja dobro funkcionira kao središnji element na ogrlicama s vrpcom ili lancem. Retro stil daje mu starinski izgled, dok natpis INRI iznad figure slijedi poznatu konvenciju raspela. Iako naslov spominje sv. Benedikta, vidljive značajke potvrđuju samo dizajn i veličinu križa. Dostupan u više boja, pogodan za kupce koji grade raznolik inventar za trgovine vjerskim predmetima ili linije za izradu. Nabavljamo ovaj predmet kao dodatak od neplemenitog metala; nisu dostupni podaci o materijalu ili završnoj obradi. Kontaktirajte nas za trenutnu dostupnost varijanti.",
+      "catholicContext": "Medaljica sv. Benedikta priznati je pobožni predmet u katoličkoj tradiciji, često povezan sa zaštitom od zla, iako ovaj privjesak nije opisan kao blagoslovljen ili posvećen.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodaci",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hb6aff92bad3e40f3adf0715c25fd7f3fT.webp",
+      "imageAlt": "Retro privjesak s križem sv. Benedikta s natpisom INRI",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb6aff92bad3e40f3adf0715c25fd7f3fT.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b9d5553e4484232ba83fc9c25158d400.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hceefcca35c8f410f9dbf3fd7790032bd5.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha82fdc029a3a442086dd51f0086bb029e.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H54f7cbf0bf874296b78c5507a9497fdfC.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb1c105449bf9411b9093af26722f299fO.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb38b265133e4a7e98f10f17abc66e4dS.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 17",
+          "label": "17",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9cccdbf4a0bc414a890dd8fee9bf6287i.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 16",
+          "label": "16",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4776e2fa54544be3a3e4b1282a2a2ecbW.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 19",
+          "label": "19",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He5822315e0964ec1b2415f1f12cc1a4b5.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 18",
+          "label": "18",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4dd8aef436cc41349c55d8a422fba5512.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 21",
+          "label": "21",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf046cb8464e74a33b90d1d145cc27093X.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 20",
+          "label": "20",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H02c4cb85499c49e986568fca11d6b0912.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 23",
+          "label": "23",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97c2409913094cef9b8bbbf2432cdf4fF.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 22",
+          "label": "22",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He73445e5408d444db912af0bfb73b1f14.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 1",
+          "label": "1",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3d2fb6eda04e475184ce7822f0349bac2.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 3",
+          "label": "3",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ae39999e6e343428cdb67cfff453ec5l.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 2",
+          "label": "2",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00aa0d38b9f74c3f928a026d929080f1m.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 5",
+          "label": "5",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H25b8e00d6ca045a1be91029184ca34adM.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 4",
+          "label": "4",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7d2ad023099d4653b04e4ab704460d1el.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 7",
+          "label": "7",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb5917ffb85b6400f85ecef7930c8a6a0F.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 6",
+          "label": "6",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf13a65d5c4ef484c9e00b63cb0943989o.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 9",
+          "label": "9",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb20e9058bcf844ed98b4706a7cab503cP.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 8",
+          "label": "8",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9cb407ad54bb4977b7112da2719b2ed5F.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 11",
+          "label": "11",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha19f3b3f8fd9423b87d47d22deee3ada8.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 10",
+          "label": "10",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5137144f8cdf40c8ac11fed77599dbefP.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 13",
+          "label": "13",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He6eed8fa26ce42f09d7adf0efb6bad39t.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 12",
+          "label": "12",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1d2faa3a6f0c483d820d8c441bfd184cz.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 15",
+          "label": "15",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0406b1bf7a254ea39b7f6be2eb1c30ebg.webp",
+          "alt": "Retro privjesak s križem sv. Benedikta s natpisom INRI - 14",
+          "label": "14",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--14"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Privjesak s križem s natpisom INRI, koji se referira na tradicionalni titulus Krista",
+        "Dimenzije 7,5 x 4,5 cm",
+        "Retro dizajn",
+        "Dostupan u više boja",
+        "Kategorija dizajna: Križ"
+      ],
+      "specifications": [
+        {
+          "name": "Visina",
+          "value": "7,5 cm"
+        },
+        {
+          "name": "Širina",
+          "value": "4,5 cm"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Križ"
+        },
+        {
+          "name": "Varijante boja",
+          "value": "Više (22 varijante)"
+        }
+      ],
+      "applications": [
+        "Koristi se kao privjesak na ogrlicama ili vrpcama",
+        "Uključen u asortimane vjerskog nakita",
+        "Koristi se u projektima izrade krunica ili čašica",
+        "Izložen kao ukrasni križ u domovima ili vozilima"
+      ],
+      "faq": [
+        {
+          "question": "Koje su dimenzije ovog privjeska s križem?",
+          "answer": "Privjesak je visok 7,5 cm i širok 4,5 cm."
+        },
+        {
+          "question": "Je li ovo raspelo ili običan križ?",
+          "answer": "Proizvod je opisan kao privjesak s križem s natpisom INRI. Prisutnost korpusa nije specificirana, pa ga najbolje opisujemo kao križ s titulusom INRI."
+        },
+        {
+          "question": "Koliko je opcija boja dostupno?",
+          "answer": "Proizvod se nudi u više boja, s 22 navedene varijante."
+        }
+      ],
+      "pricing": {
+        "price": "0.37",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.37"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Retro privjesak s križem sv. Benedikta s natpisom INRI",
+          "description": "Privjesak s križem dimenzija 7,5x4,5 cm s retro završnom obradom i natpisom INRI. Dizajn se referira na tradiciju sv. Benedikta, popularnu u katoličkom pobožnom nakitu. Nudi se u više boja za planiranje asortimana.",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb6aff92bad3e40f3adf0715c25fd7f3fT.jpg",
+            "https://sc04.alicdn.com/kf/H1b9d5553e4484232ba83fc9c25158d400.jpg",
+            "https://sc04.alicdn.com/kf/Hceefcca35c8f410f9dbf3fd7790032bd5.jpg",
+            "https://sc04.alicdn.com/kf/Ha82fdc029a3a442086dd51f0086bb029e.jpg",
+            "https://sc04.alicdn.com/kf/H54f7cbf0bf874296b78c5507a9497fdfC.jpg",
+            "https://sc04.alicdn.com/kf/Hb1c105449bf9411b9093af26722f299fO.jpg"
+          ],
+          "category": "Dodaci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Visina",
+              "value": "7,5 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Širina",
+              "value": "4,5 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante boja",
+              "value": "Više (22 varijante)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.37",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.37",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koje su dimenzije ovog privjeska s križem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Privjesak je visok 7,5 cm i širok 4,5 cm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li ovo raspelo ili običan križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Proizvod je opisan kao privjesak s križem s natpisom INRI. Prisutnost korpusa nije specificirana, pa ga najbolje opisujemo kao križ s titulusom INRI."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko je opcija boja dostupno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Proizvod se nudi u više boja, s 22 navedene varijante."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "contentHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:56.065Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "contentHash": "c408fc9344c634dd71f26c261f8cb8202cff60268682b57b0ca6bc8452df4451",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:23:10.734Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEITG7BAOVioqqEY6eMrXfU",
+      "sourceId": "AAEITG7BAOVioqqEY6eMrXfU",
+      "sourceFingerprint": "f4b5d833aed962788cdf00484f1d7184762adbe7ce67c1e6eacb19307f9f2f8e",
+      "locale": "hr",
+      "slug": "colorful-polymer-clay-rosary-necklace-with-alloy-pendant-emrxfu",
+      "title": "Šarena krunica od polimerne gline s privjeskom od legure",
+      "eyebrow": "Katolička krunica",
+      "summary": "Ova katolička krunica ima šarene perle od polimerne gline s uzorkom, dostupne u veličinama 6 mm ili 8 mm, u kombinaciji s privjeskom od legure s likom Isusa. Dizajnirana kao molitvene perle za osobnu pobožnost, nudi izdržljivu i laganu opciju za svakodnevnu upotrebu.",
+      "description": "Ova krunica izrađena je od šarenih perli od polimerne gline s uzorkom, dostupnih u promjerima od 6 mm ili 8 mm. Perle su nanizane zajedno s privjeskom od legure srebrne boje koji prikazuje Isusa, pogodnim za katoličku molitvu i pobožnu praksu. Konstrukcija od polimerne gline pruža laganu, nemetalnu alternativu tradicionalnim staklenim ili drvenim perlama. Odaberite željenu veličinu perli za ugodno pristajanje. Ogrlica služi kao opipljiva pomoć za moljenje krunice, molitve koja razmatra ključne događaje iz života Isusa i Marije.",
+      "catholicContext": "Krunica je katolička molitva usredotočena na kontemplaciju događaja iz života Isusa Krista i Djevice Marije.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Katoličke krunice",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+      "imageAlt": "Šarena krunica od polimerne gline s privjeskom od legure",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+          "alt": "Šarena krunica od polimerne gline s privjeskom od legure"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6c0e8190e813496bb448287c2ca5c47dL.webp",
+          "alt": "Šarena krunica od polimerne gline s privjeskom od legure"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb29ee531bd1046f8966c73a20f70c59cx.webp",
+          "alt": "Šarena krunica od polimerne gline s privjeskom od legure"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hceb2b21113f34558a32090262a7b36a29.webp",
+          "alt": "Šarena krunica od polimerne gline s privjeskom od legure"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3cc441c229674006b552f973e6a3ffbc9.webp",
+          "alt": "Šarena krunica od polimerne gline s privjeskom od legure"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde7324582aa34d5899d9119b929fab00N.webp",
+          "alt": "Šarena krunica od polimerne gline s privjeskom od legure"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+          "alt": "Šarena krunica od polimerne gline s privjeskom od legure - 6mm",
+          "label": "6mm",
+          "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU-V--2"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Šarene perle od polimerne gline s uzorkom u veličinama 6 mm ili 8 mm",
+        "Privjesak od legure srebrne boje s likom Isusa",
+        "Dizajn katoličke krunice za molitvu",
+        "Lagan i izdržljiv materijal",
+        "Dostupno u srebrnoj boji"
+      ],
+      "specifications": [
+        {
+          "name": "Veličina perli",
+          "value": "6mm ili 8mm"
+        },
+        {
+          "name": "Materijal",
+          "value": "Polimerna glina, legura"
+        },
+        {
+          "name": "Boja",
+          "value": "Srebrna"
+        },
+        {
+          "name": "Stil",
+          "value": "Ogrlica"
+        }
+      ],
+      "applications": [
+        "Osobna molitva krunice",
+        "Pobožni nakit",
+        "Poklon za katoličke prigode",
+        "Dodatak za svakodnevno nošenje"
+      ],
+      "faq": [
+        {
+          "question": "Koje su veličine perli dostupne za ovu krunicu?",
+          "answer": "Ova krunica dostupna je s perlama od 6 mm ili 8 mm, što vam omogućuje da odaberete veličinu koja vam najviše odgovara za rukovanje tijekom molitve."
+        },
+        {
+          "question": "Koji se materijali koriste za ovu krunicu?",
+          "answer": "Perle su izrađene od šarene polimerne gline, a privjesak je od legure sa srebrnim završnim slojem. Kombinacija pruža laganu i izdržljivu konstrukciju."
+        },
+        {
+          "question": "Je li ova krunica prikladna za svakodnevnu pobožnu upotrebu?",
+          "answer": "Da, perle od polimerne gline i privjesak od legure dizajnirani su za redovito korištenje, što ga čini prikladnim za svakodnevnu pobožnu praksu kao krunica i kao vjerski nakit."
+        }
+      ],
+      "pricing": {
+        "price": "0.80",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.80",
+          "max": "1.10"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Šarena krunica od polimerne gline s privjeskom od legure",
+          "description": "Ova katolička krunica ima šarene perle od polimerne gline s uzorkom, dostupne u veličinama 6 mm ili 8 mm, u kombinaciji s privjeskom od legure s likom Isusa. Dizajnirana kao molitvene perle za osobnu pobožnost, nudi izdržljivu i laganu opciju za svakodnevnu upotrebu.",
+          "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU",
+          "image": [
+            "https://sc04.alicdn.com/kf/He9abf08ba52d463f9220e963907c9a86r.jpg",
+            "https://sc04.alicdn.com/kf/H6c0e8190e813496bb448287c2ca5c47dL.jpg",
+            "https://sc04.alicdn.com/kf/Hb29ee531bd1046f8966c73a20f70c59cx.jpg",
+            "https://sc04.alicdn.com/kf/Hceb2b21113f34558a32090262a7b36a29.jpg",
+            "https://sc04.alicdn.com/kf/H3cc441c229674006b552f973e6a3ffbc9.jpg",
+            "https://sc04.alicdn.com/kf/Hde7324582aa34d5899d9119b929fab00N.jpg"
+          ],
+          "category": "Katoličke krunice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Veličina perli",
+              "value": "6mm ili 8mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Polimerna glina, legura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Boja",
+              "value": "Srebrna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Ogrlica"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.80",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.80",
+              "maxPrice": "1.10",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koje su veličine perli dostupne za ovu krunicu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ova krunica dostupna je s perlama od 6 mm ili 8 mm, što vam omogućuje da odaberete veličinu koja vam najviše odgovara za rukovanje tijekom molitve."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koji se materijali koriste za ovu krunicu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Perle su izrađene od šarene polimerne gline, a privjesak je od legure sa srebrnim završnim slojem. Kombinacija pruža laganu i izdržljivu konstrukciju."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li ova krunica prikladna za svakodnevnu pobožnu upotrebu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, perle od polimerne gline i privjesak od legure dizajnirani su za redovito korištenje, što ga čini prikladnim za svakodnevnu pobožnu praksu kao krunica i kao vjerski nakit."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "contentHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:10.197Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "contentHash": "ac4deeac1916aab83d5ecc761ea8c61b9d614d76cec03092086af6e9ef54e3d6",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:23:20.169Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHUTG7BAOVioqqEY6e7K9aU",
+      "sourceId": "AAHUTG7BAOVioqqEY6e7K9aU",
+      "sourceFingerprint": "3477133df743fedbd732949bbc421f58e3c6b44d2a4da2525bf2e6b31c2ebd34",
+      "locale": "hr",
+      "slug": "catholic-graffiti-sticker-sheet-60-waterproof-pvc-decals-e7k9au",
+      "title": "Katolički naljepni listići – 60 vodootpornih PVC naljepnica",
+      "eyebrow": "Katoličke PVC naljepnice",
+      "summary": "Ovaj paket od 60 katoličkih naljepnica koristi izdržljiv, vodootporan PVC sa sjajnom laminacijom i digitalnim tiskom. Naljepnice u crtanom stilu prikladne su za telefone, boce s vodom i skutere, što ih čini praktičnim izborom za dodavanje vjerski nadahnutih motiva svakodnevnim predmetima.",
+      "description": "Komplet naljepnica uključuje 60 pojedinačnih naljepnica s katoličkim motivima u crtanom stilu, digitalno tiskanih i obrađenih sjajnom laminacijom. PVC materijal je mekan, izdržljiv i ekološki prihvatljiv, dizajniran za prilagodbu zakrivljenim površinama poput boca i upravljača. Svaka se naljepnica može primijeniti na glatke površine za trajnu ili pomičnu dekoraciju. Budući da su vodootporne, prikladne su za predmete koji dolaze u dodir s vlagom, poput boca s vodom i opreme za van. Komplet nudi niz dizajna u jednom paketu, pružajući raznolikost za personalizaciju više osobnih stvari.",
+      "catholicContext": "Naljepnice sadrže katoličke motive, koji se odnose na popularne pobožnosti u katoličkoj kulturi, ali nisu blagoslovljeni niti posvećeni predmeti.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ukrasi",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHUTG7BAOVioqqEY6e7K9aU",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H8abd7a50804e4d029855fb84e6a7daec6.webp",
+      "imageAlt": "Katolički naljepni listići – 60 vodootpornih PVC naljepnica",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8abd7a50804e4d029855fb84e6a7daec6.webp",
+          "alt": "Katolički naljepni listići – 60 vodootpornih PVC naljepnica"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fb293fe40274f29877445270931e03dx.webp",
+          "alt": "Katolički naljepni listići – 60 vodootpornih PVC naljepnica"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H20b889d3b2fd41a3a7ff6f2bb53b079bB.webp",
+          "alt": "Katolički naljepni listići – 60 vodootpornih PVC naljepnica"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5707cb59cacd45af9166927359ec3ccbe.webp",
+          "alt": "Katolički naljepni listići – 60 vodootpornih PVC naljepnica"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H81a57fa2f8464f4f80a25cdd1ffd9777I.webp",
+          "alt": "Katolički naljepni listići – 60 vodootpornih PVC naljepnica"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6ee6bd5980dc479f99191d842a3e135bK.webp",
+          "alt": "Katolički naljepni listići – 60 vodootpornih PVC naljepnica"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "60 naljepnica po paketu s katoličkim motivima u crtanom stilu",
+        "Digitalni tisak za oštre grafike u boji",
+        "Sjajna laminacija dodaje sjajni, zaštitni sloj",
+        "Vodootporni PVC materijal otporan na vlagu i habanje",
+        "Mekan i fleksibilan, prilagođava se različitim oblicima površina",
+        "Ekološki prihvatljiv izbor materijala"
+      ],
+      "specifications": [
+        {
+          "name": "Vrsta proizvoda",
+          "value": "Adhezivna naljepnica"
+        },
+        {
+          "name": "Materijal",
+          "value": "PVC"
+        },
+        {
+          "name": "Tisak",
+          "value": "Digitalni tisak"
+        },
+        {
+          "name": "Završna obrada",
+          "value": "Sjajna laminacija"
+        },
+        {
+          "name": "Stil",
+          "value": "Crtani"
+        },
+        {
+          "name": "Vodootporno",
+          "value": "Da"
+        }
+      ],
+      "applications": [
+        "Dekoracija maski za mobitel",
+        "Personalizacija boca s vodom",
+        "Dodavanje stila skuterima",
+        "Tematsko pakiranje darova ili rukotvorine"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg su materijala ove naljepnice?",
+          "answer": "Naljepnice su izrađene od PVC-a, koji je mekan, izdržljiv i ekološki prihvatljiv. Imaju sjajnu laminaciju i digitalni tisak."
+        },
+        {
+          "question": "Jesu li naljepnice vodootporne?",
+          "answer": "Da, naljepnice su vodootporne, što ih čini prikladnima za predmete koji mogu doći u dodir s vodom, poput boca s vodom ili opreme za van."
+        },
+        {
+          "question": "Koliko je naljepnica uključeno?",
+          "answer": "Paket uključuje 60 naljepnica s raznolikim katoličkim motivima u crtanom stilu."
+        }
+      ],
+      "pricing": {
+        "price": "0.60",
+        "regularPrice": "0.60",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.50",
+          "max": "0.60"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Katolički naljepni listići – 60 vodootpornih PVC naljepnica",
+          "description": "Ovaj paket od 60 katoličkih naljepnica koristi izdržljiv, vodootporan PVC sa sjajnom laminacijom i digitalnim tiskom. Naljepnice u crtanom stilu prikladne su za telefone, boce s vodom i skutere, što ih čini praktičnim izborom za dodavanje vjerski nadahnutih motiva svakodnevnim predmetima.",
+          "sku": "ALI-AAHUTG7BAOVioqqEY6e7K9aU",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8abd7a50804e4d029855fb84e6a7daec6.png",
+            "https://sc04.alicdn.com/kf/H3fb293fe40274f29877445270931e03dx.png",
+            "https://sc04.alicdn.com/kf/H20b889d3b2fd41a3a7ff6f2bb53b079bB.png",
+            "https://sc04.alicdn.com/kf/H5707cb59cacd45af9166927359ec3ccbe.png",
+            "https://sc04.alicdn.com/kf/H81a57fa2f8464f4f80a25cdd1ffd9777I.png",
+            "https://sc04.alicdn.com/kf/H6ee6bd5980dc479f99191d842a3e135bK.png"
+          ],
+          "category": "Ukrasi",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta proizvoda",
+              "value": "Adhezivna naljepnica"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "PVC"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tisak",
+              "value": "Digitalni tisak"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Završna obrada",
+              "value": "Sjajna laminacija"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Crtani"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vodootporno",
+              "value": "Da"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.60",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.50",
+              "maxPrice": "0.60",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg su materijala ove naljepnice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Naljepnice su izrađene od PVC-a, koji je mekan, izdržljiv i ekološki prihvatljiv. Imaju sjajnu laminaciju i digitalni tisak."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jesu li naljepnice vodootporne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, naljepnice su vodootporne, što ih čini prikladnima za predmete koji mogu doći u dodir s vodom, poput boca s vodom ili opreme za van."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko je naljepnica uključeno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Paket uključuje 60 naljepnica s raznolikim katoličkim motivima u crtanom stilu."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "contentHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:56.660Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "contentHash": "b19c4eeb042da94d1e5ab286f92db790e322c683a3afa230f2d25527f5fc1c5c",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:23:30.752Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEkTG7BAOVioqqEY6eOmWAZ",
+      "sourceId": "AAEkTG7BAOVioqqEY6eOmWAZ",
+      "sourceFingerprint": "68426610d9b6aeb36b0d91193d10d00cfc5c2bac719a96dcb6ef5ecdd6bd43b9",
+      "locale": "hr",
+      "slug": "8x10mm-wooden-bead-rosary-necklace-with-cross-eomwaz",
+      "title": "Krunica s privjeskom križa od drvenih perli 8x10mm",
+      "eyebrow": "Krunica od drvenih perli",
+      "summary": "Ova krunica od drvenih perli 8x10mm s križem dostupna je u šest smeđih nijansi. Idealna za osobnu molitvu, darove i izradu nakita. Svaka varijanta nudi prirodan drveni ton, pogodan za pobožnu upotrebu.",
+      "description": "Ova krunica izrađena je od drvenih perli 8x10mm, pružajući čvrst i taktilan osjećaj tijekom molitve. Dizajn uključuje privjesak s križem, čineći je cjelovitim setom za pobožnosti. Dostupna je u šest različitih smeđih varijanti, što vam omogućuje odabir nijanse koja odgovara vašim željama. Bilo za osobnu upotrebu, kao promišljen dar ili kao osnova za izradu prilagođenog nakita, ove perle nude svestranost. Drvena konstrukcija je lagana, a prirodni završetak ističe karakter drva.",
+      "catholicContext": "Krunica je katolička molitva usredotočena na razmatranje događaja iz života Isusa Krista i Djevice Marije.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Katoličke krunice",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H29e4ca8c55d74387a315607d317ad5d1B.webp",
+      "imageAlt": "Krunica s privjeskom križa od drvenih perli 8x10mm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H29e4ca8c55d74387a315607d317ad5d1B.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H268bd0c92f474ca1bfc117ff9955baddn.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd3885d4ae5924f7da4691a3df02699c6t.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hea473f75d9774d00ba96e096f5b62c93V.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd5cea6457c3f461b996bbaf6916b0ebeq.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7aef075e1a104ef0b5c63a48e8fe751eW.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbc50558701084c84a77b9801e56e5669n.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm - smeđa-3",
+          "label": "smeđa-3",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H923b157f94034ab899245e0e81ffcd24N.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm - smeđa-4",
+          "label": "smeđa-4",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83e7e07e9422437c9f158fb40b59ba6bq.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm - smeđa-1",
+          "label": "smeđa-1",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc0567aa6585a415dad2b609b78c13fa0S.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm - smeđa-2",
+          "label": "smeđa-2",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8d1336b7ce014f868e9d9e68e35d45b4N.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm - smeđa-5",
+          "label": "smeđa-5",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H040f5f99e45b46d6af6b107c27175aa28.webp",
+          "alt": "Krunica s privjeskom križa od drvenih perli 8x10mm - smeđa-6",
+          "label": "smeđa-6",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--6"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Veličina perli: 8x10mm",
+        "Materijal: drvo",
+        "Dizajn: krunica s križem",
+        "Dostupna u šest smeđih varijanti",
+        "Pogodna za izradu nakita i pobožnu upotrebu"
+      ],
+      "specifications": [
+        {
+          "name": "Veličina perli",
+          "value": "8x10mm"
+        },
+        {
+          "name": "Materijal",
+          "value": "Drvo"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Krunica s križem"
+        },
+        {
+          "name": "Varijante boja",
+          "value": "Smeđa-1, Smeđa-2, Smeđa-3, Smeđa-4, Smeđa-5, Smeđa-6"
+        }
+      ],
+      "applications": [
+        "Osobna molitva i pobožnost",
+        "Izrada vjerskih darova",
+        "Materijal za rukotvorine i izradu nakita",
+        "Edukativni alat za podučavanje o krunici"
+      ],
+      "faq": [
+        {
+          "question": "Koje su dimenzije perli?",
+          "answer": "Perle mjere 8x10mm, pružajući ugodnu veličinu za rukovanje tijekom molitve."
+        },
+        {
+          "question": "Koji materijal se koristi za perle?",
+          "answer": "Perle su izrađene od drva, pružajući prirodan i lagan osjećaj."
+        },
+        {
+          "question": "Postoje li različite opcije boja?",
+          "answer": "Da, krunica je dostupna u šest smeđih varijanti, od Smeđe-1 do Smeđe-6."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.60",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Krunica s privjeskom križa od drvenih perli 8x10mm",
+          "description": "Ova krunica od drvenih perli 8x10mm s križem dostupna je u šest smeđih nijansi. Idealna za osobnu molitvu, darove i izradu nakita. Svaka varijanta nudi prirodan drveni ton, pogodan za pobožnu upotrebu.",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ",
+          "image": [
+            "https://sc04.alicdn.com/kf/H29e4ca8c55d74387a315607d317ad5d1B.jpg",
+            "https://sc04.alicdn.com/kf/H268bd0c92f474ca1bfc117ff9955baddn.jpg",
+            "https://sc04.alicdn.com/kf/Hd3885d4ae5924f7da4691a3df02699c6t.jpg",
+            "https://sc04.alicdn.com/kf/Hea473f75d9774d00ba96e096f5b62c93V.jpg",
+            "https://sc04.alicdn.com/kf/Hd5cea6457c3f461b996bbaf6916b0ebeq.jpg",
+            "https://sc04.alicdn.com/kf/H7aef075e1a104ef0b5c63a48e8fe751eW.jpg"
+          ],
+          "category": "Katoličke krunice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Veličina perli",
+              "value": "8x10mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Drvo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Krunica s križem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante boja",
+              "value": "Smeđa-1, Smeđa-2, Smeđa-3, Smeđa-4, Smeđa-5, Smeđa-6"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.60",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koje su dimenzije perli?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Perle mjere 8x10mm, pružajući ugodnu veličinu za rukovanje tijekom molitve."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koji materijal se koristi za perle?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Perle su izrađene od drva, pružajući prirodan i lagan osjećaj."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Postoje li različite opcije boja?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, krunica je dostupna u šest smeđih varijanti, od Smeđe-1 do Smeđe-6."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "contentHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:04.844Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "contentHash": "a29060e7ceca8eff81f8bab9d5ba6b888f5749a52c26d62b919b55a32afafea4",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:25:11.282Z",
             "model": "deepseek-v4-flash"
           }
         }

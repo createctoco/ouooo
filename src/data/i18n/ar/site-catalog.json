@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "ar",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a945534217abc6093932f6bdc2d50e449bca6caad2e09bd7a7a12168dda30524",
-  "generatedAt": "2026-08-24T03:35:13.917Z",
+  "sourceCatalogHash": "79bdf555002057e7f0305866fe8bbed3cce324419293e6db8415d8dc90d5df91",
+  "generatedAt": "2026-08-25T03:35:05.364Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAHyTG7BAOVioqqEY6eBS4oY",
-      "AAGpTG7BAOVioqqEY6e51ifv",
-      "AAHvTG7BAOVioqqEY6e0Sscm",
-      "AAE4TG7BAOVioqqEY6eBS49Z",
-      "AAGyTG7BAOVioqqEY6eBuRjc",
-      "AAFiTG7BAOVioqqEY6eBSz9T",
-      "AAEVTG7BAOVioqqEY6eiGfxa",
-      "AAEKTG7BAOVioqqEY6edXi_c",
-      "AAECTG7BAOVioqqEY6eBS9pY",
-      "AAHaTG7BAOVioqqEY6eMU1me"
+      "AAE8TG7BAOVioqqEY6eoXkHx",
+      "AAGMTG7BAOVioqqEY6e0kwy1",
+      "AAHcTG7BAOVioqqEY6eepIEV",
+      "AAEBTG7BAOVioqqEY6eiAJ88",
+      "AAG4TG7BAOVioqqEY6eYM-WE",
+      "AAE0TG7BAOVioqqEY6eBRnX0",
+      "AAEITG7BAOVioqqEY6eMrXfU",
+      "AAHUTG7BAOVioqqEY6e7K9aU",
+      "AAFlTG7BAOVioqqEY6e0b3hG",
+      "AAEkTG7BAOVioqqEY6eOmWAZ"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd"
@@ -37,31 +37,33 @@
     "brooch": "بروش",
     "uncategorized": "غير مصنف"
   },
-  "categoryGlossarySourceHash": "b6c56a83072314b56383fbfa434e33dfc4e91cf06a3a3e3c5578f25bc7ae98a6",
+  "categoryGlossarySourceHash": "b977a2b717741eb323106d1e21c2cdda18d509f7f966e8c98ed0dd88af22c4ba",
   "translationSummary": {
-    "ready": 354,
-    "skipped": 5,
+    "ready": 363,
+    "skipped": 6,
     "skippedProductIds": [
       "AAGxTG7BAOVioqqEY6e7uzWC",
       "AAEDTG7BAOVioqqEY6erMoEh",
       "AAGXTG7BAOVioqqEY6eoRu-2",
       "AAE9TG7BAOVioqqEY6eoSmZh",
-      "AAFiTG7BAOVioqqEY6eBSz9T"
+      "AAFiTG7BAOVioqqEY6eBSz9T",
+      "AAFlTG7BAOVioqqEY6e0b3hG"
     ],
-    "reused": 345,
-    "generated": 9,
+    "reused": 353,
+    "generated": 10,
     "generatedProductIds": [
-      "AAHyTG7BAOVioqqEY6eBS4oY",
-      "AAGpTG7BAOVioqqEY6e51ifv",
-      "AAHvTG7BAOVioqqEY6e0Sscm",
-      "AAE4TG7BAOVioqqEY6eBS49Z",
       "AAGyTG7BAOVioqqEY6eBuRjc",
-      "AAEVTG7BAOVioqqEY6eiGfxa",
-      "AAEKTG7BAOVioqqEY6edXi_c",
-      "AAECTG7BAOVioqqEY6eBS9pY",
-      "AAHaTG7BAOVioqqEY6eMU1me"
+      "AAE8TG7BAOVioqqEY6eoXkHx",
+      "AAGMTG7BAOVioqqEY6e0kwy1",
+      "AAHcTG7BAOVioqqEY6eepIEV",
+      "AAEBTG7BAOVioqqEY6eiAJ88",
+      "AAG4TG7BAOVioqqEY6eYM-WE",
+      "AAE0TG7BAOVioqqEY6eBRnX0",
+      "AAEITG7BAOVioqqEY6eMrXfU",
+      "AAHUTG7BAOVioqqEY6e7K9aU",
+      "AAEkTG7BAOVioqqEY6eOmWAZ"
     ],
-    "retriedBacklog": 4,
+    "retriedBacklog": 5,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -2124,6 +2126,397 @@
             "contentHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09",
             "attempts": 0,
             "updatedAt": "2026-08-24T03:07:52.401Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFlTG7BAOVioqqEY6e0b3hG",
+      "sourceId": "AAFlTG7BAOVioqqEY6e0b3hG",
+      "sourceFingerprint": "c951c6ed49d6f1c92a092b1312c9609bf616ffb7d1b6f2053c580c89fe30968c",
+      "locale": "en",
+      "slug": "led-electronic-wax-candle-with-our-lady-and-jesus-e0b3hg",
+      "title": "LED Electronic Wax Candle with Our Lady and Jesus",
+      "eyebrow": "LED electronic wax candle set",
+      "summary": "An LED electronic wax candle with acrylic imagery of Our Lady and Jesus. Made of plastic, designed for holiday decoration and gifting. It provides a safe alternative to traditional candles, suitable for Christmas settings.",
+      "description": "This LED electronic wax candle brings a reverent Marian image to your holiday decor without the hazards of an open flame. The plastic body and acrylic imagery keep weight low and handling simple, while the built-in LED illuminates the candle with a gentle glow. It is positioned for Christmas use as both a decoration and a gift. Because it is electronic, there is no wax to spill or smoke to manage. Reliable and reusable, it suits homes, offices, or parish gathering spaces. We offer this item through our sourcing platform; contact us for ordering details.",
+      "catholicContext": "Our Lady is a traditional English Catholic title for the Virgin Mary, and Marian imagery is widely used in Catholic devotional items.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He8a178ab54fb4917a28d895acf4ceacev.webp",
+      "imageAlt": "LED Electronic Wax Candle with Our Lady and Jesus",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He8a178ab54fb4917a28d895acf4ceacev.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7f5aef497fa4d3d8ece0ef054fec12f3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H796fd0f21b714f07bc2bd10cf4ea0f1dj.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd418f0b174f24318ba5e304dadcd4133Y.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H67092c68c8b04ded860bb8bf08565ff6x.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdfedc4818d65477d8765b8d00c06d2a3d.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H71d31ee6e2474150b60367efd622e52eo.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3a38012c4f7e49ccab2aed788bf6d7962.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--29"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb202cb3ac32b41c8b7a2188afbf6cd68j.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--30"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Had4ed47e682b49aeb1cb37012c29582bZ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8546604da4514e4b915b29359d82a2b4F.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc60dfa94e5604d5e8e72ecf674dcd26eK.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H159df54c7fe24db58d3191f202df7769V.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7b1bfd24041b45b3998c6f9c07d8f266p.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ef87b2d21d04aa0ba1c71abb93fe2dfr.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H909fb14ee1744444af5571219e53c26eQ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc29b4c1c3d8a4755a0f52c76997ba4ce3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hac5e39fbd72f456488054029dab8d715o.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5d02e50dffc845b0a9276b451a1da174Q.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97be0367fbf74034ab6884c565d8cff6m.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3ba932752d2248098ddf0a31446731e9D.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1bbeabafca4b4932b67229e70d4831947.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7f78b2aef9524446a35328927e7855891.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5fb157202aff4703b51508195f44c526S.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf96decaede6d4a96be46497bd2bacd62U.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe7ccdb2abd44d3837fd74044d1e7f2z.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H535ec2cd876b411593350de33c4fabceZ.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5db2dd10a50b45d18f850281e96c8204x.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H580a10be5f2041f0a6371cb7d22681cd3.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb576b9381bb469294a7b781dc3843a9O.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9f3b60e195a147e8801d9a56a25c3c49K.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heecdffcae8654a2f8b44230f4df3a6fe2.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H88b7a1a98bc34f4ca7f19b69eeabbfb7k.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd02675a37f224c5f8932035d313c6d76E.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H86bdda37635c4337a86fb83a95b9bbf6i.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H53cb6a39e7ed4a708783b9dc927add8f5.webp",
+          "alt": "LED Electronic Wax Candle with Our Lady and Jesus - ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11",
+          "label": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Plastic construction with acrylic imagery",
+        "LED illumination for a flameless glow",
+        "Depicts Our Lady and Jesus",
+        "Intended for Christmas decoration and gifting",
+        "Reusable electronic design"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Plastic"
+        },
+        {
+          "name": "Style",
+          "value": "Religious"
+        },
+        {
+          "name": "Occasion",
+          "value": "Christmas"
+        },
+        {
+          "name": "Use",
+          "value": "Holiday Decoration & Gift"
+        },
+        {
+          "name": "Application",
+          "value": "Christmas lights, Christmas gifts"
+        }
+      ],
+      "applications": [
+        "Christmas table centerpiece",
+        "Mantel or shelf decoration",
+        "Thoughtful gift for Catholic friends or family",
+        "Quiet prayer corner accent"
+      ],
+      "faq": [
+        {
+          "question": "What material is this LED candle made of?",
+          "answer": "The candle is made of plastic, with acrylic imagery for the religious figures."
+        },
+        {
+          "question": "Is this candle safe to leave on for long periods?",
+          "answer": "Since it is an LED electronic candle, it does not produce a flame, making it safer than traditional candles for extended use."
+        },
+        {
+          "question": "Can I use this candle outside of the Christmas season?",
+          "answer": "While positioned for Christmas, its religious imagery makes it suitable for year-round devotional display, though it is not explicitly certified for outdoor use."
+        }
+      ],
+      "pricing": {
+        "price": "0.75",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.65",
+          "max": "0.75"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "LED Electronic Wax Candle with Our Lady and Jesus",
+          "description": "Plastic LED electronic wax candle featuring Our Lady and Jesus, suitable for Christmas decoration and gifts. Safe, flameless, and reusable.",
+          "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG",
+          "image": [
+            "https://sc04.alicdn.com/kf/He8a178ab54fb4917a28d895acf4ceacev.jpg",
+            "https://sc04.alicdn.com/kf/Hf7f5aef497fa4d3d8ece0ef054fec12f3.jpg",
+            "https://sc04.alicdn.com/kf/H796fd0f21b714f07bc2bd10cf4ea0f1dj.jpg",
+            "https://sc04.alicdn.com/kf/Hd418f0b174f24318ba5e304dadcd4133Y.jpg",
+            "https://sc04.alicdn.com/kf/H67092c68c8b04ded860bb8bf08565ff6x.jpg",
+            "https://sc04.alicdn.com/kf/Hdfedc4818d65477d8765b8d00c06d2a3d.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Plastic"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Christmas"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Use",
+              "value": "Holiday Decoration & Gift"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Application",
+              "value": "Christmas lights, Christmas gifts"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.75",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.65",
+              "maxPrice": "0.75",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is this LED candle made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The candle is made of plastic, with acrylic imagery for the religious figures."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this candle safe to leave on for long periods?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Since it is an LED electronic candle, it does not produce a flame, making it safer than traditional candles for extended use."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I use this candle outside of the Christmas season?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While positioned for Christmas, its religious imagery makes it suitable for year-round devotional display, though it is not explicitly certified for outdoor use."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+            "contentHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:09.942Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -79327,9 +79720,9 @@
       "slug": "mini-rosary-bracelet-for-baby-first-communion-favor-eburjc",
       "title": "سوار مسبحة صغير للأطفال، هدية المناولة الأولى",
       "eyebrow": "سوار مسبحة",
-      "summary": "سوار مسبحة صغير بعشر حبات بتصميم وردة، مناسب لمِعصم الرضيع أو الطفل. متوفر بألوان وردي، أزرق، بنفسجي، وأبيض، ويصلح كهدية للعماد، المناولة الأولى، أو لضيوف حفلات الزفاف.",
-      "description": "يتميز سوار المسبحة هذا بخرز صغير على شكل وردة بتصميم عشري مضغوط، مما يجعله مناسبًا لمِعصم الرضيع. السوار متوفر بتسعة ألوان مختلفة، بما في ذلك الوردي، الأزرق، البنفسجي، وعدة درجات من الأبيض.\n\nنظرًا لأنه صغير الحجم وبتصميم عشري واحد، فمن السهل وضعه في حقيبة هدايا أو علبة هدايا. التصميم نفسه مناسب لإكسسوارات العماد، هدايا المناولة الأولى، أو تذكارات الزفاف.\n\nنوفر هذا المنتج للطلبات بالجملة. اتصل بنا إذا كنت بحاجة إلى تفاصيل حول الكميات الكبيرة أو مزيج الألوان المحدد.",
-      "catholicContext": "المسبحة هي صلاة كاثوليكية تركز على التأمل في أحداث من حياة يسوع المسيح والعذراء مريم.",
+      "summary": "سوار مسبحة عشاري صغير بخرز على شكل وردة، مصمم ليناسب حجم المواليد أو الأطفال. متوفر بألوان وردي، أزرق، بنفسجي، وأبيض، ويصلح كهدية للمعمودية أو المناولة الأولى أو لضيوف حفلات الزفاف.",
+      "description": "يتميز سوار المسبحة هذا بخرز صغير على شكل وردة بتصميم عشاري مضغوط، مما يجعله مناسبًا لمعصم الطفل بلطف. يتوفر السوار بتسعة ألوان مختلفة، بما في ذلك الوردي والأزرق والبنفسجي وعدة درجات من الأبيض.\n\nنظرًا لأنه تصميم عشاري صغير - عادةً عقد واحد - فمن السهل وضعه في حقيبة هدايا أو علبة هدايا. نفس التصميم مناسب لملحقات المعمودية أو هدايا المناولة الأولى أو تذكارات الزفاف.\n\nنوفر هذا المنتج للطلبات بالجملة. اتصل بنا إذا كنت بحاجة إلى تفاصيل حول الكميات بالجملة أو مزيج ألوان محدد.",
+      "catholicContext": "المسبحة هي صلاة كاثوليكية تركز على التأمل في أحداث حياة يسوع المسيح والعذراء مريم.",
       "catholicRelevance": "explicit",
       "categories": [
         {
@@ -79422,9 +79815,9 @@
       "accent": "#6d7887",
       "features": [
         "تصميم خرز على شكل وردة",
-        "حجم عشري صغير مناسب للأطفال الرضع",
-        "متوفر بتسعة ألوان: وردي، أزرق، بنفسجي، ودرجات أبيض متعددة",
-        "مناسب كهدية للمناولة أو العماد أو الزفاف",
+        "حجم عشاري صغير مناسب للأطفال حديثي الولادة والرضع",
+        "متوفر بتسعة ألوان: وردي، أزرق، بنفسجي، وعدة درجات من الأبيض",
+        "مناسب كهدية للمناولة أو المعمودية أو الزفاف",
         "إمكانية الطلب بالجملة"
       ],
       "specifications": [
@@ -79438,22 +79831,22 @@
         }
       ],
       "applications": [
-        "إكسسوار عماد للأطفال",
+        "ملحق معمودية للأطفال",
         "هدية المناولة الأولى",
         "هدية زفاف",
-        "هدية مولود جديد"
+        "هدية للمواليد"
       ],
       "faq": [
         {
           "question": "ما المقاسات المتوفرة لسوار المسبحة هذا؟",
-          "answer": "يشير عنوان المنتج إلى حجم عشري صغير مخصص للأطفال الرضع، لكن الأبعاد الدقيقة غير مذكورة. اتصل بنا إذا كنت بحاجة إلى تفاصيل القياس."
+          "answer": "يشير عنوان المنتج إلى حجم عشاري صغير مخصص للمواليد والأطفال، لكن الأبعاد الدقيقة غير مدرجة. اتصل بنا للحصول على تفاصيل القياس إذا لزم الأمر."
         },
         {
-          "question": "ما خيارات الألوان التي يمكنني الاختيار من بينها؟",
-          "answer": "السوار متوفر باللون الوردي، الأزرق، البنفسجي، وعدة درجات من الأبيض. على وجه التحديد، الأشكال هي: وردي، وردي2، وردي3، أزرق، بنفسجي، أبيض، أبيض2، أبيض3، وأبيض4."
+          "question": "ما هي خيارات الألوان المتاحة؟",
+          "answer": "السوار متوفر باللون الوردي والأزرق والبنفسجي وعدة درجات من الأبيض. على وجه التحديد، المتغيرات هي: وردي، وردي2، وردي3، أزرق، بنفسجي، أبيض، أبيض2، أبيض3، وأبيض4."
         },
         {
-          "question": "هل يمكنني طلب هذا السوار بكميات كبيرة لمناسبة؟",
+          "question": "هل يمكنني طلب هذا السوار بكميات كبيرة لفعالية؟",
           "answer": "نعم، هذا المنتج متاح للبيع بالجملة. اتصل بنا لمناقشة الكميات والتوفر."
         }
       ],
@@ -79471,7 +79864,7 @@
           "@context": "https://schema.org",
           "@type": "Product",
           "name": "سوار مسبحة صغير للأطفال، هدية المناولة الأولى",
-          "description": "سوار مسبحة صغير بعشر حبات بتصميم وردة، مناسب لمِعصم الرضيع أو الطفل. متوفر بألوان وردي، أزرق، بنفسجي، وأبيض، ويصلح كهدية للعماد، المناولة الأولى، أو لضيوف حفلات الزفاف.",
+          "description": "سوار مسبحة عشاري صغير بخرز على شكل وردة، مصمم ليناسب حجم المواليد أو الأطفال. متوفر بألوان وردي، أزرق، بنفسجي، وأبيض، ويصلح كهدية للمعمودية أو المناولة الأولى أو لضيوف حفلات الزفاف.",
           "sku": "ALI-AAGyTG7BAOVioqqEY6eBuRjc",
           "image": [
             "https://sc04.alicdn.com/kf/H667eeaec51ad4f05ab000a9b8be709d9a.jpg",
@@ -79515,20 +79908,20 @@
               "name": "ما المقاسات المتوفرة لسوار المسبحة هذا؟",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "يشير عنوان المنتج إلى حجم عشري صغير مخصص للأطفال الرضع، لكن الأبعاد الدقيقة غير مذكورة. اتصل بنا إذا كنت بحاجة إلى تفاصيل القياس."
+                "text": "يشير عنوان المنتج إلى حجم عشاري صغير مخصص للمواليد والأطفال، لكن الأبعاد الدقيقة غير مدرجة. اتصل بنا للحصول على تفاصيل القياس إذا لزم الأمر."
               }
             },
             {
               "@type": "Question",
-              "name": "ما خيارات الألوان التي يمكنني الاختيار من بينها؟",
+              "name": "ما هي خيارات الألوان المتاحة؟",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "السوار متوفر باللون الوردي، الأزرق، البنفسجي، وعدة درجات من الأبيض. على وجه التحديد، الأشكال هي: وردي، وردي2، وردي3، أزرق، بنفسجي، أبيض، أبيض2، أبيض3، وأبيض4."
+                "text": "السوار متوفر باللون الوردي والأزرق والبنفسجي وعدة درجات من الأبيض. على وجه التحديد، المتغيرات هي: وردي، وردي2، وردي3، أزرق، بنفسجي، أبيض، أبيض2، أبيض3، وأبيض4."
               }
             },
             {
               "@type": "Question",
-              "name": "هل يمكنني طلب هذا السوار بكميات كبيرة لمناسبة؟",
+              "name": "هل يمكنني طلب هذا السوار بكميات كبيرة لفعالية؟",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "نعم، هذا المنتج متاح للبيع بالجملة. اتصل بنا لمناقشة الكميات والتوفر."
@@ -79539,22 +79932,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+        "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
-            "contentHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
+            "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
+            "contentHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
             "attempts": 0,
             "updatedAt": "2026-08-24T03:07:59.938Z",
             "model": "deepseek-v4-flash"
           },
           "ar": {
             "status": "ready",
-            "sourceHash": "3e4b3e7c2ec7728afbd852a988fcfebbc3ad14a9cced7d335acef6b60d9a90e0",
-            "contentHash": "851c7f54006c3f30327c269c655254d6fc8484f5c89398ccaa3dcc75f7548d35",
+            "sourceHash": "b7e942343dc178fdfa2105b1a488eaccbba9821bca1bfca51ba614888abfdab8",
+            "contentHash": "bf462c3f7eb7366176d96e7034e2142bd286af15eb1aa7bca4814181bd229570",
             "attempts": 1,
-            "updatedAt": "2026-08-24T03:33:07.035Z",
+            "updatedAt": "2026-08-25T03:32:21.318Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -80561,6 +80954,2214 @@
             "contentHash": "d17cd5adc3dfe04d62d3789af5379fe63f5c2613543d3881e79813cbb6bdb164",
             "attempts": 1,
             "updatedAt": "2026-08-24T03:35:13.916Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE8TG7BAOVioqqEY6eoXkHx",
+      "sourceId": "AAE8TG7BAOVioqqEY6eoXkHx",
+      "sourceFingerprint": "377df4c6801a21c94bde4f81a02edd7c1775ee2f663495433bc94993cdd1207f",
+      "locale": "ar",
+      "slug": "vintage-cross-pendant-earrings-with-crystal-rhinestones-eoxkhx",
+      "title": "أقراط قلادة صليب قديمة الطراز مع كريستال وأحجار راين",
+      "eyebrow": "أقراط قلادة",
+      "summary": "تجمع هذه الأقراط القلادة الصليبية القديمة الطراز بين إطار من سبيكة الزنك ولمسات كريستالية وأحجار راين المتلألئة. يناسب الطراز الديني الإطلالات الكاجوال والأنيقة. مثالية لمشاريع المجوهرات اليدوية وخطوط الإكسسوارات بالجملة.",
+      "description": "تصميم مستوحى من الطراز القديم يميز هذه الأقراط القلادة. صُمم شكل الصليب من سبيكة الزنك، مع تفاصيل كريستالية وأحجار راين تلتقط الضوء. يمنحها التشطيب العتيق مظهرًا متقادمًا مميزًا يتناسق مع الأزياء العصرية أو التقليدية.\n\nتتدلى الأقراط كقلادات، مما يضيف حركة ووضوحًا. أسلوبها الديني للجنسين يجعلها إضافة متعددة الاستخدامات لأي مجموعة مجوهرات. استخدمها كأساس للتخصيص اليدوي أو بيعها كقطع جاهزة للارتداء.",
+      "catholicContext": "الصليب هو رمز مركزي للإيمان المسيحي، وغالبًا ما يُرتدى كتعبير عن التقوى.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "إكسسوارات",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAE8TG7BAOVioqqEY6eoXkHx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/08/H2fbc955f1c0c4351ba89e44f3d8249d5J.webp",
+      "imageAlt": "أقراط قلادة صليب قديمة الطراز مع كريستال وأحجار راين",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H2fbc955f1c0c4351ba89e44f3d8249d5J.webp",
+          "alt": "أقراط قلادة صليب قديمة الطراز مع كريستال وأحجار راين"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/He5ea9cafd46747aeb113086154d1a247D.webp",
+          "alt": "أقراط قلادة صليب قديمة الطراز مع كريستال وأحجار راين"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H73975a1741e5450392f2d4a3cb71dcc6p.webp",
+          "alt": "أقراط قلادة صليب قديمة الطراز مع كريستال وأحجار راين"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H72ee80f8939d4e26936b703532e4aa9b1.webp",
+          "alt": "أقراط قلادة صليب قديمة الطراز مع كريستال وأحجار راين"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Hd0fc854ded5a4cd0b26f847434239187A.webp",
+          "alt": "أقراط قلادة صليب قديمة الطراز مع كريستال وأحجار راين"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "مصنوعة من سبيكة الزنك",
+        "تتميز بلمسات كريستالية وأحجار راين",
+        "نمط أقراط قلادة",
+        "تصميم ديني قديم الطراز",
+        "مناسبة لصناعة المجوهرات اليدوية"
+      ],
+      "specifications": [
+        {
+          "name": "الخامة الرئيسية",
+          "value": "سبيكة"
+        },
+        {
+          "name": "نوع القرط",
+          "value": "قلادة"
+        },
+        {
+          "name": "الحجر الرئيسي",
+          "value": "كريستال، حجر راين"
+        },
+        {
+          "name": "الطراز",
+          "value": "ديني"
+        },
+        {
+          "name": "العلامة التجارية",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [
+        "ارتداء يومي",
+        "إهداء في المناسبات الدينية",
+        "تخصيص المجوهرات اليدوية",
+        "عرض الإكسسوارات بالتجزئة"
+      ],
+      "faq": [
+        {
+          "question": "ما هي مادة صنع هذه الأقراط؟",
+          "answer": "الأقراط مصنوعة من سبيكة الزنك، وهي معدن متين مناسب للمجوهرات التقليدية."
+        },
+        {
+          "question": "هل تحتوي هذه الأقراط على حجر؟",
+          "answer": "نعم، تتميز بلمسات كريستالية وأحجار راين."
+        },
+        {
+          "question": "هل يمكنني استخدامها لصناعة المجوهرات اليدوية؟",
+          "answer": "نعم، صُممت كأقراط قلادة ويمكن دمجها في إبداعاتك الخاصة."
+        }
+      ],
+      "pricing": {
+        "price": "0.18",
+        "regularPrice": "0.18",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.13",
+          "max": "0.18"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "أقراط قلادة صليب قديمة الطراز مع كريستال وأحجار راين",
+          "description": "تجمع هذه الأقراط القلادة الصليبية القديمة الطراز بين إطار من سبيكة الزنك ولمسات كريستالية وأحجار راين المتلألئة. يناسب الطراز الديني الإطلالات الكاجوال والأنيقة. مثالية لمشاريع المجوهرات اليدوية وخطوط الإكسسوارات بالجملة.",
+          "sku": "ALI-AAE8TG7BAOVioqqEY6eoXkHx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2fbc955f1c0c4351ba89e44f3d8249d5J.jpg",
+            "https://sc04.alicdn.com/kf/He5ea9cafd46747aeb113086154d1a247D.jpg",
+            "https://sc04.alicdn.com/kf/H73975a1741e5450392f2d4a3cb71dcc6p.jpg",
+            "https://sc04.alicdn.com/kf/H72ee80f8939d4e26936b703532e4aa9b1.jpg",
+            "https://sc04.alicdn.com/kf/Hd0fc854ded5a4cd0b26f847434239187A.jpg"
+          ],
+          "category": "إكسسوارات",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "الخامة الرئيسية",
+              "value": "سبيكة"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "نوع القرط",
+              "value": "قلادة"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الحجر الرئيسي",
+              "value": "كريستال، حجر راين"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الطراز",
+              "value": "ديني"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "العلامة التجارية",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.18",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.13",
+              "maxPrice": "0.18",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "ما هي مادة صنع هذه الأقراط؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "الأقراط مصنوعة من سبيكة الزنك، وهي معدن متين مناسب للمجوهرات التقليدية."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل تحتوي هذه الأقراط على حجر؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نعم، تتميز بلمسات كريستالية وأحجار راين."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل يمكنني استخدامها لصناعة المجوهرات اليدوية؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نعم، صُممت كأقراط قلادة ويمكن دمجها في إبداعاتك الخاصة."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "contentHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.605Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "3f28fea435ce193de582dad5d2c3f8875844f7174259ecb4b846b5d92e1241fe",
+            "contentHash": "cafd73a10ce2ffb75d2a68bd6f6be9328aebbb11f8af3f2283dd03499631d930",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:28.723Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGMTG7BAOVioqqEY6e0kwy1",
+      "sourceId": "AAGMTG7BAOVioqqEY6e0kwy1",
+      "sourceFingerprint": "578c21e322119a9c551aa879425f4541a78de9a7f44fb7ff52d9ce9556e2990e",
+      "locale": "ar",
+      "slug": "children-s-pink-rose-rosary-bracelet-with-cross-pendant-e0kwy1",
+      "title": "سوار مسبحة الأطفال باللون الوردي مع قلادة صليب",
+      "eyebrow": "سوار مسبحة للأطفال",
+      "summary": "سوار مسبحة مطرز للأطفال يتميز بدرجات اللون الوردي الوردي، مع قلادة صليب وطلاء فضي. مصنوع من سبيكة النحاس مع خرز من الحجر الطبيعي، هذه القطعة مناسبة للأغراض الدينية وكهدايا الذكرى السنوية.",
+      "description": "تم تصميم سوار المسبحة هذا للأطفال، بنظام ألوان وردي وردي وبناء مطرز. السوار مصنوع من سبيكة النحاس مع طلاء فضي، والحجر الرئيسي هو حجر طبيعي. يتضمن قلادة صليب، مثبتة بإعداد ترصيع. النمط العام ديني، وتحديداً كاثوليكي، ويُصنف كسوار مطرز. هذه القطعة مناسبة كهدية للذكرى السنوية أو للاستخدام التعبدي الشخصي.",
+      "catholicContext": "المسبحة الوردية هي صلاة كاثوليكية تركز على التأمل في أحداث حياة يسوع المسيح ومريم العذراء.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "أساور مسبحة",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGMTG7BAOVioqqEY6e0kwy1",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hbb75849e05f347a0a2bb8426be67934aw.webp",
+      "imageAlt": "سوار مسبحة الأطفال باللون الوردي مع قلادة صليب",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbb75849e05f347a0a2bb8426be67934aw.webp",
+          "alt": "سوار مسبحة الأطفال باللون الوردي مع قلادة صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbd32caafc29844cfa5b1ddfc4edf8271K.webp",
+          "alt": "سوار مسبحة الأطفال باللون الوردي مع قلادة صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8c87b109d281407fafa85ca5558f37dc8.webp",
+          "alt": "سوار مسبحة الأطفال باللون الوردي مع قلادة صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b0f3d6130b141ea8b19f101a5a6428eR.webp",
+          "alt": "سوار مسبحة الأطفال باللون الوردي مع قلادة صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b2bdebbc85d4cfb99ca7535bc3dd6f1M.webp",
+          "alt": "سوار مسبحة الأطفال باللون الوردي مع قلادة صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2c994aabb20547b3b004cd55dca672c8V.webp",
+          "alt": "سوار مسبحة الأطفال باللون الوردي مع قلادة صليب"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "تصميم زهرة الورد الوردية",
+        "قلادة صليب",
+        "سبيكة نحاس مطلية بالفضة",
+        "الحجر الرئيسي حجر طبيعي",
+        "نمط سوار مطرز",
+        "مقاس الأطفال"
+      ],
+      "specifications": [
+        {
+          "name": "المادة الرئيسية للمجوهرات",
+          "value": "سبيكة"
+        },
+        {
+          "name": "نوع المادة",
+          "value": "سبيكة نحاس"
+        },
+        {
+          "name": "الحجر الرئيسي",
+          "value": "حجر طبيعي"
+        },
+        {
+          "name": "الطلاء",
+          "value": "مطلي بالفضة"
+        },
+        {
+          "name": "نوع الأساور أو الأطواق",
+          "value": "أساور مطرزة"
+        },
+        {
+          "name": "الجنس",
+          "value": "أطفال"
+        },
+        {
+          "name": "النوع الديني",
+          "value": "الكاثوليكية"
+        },
+        {
+          "name": "المناسبة",
+          "value": "الذكرى السنوية"
+        }
+      ],
+      "applications": [
+        "مجوهرات دينية للأطفال",
+        "هدية الذكرى السنوية",
+        "استخدام تعبدي شخصي",
+        "ارتداء يومي"
+      ],
+      "faq": [
+        {
+          "question": "ما هي المواد المصنوع منها سوار المسبحة هذا؟",
+          "answer": "السوار مصنوع من سبيكة النحاس مع طلاء فضي، ويتميز بخرز من الحجر الطبيعي. قلادة الصليب مصنوعة أيضًا من نفس مادة سبيكة النحاس."
+        },
+        {
+          "question": "هل هذا السوار مناسب للأطفال؟",
+          "answer": "نعم، السوار مصمم خصيصًا للأطفال، كما هو موضح في سمة الجنس. إنه سوار مطرز بحجم مناسب للأطفال."
+        },
+        {
+          "question": "ما هي المناسبة المخصصة لهذا السوار؟",
+          "answer": "هذا السوار مخصص لمناسبات الذكرى السنوية، كما أنه يعد قطعة مجوهرات دينية، مما يجعله مناسبًا للأغراض التعبدية أو كهدية."
+        }
+      ],
+      "pricing": {
+        "price": "0.30",
+        "regularPrice": "0.30",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "سوار مسبحة الأطفال باللون الوردي مع قلادة صليب",
+          "description": "سوار مسبحة مطرز للأطفال يتميز بدرجات اللون الوردي الوردي، مع قلادة صليب وطلاء فضي. مصنوع من سبيكة النحاس مع خرز من الحجر الطبيعي، هذه القطعة مناسبة للأغراض الدينية وكهدايا الذكرى السنوية.",
+          "sku": "ALI-AAGMTG7BAOVioqqEY6e0kwy1",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hbb75849e05f347a0a2bb8426be67934aw.png",
+            "https://sc04.alicdn.com/kf/Hbd32caafc29844cfa5b1ddfc4edf8271K.png",
+            "https://sc04.alicdn.com/kf/H8c87b109d281407fafa85ca5558f37dc8.png",
+            "https://sc04.alicdn.com/kf/H3b0f3d6130b141ea8b19f101a5a6428eR.png",
+            "https://sc04.alicdn.com/kf/H1b2bdebbc85d4cfb99ca7535bc3dd6f1M.png",
+            "https://sc04.alicdn.com/kf/H2c994aabb20547b3b004cd55dca672c8V.png"
+          ],
+          "category": "أساور مسبحة",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "المادة الرئيسية للمجوهرات",
+              "value": "سبيكة"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "نوع المادة",
+              "value": "سبيكة نحاس"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الحجر الرئيسي",
+              "value": "حجر طبيعي"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الطلاء",
+              "value": "مطلي بالفضة"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "نوع الأساور أو الأطواق",
+              "value": "أساور مطرزة"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الجنس",
+              "value": "أطفال"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "النوع الديني",
+              "value": "الكاثوليكية"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "المناسبة",
+              "value": "الذكرى السنوية"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.30",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "ما هي المواد المصنوع منها سوار المسبحة هذا؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "السوار مصنوع من سبيكة النحاس مع طلاء فضي، ويتميز بخرز من الحجر الطبيعي. قلادة الصليب مصنوعة أيضًا من نفس مادة سبيكة النحاس."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل هذا السوار مناسب للأطفال؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نعم، السوار مصمم خصيصًا للأطفال، كما هو موضح في سمة الجنس. إنه سوار مطرز بحجم مناسب للأطفال."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "ما هي المناسبة المخصصة لهذا السوار؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "هذا السوار مخصص لمناسبات الذكرى السنوية، كما أنه يعد قطعة مجوهرات دينية، مما يجعله مناسبًا للأغراض التعبدية أو كهدية."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "contentHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.588Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "2be996bffa7e0432a8be556f56eabdd0afc022cb952d47a0fb1ed26719502c2a",
+            "contentHash": "c555dbb1be496b2184ce4050d40ff1324758fcfbebccbc0ae3c154217d74d47a",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:36.402Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHcTG7BAOVioqqEY6eepIEV",
+      "sourceId": "AAHcTG7BAOVioqqEY6eepIEV",
+      "sourceFingerprint": "d883546171af2d7057ecb94e0e30b9f20a74f7001de0ebc86ec3a9f0f601de4a",
+      "locale": "ar",
+      "slug": "st-benedict-alloy-pendant-with-rope-eepiev",
+      "title": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل",
+      "eyebrow": "قلادة القديس بنديكت من السبائك",
+      "summary": "هذه القلادة للقديس بنديكت مصنوعة من السبائك بلمسة نهائية فضية قديمة الطراز. تأتي مع حبل للتعليق، مما يجعلها جاهزة للارتداء أو كهدية دينية. إنها إكسسوار تعبدي بسيط للاستخدام الشخصي أو إعادة البيع.",
+      "description": "مصنوعة من السبائك، تتميز هذه القلادة بتصميم قديم الطراز ولمسة نهائية فضية. يتيح الحبل المرفق إمكانية ارتدائها فورًا. كتمثيل للقديس بنديكت، فهي بمثابة تذكير مرئي بالإيمان. هذه القطعة مناسبة للأفراد المتدينين أو كجزء من تشكيلة هدايا دينية. بنيتها البسيطة تجذب المشترين الباحثين عن مجوهرات كاثوليكية متينة وبأسعار معقولة. تصل القلادة بدون تغليف أو وثائق إضافية، لذا ضع في اعتبارك خيارات العرض للبيع بالتجزئة.",
+      "catholicContext": "تعتبر ميداليات القديس بنديكت شكلاً شائعًا من المجوهرات التعبدية في التقليد الكاثوليكي، وغالبًا ما تُستخدم كتعبير عن الإيمان.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "مسبحات كاثوليكية",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
+      "imageAlt": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
+          "alt": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1be0ced8cc4b446ba94ec184101031ebc.webp",
+          "alt": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf99d9620ee2d484ea3a1d385460557255.webp",
+          "alt": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4b2835e28f24486e8ab7cc4bd084dd3e5.webp",
+          "alt": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1f973fb717034e56aae1f94bbde3ceb1w.webp",
+          "alt": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc7484ba47de944d7a052ffb03e308a63f.webp",
+          "alt": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل - قلادة فضية مع حبل تعليق",
+          "label": "silver-pendant-with-hanging-rope",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H07f0cd5c3c9048758e53abd810b88f3eJ.webp",
+          "alt": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل - قلادة فضية",
+          "label": "silver-pendant",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--1"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "مصنوعة من السبائك بلمسة نهائية فضية",
+        "تصميم قديم الطراز",
+        "تشمل حبل تعليق للارتداء",
+        "متوفرة بنسختين: القلادة فقط أو مع الحبل",
+        "مصنفة ضمن المسبحات الكاثوليكية"
+      ],
+      "specifications": [
+        {
+          "name": "المادة",
+          "value": "سبائك"
+        },
+        {
+          "name": "التصميم",
+          "value": "قديم الطراز"
+        },
+        {
+          "name": "النسخة",
+          "value": "قلادة فضية أو مع حبل تعليق"
+        }
+      ],
+      "applications": [
+        "ارتداء تعبدي شخصي",
+        "هدية دينية لعيد الفصح",
+        "صناعة المجوهرات أو الحرف اليدوية",
+        "إعادة البيع بالتجزئة في متاجر الهدايا الكاثوليكية"
+      ],
+      "faq": [
+        {
+          "question": "من أي مادة صُنعت قلادة القديس بنديكت هذه؟",
+          "answer": "القلادة مصنوعة من السبائك بلمسة نهائية فضية."
+        },
+        {
+          "question": "هل تأتي القلادة مع سلسلة أو حبل؟",
+          "answer": "نعم، إحدى النسختين تتضمن حبل تعليق. والنسخة الأخرى هي القلادة فقط."
+        },
+        {
+          "question": "ما هو طراز القلادة؟",
+          "answer": "الوصف يذكر أن التصميم قديم الطراز."
+        }
+      ],
+      "pricing": {
+        "price": "0.35",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.35",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "قلادة القديس بنديكت المصنوعة من السبائك مع حبل",
+          "description": "هذه القلادة للقديس بنديكت مصنوعة من السبائك بلمسة نهائية فضية قديمة الطراز. تأتي مع حبل للتعليق، مما يجعلها جاهزة للارتداء أو كهدية دينية. إنها إكسسوار تعبدي بسيط للاستخدام الشخصي أو إعادة البيع.",
+          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hd33211fa19c2444da0ed691ddaae7012X.jpg",
+            "https://sc04.alicdn.com/kf/H1be0ced8cc4b446ba94ec184101031ebc.jpg",
+            "https://sc04.alicdn.com/kf/Hf99d9620ee2d484ea3a1d385460557255.jpg",
+            "https://sc04.alicdn.com/kf/H4b2835e28f24486e8ab7cc4bd084dd3e5.jpg",
+            "https://sc04.alicdn.com/kf/H1f973fb717034e56aae1f94bbde3ceb1w.jpg"
+          ],
+          "category": "مسبحات كاثوليكية",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "المادة",
+              "value": "سبائك"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "التصميم",
+              "value": "قديم الطراز"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "النسخة",
+              "value": "قلادة فضية أو مع حبل تعليق"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.35",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.35",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "من أي مادة صُنعت قلادة القديس بنديكت هذه؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "القلادة مصنوعة من السبائك بلمسة نهائية فضية."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل تأتي القلادة مع سلسلة أو حبل؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نعم، إحدى النسختين تتضمن حبل تعليق. والنسخة الأخرى هي القلادة فقط."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "ما هو طراز القلادة؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "الوصف يذكر أن التصميم قديم الطراز."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "contentHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:43.512Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
+            "contentHash": "b14d362f8c94675fe3cb579e49eb2bad049f37c7d774dc9d3cd0ccc8deb92e7f",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:44.469Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEBTG7BAOVioqqEY6eiAJ88",
+      "sourceId": "AAEBTG7BAOVioqqEY6eiAJ88",
+      "sourceFingerprint": "e0d5760fc9913554714ca2f9ce125b7166fced3820a55da5fd23d4c06fc487f9",
+      "locale": "ar",
+      "slug": "saint-christopher-metal-keychain-with-key-holder-eiaj88",
+      "title": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح",
+      "eyebrow": "سلسلة مفاتيح القديس كريستوفر",
+      "summary": "تجمع سلسلة المفاتيح هذه الخاصة بالقديس كريستوفر بين حلقة مفاتيح معدنية وحامل مفاتيح مدمج. وهي متوفرة بألوان بني أو رمادي أو أحمر بتدرجين، مما يجعلها إكسسوارًا عمليًا للاستخدام اليومي. صورة القديس كريستوفر، شفيع المسافرين، تجعلها هدية ذات معنى لمن يقدرون التقاليد الكاثوليكية.",
+      "description": "مصنوعة من المعدن، تتميز سلسلة المفاتيح هذه بحلقة مفاتيح متينة وحامل مفاتيح منفصل، مما يتيح لك تنظيم المفاتيح بسهولة. تظهر في المقدمة صورة القديس كريستوفر، وهو قديس يرتبط تقليديًا بالسفر الآمن. متوفرة باللون البني والرمادي والأحمر، ولكل لون درجتان (بني1، بني2، رمادي1، رمادي2، أحمر1، أحمر2)، يمكنك اختيار الدرجة التي تناسب أسلوبك الشخصي أو الشخص المتلقي للهدية. سواء تم استخدامها كسلسلة مفاتيح يومية أو كرمز صغير للإيمان، فإن هذا المنتج يقدم عملية الاستخدام ولمسة تقوى خفيفة.",
+      "catholicContext": "يُبجَّل القديس كريستوفر باعتباره شفيع المسافرين، وتوجد صورته بشكل شائع على الأدوات التعبدية الخاصة بالرحلات.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "83",
+          "name": "سلاسل مفاتيح",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H6d7af685d0b54ba9b280f59c36b2f796w.webp",
+      "imageAlt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6d7af685d0b54ba9b280f59c36b2f796w.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc450331e942d4c27a43b68aee24804cfI.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He39a1099c3cc4df7b823bbbb571735b4O.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hed9f3a4267214964b503340f0e202d06Z.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hae357bb522654167ad1f75200665d0d2s.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf8f98391bbda4354b01caa9bd5c97c827.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H34d8116c901e433e8749249dccdde3c2y.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح - رمادي2",
+          "label": "gray2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8e1b7498478b49769a078a5e7eecebf4K.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح - بني2",
+          "label": "brown2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7e5669a8a04c477eab5bc29b45a2f087b.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح - أحمر2",
+          "label": "red2",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He8fe17eef436462c8ae804e6be8da841T.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح - بني1",
+          "label": "brown1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde102366b7ee49b4bb05da787771c4b4g.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح - أحمر1",
+          "label": "red1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00ca232fa5be4301a4ac3600364854b3U.webp",
+          "alt": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح - رمادي1",
+          "label": "gray1",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "هيكل معدني",
+        "يشمل حلقة مفاتيح وحامل مفاتيح",
+        "يصور القديس كريستوفر، شفيع المسافرين",
+        "متوفر باللون البني أو الرمادي أو الأحمر",
+        "درجتان لكل لون (مثل: بني1، بني2)"
+      ],
+      "specifications": [
+        {
+          "name": "الخامة",
+          "value": "معدن"
+        },
+        {
+          "name": "الصورة الأساسية",
+          "value": "القديس كريستوفر"
+        },
+        {
+          "name": "الدرجات",
+          "value": "بني1، بني2، رمادي1، رمادي2، أحمر1، أحمر2"
+        }
+      ],
+      "applications": [
+        "تنظيم المفاتيح اليومي",
+        "هدية للمسافرين الكاثوليك",
+        "استخدام شخصي كتذكير تعبدي",
+        "هدية صغيرة لفعاليات الرعية أو مجموعات الشباب"
+      ],
+      "faq": [
+        {
+          "question": "ما المواد التي صنعت منها سلسلة المفاتيح هذه؟",
+          "answer": "سلسلة المفاتيح هذه مصنوعة من المعدن، كما هو محدد في تفاصيل المنتج."
+        },
+        {
+          "question": "ما هي الدرجات اللونية المتوفرة؟",
+          "answer": "سلسلة المفاتيح متوفرة باللون البني والرمادي والأحمر، ولكل لون درجتان (بني1، بني2، رمادي1، رمادي2، أحمر1، أحمر2)."
+        },
+        {
+          "question": "هل تشمل سلسلة المفاتيح هذه حامل مفاتيح؟",
+          "answer": "نعم، يشير عنوان المنتج إلى أنها 'حامل مفاتيح القديس كريستوفر' مع حلقة مفاتيح معدنية، لذا فهي تعمل كسلسلة مفاتيح وحامل مفاتيح."
+        }
+      ],
+      "pricing": {
+        "price": "0.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "سلسلة مفاتيح معدنية القديس كريستوفر مع حامل مفاتيح",
+          "description": "تجمع سلسلة المفاتيح هذه الخاصة بالقديس كريستوفر بين حلقة مفاتيح معدنية وحامل مفاتيح مدمج. وهي متوفرة بألوان بني أو رمادي أو أحمر بتدرجين، مما يجعلها إكسسوارًا عمليًا للاستخدام اليومي. صورة القديس كريستوفر، شفيع المسافرين، تجعلها هدية ذات معنى لمن يقدرون التقاليد الكاثوليكية.",
+          "sku": "ALI-AAEBTG7BAOVioqqEY6eiAJ88",
+          "image": [
+            "https://sc04.alicdn.com/kf/H6d7af685d0b54ba9b280f59c36b2f796w.jpg",
+            "https://sc04.alicdn.com/kf/Hc450331e942d4c27a43b68aee24804cfI.jpg",
+            "https://sc04.alicdn.com/kf/He39a1099c3cc4df7b823bbbb571735b4O.jpg",
+            "https://sc04.alicdn.com/kf/Hed9f3a4267214964b503340f0e202d06Z.jpg",
+            "https://sc04.alicdn.com/kf/Hae357bb522654167ad1f75200665d0d2s.jpg",
+            "https://sc04.alicdn.com/kf/Hf8f98391bbda4354b01caa9bd5c97c827.jpg"
+          ],
+          "category": "سلاسل مفاتيح",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "الخامة",
+              "value": "معدن"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الصورة الأساسية",
+              "value": "القديس كريستوفر"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الدرجات",
+              "value": "بني1، بني2، رمادي1، رمادي2، أحمر1، أحمر2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "ما المواد التي صنعت منها سلسلة المفاتيح هذه؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سلسلة المفاتيح هذه مصنوعة من المعدن، كما هو محدد في تفاصيل المنتج."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "ما هي الدرجات اللونية المتوفرة؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سلسلة المفاتيح متوفرة باللون البني والرمادي والأحمر، ولكل لون درجتان (بني1، بني2، رمادي1، رمادي2، أحمر1، أحمر2)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل تشمل سلسلة المفاتيح هذه حامل مفاتيح؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نعم، يشير عنوان المنتج إلى أنها 'حامل مفاتيح القديس كريستوفر' مع حلقة مفاتيح معدنية، لذا فهي تعمل كسلسلة مفاتيح وحامل مفاتيح."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "contentHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:49.053Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "e61dab13b8c876ba0eafe0368dfce3d59d60d6861f0c2befd32e883508ffbbcf",
+            "contentHash": "740f88be0e25ee8e481abb7afdef01f334c7290787812678cd11c4e6f3e9c15b",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:53.444Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAG4TG7BAOVioqqEY6eYM-WE",
+      "sourceId": "AAG4TG7BAOVioqqEY6eYM-WE",
+      "sourceFingerprint": "fdfcd72749fad704223f074acbda2a8caa9a044c4fbd2b45c0dab90c0208b5c6",
+      "locale": "ar",
+      "slug": "wholesales-religious-supplies-plastic-cross-easter-flip-top-cap-eym-we",
+      "title": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب لعيد الفصح",
+      "eyebrow": "زينة",
+      "summary": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب عيد الفصح 100 مل بولي بروبيلين حرف يدوية",
+      "description": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب عيد الفصح 100 مل بولي بروبيلين حرف يدوية",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "زينة",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG4TG7BAOVioqqEY6eYM-WE",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H98eea82dfdad405382a0fd73b61328d2P.webp",
+      "imageAlt": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98eea82dfdad405382a0fd73b61328d2P.webp",
+          "alt": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H79294427a2f24b0587f5a1ab69dddafd4.webp",
+          "alt": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hefa7c4596a7c4f0c989064947a46c07fN.webp",
+          "alt": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H35673fab67864ac583297a1fcb3b33ccj.webp",
+          "alt": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H38799564ffe3412e98b301605dcf7cd00.webp",
+          "alt": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H894b2c1822b04fe789caaac23b8234c6E.webp",
+          "alt": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "الحجم: 12*6.5*3.5 سم",
+        "السعة: 100 مل",
+        "الوزن: 19 غرام",
+        "مادة الزجاجة: HDPE (بولي إيثيلين عالي الكثافة)",
+        "مادة غطاء الزجاجة: PP (بولي بروبيلين)",
+        "اللون: أبيض",
+        "النوع: HDPE",
+        "الطراز: ديني، صليب"
+      ],
+      "specifications": [
+        {
+          "name": "الحجم",
+          "value": "12*6.5*3.5 سم"
+        },
+        {
+          "name": "السعة",
+          "value": "100 مل"
+        },
+        {
+          "name": "الوزن",
+          "value": "19 غرام"
+        },
+        {
+          "name": "مادة الزجاجة",
+          "value": "HDPE (بولي إيثيلين عالي الكثافة)"
+        },
+        {
+          "name": "مادة الغطاء",
+          "value": "PP (بولي بروبيلين)"
+        },
+        {
+          "name": "اللون",
+          "value": "أبيض"
+        },
+        {
+          "name": "النوع",
+          "value": "HDPE"
+        },
+        {
+          "name": "الطراز",
+          "value": "ديني، صليب"
+        },
+        {
+          "name": "المادة",
+          "value": "بلاستيك"
+        },
+        {
+          "name": "الميزة",
+          "value": "صناعة يدوية"
+        },
+        {
+          "name": "التقنية",
+          "value": "تقسية"
+        },
+        {
+          "name": "النقش",
+          "value": "حديث"
+        },
+        {
+          "name": "نوع المنتج",
+          "value": "أخرى"
+        },
+        {
+          "name": "الاستخدام",
+          "value": "فن وتحف، ديكور واحتفالات، ديكور وحفلات زفاف، تذكار، كذبة أبريل، هدية أعمال، ديكور المنزل، العودة إلى المدرسة، رأس السنة الصينية، عيد الميلاد، يوم الأرض، عيد الفصح، عيد الأب، التخرج، عيد الهالوين، عيد الأم، رأس السنة، عيد الشكر، عيد الحب"
+        },
+        {
+          "name": "مكان المنشأ",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "رقم الموديل",
+          "value": "HWB02"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.32",
+        "regularPrice": "0.32",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.32"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب لعيد الفصح",
+          "description": "لوازم دينية بالجملة زجاجة ماء مقدس بلاستيكية بغطاء قابل للطي على شكل صليب عيد الفصح 100 مل بولي بروبيلين حرف يدوية",
+          "sku": "ALI-AAG4TG7BAOVioqqEY6eYM-WE",
+          "image": [
+            "https://sc04.alicdn.com/kf/H98eea82dfdad405382a0fd73b61328d2P.jpg",
+            "https://sc04.alicdn.com/kf/H79294427a2f24b0587f5a1ab69dddafd4.jpg",
+            "https://sc04.alicdn.com/kf/Hefa7c4596a7c4f0c989064947a46c07fN.jpg",
+            "https://sc04.alicdn.com/kf/H35673fab67864ac583297a1fcb3b33ccj.jpg",
+            "https://sc04.alicdn.com/kf/H38799564ffe3412e98b301605dcf7cd00.jpg",
+            "https://sc04.alicdn.com/kf/H894b2c1822b04fe789caaac23b8234c6E.jpg"
+          ],
+          "category": "زينة",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "الحجم",
+              "value": "12*6.5*3.5 سم"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "السعة",
+              "value": "100 مل"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الوزن",
+              "value": "19 غرام"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "مادة الزجاجة",
+              "value": "HDPE (بولي إيثيلين عالي الكثافة)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "مادة الغطاء",
+              "value": "PP (بولي بروبيلين)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "اللون",
+              "value": "أبيض"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "النوع",
+              "value": "HDPE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الطراز",
+              "value": "ديني، صليب"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "المادة",
+              "value": "بلاستيك"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الميزة",
+              "value": "صناعة يدوية"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "التقنية",
+              "value": "تقسية"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "النقش",
+              "value": "حديث"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "نوع المنتج",
+              "value": "أخرى"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الاستخدام",
+              "value": "فن وتحف، ديكور واحتفالات، ديكور وحفلات زفاف، تذكار، كذبة أبريل، هدية أعمال، ديكور المنزل، العودة إلى المدرسة، رأس السنة الصينية، عيد الميلاد، يوم الأرض، عيد الفصح، عيد الأب، التخرج، عيد الهالوين، عيد الأم، رأس السنة، عيد الشكر، عيد الحب"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "مكان المنشأ",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "رقم الموديل",
+              "value": "HWB02"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.32",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.32",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "contentHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:21.876Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "2538d8da5366a91142bcbb8349d7fc1951886d37dfdbb69ca97f97c8b150d5fa",
+            "contentHash": "73e64f1e761760c90d5f353623065f2a48e3daa92c650ba1230a49d4fdbf82db",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:32:59.593Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE0TG7BAOVioqqEY6eBRnX0",
+      "sourceId": "AAE0TG7BAOVioqqEY6eBRnX0",
+      "sourceFingerprint": "defbcb225bdd2d9323a4fa3e149e001168ab73219ebb2aa36af770666a08cbdf",
+      "locale": "ar",
+      "slug": "retro-st-benedict-cross-pendant-with-inri-ebrnx0",
+      "title": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI",
+      "eyebrow": "قلادة صليب القديس بندكت",
+      "summary": "قلادة صليب بقياس 7.5×4.5 سم بلمسة نهائية رجعية ونقش INRI. يشير التصميم إلى تقليد القديس بندكت، المشهور في المجوهرات التعبدية الكاثوليكية. متوفرة بعدة ألوان لتخطيط التشكيلة.",
+      "description": "يبلغ قياس هذه القلادة 7.5 × 4.5 سم، وهو حجم مناسب ليكون نقطة محورية على القلائد المصنوعة من الحبل أو السلسلة. يمنحها التصميم الرجعي مظهرًا عتيقًا، بينما يتبع نقش INRI فوق التمثال الاصطلاح المألوف للصلبان. على الرغم من أن العنوان يذكر القديس بندكت، إلا أن السمات الظاهرة تؤكد فقط تصميم الصليب وحجمه. متوفرة بعدة ألوان، وهي مناسبة للمشترين الذين يبنون تشكيلة متنوعة لمتاجر السلع الدينية أو خطوط الحرف اليدوية. نحن نوفر هذا المنتج كإكسسوار من معدن غير ثمين؛ لا تتوفر تفاصيل عن المادة أو التشطيب. يرجى الاتصال بنا لمعرفة توفر الأنواع الحالية.",
+      "catholicContext": "ميدالية القديس بندكت هي أداة تعبدية معترف بها في التقليد الكاثوليكي، وغالبًا ما ترتبط بالحماية من الشر، على الرغم من أن هذه القلادة نفسها لم توصف بأنها مباركة أو مكرسة.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "إكسسوارات",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hb6aff92bad3e40f3adf0715c25fd7f3fT.webp",
+      "imageAlt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb6aff92bad3e40f3adf0715c25fd7f3fT.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b9d5553e4484232ba83fc9c25158d400.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hceefcca35c8f410f9dbf3fd7790032bd5.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha82fdc029a3a442086dd51f0086bb029e.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H54f7cbf0bf874296b78c5507a9497fdfC.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb1c105449bf9411b9093af26722f299fO.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb38b265133e4a7e98f10f17abc66e4dS.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 17",
+          "label": "17",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9cccdbf4a0bc414a890dd8fee9bf6287i.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 16",
+          "label": "16",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4776e2fa54544be3a3e4b1282a2a2ecbW.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 19",
+          "label": "19",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He5822315e0964ec1b2415f1f12cc1a4b5.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 18",
+          "label": "18",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4dd8aef436cc41349c55d8a422fba5512.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 21",
+          "label": "21",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf046cb8464e74a33b90d1d145cc27093X.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 20",
+          "label": "20",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H02c4cb85499c49e986568fca11d6b0912.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 23",
+          "label": "23",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97c2409913094cef9b8bbbf2432cdf4fF.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 22",
+          "label": "22",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He73445e5408d444db912af0bfb73b1f14.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 1",
+          "label": "1",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3d2fb6eda04e475184ce7822f0349bac2.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 3",
+          "label": "3",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ae39999e6e343428cdb67cfff453ec5l.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 2",
+          "label": "2",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00aa0d38b9f74c3f928a026d929080f1m.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 5",
+          "label": "5",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H25b8e00d6ca045a1be91029184ca34adM.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 4",
+          "label": "4",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7d2ad023099d4653b04e4ab704460d1el.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 7",
+          "label": "7",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb5917ffb85b6400f85ecef7930c8a6a0F.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 6",
+          "label": "6",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf13a65d5c4ef484c9e00b63cb0943989o.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 9",
+          "label": "9",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb20e9058bcf844ed98b4706a7cab503cP.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 8",
+          "label": "8",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9cb407ad54bb4977b7112da2719b2ed5F.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 11",
+          "label": "11",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha19f3b3f8fd9423b87d47d22deee3ada8.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 10",
+          "label": "10",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5137144f8cdf40c8ac11fed77599dbefP.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 13",
+          "label": "13",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He6eed8fa26ce42f09d7adf0efb6bad39t.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 12",
+          "label": "12",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1d2faa3a6f0c483d820d8c441bfd184cz.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 15",
+          "label": "15",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0406b1bf7a254ea39b7f6be2eb1c30ebg.webp",
+          "alt": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI - 14",
+          "label": "14",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0-V--14"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "قلادة صليب بنقش INRI، تشير إلى التسمية التقليدية للمسيح",
+        "قياس 7.5 × 4.5 سم",
+        "تصميم رجعي",
+        "متوفرة بعدة ألوان",
+        "فئة التصميم: صليب"
+      ],
+      "specifications": [
+        {
+          "name": "الارتفاع",
+          "value": "7.5 سم"
+        },
+        {
+          "name": "العرض",
+          "value": "4.5 سم"
+        },
+        {
+          "name": "التصميم",
+          "value": "صليب"
+        },
+        {
+          "name": "أنواع الألوان",
+          "value": "متعدد (22 نوعًا)"
+        }
+      ],
+      "applications": [
+        "تُستخدم كقلادة على القلائد أو الحبال",
+        "تُدرج في تشكيلات المجوهرات الدينية",
+        "تُستخدم في مشاريع الحرف اليدوية لصناعة المسبحة أو المسبحة اليدوية",
+        "تُعرض كصليب زخرفي في المنازل أو المركبات"
+      ],
+      "faq": [
+        {
+          "question": "ما هي أبعاد هذه القلادة الصليبية؟",
+          "answer": "القلادة بقياس 7.5 سم في الارتفاع و4.5 سم في العرض."
+        },
+        {
+          "question": "هل هذه صليب صلبان أم صليب عادي؟",
+          "answer": "المنتج موصوف بأنه قلادة صليب بنقش INRI. لم يتم تحديد وجود جسم المسيح، لذا فمن الأفضل وصفه بأنه صليب يتضمن تسمية INRI."
+        },
+        {
+          "question": "كم عدد خيارات الألوان المتاحة؟",
+          "answer": "المنتج متوفر بعدة ألوان، مع 22 نوعًا مدرجًا."
+        }
+      ],
+      "pricing": {
+        "price": "0.37",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.28",
+          "max": "0.37"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "قلادة صليب القديس بندكت بتصميم رجعي مع نقش INRI",
+          "description": "قلادة صليب بقياس 7.5×4.5 سم بلمسة نهائية رجعية ونقش INRI. يشير التصميم إلى تقليد القديس بندكت، المشهور في المجوهرات التعبدية الكاثوليكية. متوفرة بعدة ألوان لتخطيط التشكيلة.",
+          "sku": "ALI-AAE0TG7BAOVioqqEY6eBRnX0",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb6aff92bad3e40f3adf0715c25fd7f3fT.jpg",
+            "https://sc04.alicdn.com/kf/H1b9d5553e4484232ba83fc9c25158d400.jpg",
+            "https://sc04.alicdn.com/kf/Hceefcca35c8f410f9dbf3fd7790032bd5.jpg",
+            "https://sc04.alicdn.com/kf/Ha82fdc029a3a442086dd51f0086bb029e.jpg",
+            "https://sc04.alicdn.com/kf/H54f7cbf0bf874296b78c5507a9497fdfC.jpg",
+            "https://sc04.alicdn.com/kf/Hb1c105449bf9411b9093af26722f299fO.jpg"
+          ],
+          "category": "إكسسوارات",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "الارتفاع",
+              "value": "7.5 سم"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "العرض",
+              "value": "4.5 سم"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "التصميم",
+              "value": "صليب"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "أنواع الألوان",
+              "value": "متعدد (22 نوعًا)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.37",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.28",
+              "maxPrice": "0.37",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "ما هي أبعاد هذه القلادة الصليبية؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "القلادة بقياس 7.5 سم في الارتفاع و4.5 سم في العرض."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل هذه صليب صلبان أم صليب عادي؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "المنتج موصوف بأنه قلادة صليب بنقش INRI. لم يتم تحديد وجود جسم المسيح، لذا فمن الأفضل وصفه بأنه صليب يتضمن تسمية INRI."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "كم عدد خيارات الألوان المتاحة؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "المنتج متوفر بعدة ألوان، مع 22 نوعًا مدرجًا."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "contentHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:56.065Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "a905be4ce4279e77566051d842e62747060590a734e57ae548df70e671d0760e",
+            "contentHash": "2c7571d4847bddb906cbc6fc0178644deaccbd9706279d14e05df7c8aa08d748",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:33:11.330Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEITG7BAOVioqqEY6eMrXfU",
+      "sourceId": "AAEITG7BAOVioqqEY6eMrXfU",
+      "sourceFingerprint": "f4b5d833aed962788cdf00484f1d7184762adbe7ce67c1e6eacb19307f9f2f8e",
+      "locale": "ar",
+      "slug": "colorful-polymer-clay-rosary-necklace-with-alloy-pendant-emrxfu",
+      "title": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك",
+      "eyebrow": "قلادة مسبحة كاثوليكية",
+      "summary": "تتميز هذه القلادة الكاثوليكية بخرزات من طين البوليمر الملون بنقوش متنوعة، متوفرة بمقاس 6 مم أو 8 مم، مع قلادة من السبائك عليها صورة يسوع. صُممت كخرزات صلاة للتعبد الشخصي، وهي خيار متين وخفيف الوزن للاستخدام اليومي.",
+      "description": "هذه القلادة مصنوعة من خرزات طين البوليمر الملون بتصميم منقوش، متوفرة بقطر 6 مم أو 8 مم. الخرزات مثبتة معًا مع قلادة من السبائك باللون الفضي تحمل صورة يسوع، مناسبة للصلاة الكاثوليكية والممارسة التعبدية. يوفر هيكل طين البوليمر بديلاً خفيفًا وغير معدني لخرزات الزجاج أو الخشب التقليدية. اختر مقاس الخرز المفضل لديك لملاءمة مريحة. تعمل القلادة كأداة ملموسة لتلاوة المسبحة، وهي صلاة تتأمل في أحداث رئيسية من حياة يسوع ومريم.",
+      "catholicContext": "المسبحة هي صلاة كاثوليكية تركز على التأمل في أحداث من حياة يسوع المسيح والعذراء مريم.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "مسبحات كاثوليكية",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+      "imageAlt": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+          "alt": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6c0e8190e813496bb448287c2ca5c47dL.webp",
+          "alt": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb29ee531bd1046f8966c73a20f70c59cx.webp",
+          "alt": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hceb2b21113f34558a32090262a7b36a29.webp",
+          "alt": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3cc441c229674006b552f973e6a3ffbc9.webp",
+          "alt": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde7324582aa34d5899d9119b929fab00N.webp",
+          "alt": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He9abf08ba52d463f9220e963907c9a86r.webp",
+          "alt": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك - 6 مم",
+          "label": "6 مم",
+          "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU-V--2"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "خرزات طين بوليمر ملونة بنقوش متنوعة بمقاس 6 مم أو 8 مم",
+        "قلادة من السبائك باللون الفضي عليها صورة يسوع",
+        "تصميم مسبحة كاثوليكية للصلاة",
+        "مادة خفيفة الوزن ومتينة",
+        "متوفرة بتشطيب فضي"
+      ],
+      "specifications": [
+        {
+          "name": "مقاس الخرز",
+          "value": "6 مم أو 8 مم"
+        },
+        {
+          "name": "المواد",
+          "value": "طين بوليمر، سبائك"
+        },
+        {
+          "name": "اللون",
+          "value": "فضي"
+        },
+        {
+          "name": "النمط",
+          "value": "قلادة"
+        }
+      ],
+      "applications": [
+        "صلاة المسبحة الشخصية",
+        "مجوهرات تعبدية",
+        "هدية للمناسبات الكاثوليكية",
+        "إكسسوار للاستخدام اليومي"
+      ],
+      "faq": [
+        {
+          "question": "ما هي مقاسات الخرز المتوفرة لهذه القلادة؟",
+          "answer": "هذه القلادة متوفرة بمقاسات خرز 6 مم أو 8 مم، مما يتيح لك اختيار الحجم الذي تشعر بالراحة عند التعامل معه أثناء الصلاة."
+        },
+        {
+          "question": "ما هي المواد المستخدمة في هذه المسبحة؟",
+          "answer": "الخرزات مصنوعة من طين بوليمر ملون، والقلادة مصنوعة من سبيكة بتشطيب فضي. يوفر هذا المزيج بناءً خفيفًا ومتينًا."
+        },
+        {
+          "question": "هل هذه المسبحة مناسبة للاستخدام التعبدي اليومي؟",
+          "answer": "نعم، خرزات طين البوليمر والقلادة المصنوعة من السبائك مصممة للاستخدام المنتظم، مما يجعلها مناسبة للممارسة التعبدية اليومية كمسبحة وقطعة مجوهرات دينية."
+        }
+      ],
+      "pricing": {
+        "price": "0.80",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.80",
+          "max": "1.10"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "قلادة مسبحة كاثوليكية من طين البوليمر الملون مع قلادة من السبائك",
+          "description": "تتميز هذه القلادة الكاثوليكية بخرزات من طين البوليمر الملون بنقوش متنوعة، متوفرة بمقاس 6 مم أو 8 مم، مع قلادة من السبائك عليها صورة يسوع. صُممت كخرزات صلاة للتعبد الشخصي، وهي خيار متين وخفيف الوزن للاستخدام اليومي.",
+          "sku": "ALI-AAEITG7BAOVioqqEY6eMrXfU",
+          "image": [
+            "https://sc04.alicdn.com/kf/He9abf08ba52d463f9220e963907c9a86r.jpg",
+            "https://sc04.alicdn.com/kf/H6c0e8190e813496bb448287c2ca5c47dL.jpg",
+            "https://sc04.alicdn.com/kf/Hb29ee531bd1046f8966c73a20f70c59cx.jpg",
+            "https://sc04.alicdn.com/kf/Hceb2b21113f34558a32090262a7b36a29.jpg",
+            "https://sc04.alicdn.com/kf/H3cc441c229674006b552f973e6a3ffbc9.jpg",
+            "https://sc04.alicdn.com/kf/Hde7324582aa34d5899d9119b929fab00N.jpg"
+          ],
+          "category": "مسبحات كاثوليكية",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "مقاس الخرز",
+              "value": "6 مم أو 8 مم"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "المواد",
+              "value": "طين بوليمر، سبائك"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "اللون",
+              "value": "فضي"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "النمط",
+              "value": "قلادة"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.80",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.80",
+              "maxPrice": "1.10",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "ما هي مقاسات الخرز المتوفرة لهذه القلادة؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "هذه القلادة متوفرة بمقاسات خرز 6 مم أو 8 مم، مما يتيح لك اختيار الحجم الذي تشعر بالراحة عند التعامل معه أثناء الصلاة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "ما هي المواد المستخدمة في هذه المسبحة؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "الخرزات مصنوعة من طين بوليمر ملون، والقلادة مصنوعة من سبيكة بتشطيب فضي. يوفر هذا المزيج بناءً خفيفًا ومتينًا."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل هذه المسبحة مناسبة للاستخدام التعبدي اليومي؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نعم، خرزات طين البوليمر والقلادة المصنوعة من السبائك مصممة للاستخدام المنتظم، مما يجعلها مناسبة للممارسة التعبدية اليومية كمسبحة وقطعة مجوهرات دينية."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "contentHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:10.197Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "4685b96ab02062ade52b1104ee9f6fb231fcc223e7b4555f980d61841887ac93",
+            "contentHash": "dfb02b92b33913a16afd3bc72f5e59237d6a18b9fcd95ee6d5b8444169636c6b",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:33:19.628Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHUTG7BAOVioqqEY6e7K9aU",
+      "sourceId": "AAHUTG7BAOVioqqEY6e7K9aU",
+      "sourceFingerprint": "3477133df743fedbd732949bbc421f58e3c6b44d2a4da2525bf2e6b31c2ebd34",
+      "locale": "ar",
+      "slug": "catholic-graffiti-sticker-sheet-60-waterproof-pvc-decals-e7k9au",
+      "title": "ملصقات كاثوليكية بطراز الجرافيتي – 60 ملصقًا مقاومًا للماء من PVC",
+      "eyebrow": "ورقة ملصقات كاثوليكية من PVC",
+      "summary": "تحتوي هذه الحزمة المكونة من 60 ملصقًا كاثوليكيًا على ملصقات متينة من PVC مقاومة للماء مع طباعة رقمية وتغليف لامع. تناسب الملصقات ذات الطابع الكرتوني الهواتف وزجاجات المياه والدراجات البخارية، مما يجعلها خيارًا عمليًا لإضافة أعمال فنية مستوحاة من الإيمان إلى العناصر اليومية.",
+      "description": "تتضمن مجموعة الملصقات 60 ملصقًا فرديًا بصور كاثوليكية بأسلوب كرتوني، مطبوعة رقميًا ومغطاة بطبقة لامعة. مادة PVC ناعمة ومتينة وصديقة للبيئة، مصممة لتحمل الأسطح المنحنية مثل الزجاجات والمقاود. يمكن لصق كل ملصق على الأسطح الملساء كزينة دائمة أو قابلة لإعادة الوضع. نظرًا لأنها مقاومة للماء، فهي مناسبة للأشياء التي تتعرض للرطوبة مثل زجاجات المياه والمعدات الخارجية. توفر المجموعة مجموعة من التصاميم في عبوة واحدة، مما يوفر تنوعًا لتخصيص ممتلكات متعددة.",
+      "catholicContext": "تتميز الملصقات بصور كاثوليكية، تتعلق بالتقوى الشعبية في الثقافة الكاثوليكية، لكنها ليست عناصر مباركة أو مكرسة.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "زينة",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHUTG7BAOVioqqEY6e7K9aU",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H8abd7a50804e4d029855fb84e6a7daec6.webp",
+      "imageAlt": "ملصقات كاثوليكية بطراز الجرافيتي – 60 ملصقًا مقاومًا للماء من PVC",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8abd7a50804e4d029855fb84e6a7daec6.webp",
+          "alt": "ملصقات كاثوليكية بطراز الجرافيتي – 60 ملصقًا مقاومًا للماء من PVC"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fb293fe40274f29877445270931e03dx.webp",
+          "alt": "ملصقات كاثوليكية بطراز الجرافيتي – 60 ملصقًا مقاومًا للماء من PVC"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H20b889d3b2fd41a3a7ff6f2bb53b079bB.webp",
+          "alt": "ملصقات كاثوليكية بطراز الجرافيتي – 60 ملصقًا مقاومًا للماء من PVC"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5707cb59cacd45af9166927359ec3ccbe.webp",
+          "alt": "ملصقات كاثوليكية بطراز الجرافيتي – 60 ملصقًا مقاومًا للماء من PVC"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H81a57fa2f8464f4f80a25cdd1ffd9777I.webp",
+          "alt": "ملصقات كاثوليكية بطراز الجرافيتي – 60 ملصقًا مقاومًا للماء من PVC"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6ee6bd5980dc479f99191d842a3e135bK.webp",
+          "alt": "ملصقات كاثوليكية بطراز الجرافيتي – 60 ملصقًا مقاومًا للماء من PVC"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "60 ملصقًا في كل عبوة بتصاميم كاثوليكية كرتونية",
+        "طباعة رقمية لألوان حادة ونابضة بالحياة",
+        "تغليف لامع يضيف طبقة لامعة واقية",
+        "مادة PVC مقاومة للماء وتتحمل الرطوبة والتآكل",
+        "ناعم ومرن، يتكيف مع أشكال الأسطح المختلفة",
+        "اختيار مادة صديق للبيئة"
+      ],
+      "specifications": [
+        {
+          "name": "نوع المنتج",
+          "value": "ملصق لاصق"
+        },
+        {
+          "name": "الخامة",
+          "value": "PVC"
+        },
+        {
+          "name": "الطباعة",
+          "value": "طباعة رقمية"
+        },
+        {
+          "name": "التشطيب السطحي",
+          "value": "تغليف لامع"
+        },
+        {
+          "name": "الطراز",
+          "value": "كرتوني"
+        },
+        {
+          "name": "مقاومة الماء",
+          "value": "نعم"
+        }
+      ],
+      "applications": [
+        "تزيين أغطية الهواتف",
+        "تخصيص زجاجات المياه",
+        "إضافة لمسة جمالية للدراجات البخارية",
+        "تغليف الهدايا أو الأعمال الفنية ذات الطابع الديني"
+      ],
+      "faq": [
+        {
+          "question": "ما هي مادة صنع هذه الملصقات؟",
+          "answer": "الملصقات مصنوعة من PVC، وهي ناعمة ومتينة وصديقة للبيئة. تتميز بطبقة لامعة وطباعة رقمية."
+        },
+        {
+          "question": "هل الملصقات مقاومة للماء؟",
+          "answer": "نعم، الملصقات مقاومة للماء، مما يجعلها مناسبة للأشياء التي قد تبتل مثل زجاجات المياه أو المعدات الخارجية."
+        },
+        {
+          "question": "كم عدد الملصقات المضمنة؟",
+          "answer": "تحتوي العبوة على 60 ملصقًا، مما يوفر مجموعة متنوعة من التصاميم الكاثوليكية الكرتونية."
+        }
+      ],
+      "pricing": {
+        "price": "0.60",
+        "regularPrice": "0.60",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.50",
+          "max": "0.60"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "ملصقات كاثوليكية بطراز الجرافيتي – 60 ملصقًا مقاومًا للماء من PVC",
+          "description": "تحتوي هذه الحزمة المكونة من 60 ملصقًا كاثوليكيًا على ملصقات متينة من PVC مقاومة للماء مع طباعة رقمية وتغليف لامع. تناسب الملصقات ذات الطابع الكرتوني الهواتف وزجاجات المياه والدراجات البخارية، مما يجعلها خيارًا عمليًا لإضافة أعمال فنية مستوحاة من الإيمان إلى العناصر اليومية.",
+          "sku": "ALI-AAHUTG7BAOVioqqEY6e7K9aU",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8abd7a50804e4d029855fb84e6a7daec6.png",
+            "https://sc04.alicdn.com/kf/H3fb293fe40274f29877445270931e03dx.png",
+            "https://sc04.alicdn.com/kf/H20b889d3b2fd41a3a7ff6f2bb53b079bB.png",
+            "https://sc04.alicdn.com/kf/H5707cb59cacd45af9166927359ec3ccbe.png",
+            "https://sc04.alicdn.com/kf/H81a57fa2f8464f4f80a25cdd1ffd9777I.png",
+            "https://sc04.alicdn.com/kf/H6ee6bd5980dc479f99191d842a3e135bK.png"
+          ],
+          "category": "زينة",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "نوع المنتج",
+              "value": "ملصق لاصق"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الخامة",
+              "value": "PVC"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الطباعة",
+              "value": "طباعة رقمية"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "التشطيب السطحي",
+              "value": "تغليف لامع"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الطراز",
+              "value": "كرتوني"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "مقاومة الماء",
+              "value": "نعم"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.60",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.50",
+              "maxPrice": "0.60",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "ما هي مادة صنع هذه الملصقات؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "الملصقات مصنوعة من PVC، وهي ناعمة ومتينة وصديقة للبيئة. تتميز بطبقة لامعة وطباعة رقمية."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل الملصقات مقاومة للماء؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نعم، الملصقات مقاومة للماء، مما يجعلها مناسبة للأشياء التي قد تبتل مثل زجاجات المياه أو المعدات الخارجية."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "كم عدد الملصقات المضمنة؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "تحتوي العبوة على 60 ملصقًا، مما يوفر مجموعة متنوعة من التصاميم الكاثوليكية الكرتونية."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "contentHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:02:56.660Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "4c652f46f34e66f1b6ee6314771a69ba641187bddf7ca51526a89d16473358c6",
+            "contentHash": "fa362b6825dc64d8100c3b1f7dab4734be836406f57f445b2dc00d4ba0c55375",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:33:28.285Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEkTG7BAOVioqqEY6eOmWAZ",
+      "sourceId": "AAEkTG7BAOVioqqEY6eOmWAZ",
+      "sourceFingerprint": "68426610d9b6aeb36b0d91193d10d00cfc5c2bac719a96dcb6ef5ecdd6bd43b9",
+      "locale": "ar",
+      "slug": "8x10mm-wooden-bead-rosary-necklace-with-cross-eomwaz",
+      "title": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب",
+      "eyebrow": "قلادة مسبحة من الخرز الخشبي",
+      "summary": "تتميز هذه القلادة المسبحة المصنوعة من خرز خشبي 8x10mm بصليب وهي متوفرة بستة تشطيبات بنية. مثالية للصلاة الشخصية والهدايا وصناعة المجوهرات. كل نسخة تقدم لون خشب طبيعي، مناسب للاستخدام التعبدي.",
+      "description": "هذه القلادة المسبحة مصنوعة من خرز خشبي 8x10mm، مما يوفر ملمسًا ملموسًا وواضحًا للصلاة. يتضمن التصميم صليبًا معلقًا، مما يجعلها مجموعة كاملة للتعبد. تأتي في ستة أشكال بنية مميزة، مما يسمح لك باختيار درجة تناسب تفضيلك. سواء للاستخدام الشخصي، أو كهدية مدروسة، أو كقاعدة لمشاريع مجوهرات مخصصة، توفر هذه الخرزات تنوعًا. البناء الخشبي خفيف الوزن، واللمسة النهائية الطبيعية تبرز طابع الخشب.",
+      "catholicContext": "المسبحة هي صلاة كاثوليكية تركز على التأمل في أحداث حياة يسوع المسيح والسيدة العذراء مريم.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "مسبحات كاثوليكية",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H29e4ca8c55d74387a315607d317ad5d1B.webp",
+      "imageAlt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H29e4ca8c55d74387a315607d317ad5d1B.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H268bd0c92f474ca1bfc117ff9955baddn.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd3885d4ae5924f7da4691a3df02699c6t.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hea473f75d9774d00ba96e096f5b62c93V.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd5cea6457c3f461b996bbaf6916b0ebeq.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7aef075e1a104ef0b5c63a48e8fe751eW.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbc50558701084c84a77b9801e56e5669n.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب - بني-3",
+          "label": "brown-3",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H923b157f94034ab899245e0e81ffcd24N.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب - بني-4",
+          "label": "brown-4",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83e7e07e9422437c9f158fb40b59ba6bq.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب - بني-1",
+          "label": "brown-1",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc0567aa6585a415dad2b609b78c13fa0S.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب - بني-2",
+          "label": "brown-2",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8d1336b7ce014f868e9d9e68e35d45b4N.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب - بني-5",
+          "label": "brown-5",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H040f5f99e45b46d6af6b107c27175aa28.webp",
+          "alt": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب - بني-6",
+          "label": "brown-6",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ-V--6"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "حجم الخرزة: 8x10mm",
+        "الخامة: خشب",
+        "التصميم: مسبحة مع صليب",
+        "متوفرة بستة أشكال بنية",
+        "مناسبة لصناعة المجوهرات والاستخدام التعبدي"
+      ],
+      "specifications": [
+        {
+          "name": "حجم الخرزة",
+          "value": "8x10mm"
+        },
+        {
+          "name": "الخامة",
+          "value": "خشب"
+        },
+        {
+          "name": "التصميم",
+          "value": "مسبحة مع صليب"
+        },
+        {
+          "name": "الأشكال الملونة",
+          "value": "بني-1، بني-2، بني-3، بني-4، بني-5، بني-6"
+        }
+      ],
+      "applications": [
+        "الصلاة الشخصية والتعبد",
+        "صناعة الهدايا الدينية",
+        "مستلزمات الحرف وصناعة المجوهرات",
+        "أداة تعليمية لتعليم المسبحة"
+      ],
+      "faq": [
+        {
+          "question": "ما هي أبعاد الخرزات؟",
+          "answer": "الخرزات بقياس 8x10mm، مما يوفر حجمًا مريحًا للتعامل أثناء الصلاة."
+        },
+        {
+          "question": "ما هي الخامة المستخدمة للخرزات؟",
+          "answer": "الخرزات مصنوعة من الخشب، مما يوفر ملمسًا طبيعيًا وخفيفًا."
+        },
+        {
+          "question": "هل تتوفر خيارات ألوان مختلفة؟",
+          "answer": "نعم، المسبحة متوفرة بستة أشكال بنية، تتراوح من بني-1 إلى بني-6."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.60",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "قلادة مسبحة من الخرز الخشبي 8x10mm مع صليب",
+          "description": "تتميز هذه القلادة المسبحة المصنوعة من خرز خشبي 8x10mm بصليب وهي متوفرة بستة تشطيبات بنية. مثالية للصلاة الشخصية والهدايا وصناعة المجوهرات. كل نسخة تقدم لون خشب طبيعي، مناسب للاستخدام التعبدي.",
+          "sku": "ALI-AAEkTG7BAOVioqqEY6eOmWAZ",
+          "image": [
+            "https://sc04.alicdn.com/kf/H29e4ca8c55d74387a315607d317ad5d1B.jpg",
+            "https://sc04.alicdn.com/kf/H268bd0c92f474ca1bfc117ff9955baddn.jpg",
+            "https://sc04.alicdn.com/kf/Hd3885d4ae5924f7da4691a3df02699c6t.jpg",
+            "https://sc04.alicdn.com/kf/Hea473f75d9774d00ba96e096f5b62c93V.jpg",
+            "https://sc04.alicdn.com/kf/Hd5cea6457c3f461b996bbaf6916b0ebeq.jpg",
+            "https://sc04.alicdn.com/kf/H7aef075e1a104ef0b5c63a48e8fe751eW.jpg"
+          ],
+          "category": "مسبحات كاثوليكية",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "حجم الخرزة",
+              "value": "8x10mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الخامة",
+              "value": "خشب"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "التصميم",
+              "value": "مسبحة مع صليب"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الأشكال الملونة",
+              "value": "بني-1، بني-2، بني-3، بني-4، بني-5، بني-6"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.60",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "ما هي أبعاد الخرزات؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "الخرزات بقياس 8x10mm، مما يوفر حجمًا مريحًا للتعامل أثناء الصلاة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "ما هي الخامة المستخدمة للخرزات؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "الخرزات مصنوعة من الخشب، مما يوفر ملمسًا طبيعيًا وخفيفًا."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل تتوفر خيارات ألوان مختلفة؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نعم، المسبحة متوفرة بستة أشكال بنية، تتراوح من بني-1 إلى بني-6."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "contentHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "attempts": 0,
+            "updatedAt": "2026-08-25T03:03:04.844Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "9e4752d46b62f4accce48af626b6ac62631360506c1deae8fa768d9d23433abe",
+            "contentHash": "66da2bbd3dde1ac0ae8c42da589790ae14136cb985905da2f7938a4190ff09f7",
+            "attempts": 1,
+            "updatedAt": "2026-08-25T03:35:05.362Z",
             "model": "deepseek-v4-flash"
           }
         }
