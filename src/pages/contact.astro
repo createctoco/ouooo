@@ -56,7 +56,7 @@ const emailUrl = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(emailSubj
       >
         <p class="text-xs font-semibold uppercase tracking-[.16em] text-primary">Recommended</p>
         <h2 class="mt-3 text-2xl font-semibold">Chat on WhatsApp</h2>
-        <p class="mt-2 text-sm font-semibold text-gray-700">{WHATSAPP_DISPLAY}</p>
+        <p class="mt-2 text-sm font-semibold text-gray-700" dir="ltr">{WHATSAPP_DISPLAY}</p>
         <p class="mt-3 leading-7 text-muted">
           Open a prepared message and add your quantity, country, and requirements.
         </p>
@@ -84,7 +84,7 @@ const emailUrl = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(emailSubj
         href={emailUrl}
       >
         <p class="text-xs font-semibold uppercase tracking-[.16em] text-primary">Email fallback</p>
-        <h2 class="mt-3 text-2xl font-semibold">{CONTACT_EMAIL}</h2>
+        <h2 class="mt-3 text-2xl font-semibold" dir="ltr">{CONTACT_EMAIL}</h2>
         <p class="mt-3 leading-7 text-muted">
           Use email when you need to attach specifications, artwork, or sourcing files.
         </p>
