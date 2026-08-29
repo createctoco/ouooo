@@ -19,7 +19,11 @@ const CATEGORY_OVERRIDES = {
 // D1 after the source catalog dropped them). Keyed by source id; enforced on
 // every catalog build so a source re-add cannot resurrect them, and folded
 // into sync.deletedProductIds so D1 imports delete their rows.
-const DELETED_PRODUCT_IDS = new Set(['AAHyTG7BAOVioqqEY6eonUzd']);
+const DELETED_PRODUCT_IDS = new Set([
+  'AAHyTG7BAOVioqqEY6eonUzd',
+  'AAHcTG7BAOVioqqEY6eepIEV',
+  'AAHuTG7BAOVioqqEY6eehhWx',
+]);
 const unsuitableClaim =
   /\b(bless(?:ed|ing)?|consecrat(?:e|ed|ion)|miracul(?:ous|ously)|spiritual protection|church approv(?:al|ed))\b/i;
 const replaceSourceBrand = (value = '') => {
