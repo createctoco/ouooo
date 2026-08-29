@@ -2,26 +2,28 @@
   "schemaVersion": 3,
   "locale": "sl",
   "sourceLocale": "en",
-  "sourceCatalogHash": "e4f9a6f7d944913bb7b7278e8a12f85e3412b986d32d0aa9f2c57e1e4e0c109b",
-  "generatedAt": "2026-08-29T09:20:15.240Z",
+  "sourceCatalogHash": "f8bcf9729a5c919aab8cc88eae3427b9e86807c8909e1fad02179ddc901ff3fe",
+  "generatedAt": "2026-08-29T17:14:51.688Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAGiTG7BAOVioqqEY6eg1Lvv",
-      "AAEGTG7BAOVioqqEY6eBSX46",
-      "AAHsTG7BAOVioqqEY6ee_EgG",
-      "AAGhTG7BAOVioqqEY6eggfoC",
-      "AAFkTG7BAOVioqqEY6e0kEVX",
-      "AAFDTG7BAOVioqqEY6efdGFL",
-      "AAESTG7BAOVioqqEY6ee6mYg",
-      "AAEXTG7BAOVioqqEY6eeEBZP",
-      "AAEcTG7BAOVioqqEY6eykagt",
-      "AAHITG7BAOVioqqEY6eYHNu1"
+      "AAGMTG7BAOVioqqEY6eoYbXK",
+      "AAE6TG7BAOVioqqEY6e6dDjQ",
+      "AAERTG7BAOVioqqEY6eBTfBP",
+      "AAHgTG7BAOVioqqEY6eg-58i",
+      "AAEFTG7BAOVioqqEY6eBSXk-",
+      "AAGDTG7BAOVioqqEY6ee_GSB",
+      "AAGnTG7BAOVioqqEY6eBUY3E",
+      "AAGyTG7BAOVioqqEY6eBR_zq",
+      "AAG0TG7BAOVioqqEY6ed-wCY",
+      "AAH_TG7BAOVioqqEY6eAcpD5"
     ],
     "deletedProductIds": [
-      "AAHyTG7BAOVioqqEY6eonUzd"
+      "AAHyTG7BAOVioqqEY6eonUzd",
+      "AAHcTG7BAOVioqqEY6eepIEV",
+      "AAHuTG7BAOVioqqEY6eehhWx"
     ]
   },
   "categoryGlossary": {
@@ -39,32 +41,31 @@
   },
   "categoryGlossarySourceHash": "b977a2b717741eb323106d1e21c2cdda18d509f7f966e8c98ed0dd88af22c4ba",
   "translationSummary": {
-    "ready": 402,
-    "skipped": 7,
+    "ready": 411,
+    "skipped": 6,
     "skippedProductIds": [
       "AAGxTG7BAOVioqqEY6e7uzWC",
       "AAEDTG7BAOVioqqEY6erMoEh",
       "AAGXTG7BAOVioqqEY6eoRu-2",
       "AAE9TG7BAOVioqqEY6eoSmZh",
       "AAFiTG7BAOVioqqEY6eBSz9T",
-      "AAFlTG7BAOVioqqEY6e0b3hG",
-      "AAHmTG7BAOVioqqEY6eN6l6N"
+      "AAFlTG7BAOVioqqEY6e0b3hG"
     ],
-    "reused": 390,
+    "reused": 399,
     "generated": 12,
     "generatedProductIds": [
-      "AAEiTG7BAOVioqqEY6eBtm94",
-      "AAH8TG7BAOVioqqEY6eBS5SY",
-      "AAGiTG7BAOVioqqEY6eg1Lvv",
-      "AAEGTG7BAOVioqqEY6eBSX46",
-      "AAGhTG7BAOVioqqEY6eggfoC",
-      "AAHsTG7BAOVioqqEY6ee_EgG",
-      "AAFDTG7BAOVioqqEY6efdGFL",
-      "AAFkTG7BAOVioqqEY6e0kEVX",
+      "AAHmTG7BAOVioqqEY6eN6l6N",
       "AAESTG7BAOVioqqEY6ee6mYg",
-      "AAEXTG7BAOVioqqEY6eeEBZP",
-      "AAEcTG7BAOVioqqEY6eykagt",
-      "AAHITG7BAOVioqqEY6eYHNu1"
+      "AAGMTG7BAOVioqqEY6eoYbXK",
+      "AAE6TG7BAOVioqqEY6e6dDjQ",
+      "AAERTG7BAOVioqqEY6eBTfBP",
+      "AAHgTG7BAOVioqqEY6eg-58i",
+      "AAEFTG7BAOVioqqEY6eBSXk-",
+      "AAGDTG7BAOVioqqEY6ee_GSB",
+      "AAGnTG7BAOVioqqEY6eBUY3E",
+      "AAGyTG7BAOVioqqEY6eBR_zq",
+      "AAG0TG7BAOVioqqEY6ed-wCY",
+      "AAH_TG7BAOVioqqEY6eAcpD5"
     ],
     "retriedBacklog": 7,
     "glossaryReused": true
@@ -2364,7 +2365,7 @@
           "sku": "ALI-AAFlTG7BAOVioqqEY6e0b3hG-V--11"
         }
       ],
-      "accent": "#6f7c72",
+      "accent": "#8b6b4a",
       "features": [
         "Plastic construction with acrylic imagery",
         "LED illumination for a flameless glow",
@@ -2520,406 +2521,6 @@
             "contentHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44",
             "attempts": 0,
             "updatedAt": "2026-08-25T03:03:09.942Z",
-            "model": "deepseek-v4-flash"
-          }
-        }
-      }
-    },
-    {
-      "productId": "AAHmTG7BAOVioqqEY6eN6l6N",
-      "sourceId": "AAHmTG7BAOVioqqEY6eN6l6N",
-      "sourceFingerprint": "310c6b29b25b28fc62ace69068420e9c9407828d0a2197b3e8a27926a6cf7c0a",
-      "locale": "en",
-      "slug": "gold-plated-metal-cross-ornament-for-desk-display-en6l6n",
-      "title": "Gold-Plated Metal Cross Ornament for Desk Display",
-      "eyebrow": "Gold-Plated Metal Cross Ornament",
-      "summary": "This gold-plated metal cross ornament offers a classic design suitable for home or office display. Choose from multiple sizes and color finishes, including gold, black, steel, and more. A versatile decorative piece for desks, shelves, or Christmas trees.",
-      "description": "This metal cross ornament features a gold-plated finish that adds a subtle shine to any setting. Available in sizes ranging from 8 cm to 14 cm, with color variants that include gold, black, steel, bronze, white, blue, red, and more. The sturdy metal construction makes it suitable for year-round display.\n\nWhether placed on a desk, shelf, or hung as a Christmas ornament, this cross serves as a recognizable symbol of faith. Its simple design fits well with both traditional and modern interiors. Choose the size and color that best matches your decor.",
-      "catholicContext": "The cross is a central symbol of the Christian faith, signifying the sacrifice of Jesus Christ.",
-      "catholicRelevance": "explicit",
-      "categories": [
-        {
-          "id": "84",
-          "name": "Ornaments",
-          "slug": "ornaments"
-        }
-      ],
-      "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N",
-      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H248e57a7bfeb4f24b7c7ddbbd5470db7l.webp",
-      "imageAlt": "Gold-Plated Metal Cross Ornament for Desk Display",
-      "gallery": [
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H248e57a7bfeb4f24b7c7ddbbd5470db7l.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H369f53164e774c2e86a950ce7435b86fH.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd1fd1397a1c040b4b5f6653e547ece45G.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hda50aaa093084058b0b139ff9f30d6d5R.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc62d84a3f751473086cb43e29b0ac61ec.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hef9afba8525847a99252197022a839cb0.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display"
-        }
-      ],
-      "variantImages": [
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc61d1d4c85d94f84984a057bb5795caaa.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-red-9cm",
-          "label": "steel-color-red-9cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--16"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H018c56912ceb44eb9ac5ef38a7364597q.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-blue-9cm",
-          "label": "steel-color-blue-9cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--17"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H703ff0324562429582d5f2e2ed865acaB.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - gold-black-9cm",
-          "label": "gold-black-9cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--14"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H55cae4b4f7b04e3f97fae08b0ce328aag.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - gold-white-9cm",
-          "label": "gold-white-9cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--15"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4d464b3897614b95abe8afb843f6817eL.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - gold-red-9cm",
-          "label": "gold-red-9cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--12"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hec0a93ac795a4f3cb85f86e25548abadp.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - gold-blue-9cm",
-          "label": "gold-blue-9cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--13"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdd3dea6b533946a88c3817234514246b1.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - kc-gold-8cm",
-          "label": "kc-gold-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--10"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6dda493b572e43e291ac7a3b5c914358v.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-8cm",
-          "label": "steel-color-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--11"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7dbc5f17d6ad4788950aa7e0d3dfd6daa.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-fluorescent-green-8cm",
-          "label": "steel-color-fluorescent-green-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--8"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H96767ea6a16f40a7a39de11f58a0cd52i.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-white-8cm",
-          "label": "steel-color-white-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--9"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9a2ad5340d874624aa111f82944c1f3bv.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-blue-8cm",
-          "label": "steel-color-blue-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--6"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hba2668a2cd5f4cb3af2d0817f6eff891o.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-black-8cm",
-          "label": "steel-color-black-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--7"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H935a3ed3b6cd4c14b707b468b5d96de44.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - gold-black-8cm",
-          "label": "gold-black-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--4"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb3ef08ff82a842f3a5d6f27f9ad3fdbbh.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-red-8cm",
-          "label": "steel-color-red-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--5"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9f1a98ac3b014ac1a24ef9efa56c0aa1Q.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - gold-white-8cm",
-          "label": "gold-white-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--3"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha67a0c4d78ca475cb1ba288b834a096d1.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - gold-blue-8cm",
-          "label": "gold-blue-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--2"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H10a9cd57dd8a4d73bca71dd4d9e5693an.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - red",
-          "label": "red",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3331260"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9e704aba17b54d299fc1c54b11aa0b94t.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - silver",
-          "label": "silver",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3460547"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5d0c77bfbe8b4251b2fd05e9b32bb603A.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - white",
-          "label": "white",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3331185"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H14883a93774d418eb573d6d1ce0e5b06t.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - gold-red-8cm",
-          "label": "gold-red-8cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--1"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Headdc649904e420b8532cd300abf5243O.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - black",
-          "label": "black",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3327837"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5f08cbb2e1cc460ea0ce18e9c778b2c39.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - blue",
-          "label": "blue",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-123085"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H25110c34aacc4cd5a6e626ed18937932H.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - brown",
-          "label": "brown",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3399503"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4143961389284b058442a5e5a8b6b9a18.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - lead-color",
-          "label": "lead-color",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--26"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0ef080c163cd4cae839b272e300eb7abu.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - gold",
-          "label": "gold",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3331116"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha59b9c52f9954cf180c295056dcf6860R.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - olive",
-          "label": "olive",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--24"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H75133777b213400186a5b6cccebc6f44y.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - bronze",
-          "label": "bronze",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--25"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7114bf1966949bb8405b72a5ccbafaaC.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - 14cm-gold-black",
-          "label": "14cm-gold-black",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--22"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H51b257d53a03479ca87dc86d3be5158aw.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - 14cm-gold-white",
-          "label": "14cm-gold-white",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--23"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6758fc98e1b148dbaf2928b8fe383955O.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - 14cm-gold-red",
-          "label": "14cm-gold-red",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--20"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5d2bab25ee224e9ca746f676ea93bb0fz.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - 14cm-gold-blue",
-          "label": "14cm-gold-blue",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--21"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3c4164a43cc340a59de29d3f96ab81a23.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-black-9cm",
-          "label": "steel-color-black-9cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--18"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfa78aa47f0fe49a08195339a816c1ce1k.webp",
-          "alt": "Gold-Plated Metal Cross Ornament for Desk Display - steel-color-white-9cm",
-          "label": "steel-color-white-9cm",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--19"
-        }
-      ],
-      "accent": "#9a6b63",
-      "features": [
-        "Gold-plated metal finish for a bright appearance",
-        "Multiple size options: 8 cm, 9 cm, 14 cm",
-        "Color variants include gold, black, steel, bronze, white, blue, red, and olive",
-        "Suitable for desk, shelf, or Christmas tree decoration",
-        "Craft category: ornaments"
-      ],
-      "specifications": [
-        {
-          "name": "Finish",
-          "value": "Gold-plated"
-        },
-        {
-          "name": "Available sizes",
-          "value": "8 cm, 9 cm, 14 cm"
-        },
-        {
-          "name": "Color variants",
-          "value": "Gold, black, steel, bronze, white, blue, red, olive"
-        },
-        {
-          "name": "Category",
-          "value": "Ornaments"
-        }
-      ],
-      "applications": [
-        "Desk decoration for home or office",
-        "Display on a shelf or mantlepiece",
-        "Christmas tree ornament",
-        "Wall hanging in a study or living area"
-      ],
-      "faq": [
-        {
-          "question": "What sizes are available for this cross ornament?",
-          "answer": "The cross ornament comes in three size groups: 8 cm, 9 cm, and 14 cm, depending on the color variant you choose."
-        },
-        {
-          "question": "Is this cross made of real gold?",
-          "answer": "No, the cross is gold-plated, meaning it has a thin layer of gold over a base metal. The exact base material is not specified."
-        },
-        {
-          "question": "Can I use this cross ornament outdoors?",
-          "answer": "We recommend keeping this ornament indoors, as outdoor exposure may affect the plating over time. It is designed for home or office display."
-        }
-      ],
-      "pricing": {
-        "price": "0.56",
-        "currency": "USD",
-        "onSale": false,
-        "priceRange": {
-          "min": "0.56",
-          "max": "1.29"
-        }
-      },
-      "structuredData": {
-        "product": {
-          "@context": "https://schema.org",
-          "@type": "Product",
-          "name": "Gold-Plated Metal Cross Ornament for Desk Display",
-          "description": "Shop our gold-plated metal cross ornaments in multiple sizes and colors. Ideal for home, office, or Christmas decor. Available in various finishes.",
-          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N",
-          "image": [
-            "https://sc04.alicdn.com/kf/H248e57a7bfeb4f24b7c7ddbbd5470db7l.png",
-            "https://sc04.alicdn.com/kf/H369f53164e774c2e86a950ce7435b86fH.png",
-            "https://sc04.alicdn.com/kf/Hd1fd1397a1c040b4b5f6653e547ece45G.png",
-            "https://sc04.alicdn.com/kf/Hda50aaa093084058b0b139ff9f30d6d5R.png",
-            "https://sc04.alicdn.com/kf/Hc62d84a3f751473086cb43e29b0ac61ec.png",
-            "https://sc04.alicdn.com/kf/Hef9afba8525847a99252197022a839cb0.png"
-          ],
-          "category": "Ornaments",
-          "additionalProperty": [
-            {
-              "@type": "PropertyValue",
-              "name": "Finish",
-              "value": "Gold-plated"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Available sizes",
-              "value": "8 cm, 9 cm, 14 cm"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Color variants",
-              "value": "Gold, black, steel, bronze, white, blue, red, olive"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Category",
-              "value": "Ornaments"
-            }
-          ],
-          "offers": {
-            "@type": "Offer",
-            "price": "0.56",
-            "priceCurrency": "USD",
-            "availability": "https://schema.org/InStock",
-            "priceSpecification": {
-              "@type": "PriceSpecification",
-              "minPrice": "0.56",
-              "maxPrice": "1.29",
-              "priceCurrency": "USD"
-            }
-          }
-        },
-        "faq": {
-          "@context": "https://schema.org",
-          "@type": "FAQPage",
-          "mainEntity": [
-            {
-              "@type": "Question",
-              "name": "What sizes are available for this cross ornament?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "The cross ornament comes in three size groups: 8 cm, 9 cm, and 14 cm, depending on the color variant you choose."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is this cross made of real gold?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "No, the cross is gold-plated, meaning it has a thin layer of gold over a base metal. The exact base material is not specified."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Can I use this cross ornament outdoors?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "We recommend keeping this ornament indoors, as outdoor exposure may affect the plating over time. It is designed for home or office display."
-              }
-            }
-          ]
-        }
-      },
-      "localization": {
-        "sourceLocale": "en",
-        "sourceHash": "c293c0feb66acfb8d639d283a47bca3e800fd2f789376e817e068aae180035cd",
-        "translations": {
-          "en": {
-            "status": "source",
-            "sourceHash": "c293c0feb66acfb8d639d283a47bca3e800fd2f789376e817e068aae180035cd",
-            "contentHash": "c293c0feb66acfb8d639d283a47bca3e800fd2f789376e817e068aae180035cd",
-            "attempts": 0,
-            "updatedAt": "2026-08-26T03:10:13.672Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -81814,214 +81415,6 @@
       }
     },
     {
-      "productId": "AAHcTG7BAOVioqqEY6eepIEV",
-      "sourceId": "AAHcTG7BAOVioqqEY6eepIEV",
-      "sourceFingerprint": "d883546171af2d7057ecb94e0e30b9f20a74f7001de0ebc86ec3a9f0f601de4a",
-      "locale": "sl",
-      "slug": "st-benedict-alloy-pendant-with-rope-eepiev",
-      "title": "Sv. Benedikt obesek iz zlitine z vrvico",
-      "eyebrow": "Obesek sv. Benedikta iz zlitine",
-      "summary": "Ta obesek sv. Benedikta je izdelan iz zlitine s srebrnim retro zaključkom. Dobavljen je z obesno vrvico, zaradi česar je pripravljen za nošenje ali kot versko darilo. Preprost pobožnostni dodatek za osebno uporabo ali nadaljnjo prodajo.",
-      "description": "Izdelan iz zlitine, ima ta obesek retro dizajn in srebrno barvo. Priložena vrvica omogoča takojšnje nošenje. Kot upodobitev svetega Benedikta služi kot vidni opomin na vero. Ta kos je primeren za posameznike ali kot del verskega darilnega programa. Zaradi enostavne izdelave je privlačen za kupce, ki iščejo trpežen in cenovno ugoden katoliški nakit. Obesek je dobavljen brez dodatne embalaže in dokumentacije, zato razmislite o možnostih predstavitve za maloprodajo.",
-      "catholicContext": "Medaljoni svetega Benedikta so priljubljena oblika pobožnostnega nakita v katoliški tradiciji, pogosto uporabljeni kot izraz vere.",
-      "catholicRelevance": "devotional_context",
-      "categories": [
-        {
-          "id": "15",
-          "name": "Katoliški rožni venci",
-          "slug": "catholic-rosaries"
-        }
-      ],
-      "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
-      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
-      "imageAlt": "Sv. Benedikt obesek iz zlitine z vrvico",
-      "gallery": [
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd33211fa19c2444da0ed691ddaae7012X.webp",
-          "alt": "Sv. Benedikt obesek iz zlitine z vrvico"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1be0ced8cc4b446ba94ec184101031ebc.webp",
-          "alt": "Sv. Benedikt obesek iz zlitine z vrvico"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf99d9620ee2d484ea3a1d385460557255.webp",
-          "alt": "Sv. Benedikt obesek iz zlitine z vrvico"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4b2835e28f24486e8ab7cc4bd084dd3e5.webp",
-          "alt": "Sv. Benedikt obesek iz zlitine z vrvico"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1f973fb717034e56aae1f94bbde3ceb1w.webp",
-          "alt": "Sv. Benedikt obesek iz zlitine z vrvico"
-        }
-      ],
-      "variantImages": [
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc7484ba47de944d7a052ffb03e308a63f.webp",
-          "alt": "Sv. Benedikt obesek iz zlitine z vrvico - srebrni obesek z vrvico",
-          "label": "srebrni-obesek-z-vrvico",
-          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--2"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H07f0cd5c3c9048758e53abd810b88f3eJ.webp",
-          "alt": "Sv. Benedikt obesek iz zlitine z vrvico - srebrni obesek",
-          "label": "srebrni-obesek",
-          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV-V--1"
-        }
-      ],
-      "accent": "#6f7c72",
-      "features": [
-        "Izdelan iz zlitine s srebrnim zaključkom",
-        "Retro dizajn",
-        "Vključuje vrvico za nošenje",
-        "Na voljo v dveh različicah: samo obesek ali z vrvico",
-        "Uvrščeno med katoliške rožne vence"
-      ],
-      "specifications": [
-        {
-          "name": "Material",
-          "value": "Zlitina"
-        },
-        {
-          "name": "Dizajn",
-          "value": "Retro"
-        },
-        {
-          "name": "Različica",
-          "value": "Srebrni obesek ali z vrvico"
-        }
-      ],
-      "applications": [
-        "Osebno pobožnostno nošenje",
-        "Versko darilo za veliko noč",
-        "Izdelava nakita ali obrt",
-        "Maloprodaja v katoliških darilnih trgovinah"
-      ],
-      "faq": [
-        {
-          "question": "Iz katerega materiala je ta obesek sv. Benedikta?",
-          "answer": "Obesek je izdelan iz zlitine s srebrnim zaključkom."
-        },
-        {
-          "question": "Ali je obesek dobavljen z verižico ali vrvico?",
-          "answer": "Da, ena različica vključuje vrvico. Druga različica je samo obesek."
-        },
-        {
-          "question": "Kakšen je slog obeska?",
-          "answer": "Dizajn je opisan kot retro."
-        }
-      ],
-      "pricing": {
-        "price": "0.35",
-        "currency": "USD",
-        "onSale": false,
-        "priceRange": {
-          "min": "0.35",
-          "max": "0.45"
-        }
-      },
-      "structuredData": {
-        "product": {
-          "@context": "https://schema.org",
-          "@type": "Product",
-          "name": "Sv. Benedikt obesek iz zlitine z vrvico",
-          "description": "Ta obesek sv. Benedikta je izdelan iz zlitine s srebrnim retro zaključkom. Dobavljen je z obesno vrvico, zaradi česar je pripravljen za nošenje ali kot versko darilo. Preprost pobožnostni dodatek za osebno uporabo ali nadaljnjo prodajo.",
-          "sku": "ALI-AAHcTG7BAOVioqqEY6eepIEV",
-          "image": [
-            "https://sc04.alicdn.com/kf/Hd33211fa19c2444da0ed691ddaae7012X.jpg",
-            "https://sc04.alicdn.com/kf/H1be0ced8cc4b446ba94ec184101031ebc.jpg",
-            "https://sc04.alicdn.com/kf/Hf99d9620ee2d484ea3a1d385460557255.jpg",
-            "https://sc04.alicdn.com/kf/H4b2835e28f24486e8ab7cc4bd084dd3e5.jpg",
-            "https://sc04.alicdn.com/kf/H1f973fb717034e56aae1f94bbde3ceb1w.jpg"
-          ],
-          "category": "Katoliški rožni venci",
-          "additionalProperty": [
-            {
-              "@type": "PropertyValue",
-              "name": "Material",
-              "value": "Zlitina"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Dizajn",
-              "value": "Retro"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Različica",
-              "value": "Srebrni obesek ali z vrvico"
-            }
-          ],
-          "offers": {
-            "@type": "Offer",
-            "price": "0.35",
-            "priceCurrency": "USD",
-            "availability": "https://schema.org/InStock",
-            "priceSpecification": {
-              "@type": "PriceSpecification",
-              "minPrice": "0.35",
-              "maxPrice": "0.45",
-              "priceCurrency": "USD"
-            }
-          }
-        },
-        "faq": {
-          "@context": "https://schema.org",
-          "@type": "FAQPage",
-          "mainEntity": [
-            {
-              "@type": "Question",
-              "name": "Iz katerega materiala je ta obesek sv. Benedikta?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Obesek je izdelan iz zlitine s srebrnim zaključkom."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Ali je obesek dobavljen z verižico ali vrvico?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Da, ena različica vključuje vrvico. Druga različica je samo obesek."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Kakšen je slog obeska?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Dizajn je opisan kot retro."
-              }
-            }
-          ]
-        }
-      },
-      "localization": {
-        "sourceLocale": "en",
-        "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
-        "translations": {
-          "en": {
-            "status": "source",
-            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
-            "contentHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
-            "attempts": 0,
-            "updatedAt": "2026-08-25T03:02:43.512Z",
-            "model": "deepseek-v4-flash"
-          },
-          "sl": {
-            "status": "ready",
-            "sourceHash": "20cc7dddf105c65c3c1e72a8b1e34fbb42771bceb5e6b78cc5809605364a8306",
-            "contentHash": "b6d4456679d667bac82407d1a182571bb9933740512c186e091499171cdaf0bb",
-            "attempts": 1,
-            "updatedAt": "2026-08-25T03:29:54.477Z",
-            "model": "deepseek-v4-flash"
-          }
-        }
-      }
-    },
-    {
       "productId": "AAEBTG7BAOVioqqEY6eiAJ88",
       "sourceId": "AAEBTG7BAOVioqqEY6eiAJ88",
       "sourceFingerprint": "e0d5760fc9913554714ca2f9ce125b7166fced3820a55da5fd23d4c06fc487f9",
@@ -86969,149 +86362,6 @@
       }
     },
     {
-      "productId": "AAHuTG7BAOVioqqEY6eehhWx",
-      "sourceId": "AAHuTG7BAOVioqqEY6eehhWx",
-      "sourceFingerprint": "4980310b66acc0ca047b018175359e9c58110d95b9777ef346d7e2e7847bffcd",
-      "locale": "sl",
-      "slug": "storage-for-prayer-beads-black-flannelette-bag-jewelry-gift-eehhwx",
-      "title": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit",
-      "eyebrow": "Rožnovenske zapestnice",
-      "summary": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit Shranjevanje Rožnovenska torbica Križ nakit Vrvica za zategovanje Žep Rožnovenska torbica",
-      "description": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit Shranjevanje Rožnovenska torbica Križ nakit Vrvica za zategovanje Žep Rožnovenska torbica",
-      "catholicContext": "",
-      "catholicRelevance": "devotional_context",
-      "categories": [
-        {
-          "id": "20",
-          "name": "Rožnovenske zapestnice",
-          "slug": "rosary-bracelets"
-        }
-      ],
-      "sku": "ALI-AAHuTG7BAOVioqqEY6eehhWx",
-      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H3df3be62de604e1883ca2014ecd54cc2z.webp",
-      "imageAlt": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit",
-      "gallery": [
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3df3be62de604e1883ca2014ecd54cc2z.webp",
-          "alt": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H991d6064650a46f1a4b7981c18c3fff2M.webp",
-          "alt": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/He45159a4873941e3b272eaa6caa6cd33E.webp",
-          "alt": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H61cc406fff9746f38bdf87b0f0a9d005E.webp",
-          "alt": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9b56549b0108430392842af849eccb5dR.webp",
-          "alt": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha5acee6c7dc849f7bed7326d16ec3180r.webp",
-          "alt": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit"
-        }
-      ],
-      "variantImages": [
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hce4828af09ec47e1a858bcfed366542a2.webp",
-          "alt": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit - črna-10cm12cm",
-          "label": "črna-10cm12cm",
-          "sku": "ALI-AAHuTG7BAOVioqqEY6eehhWx-V--1"
-        },
-        {
-          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf938880def4e404da44b575de0446a2cI.webp",
-          "alt": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit - črna-8cm10cm",
-          "label": "črna-8cm10cm",
-          "sku": "ALI-AAHuTG7BAOVioqqEY6eehhWx-V--2"
-        }
-      ],
-      "accent": "#9a6b63",
-      "features": [
-        "Različica: Črna 10cm*12cm, Črna 8cm*10cm"
-      ],
-      "specifications": [
-        {
-          "name": "Različica",
-          "value": "Črna 10cm*12cm, Črna 8cm*10cm"
-        }
-      ],
-      "applications": [],
-      "faq": [],
-      "pricing": {
-        "price": "0.17",
-        "currency": "USD",
-        "onSale": false,
-        "priceRange": {
-          "min": "0.17",
-          "max": "0.18"
-        }
-      },
-      "structuredData": {
-        "product": {
-          "@context": "https://schema.org",
-          "@type": "Product",
-          "name": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit",
-          "description": "Shranjevanje za molitvene kroglice Črna flanelasta torbica Darilo za nakit Shranjevanje Rožnovenska torbica Križ nakit Vrvica za zategovanje Žep Rožnovenska torbica",
-          "sku": "ALI-AAHuTG7BAOVioqqEY6eehhWx",
-          "image": [
-            "https://sc04.alicdn.com/kf/H3df3be62de604e1883ca2014ecd54cc2z.jpg",
-            "https://sc04.alicdn.com/kf/H991d6064650a46f1a4b7981c18c3fff2M.jpg",
-            "https://sc04.alicdn.com/kf/He45159a4873941e3b272eaa6caa6cd33E.jpg",
-            "https://sc04.alicdn.com/kf/H61cc406fff9746f38bdf87b0f0a9d005E.jpg",
-            "https://sc04.alicdn.com/kf/H9b56549b0108430392842af849eccb5dR.jpg",
-            "https://sc04.alicdn.com/kf/Ha5acee6c7dc849f7bed7326d16ec3180r.jpg"
-          ],
-          "category": "Rožnovenske zapestnice",
-          "additionalProperty": [
-            {
-              "@type": "PropertyValue",
-              "name": "Različica",
-              "value": "Črna 10cm*12cm, Črna 8cm*10cm"
-            }
-          ],
-          "offers": {
-            "@type": "Offer",
-            "price": "0.17",
-            "priceCurrency": "USD",
-            "availability": "https://schema.org/InStock",
-            "priceSpecification": {
-              "@type": "PriceSpecification",
-              "minPrice": "0.17",
-              "maxPrice": "0.18",
-              "priceCurrency": "USD"
-            }
-          }
-        }
-      },
-      "localization": {
-        "sourceLocale": "en",
-        "sourceHash": "a722da66ea6fb110c541424a61d75964e2e4de5d39a34a226dbe3e439a7f64aa",
-        "translations": {
-          "en": {
-            "status": "source",
-            "sourceHash": "a722da66ea6fb110c541424a61d75964e2e4de5d39a34a226dbe3e439a7f64aa",
-            "contentHash": "a722da66ea6fb110c541424a61d75964e2e4de5d39a34a226dbe3e439a7f64aa",
-            "attempts": 0,
-            "updatedAt": "2026-08-27T12:38:11.707Z",
-            "model": "deepseek-v4-flash"
-          },
-          "sl": {
-            "status": "ready",
-            "sourceHash": "a722da66ea6fb110c541424a61d75964e2e4de5d39a34a226dbe3e439a7f64aa",
-            "contentHash": "d356305361ff42190d0b8364e9260f9398ee6b8ffb97b3d4b902f064dac9ea3d",
-            "attempts": 1,
-            "updatedAt": "2026-08-28T14:47:36.798Z",
-            "model": "deepseek-v4-flash"
-          }
-        }
-      }
-    },
-    {
       "productId": "AAHkTG7BAOVioqqEY6eBS0bO",
       "sourceId": "AAHkTG7BAOVioqqEY6eBS0bO",
       "sourceFingerprint": "0c7f7e04236c98cd85b53d32aacd2280bcfd785376f9775995a0f506113dc6cd",
@@ -91268,10 +90518,10 @@
       "sourceFingerprint": "0fc03392d7ad75490c9972a6f5cf1926b26f6cae907f25bcb69d0bac0666b6d0",
       "locale": "sl",
       "slug": "oval-three-way-pendant-necklace-ee6myg",
-      "title": "Ovalna ogrlica s tri-smernim obeskom",
-      "eyebrow": "ovalna ogrlica s tri-smernim obeskom",
-      "summary": "Ta ovalna ogrlica s tri-smernim obeskom prinaša vintage navdih v vašo linijo nakita. Izdelana je iz cinkove zlitine, ima viseči dizajn, ki spominja na rožni venec. Uniseks dodatek za vsakdanje nošenje.",
-      "description": "Ta ovalna ogrlica s tri-smernim obeskom ponuja edinstven dizajn, navdihnjen s tradicionalnim rožnim vencem. Obesek je izdelan iz cinkove zlitine, kar mu daje trpežen in vintage občutek. Tri-smerni viseči slog doda vizualno zanimivost, zaradi česar je vsestranski dodatek k vsaki kolekciji nakita.\n\nOblikovana kot uniseks dodatek ustreza različnim okusom. Lahko služi kot preprost modni kos ali kot izhodišče za pobožni nakit, odvisno od vašega trga.\n\nTakšne kose dobavljamo veleprodajnim kupcem, ki potrebujejo posebne dodatke. Kontaktirajte nas za podrobnosti o naročilu ali za razpravo o možnostih prilagoditve.",
+      "title": "Ovalna triosmerna ogrlica z obeskom",
+      "eyebrow": "ovalna triosmerna ogrlica z obeskom",
+      "summary": "Ta ovalna triosmerna ogrlica z obeskom prinaša videz, ki ga navdihuje vintage, v vašo linijo nakita. Izdelana iz cinkove zlitine, ima visečo zasnovo, ki spominja na rožni venec. Uniseks dodatek za vsakdanje nošenje.",
+      "description": "Ta ovalna triosmerna ogrlica z obeskom ponuja posebno zasnovo, ki jo navdihuje tradicionalni rožni venec. Obesek je izdelan iz cinkove zlitine, kar mu daje trpežen in vintage občutek. Triosmerni viseči slog doda vizualno zanimivost, zaradi česar je vsestranski dodatek v vsaki zbirki nakita.\n\nOblikovan kot uniseks dodatek, ustreza različnim okusom. Lahko služi kot preprost modni predmet ali kot izhodišče za pobožni nakit, odvisno od vašega trga.\n\nTe izdelke pridobivamo za veleprodajne kupce, ki potrebujejo posebne dodatke. Kontaktirajte nas za podrobnosti o naročilu ali za pogovor o možnostih prilagoditve.",
       "catholicContext": "Rožni venec je katoliška molitev, osredotočena na premišljevanje dogodkov iz življenja Jezusa Kristusa in Device Marije.",
       "catholicRelevance": "explicit",
       "categories": [
@@ -91283,33 +90533,33 @@
       ],
       "sku": "ALI-AAESTG7BAOVioqqEY6ee6mYg",
       "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Ha709cba948464fdaa92068e1130dcac1L.webp",
-      "imageAlt": "Ovalna ogrlica s tri-smernim obeskom",
+      "imageAlt": "Ovalna triosmerna ogrlica z obeskom",
       "gallery": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha709cba948464fdaa92068e1130dcac1L.webp",
-          "alt": "Ovalna ogrlica s tri-smernim obeskom"
+          "alt": "Ovalna triosmerna ogrlica z obeskom"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H9bdc2bb3e4804127bf8f4018776dddf55.webp",
-          "alt": "Ovalna ogrlica s tri-smernim obeskom"
+          "alt": "Ovalna triosmerna ogrlica z obeskom"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb5b0e2a38744f37ab0108f243a184e4f.webp",
-          "alt": "Ovalna ogrlica s tri-smernim obeskom"
+          "alt": "Ovalna triosmerna ogrlica z obeskom"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H45298efe9060472ea7a4fd8ae7eb6630a.webp",
-          "alt": "Ovalna ogrlica s tri-smernim obeskom"
+          "alt": "Ovalna triosmerna ogrlica z obeskom"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb9026ef38ed64358a531d901080a9bf8W.webp",
-          "alt": "Ovalna ogrlica s tri-smernim obeskom"
+          "alt": "Ovalna triosmerna ogrlica z obeskom"
         }
       ],
       "variantImages": [],
-      "accent": "#7a6d92",
+      "accent": "#6f7c72",
       "features": [
-        "Ovalni tri-smerni dizajn obeska",
+        "Oblikovanje ovalnega triosmernega obeska",
         "Vintage kovinski zaključek",
         "Izdelava iz cinkove zlitine",
         "Uniseks slog",
@@ -91334,23 +90584,23 @@
         }
       ],
       "applications": [
-        "Razstavljanje nakita na drobno",
-        "Darilo",
-        "Trgovina z verskimi predmeti",
+        "Maloprodajna razstava nakita",
+        "Darilni predmet",
+        "Trgovina z verskimi izdelki",
         "Kostumski dodatek"
       ],
       "faq": [
         {
-          "question": "Kateri je glavni material te ogrlice z obeskom?",
+          "question": "Kaj je glavni material te ogrlice z obeskom?",
           "answer": "Obesek je izdelan iz cinkove zlitine, kar mu daje kovinski občutek in vintage videz."
         },
         {
-          "question": "Ali je to rožnovenska ogrlica?",
-          "answer": "To je ogrlica z obeskom, ki ima dizajn, podoben rožnemu vencu, vendar ni tradicionalni rožni venec s perlicami. Nima celotne strukture rožnega venca."
+          "question": "Je to rožnovenska ogrlica?",
+          "answer": "To je ogrlica z obeskom, katere zasnova spominja na rožni venec, vendar ni tradicionalni rožni venec s perlicami. Nima popolne strukture rožnega venca."
         },
         {
-          "question": "Ali je ta izdelek primeren tako za moške kot za ženske?",
-          "answer": "Da, ogrlica je oblikovana kot uniseks dodatek, zato jo lahko nosi vsak."
+          "question": "Je ta izdelek primeren tako za moške kot za ženske?",
+          "answer": "Da, ogrlica je oblikovana kot uniseks dodatek, zato jo lahko nosi vsakdo."
         }
       ],
       "pricing": {
@@ -91367,8 +90617,8 @@
         "product": {
           "@context": "https://schema.org",
           "@type": "Product",
-          "name": "Ovalna ogrlica s tri-smernim obeskom",
-          "description": "Ta ovalna ogrlica s tri-smernim obeskom prinaša vintage navdih v vašo linijo nakita. Izdelana je iz cinkove zlitine, ima viseči dizajn, ki spominja na rožni venec. Uniseks dodatek za vsakdanje nošenje.",
+          "name": "Ovalna triosmerna ogrlica z obeskom",
+          "description": "Ta ovalna triosmerna ogrlica z obeskom prinaša videz, ki ga navdihuje vintage, v vašo linijo nakita. Izdelana iz cinkove zlitine, ima visečo zasnovo, ki spominja na rožni venec. Uniseks dodatek za vsakdanje nošenje.",
           "sku": "ALI-AAESTG7BAOVioqqEY6ee6mYg",
           "image": [
             "https://sc04.alicdn.com/kf/Ha709cba948464fdaa92068e1130dcac1L.jpg",
@@ -91419,7 +90669,7 @@
           "mainEntity": [
             {
               "@type": "Question",
-              "name": "Kateri je glavni material te ogrlice z obeskom?",
+              "name": "Kaj je glavni material te ogrlice z obeskom?",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Obesek je izdelan iz cinkove zlitine, kar mu daje kovinski občutek in vintage videz."
@@ -91427,18 +90677,18 @@
             },
             {
               "@type": "Question",
-              "name": "Ali je to rožnovenska ogrlica?",
+              "name": "Je to rožnovenska ogrlica?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "To je ogrlica z obeskom, ki ima dizajn, podoben rožnemu vencu, vendar ni tradicionalni rožni venec s perlicami. Nima celotne strukture rožnega venca."
+                "text": "To je ogrlica z obeskom, katere zasnova spominja na rožni venec, vendar ni tradicionalni rožni venec s perlicami. Nima popolne strukture rožnega venca."
               }
             },
             {
               "@type": "Question",
-              "name": "Ali je ta izdelek primeren tako za moške kot za ženske?",
+              "name": "Je ta izdelek primeren tako za moške kot za ženske?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Da, ogrlica je oblikovana kot uniseks dodatek, zato jo lahko nosi vsak."
+                "text": "Da, ogrlica je oblikovana kot uniseks dodatek, zato jo lahko nosi vsakdo."
               }
             }
           ]
@@ -91446,22 +90696,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "cf7bcbf221770f473e04e2684c6d09c0ff1474dada40e60cc456b1be465d5c73",
+        "sourceHash": "dacc78c0c7d74f984966396e807ff94f1e658d35d195cef73ba5a43f7c81d3de",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "cf7bcbf221770f473e04e2684c6d09c0ff1474dada40e60cc456b1be465d5c73",
-            "contentHash": "cf7bcbf221770f473e04e2684c6d09c0ff1474dada40e60cc456b1be465d5c73",
+            "sourceHash": "dacc78c0c7d74f984966396e807ff94f1e658d35d195cef73ba5a43f7c81d3de",
+            "contentHash": "dacc78c0c7d74f984966396e807ff94f1e658d35d195cef73ba5a43f7c81d3de",
             "attempts": 0,
             "updatedAt": "2026-08-29T08:48:05.832Z",
             "model": "deepseek-v4-flash"
           },
           "sl": {
             "status": "ready",
-            "sourceHash": "cf7bcbf221770f473e04e2684c6d09c0ff1474dada40e60cc456b1be465d5c73",
-            "contentHash": "b26a2d854029118bd2fedfa7ae0f7b4ba48ca04e3e5f8690928bee4c37408ad3",
+            "sourceHash": "dacc78c0c7d74f984966396e807ff94f1e658d35d195cef73ba5a43f7c81d3de",
+            "contentHash": "a83f8cc8e97a6f9586f660d22ac6da51f3f73b530d4ee9c8c5da4840c9b78d21",
             "attempts": 1,
-            "updatedAt": "2026-08-29T09:19:41.581Z",
+            "updatedAt": "2026-08-29T17:13:06.028Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -92243,6 +91493,2714 @@
             "contentHash": "423e9cc0499540794844a67d9acc7cefcf220372fd1cf5776baebce91c19fb40",
             "attempts": 1,
             "updatedAt": "2026-08-29T09:20:15.239Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHmTG7BAOVioqqEY6eN6l6N",
+      "sourceId": "AAHmTG7BAOVioqqEY6eN6l6N",
+      "sourceFingerprint": "310c6b29b25b28fc62ace69068420e9c9407828d0a2197b3e8a27926a6cf7c0a",
+      "locale": "sl",
+      "slug": "gold-plated-metal-cross-ornament-for-desk-display-en6l6n",
+      "title": "Pozlačen kovinski križ za okrasitev mize",
+      "eyebrow": "Pozlačen kovinski križ",
+      "summary": "Ta pozlačen kovinski križ ima klasičen dizajn, primeren za dom ali pisarno. Na voljo je v več velikostih in barvnih različicah, vključno z zlato, črno, jekleno in drugimi. Vsestranski okrasni kos za mize, police ali božična drevesa.",
+      "description": "Ta kovinski križ ima pozlačeno površino, ki doda subtilen sijaj vsakemu prostoru. Na voljo je v velikostih od 8 cm do 14 cm, z barvnimi različicami, ki vključujejo zlato, črno, jekleno, bronasto, belo, modro, rdečo in druge. Trdna kovinska konstrukcija omogoča celoletno razstavljanje.\n\nNe glede na to, ali je postavljen na mizo, polico ali obešen kot božični okras, ta križ služi kot prepoznaven simbol vere. Njegov preprost dizajn se lepo ujema tako s tradicionalnimi kot sodobnimi interierji. Izberite velikost in barvo, ki najbolje ustrezata vaši dekoraciji.",
+      "catholicContext": "Križ je osrednji simbol krščanske vere, ki označuje žrtev Jezusa Kristusa.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H248e57a7bfeb4f24b7c7ddbbd5470db7l.webp",
+      "imageAlt": "Pozlačen kovinski križ za okrasitev mize",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H248e57a7bfeb4f24b7c7ddbbd5470db7l.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H369f53164e774c2e86a950ce7435b86fH.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd1fd1397a1c040b4b5f6653e547ece45G.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hda50aaa093084058b0b139ff9f30d6d5R.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc62d84a3f751473086cb43e29b0ac61ec.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hef9afba8525847a99252197022a839cb0.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc61d1d4c85d94f84984a057bb5795caaa.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva rdeča 9cm",
+          "label": "steel-color-red-9cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H018c56912ceb44eb9ac5ef38a7364597q.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva modra 9cm",
+          "label": "steel-color-blue-9cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H703ff0324562429582d5f2e2ed865acaB.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - zlato črna 9cm",
+          "label": "gold-black-9cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H55cae4b4f7b04e3f97fae08b0ce328aag.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - zlato bela 9cm",
+          "label": "gold-white-9cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4d464b3897614b95abe8afb843f6817eL.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - zlato rdeča 9cm",
+          "label": "gold-red-9cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hec0a93ac795a4f3cb85f86e25548abadp.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - zlato modra 9cm",
+          "label": "gold-blue-9cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdd3dea6b533946a88c3817234514246b1.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - kc zlata 8cm",
+          "label": "kc-gold-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6dda493b572e43e291ac7a3b5c914358v.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva 8cm",
+          "label": "steel-color-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7dbc5f17d6ad4788950aa7e0d3dfd6daa.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva fluorescentno zelena 8cm",
+          "label": "steel-color-fluorescent-green-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H96767ea6a16f40a7a39de11f58a0cd52i.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva bela 8cm",
+          "label": "steel-color-white-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9a2ad5340d874624aa111f82944c1f3bv.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva modra 8cm",
+          "label": "steel-color-blue-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hba2668a2cd5f4cb3af2d0817f6eff891o.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva črna 8cm",
+          "label": "steel-color-black-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H935a3ed3b6cd4c14b707b468b5d96de44.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - zlato črna 8cm",
+          "label": "gold-black-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb3ef08ff82a842f3a5d6f27f9ad3fdbbh.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva rdeča 8cm",
+          "label": "steel-color-red-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9f1a98ac3b014ac1a24ef9efa56c0aa1Q.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - zlato bela 8cm",
+          "label": "gold-white-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha67a0c4d78ca475cb1ba288b834a096d1.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - zlato modra 8cm",
+          "label": "gold-blue-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H10a9cd57dd8a4d73bca71dd4d9e5693an.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - rdeča",
+          "label": "red",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3331260"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9e704aba17b54d299fc1c54b11aa0b94t.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - srebrna",
+          "label": "silver",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3460547"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5d0c77bfbe8b4251b2fd05e9b32bb603A.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - bela",
+          "label": "white",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3331185"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H14883a93774d418eb573d6d1ce0e5b06t.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - zlato rdeča 8cm",
+          "label": "gold-red-8cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Headdc649904e420b8532cd300abf5243O.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - črna",
+          "label": "black",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3327837"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5f08cbb2e1cc460ea0ce18e9c778b2c39.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - modra",
+          "label": "blue",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-123085"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H25110c34aacc4cd5a6e626ed18937932H.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - rjava",
+          "label": "brown",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3399503"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4143961389284b058442a5e5a8b6b9a18.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - svinčena barva",
+          "label": "lead-color",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0ef080c163cd4cae839b272e300eb7abu.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - zlata",
+          "label": "gold",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha59b9c52f9954cf180c295056dcf6860R.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - olivna",
+          "label": "olive",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H75133777b213400186a5b6cccebc6f44y.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - bronasta",
+          "label": "bronze",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7114bf1966949bb8405b72a5ccbafaaC.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - 14cm zlato črna",
+          "label": "14cm-gold-black",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H51b257d53a03479ca87dc86d3be5158aw.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - 14cm zlato bela",
+          "label": "14cm-gold-white",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6758fc98e1b148dbaf2928b8fe383955O.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - 14cm zlato rdeča",
+          "label": "14cm-gold-red",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5d2bab25ee224e9ca746f676ea93bb0fz.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - 14cm zlato modra",
+          "label": "14cm-gold-blue",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3c4164a43cc340a59de29d3f96ab81a23.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva črna 9cm",
+          "label": "steel-color-black-9cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfa78aa47f0fe49a08195339a816c1ce1k.webp",
+          "alt": "Pozlačen kovinski križ za okrasitev mize - jeklena barva bela 9cm",
+          "label": "steel-color-white-9cm",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N-V--19"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Pozlačena kovinska površina za svetel videz",
+        "Več možnosti velikosti: 8 cm, 9 cm, 14 cm",
+        "Barvne različice vključujejo zlato, črno, jekleno, bronasto, belo, modro, rdečo in olivno",
+        "Primerno za okrasitev mize, police ali božičnega drevesa",
+        "Kategorija izdelka: Okraski"
+      ],
+      "specifications": [
+        {
+          "name": "Zaključek",
+          "value": "Pozlačeno"
+        },
+        {
+          "name": "Razpoložljive velikosti",
+          "value": "8 cm, 9 cm, 14 cm"
+        },
+        {
+          "name": "Barvne različice",
+          "value": "Zlata, črna, jeklena, bronasta, bela, modra, rdeča, olivna"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Okraski"
+        }
+      ],
+      "applications": [
+        "Okrasitev mize doma ali v pisarni",
+        "Razstavljanje na polici ali kaminu",
+        "Božični okras za drevo",
+        "Stenska dekoracija v delovni sobi ali dnevni sobi"
+      ],
+      "faq": [
+        {
+          "question": "Katere velikosti so na voljo za ta križ?",
+          "answer": "Križ je na voljo v treh velikostnih skupinah: 8 cm, 9 cm in 14 cm, odvisno od izbrane barvne različice."
+        },
+        {
+          "question": "Ali je ta križ iz pravega zlata?",
+          "answer": "Ne, križ je pozlačen, kar pomeni, da ima tanko plast zlata na osnovni kovini. Natančen osnovni material ni določen."
+        },
+        {
+          "question": "Ali lahko ta križ uporabljam na prostem?",
+          "answer": "Priporočamo, da ta okras hranite v zaprtih prostorih, saj lahko izpostavljenost zunanjim vplivom sčasoma vpliva na pozlato. Namenjen je za dom ali pisarno."
+        }
+      ],
+      "pricing": {
+        "price": "0.56",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.56",
+          "max": "1.29"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pozlačen kovinski križ za okrasitev mize",
+          "description": "Ta pozlačen kovinski križ ima klasičen dizajn, primeren za dom ali pisarno. Na voljo je v več velikostih in barvnih različicah, vključno z zlato, črno, jekleno in drugimi. Vsestranski okrasni kos za mize, police ali božična drevesa.",
+          "sku": "ALI-AAHmTG7BAOVioqqEY6eN6l6N",
+          "image": [
+            "https://sc04.alicdn.com/kf/H248e57a7bfeb4f24b7c7ddbbd5470db7l.png",
+            "https://sc04.alicdn.com/kf/H369f53164e774c2e86a950ce7435b86fH.png",
+            "https://sc04.alicdn.com/kf/Hd1fd1397a1c040b4b5f6653e547ece45G.png",
+            "https://sc04.alicdn.com/kf/Hda50aaa093084058b0b139ff9f30d6d5R.png",
+            "https://sc04.alicdn.com/kf/Hc62d84a3f751473086cb43e29b0ac61ec.png",
+            "https://sc04.alicdn.com/kf/Hef9afba8525847a99252197022a839cb0.png"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Zaključek",
+              "value": "Pozlačeno"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Razpoložljive velikosti",
+              "value": "8 cm, 9 cm, 14 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barvne različice",
+              "value": "Zlata, črna, jeklena, bronasta, bela, modra, rdeča, olivna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Okraski"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.56",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.56",
+              "maxPrice": "1.29",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Katere velikosti so na voljo za ta križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Križ je na voljo v treh velikostnih skupinah: 8 cm, 9 cm in 14 cm, odvisno od izbrane barvne različice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je ta križ iz pravega zlata?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne, križ je pozlačen, kar pomeni, da ima tanko plast zlata na osnovni kovini. Natančen osnovni material ni določen."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali lahko ta križ uporabljam na prostem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Priporočamo, da ta okras hranite v zaprtih prostorih, saj lahko izpostavljenost zunanjim vplivom sčasoma vpliva na pozlato. Namenjen je za dom ali pisarno."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "c293c0feb66acfb8d639d283a47bca3e800fd2f789376e817e068aae180035cd",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "c293c0feb66acfb8d639d283a47bca3e800fd2f789376e817e068aae180035cd",
+            "contentHash": "c293c0feb66acfb8d639d283a47bca3e800fd2f789376e817e068aae180035cd",
+            "attempts": 0,
+            "updatedAt": "2026-08-26T03:10:13.672Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "c293c0feb66acfb8d639d283a47bca3e800fd2f789376e817e068aae180035cd",
+            "contentHash": "54bde9350835e1002ad3f909cbc20278453837b00ca702d26c79f9fa70c2c580",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:12:56.217Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGMTG7BAOVioqqEY6eoYbXK",
+      "sourceId": "AAGMTG7BAOVioqqEY6eoYbXK",
+      "sourceFingerprint": "9bb95556b759c7be98ce485077ee267c51c42b38062974e3652a251017949aad",
+      "locale": "sl",
+      "slug": "zinc-alloy-cross-loose-beads-for-jewelry-making-eoybxk",
+      "title": "Cinkova zlitina križne ohlapne perle za izdelavo nakita",
+      "eyebrow": "ohlapne perle v obliki križa iz cinkove zlitine",
+      "summary": "Te ohlapne perle v obliki križa iz cinkove zlitine so namenjene DIY izdelavi nakita. Z nepravilno obliko in kovinsko konstrukcijo so primerne za ročno izdelane ogrlice, zapestnice in rožne vence. Idealne za veleprodajno nabavo.",
+      "description": "Te perle v obliki križa so izdelane iz cinkove zlitine in imajo nepravilno silhueto, kar daje vsakemu kosu značilen, ročno izdelan značaj. Kovinski material zagotavlja trdno osnovo za ogrlice, zapestnice in izdelavo rožnih vencev. Ker so ohlapne perle, jih je mogoče mešati z drugimi komponentami za ustvarjanje po meri. Njihova oblika križa jih naredi primerne za katoliške tematske projekte nakita, vključno z rožnimi venci in pobožnimi dodatki, čeprav niso vnaprej sestavljene. Za kupce na debelo te perle predstavljajo vsestransko možnost za obrtniško proizvodnjo.",
+      "catholicContext": "Križ je osrednji simbol krščanstva, čeprav se navaden križ razlikuje od razpela, ki prikazuje Kristusovo telo.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodatki",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGMTG7BAOVioqqEY6eoYbXK",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/08/H559141fdc4b44cbb8f149847a81f1037V.webp",
+      "imageAlt": "Cinkova zlitina križne ohlapne perle za izdelavo nakita",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H559141fdc4b44cbb8f149847a81f1037V.webp",
+          "alt": "Cinkova zlitina križne ohlapne perle za izdelavo nakita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H50d037eac9104c35ae8924bb58d6abc8Z.webp",
+          "alt": "Cinkova zlitina križne ohlapne perle za izdelavo nakita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Hcbf55008dd00409ab724d2fc07440b1aW.webp",
+          "alt": "Cinkova zlitina križne ohlapne perle za izdelavo nakita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H09713fb3db644dcf85765e8eccd4591dj.webp",
+          "alt": "Cinkova zlitina križne ohlapne perle za izdelavo nakita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Hcabddc736a244a21a7d67a764b08118eK.webp",
+          "alt": "Cinkova zlitina križne ohlapne perle za izdelavo nakita"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Izdelano iz cinkove zlitine.",
+        "Oblika križa z nepravilnim obrisom.",
+        "Ohlapne perle za vključitev v nakit po meri.",
+        "Primerno za DIY in ročno izdelane projekte.",
+        "Veleprodajna razpoložljivost za množično nabavo."
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cinkova zlitina"
+        },
+        {
+          "name": "Oblika",
+          "value": "Nepravilna"
+        },
+        {
+          "name": "Uporaba",
+          "value": "Za izdelavo nakita"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Ohlapne perle"
+        }
+      ],
+      "applications": [
+        "Izdelava ročno izdelanih rožnih vencev",
+        "Oblikovanje ogrlic s križno tematiko",
+        "Sestavljanje zapestnic za pobožno uporabo",
+        "Dodajanje poudarkov obrtniškim projektom"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala so te križne perle?",
+          "answer": "Izdelane so iz cinkove zlitine, trpežne kovine, ki se običajno uporablja v modnem nakitu."
+        },
+        {
+          "question": "Ali so te perle primerne za izdelavo rožnega venca?",
+          "answer": "Da, lahko se uporabijo za izdelavo ročno izdelanih rožnih vencev, vendar so ohlapne perle in zahtevajo nizanje z drugimi komponentami."
+        },
+        {
+          "question": "Ali lahko te perle uporabim za zapestnice?",
+          "answer": "Da, primerne so za zapestnice in druge DIY projekte nakita."
+        }
+      ],
+      "pricing": {
+        "price": "0.06",
+        "regularPrice": "0.06",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.04",
+          "max": "0.06"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Cinkova zlitina križne ohlapne perle za izdelavo nakita",
+          "description": "Te ohlapne perle v obliki križa iz cinkove zlitine so namenjene DIY izdelavi nakita. Z nepravilno obliko in kovinsko konstrukcijo so primerne za ročno izdelane ogrlice, zapestnice in rožne vence. Idealne za veleprodajno nabavo.",
+          "sku": "ALI-AAGMTG7BAOVioqqEY6eoYbXK",
+          "image": [
+            "https://sc04.alicdn.com/kf/H559141fdc4b44cbb8f149847a81f1037V.jpg",
+            "https://sc04.alicdn.com/kf/H50d037eac9104c35ae8924bb58d6abc8Z.jpg",
+            "https://sc04.alicdn.com/kf/Hcbf55008dd00409ab724d2fc07440b1aW.jpg",
+            "https://sc04.alicdn.com/kf/H09713fb3db644dcf85765e8eccd4591dj.jpg",
+            "https://sc04.alicdn.com/kf/Hcabddc736a244a21a7d67a764b08118eK.jpg"
+          ],
+          "category": "Dodatki",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Nepravilna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Uporaba",
+              "value": "Za izdelavo nakita"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Ohlapne perle"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.06",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.04",
+              "maxPrice": "0.06",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala so te križne perle?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Izdelane so iz cinkove zlitine, trpežne kovine, ki se običajno uporablja v modnem nakitu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali so te perle primerne za izdelavo rožnega venca?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, lahko se uporabijo za izdelavo ročno izdelanih rožnih vencev, vendar so ohlapne perle in zahtevajo nizanje z drugimi komponentami."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali lahko te perle uporabim za zapestnice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, primerne so za zapestnice in druge DIY projekte nakita."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ddead4d3d1b7950d599bfea3211676548f787daeeae63dea6363edcdd268b445",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ddead4d3d1b7950d599bfea3211676548f787daeeae63dea6363edcdd268b445",
+            "contentHash": "ddead4d3d1b7950d599bfea3211676548f787daeeae63dea6363edcdd268b445",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:05.468Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "ddead4d3d1b7950d599bfea3211676548f787daeeae63dea6363edcdd268b445",
+            "contentHash": "d4d9f125e212aa46681b19f9bf215c3892bd2148a7a29dfba2fdd181635f1a26",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:13:16.340Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE6TG7BAOVioqqEY6e6dDjQ",
+      "sourceId": "AAE6TG7BAOVioqqEY6e6dDjQ",
+      "sourceFingerprint": "119e52ac2043e9535b993d56cae993a93ea2c886a0864bffd95a4f8e9008d435",
+      "locale": "sl",
+      "slug": "copper-cross-pendant-necklace-with-diamond-accent-e6ddjq",
+      "title": "Ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom",
+      "eyebrow": "Ogrlica z obeskom križ iz bakrove zlitine z diamantnimi poudarki",
+      "summary": "Uniseks ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom in verižico v stilu bambusa. Zasnovana za vsakodnevno nošenje, ta športna, vsestranska ogrlica je primerna za priložnostne izhode ali zabave in je odlično darilo.",
+      "description": "Ta ogrlica z obeskom križ je osredotočena na križ iz bakrove zlitine, okrašen z diamantnim poudarkom, ter ima verižico v stilu bambusa. Lahka, športna oblika se nahaja na ključnici, zaradi česar jo je enostavno kombinirati tako s priložnostnimi kot bolj elegantnimi oblačili. Njen uniseks dizajn in darilna primernost povečujeta njeno privlačnost. Bakrena zlitina zagotavlja občutek teže brez odvečne mase. Bambusov vzorec verižice doda sproščen, sodoben pridih, ki kontrastira s klasičnim motivom križa. Ne glede na to, ali jo nosite zaradi osebnega stila ali kot darilo, ta ogrlica služi kot preprost dodatek, ki nosi jasen krščanski simbol.",
+      "catholicContext": "Križ je osrednji simbol krščanstva, ki predstavlja križanje Jezusa Kristusa, in se pogosto nosi kot osebni izraz vere.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Modna ogrlica",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAE6TG7BAOVioqqEY6e6dDjQ",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/08/Hd775af1008c74343b9ef42815dc576c76.webp",
+      "imageAlt": "Ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Hd775af1008c74343b9ef42815dc576c76.webp",
+          "alt": "Ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H9972aa1c8a054736bdda8a3e8e221e1a6.webp",
+          "alt": "Ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Hd6ea8846d3344e5bae60db3c5e0d88fbo.webp",
+          "alt": "Ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Hfa050949e77b4fd5abb1e8e39c2f7c02N.webp",
+          "alt": "Ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H50a16793e51041759845563f6103c6dco.webp",
+          "alt": "Ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Izdelano iz bakrove zlitine",
+        "Ima diamantni poudarek",
+        "Verižica v stilu bambusa",
+        "Uniseks dizajn",
+        "Športen, vsestranski slog",
+        "Oblika/vzorec križa"
+      ],
+      "specifications": [
+        {
+          "name": "Glavni material",
+          "value": "Baker"
+        },
+        {
+          "name": "Vrsta materiala",
+          "value": "Bakrova zlitina"
+        },
+        {
+          "name": "Glavni kamen",
+          "value": "Diamant"
+        },
+        {
+          "name": "Vrsta verižice",
+          "value": "Bambus"
+        },
+        {
+          "name": "Spol",
+          "value": "Uniseks"
+        },
+        {
+          "name": "Slog",
+          "value": "Športen"
+        },
+        {
+          "name": "Vrsta ogrlice",
+          "value": "Drugo"
+        }
+      ],
+      "applications": [
+        "Vsakodnevno priložnostno nošenje",
+        "Darilo za prijatelja ali družinskega člana",
+        "Dodatek za zabave ali družabne dogodke",
+        "Osebni izraz krščanske vere"
+      ],
+      "faq": [
+        {
+          "question": "Kaj je glavni material te ogrlice s križem?",
+          "answer": "Obesek in verižica sta izdelana iz bakrove zlitine, kar daje ogrlici trden, a hkrati lahek občutek."
+        },
+        {
+          "question": "Ali je ta ogrlica primerna tako za moške kot za ženske?",
+          "answer": "Da, ogrlica s križem je zasnovana kot uniseks kos, zaradi česar je vsestranska izbira za vsakogar."
+        },
+        {
+          "question": "Kakšno verižico ima ta ogrlica?",
+          "answer": "Ima verižico v stilu bambusa, ki doda športen in priložnosten videz obesku s križem."
+        }
+      ],
+      "pricing": {
+        "price": "2.20",
+        "regularPrice": "2.20",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.50",
+          "max": "2.20"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom",
+          "description": "Uniseks ogrlica z obeskom križ iz bakrove zlitine z diamantnim poudarkom in verižico v stilu bambusa. Zasnovana za vsakodnevno nošenje, ta športna, vsestranska ogrlica je primerna za priložnostne izhode ali zabave in je odlično darilo.",
+          "sku": "ALI-AAE6TG7BAOVioqqEY6e6dDjQ",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hd775af1008c74343b9ef42815dc576c76.png",
+            "https://sc04.alicdn.com/kf/H9972aa1c8a054736bdda8a3e8e221e1a6.png",
+            "https://sc04.alicdn.com/kf/Hd6ea8846d3344e5bae60db3c5e0d88fbo.png",
+            "https://sc04.alicdn.com/kf/Hfa050949e77b4fd5abb1e8e39c2f7c02N.png",
+            "https://sc04.alicdn.com/kf/H50a16793e51041759845563f6103c6dco.png"
+          ],
+          "category": "Modna ogrlica",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni material",
+              "value": "Baker"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta materiala",
+              "value": "Bakrova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni kamen",
+              "value": "Diamant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta verižice",
+              "value": "Bambus"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spol",
+              "value": "Uniseks"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Športen"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta ogrlice",
+              "value": "Drugo"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.20",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.50",
+              "maxPrice": "2.20",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kaj je glavni material te ogrlice s križem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek in verižica sta izdelana iz bakrove zlitine, kar daje ogrlici trden, a hkrati lahek občutek."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je ta ogrlica primerna tako za moške kot za ženske?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, ogrlica s križem je zasnovana kot uniseks kos, zaradi česar je vsestranska izbira za vsakogar."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kakšno verižico ima ta ogrlica?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ima verižico v stilu bambusa, ki doda športen in priložnosten videz obesku s križem."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "406853cc454527231e6fd9f8b00da3f645b5737978083e53b4d33788b65bb170",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "406853cc454527231e6fd9f8b00da3f645b5737978083e53b4d33788b65bb170",
+            "contentHash": "406853cc454527231e6fd9f8b00da3f645b5737978083e53b4d33788b65bb170",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:06.519Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "406853cc454527231e6fd9f8b00da3f645b5737978083e53b4d33788b65bb170",
+            "contentHash": "70f276eed9e8abd4dce68293d5dd0080967473887a4f7c3f6990e79bf2b9d0fc",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:13:27.298Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAERTG7BAOVioqqEY6eBTfBP",
+      "sourceId": "AAERTG7BAOVioqqEY6eBTfBP",
+      "sourceFingerprint": "c039dfc658fd62f9e86362c2c8eaaf27a38a0f3a2e97e2d14937debf6595854d",
+      "locale": "sl",
+      "slug": "18k-gold-plated-stainless-steel-cross-pendant-necklace-ebtfbp",
+      "title": "Ogrlica z obeskom križa iz nerjavečega jekla, pozlačena 18K",
+      "eyebrow": "Ogrlica z obeskom križa iz nerjavečega jekla, pozlačena 18K",
+      "summary": "Ta ogrlica z obeskom križa je iz nerjavečega jekla s pozlato 18K, ki zagotavlja obstojen sijaj brez potemnenja. Uniseks dizajn je primeren za moške in ženske, srebrno platiran različica pa ponuja drugačen videz. Idealna za verska darila.",
+      "description": "Ta ogrlica z obeskom križa je iz nerjavečega jekla s pozlato 18K, ki zagotavlja obstojen sijaj brez potemnenja. Obesek ima obliko princesinega brusa (princess cut) in je vpet s krempljasto nastavitvijo, kar doda subtilen lesk brez osrednjega kamna. Ogrlica je sestavljena iz kroglic, na voljo pa je tudi srebrno platirana različica, kar kupcem omogoča izbiro zaključka. Zasnovana kot uniseks verski dodatek, se odlično poda kot darilo za katoliške dogodke ali osebno pobožnost. Zaradi trpežnega materiala je primerna za vsakodnevno nošenje.",
+      "catholicContext": "Križ je tradicionalni krščanski simbol; ta izdelek podpira uporabo kot pobožnostni dodatek, vendar ni blagoslovljen zakrament.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Modna ogrlica",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAERTG7BAOVioqqEY6eBTfBP",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/08/H0b44bd86ed2241cdaccd8650587dafe19.webp",
+      "imageAlt": "Ogrlica z obeskom križa iz nerjavečega jekla, pozlačena 18K",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H0b44bd86ed2241cdaccd8650587dafe19.webp",
+          "alt": "Ogrlica z obeskom križa iz nerjavečega jekla, pozlačena 18K"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H3ca5d947637640e782df33649220755cX.webp",
+          "alt": "Ogrlica z obeskom križa iz nerjavečega jekla, pozlačena 18K"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/Ha33a61b6edf64711b671e49bcf16f559H.webp",
+          "alt": "Ogrlica z obeskom križa iz nerjavečega jekla, pozlačena 18K"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H0b9d18fa1a4c4579b94d197bce3715d1j.webp",
+          "alt": "Ogrlica z obeskom križa iz nerjavečega jekla, pozlačena 18K"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/08/H079e86e6e40f49ef831208ea93538341a.webp",
+          "alt": "Ogrlica z obeskom križa iz nerjavečega jekla, pozlačena 18K"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6f7c72",
+      "features": [
+        "Konstrukcija iz nerjavečega jekla s pozlato 18K in možnostjo srebrnega platiranja",
+        "Oblika princesinega brusa s krempljasto nastavitvijo, vendar brez osrednjega kamna",
+        "Uniseks dizajn, primeren za moške in ženske",
+        "Veriga iz kroglic",
+        "Oblika verskega križa",
+        "Neobstojna proti potemnenju zaradi osnove iz nerjavečega jekla"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Nerjaveče jeklo"
+        },
+        {
+          "name": "Platiranje",
+          "value": "Pozlačeno, srebrno platirano"
+        },
+        {
+          "name": "Oblika/vzorec",
+          "value": "Križ"
+        },
+        {
+          "name": "Nastavitev kamna",
+          "value": "Krempljasta nastavitev"
+        },
+        {
+          "name": "Glavni kamen",
+          "value": "Brez"
+        },
+        {
+          "name": "Tip verige",
+          "value": "Kroglice"
+        }
+      ],
+      "applications": [
+        "Versko darilo za birme ali krste",
+        "Vsakodnevni pobožnostni nakit",
+        "Moški modni dodatek",
+        "Verske prireditve ali srečanja"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerih materialov je izdelana ta ogrlica s križem?",
+          "answer": "Obesek in veriga sta iz nerjavečega jekla z izbiro 18K zlata ali srebrnega platiranja, kar zagotavlja trpežen in neobstojen zaključek."
+        },
+        {
+          "question": "Ali je ta ogrlica primerna tako za moške kot za ženske?",
+          "answer": "Da, ogrlica je zasnovana kot uniseks, zato je primerna tako za moške kot za ženske."
+        },
+        {
+          "question": "Ali ima ta obesek križa dragi kamen?",
+          "answer": "Ne, nima glavnega kamna. Oblika princesinega brusa se nanaša na obliko kovinskih faset, krempljasta nastavitev pa je uporabljena v dekorativne namene brez dragega kamna."
+        }
+      ],
+      "pricing": {
+        "price": "1.90",
+        "regularPrice": "1.90",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.55",
+          "max": "1.90"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ogrlica z obeskom križa iz nerjavečega jekla, pozlačena 18K",
+          "description": "Ta ogrlica z obeskom križa je iz nerjavečega jekla s pozlato 18K, ki zagotavlja obstojen sijaj brez potemnenja. Uniseks dizajn je primeren za moške in ženske, srebrno platiran različica pa ponuja drugačen videz. Idealna za verska darila.",
+          "sku": "ALI-AAERTG7BAOVioqqEY6eBTfBP",
+          "image": [
+            "https://sc04.alicdn.com/kf/H0b44bd86ed2241cdaccd8650587dafe19.jpg",
+            "https://sc04.alicdn.com/kf/H3ca5d947637640e782df33649220755cX.jpg",
+            "https://sc04.alicdn.com/kf/Ha33a61b6edf64711b671e49bcf16f559H.jpg",
+            "https://sc04.alicdn.com/kf/H0b9d18fa1a4c4579b94d197bce3715d1j.jpg",
+            "https://sc04.alicdn.com/kf/H079e86e6e40f49ef831208ea93538341a.jpg"
+          ],
+          "category": "Modna ogrlica",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Nerjaveče jeklo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Platiranje",
+              "value": "Pozlačeno, srebrno platirano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika/vzorec",
+              "value": "Križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Nastavitev kamna",
+              "value": "Krempljasta nastavitev"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni kamen",
+              "value": "Brez"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip verige",
+              "value": "Kroglice"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.90",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.55",
+              "maxPrice": "1.90",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerih materialov je izdelana ta ogrlica s križem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek in veriga sta iz nerjavečega jekla z izbiro 18K zlata ali srebrnega platiranja, kar zagotavlja trpežen in neobstojen zaključek."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je ta ogrlica primerna tako za moške kot za ženske?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, ogrlica je zasnovana kot uniseks, zato je primerna tako za moške kot za ženske."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali ima ta obesek križa dragi kamen?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne, nima glavnega kamna. Oblika princesinega brusa se nanaša na obliko kovinskih faset, krempljasta nastavitev pa je uporabljena v dekorativne namene brez dragega kamna."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "6ccbcc907fca22ec253732e20c29fc4963d5f90c63f0ad228904ff39743d139b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "6ccbcc907fca22ec253732e20c29fc4963d5f90c63f0ad228904ff39743d139b",
+            "contentHash": "6ccbcc907fca22ec253732e20c29fc4963d5f90c63f0ad228904ff39743d139b",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:06.580Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "6ccbcc907fca22ec253732e20c29fc4963d5f90c63f0ad228904ff39743d139b",
+            "contentHash": "c025c53ee7201eb1f81e1b1b47db2074685befe4e8ae32c01a00e27f1786fd37",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:13:39.249Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHgTG7BAOVioqqEY6eg-58i",
+      "sourceId": "AAHgTG7BAOVioqqEY6eg-58i",
+      "sourceFingerprint": "06c509bfab0ff7435f030c613b7abd8dba6f3f3fa1015394603e6b77784e3eb7",
+      "locale": "sl",
+      "slug": "catholic-metal-pu-micro-inlaid-enamel-color-keychain-accessories-eg-58i",
+      "title": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom",
+      "eyebrow": "Obeski za ključe",
+      "summary": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom",
+      "description": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "83",
+          "name": " obeski za ključe",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H71a454e97f9b4bd7af1d5523e0c3fed46.webp",
+      "imageAlt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H71a454e97f9b4bd7af1d5523e0c3fed46.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H46de8cd4a96241fdab55688e4276e8c7n.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He58e05f43e8a430e84b881d61cafebe6Z.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He8c40112b93e4103a5ac53527fa8678bz.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H64f0f1306d6f4eb48edeca9ff36ba56eu.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H196f46bb8da246cc849fca9c2eed65c2W.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - ljubezenski prstan jeklo rjava",
+          "label": "love-ring-steel-brown",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2399583718ce431ca0a8fcaff1ab6ff8Y.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - ljubezenski prstan kc zlato rjava",
+          "label": "love-ring-kc-gold-brown",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf44c004a0aef4d18adb7f828e22c631bx.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - ljubezenski prstan jeklo bela",
+          "label": "love-ring-steel-color-white",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hda2bae897aed44c7b2ad9c913bffefccu.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - ljubezenski prstan kc zlato bela",
+          "label": "love-ring-kc-gold-white",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H67b5e824d2ab49239fd5bfb58f5a8627y.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - prstan z diamantom k zlato bela",
+          "label": "ringed-diamond-k-gold-white",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6c1c641f00df47119c5b3a8b0ed77c6aN.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - prstan zlato rjava",
+          "label": "ringed-gold-brown",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H063e9ea92f694f4ea2d766090391d474e.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - prstan jeklo bela",
+          "label": "ringed-steel-white",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf225f2df176f4ab08ae20dd8dbdc8ddaW.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - prstan jeklo rjava",
+          "label": "ringed-steel-brown",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6ce87b5d8a0b4152858f187cfae1f933a.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - k zlato bela",
+          "label": "k-gold-white",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H032585f793a74c2a98c294176df79ffc5.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - k zlato rjava",
+          "label": "k-gold-brown",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc3ca7a08b4f34435947922f3fac1404fc.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - jeklo bela",
+          "label": "steel-white",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9945ade031f5418495927c2ffcc3fe57K.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - jeklo rjava",
+          "label": "steel-brown",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He4c86003132c42d1816ec88ddc156f2aH.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - risani jeklo modra",
+          "label": "cartoon-steel-blue",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf4aa43ca15b44208b78625da41b6da2fs.webp",
+          "alt": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom - risani k zlato modra",
+          "label": "cartoon-k-gold-blue",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Različica: Jeklo + bela, Risani k zlato + modra, Risani jeklo + modra, K zlato + rjava, K zlato + bela, Ljubezenski prstan kc zlato + rjava, Ljubezenski prstan kc zlato + bela, Ljubezenski prstan jeklo + rjava, Ljubezenski prstan jeklo + bela, Prstan z diamantom k zlato + bela, Prstan zlato + rjava, Prstan jeklo + rjava, Prstan jeklo + bela, Jeklo + rjava"
+      ],
+      "specifications": [
+        {
+          "name": "Različica",
+          "value": "Jeklo + bela, Risani k zlato + modra, Risani jeklo + modra, K zlato + rjava, K zlato + bela, Ljubezenski prstan kc zlato + rjava, Ljubezenski prstan kc zlato + bela, Ljubezenski prstan jeklo + rjava, Ljubezenski prstan jeklo + bela, Prstan z diamantom k zlato + bela, Prstan zlato + rjava, Prstan jeklo + rjava, Prstan jeklo + bela, Jeklo + rjava"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.29",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.29",
+          "max": "0.34"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom",
+          "description": "Katoliški kovinski obesek za ključe z PU mikro vložkom in barvnim emajlom",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6eg-58i",
+          "image": [
+            "https://sc04.alicdn.com/kf/H71a454e97f9b4bd7af1d5523e0c3fed46.jpg",
+            "https://sc04.alicdn.com/kf/H46de8cd4a96241fdab55688e4276e8c7n.jpg",
+            "https://sc04.alicdn.com/kf/He58e05f43e8a430e84b881d61cafebe6Z.jpg",
+            "https://sc04.alicdn.com/kf/He8c40112b93e4103a5ac53527fa8678bz.jpg",
+            "https://sc04.alicdn.com/kf/H64f0f1306d6f4eb48edeca9ff36ba56eu.jpg"
+          ],
+          "category": " obeski za ključe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Različica",
+              "value": "Jeklo + bela, Risani k zlato + modra, Risani jeklo + modra, K zlato + rjava, K zlato + bela, Ljubezenski prstan kc zlato + rjava, Ljubezenski prstan kc zlato + bela, Ljubezenski prstan jeklo + rjava, Ljubezenski prstan jeklo + bela, Prstan z diamantom k zlato + bela, Prstan zlato + rjava, Prstan jeklo + rjava, Prstan jeklo + bela, Jeklo + rjava"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.29",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.29",
+              "maxPrice": "0.34",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "6167f574b8dbc328e7c3ba8d7d22977e47326cbe59f1f7b5e728b814c4caba84",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "6167f574b8dbc328e7c3ba8d7d22977e47326cbe59f1f7b5e728b814c4caba84",
+            "contentHash": "6167f574b8dbc328e7c3ba8d7d22977e47326cbe59f1f7b5e728b814c4caba84",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:38.449Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "6167f574b8dbc328e7c3ba8d7d22977e47326cbe59f1f7b5e728b814c4caba84",
+            "contentHash": "30d80c89aea6c6c8d1df2979d4e10fd7b41b81e192ce49d8bbab35d34bd3068c",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:13:46.968Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEFTG7BAOVioqqEY6eBSXk-",
+      "sourceId": "AAEFTG7BAOVioqqEY6eBSXk-",
+      "sourceFingerprint": "fc6e1773ad04473e42ab7e6d6af064665f49219310f4378737e0b8d506aa1cd5",
+      "locale": "sl",
+      "slug": "alloy-cross-pendant-for-jewelry-making-ebsxk-",
+      "title": "Križni obesek iz zlitine za izdelavo nakita",
+      "eyebrow": "Religiozni križni obesek iz zlitine",
+      "summary": "Ta religiozni križni obesek iz zlitine je na voljo v črni in srebrni barvi, zasnovan za izdelavo nakita in prilagojene šarme. Zaradi oblike križa je primeren kot pobožni dodatek za ustvarjalce in ljubitelje nakita, ki iščejo preprost križni obesek.",
+      "description": "Ta obesek iz zlitine je na voljo v dveh barvnih različicah: črni in srebrni. Zasnovan je posebej za izdelavo nakita in kot prilagojen šarm. Oblika križa je klasičen simbol, primeren za pobožno uporabo ali kot splošen dodatek. Ustvarjalci ga lahko vključijo v ogrlice, zapestnice ali druge izdelke. Obesek je preprost križ brez korpusa, kar ga razlikuje od razpela. Material je zlitina, ki zagotavlja trpežno osnovo za različne projekte izdelave nakita.",
+      "catholicContext": "V krščanski tradiciji je križ osrednji simbol vere, ki se pogosto nosi kot osebni pobožni predmet.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodatki",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAEFTG7BAOVioqqEY6eBSXk-",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hfc35ede6e7f04e6189ab1079efc7cd03B.webp",
+      "imageAlt": "Križni obesek iz zlitine za izdelavo nakita",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfc35ede6e7f04e6189ab1079efc7cd03B.webp",
+          "alt": "Križni obesek iz zlitine za izdelavo nakita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H12b2e48357994e2da5064e78632c3469m.webp",
+          "alt": "Križni obesek iz zlitine za izdelavo nakita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfc1f2d1f71314f79b20a611705366f0a9.webp",
+          "alt": "Križni obesek iz zlitine za izdelavo nakita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H70a58ca187fd441ab52d991aeb7fc9d7Z.webp",
+          "alt": "Križni obesek iz zlitine za izdelavo nakita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc5b8201db8dc4b44858003d1144341376.webp",
+          "alt": "Križni obesek iz zlitine za izdelavo nakita"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8b1e7633cfff48149c735a5ba281dc81J.webp",
+          "alt": "Križni obesek iz zlitine za izdelavo nakita - črna",
+          "label": "črna",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6eBSXk--V-3327837"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H84c421ab0c7a42f2859ceed98c2f9016k.webp",
+          "alt": "Križni obesek iz zlitine za izdelavo nakita - srebrna",
+          "label": "srebrna",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6eBSXk--V-3460547"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Na voljo v črni in srebrni barvni različici",
+        "Oblika križa za pobožno ali dekorativno uporabo",
+        "Izdelan iz zlitine",
+        "Primeren za izdelavo nakita in prilagojene šarme",
+        "Preprost križ brez korpusa"
+      ],
+      "specifications": [
+        {
+          "name": "Različica",
+          "value": "Črna, srebrna"
+        },
+        {
+          "name": "Oblika",
+          "value": "Križ"
+        },
+        {
+          "name": "Material",
+          "value": "Zlitina"
+        }
+      ],
+      "applications": [
+        "Izdelava nakita",
+        "Prilagojeni šarmi",
+        "Obeski za ogrlice",
+        "Šarmi za zapestnice"
+      ],
+      "faq": [
+        {
+          "question": "Katere barvne različice so na voljo za ta križni obesek?",
+          "answer": "Obesek je na voljo v črni in srebrni različici."
+        },
+        {
+          "question": "Ali je ta obesek razpelo ali preprost križ?",
+          "answer": "Je preprost križ; oblika ne vključuje korpusa (Kristusovega telesa), zato ni razpelo."
+        },
+        {
+          "question": "Ali se ta obesek lahko uporablja za izdelavo nakita?",
+          "answer": "Da, zasnovan je za izdelavo nakita in se lahko uporablja kot šarm ali obesek v različnih projektih."
+        }
+      ],
+      "pricing": {
+        "price": "0.16",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.16",
+          "max": "0.19"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Križni obesek iz zlitine za izdelavo nakita",
+          "description": "Ta religiozni križni obesek iz zlitine je na voljo v črni in srebrni barvi, zasnovan za izdelavo nakita in prilagojene šarme. Zaradi oblike križa je primeren kot pobožni dodatek za ustvarjalce in ljubitelje nakita, ki iščejo preprost križni obesek.",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6eBSXk-",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hfc35ede6e7f04e6189ab1079efc7cd03B.jpg",
+            "https://sc04.alicdn.com/kf/H12b2e48357994e2da5064e78632c3469m.jpg",
+            "https://sc04.alicdn.com/kf/Hfc1f2d1f71314f79b20a611705366f0a9.jpg",
+            "https://sc04.alicdn.com/kf/H70a58ca187fd441ab52d991aeb7fc9d7Z.jpg",
+            "https://sc04.alicdn.com/kf/Hc5b8201db8dc4b44858003d1144341376.jpg"
+          ],
+          "category": "Dodatki",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Različica",
+              "value": "Črna, srebrna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Zlitina"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.16",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.16",
+              "maxPrice": "0.19",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Katere barvne različice so na voljo za ta križni obesek?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek je na voljo v črni in srebrni različici."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je ta obesek razpelo ali preprost križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Je preprost križ; oblika ne vključuje korpusa (Kristusovega telesa), zato ni razpelo."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali se ta obesek lahko uporablja za izdelavo nakita?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, zasnovan je za izdelavo nakita in se lahko uporablja kot šarm ali obesek v različnih projektih."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "e08cc128df44f3c93993228f59db298a53a4e33e258db1fa229555a8f3beb476",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "e08cc128df44f3c93993228f59db298a53a4e33e258db1fa229555a8f3beb476",
+            "contentHash": "e08cc128df44f3c93993228f59db298a53a4e33e258db1fa229555a8f3beb476",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:10.512Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "e08cc128df44f3c93993228f59db298a53a4e33e258db1fa229555a8f3beb476",
+            "contentHash": "16f6123f30b411393ac65da5e9db48178048853440c0923e14ffc243d559047b",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:13:55.059Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGDTG7BAOVioqqEY6ee_GSB",
+      "sourceId": "AAGDTG7BAOVioqqEY6ee_GSB",
+      "sourceFingerprint": "73405bf45d82e3ee4780ca35d1f2651ec0a6fe3fd1c40a0aaab67abdab607997",
+      "locale": "sl",
+      "slug": "catholic-virgin-mary-jesus-zinc-alloy-keychain-ee_gsb",
+      "title": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine",
+      "eyebrow": "Katoliški obesek za ključe iz cinkove zlitine",
+      "summary": "Ta katoliški obesek za ključe prikazuje podobo Device Marije in Jezusa na kompaktnem obesku iz cinkove zlitine. Meri 3,7 cm kvadratno in tehta 4 g, kar je lahka možnost za ključe ali torbe. Na voljo je v več zlatih in srebrnih zaključkih, da ustreza različnim željam.",
+      "description": "Ta obesek za ključe združuje pobožno katoliško zasnovo s praktično vsakdanjo uporabo. Obesek, izdelan iz cinkove zlitine, prikazuje verske podobe Device Marije in Jezusa. Zaradi kompaktne velikosti (3,7 cm x 3,7 cm) in majhne teže (4 g) ga je enostavno pritrditi na ključe, torbe ali nahrbtnike, ne da bi dodajal težo. Izberite lahko med različnimi zlatimi in srebrnimi barvnimi zaključki, ki ustrezajo vašemu slogu ali darilu. Trpežna cinkova zlitina zagotavlja dolgo življenjsko dobo ob redni uporabi.",
+      "catholicContext": "Marija se v krščanskem in katoliškem kontekstu nanaša na Devico Marijo.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "83",
+          "name": " obeski za ključe",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H90be68228a0141898d8016ffd36b8f4b6.webp",
+      "imageAlt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H90be68228a0141898d8016ffd36b8f4b6.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H06f77c3d583d4690ba39a3d41dd3165du.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdf90104e4f2d4bc28b5e430dfe481844e.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H749e19550cf845d69bc490ac26149410k.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He6f77eb7eaae48edaa19ed216b93be18h.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He223796571d54899a12894f26636109df.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H29c48e14744144fab5d7710700115e1aY.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-10",
+          "label": "zlati-10",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb3470a072d4c4eb59f41184d2ce09f679.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-9",
+          "label": "zlati-9",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc59859c14a7d45bf9569cd618762fb6eO.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-8",
+          "label": "zlati-8",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb9f5cfde86c441da9d3d0386b668fa7d6.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-7",
+          "label": "zlati-7",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2af1e86f788a4e64b0e9126fff39959eV.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-1",
+          "label": "srebrni-1",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9e019579ada5444aad2f00b59f550c85u.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni",
+          "label": "srebrni",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V-3460547"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8c745d994cfa40c18d9d839929eb7511D.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-12",
+          "label": "zlati-12",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd73b9331e67b47139ddfcd90ec3c50df7.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-11",
+          "label": "zlati-11",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdfc3c6cc5d524564a7fc70f0be539903T.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-5",
+          "label": "srebrni-5",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H11818d97d04d49759ae6fbd050fb09f8B.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-4",
+          "label": "srebrni-4",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd10ac91632434893ad82ca1ed76b235fI.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-3",
+          "label": "srebrni-3",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2e98db53df144d59ae566db5226fa7eb2.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-2",
+          "label": "srebrni-2",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0ee29ef2b0e1464abe910132636c20aaK.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-9",
+          "label": "srebrni-9",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H42cb01f6b0c747e48770da5ca9ca77bcs.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-8",
+          "label": "srebrni-8",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf3ad38bd41584cc68dce4c7c46859d24h.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-7",
+          "label": "srebrni-7",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha6ed4be902cf4df4a517673bfe5b39f1o.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-6",
+          "label": "srebrni-6",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H69059627ac414ac48359c314f6d1f44eS.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-12",
+          "label": "srebrni-12",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hefe017d6a0974909a8fce9e06c3ba66b1.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-11",
+          "label": "srebrni-11",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5575737793014fdb98ef9efeaffebd37H.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - srebrni-10",
+          "label": "srebrni-10",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb1eefeb3a2f84944b558644939d7bff1H.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-2",
+          "label": "zlati-2",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1eef2368490d4cbe9fa8f114f8cfd584U.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-1",
+          "label": "zlati-1",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H90920bd07af94a8695e29b8ffaecf405h.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati",
+          "label": "zlati",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde69adc79b444660bb6119a3a01f1f2aL.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-6",
+          "label": "zlati-6",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc7f2890260b14f709992c0563ee50529y.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-5",
+          "label": "zlati-5",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9bb9b819ad674e168a8d714364dba5edg.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-4",
+          "label": "zlati-4",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfb81237a8f8a47848dd3bc5d52649e39M.webp",
+          "alt": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine - zlati-3",
+          "label": "zlati-3",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB-V--3"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Iz cinkove zlitine",
+        "Prikazuje podobo Device Marije in Jezusa",
+        "Kompakten obesek velikosti 3,7 cm x 3,7 cm",
+        "Lahka, teža 4 g",
+        "Na voljo v 25 zlatih in srebrnih različicah"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cinkova zlitina"
+        },
+        {
+          "name": "Dimenzije",
+          "value": "3,7 cm x 3,7 cm"
+        },
+        {
+          "name": "Teža",
+          "value": "4 g"
+        },
+        {
+          "name": "Različice",
+          "value": "Več zlatih in srebrnih možnosti"
+        }
+      ],
+      "applications": [
+        "Pritrdite na avtomobilske ključe za katoliški dodatek",
+        "Uporabite kot okras za torbo ali nahrbtnik",
+        "Darilo ob katoliških priložnostih",
+        "Dodajte na obesek za ključe za versko izražanje"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je ta obesek za ključe?",
+          "answer": "Obesek je izdelan iz cinkove zlitine, kar zagotavlja vzdržljivost, hkrati pa ohranja nizko težo 4 g."
+        },
+        {
+          "question": "Kakšne so dimenzije tega obeska za ključe?",
+          "answer": "Obesek meri 3,7 cm x 3,7 cm (približno 1,46 palca kvadratno), zaradi česar je kompakten za vsakodnevno uporabo."
+        },
+        {
+          "question": "Katere barvne možnosti so na voljo?",
+          "answer": "Obesek za ključe je na voljo v več zlatih in srebrnih zaključkih, skupaj s 25 različicami."
+        }
+      ],
+      "pricing": {
+        "price": "0.36",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Katoliški obesek za ključe Device Marije in Jezusa iz cinkove zlitine",
+          "description": "Ta katoliški obesek za ključe prikazuje podobo Device Marije in Jezusa na kompaktnem obesku iz cinkove zlitine. Meri 3,7 cm kvadratno in tehta 4 g, kar je lahka možnost za ključe ali torbe. Na voljo je v več zlatih in srebrnih zaključkih, da ustreza različnim željam.",
+          "sku": "ALI-AAGDTG7BAOVioqqEY6ee_GSB",
+          "image": [
+            "https://sc04.alicdn.com/kf/H90be68228a0141898d8016ffd36b8f4b6.jpg",
+            "https://sc04.alicdn.com/kf/H06f77c3d583d4690ba39a3d41dd3165du.jpg",
+            "https://sc04.alicdn.com/kf/Hdf90104e4f2d4bc28b5e430dfe481844e.jpg",
+            "https://sc04.alicdn.com/kf/H749e19550cf845d69bc490ac26149410k.jpg",
+            "https://sc04.alicdn.com/kf/He6f77eb7eaae48edaa19ed216b93be18h.jpg",
+            "https://sc04.alicdn.com/kf/He223796571d54899a12894f26636109df.jpg"
+          ],
+          "category": " obeski za ključe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dimenzije",
+              "value": "3,7 cm x 3,7 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Teža",
+              "value": "4 g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Več zlatih in srebrnih možnosti"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.36",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je ta obesek za ključe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek je izdelan iz cinkove zlitine, kar zagotavlja vzdržljivost, hkrati pa ohranja nizko težo 4 g."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kakšne so dimenzije tega obeska za ključe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek meri 3,7 cm x 3,7 cm (približno 1,46 palca kvadratno), zaradi česar je kompakten za vsakodnevno uporabo."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere barvne možnosti so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek za ključe je na voljo v več zlatih in srebrnih zaključkih, skupaj s 25 različicami."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "377662498023c726ef0a8489c3477a07585025307b5a1ddfde88143b20592b71",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "377662498023c726ef0a8489c3477a07585025307b5a1ddfde88143b20592b71",
+            "contentHash": "377662498023c726ef0a8489c3477a07585025307b5a1ddfde88143b20592b71",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:11.492Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "377662498023c726ef0a8489c3477a07585025307b5a1ddfde88143b20592b71",
+            "contentHash": "7ba6017ee42c3eeb42db5d58f012680d6cdc0fa4c6b53fc5aab988e4cc119bf2",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:14:09.289Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGnTG7BAOVioqqEY6eBUY3E",
+      "sourceId": "AAGnTG7BAOVioqqEY6eBUY3E",
+      "sourceFingerprint": "373778a49c0939d05e02734e2695aa138cfdae5b3c6036f40eaa67d92bde783d",
+      "locale": "sl",
+      "slug": "wooden-bead-rosary-necklace-with-cross-pendant-ebuy3e",
+      "title": "Rožnovenska ogrlica iz lesenih kroglic s križem",
+      "eyebrow": "Rožnovenska ogrlica iz lesenih kroglic",
+      "summary": "Ta ročno izdelana rožnovenska ogrlica iz lesenih kroglic ima kroglice velikosti 8 mm in obesek s križem, namenjena katoliški pobožnosti. Z verižico iz kroglic in zapenjanjem na kaveljček je uniseks verski dodatek, primeren kot darilo za krst ali druge priložnosti.",
+      "description": "Praktična izbira za katoliške prodajalne daril, ta rožnovenska ogrlica je izdelana iz lesa s kroglicami velikosti 8 mm, kar ji daje naraven, taktilen občutek. Obesek s križem je jasen simbol vere, zapenjanje na kaveljček pa zagotavlja, da kroglice med vsakodnevno uporabo ostanejo varne. Uniseks dizajn ustreza širokemu krogu strank, od otrok do odraslih.\n\nZaradi lahke lesene narave je udobna za nošenje ali prenašanje, verižica iz kroglic pa doda klasičen videz rožnega venca. Ne glede na to, ali gre za osebno molitev ali kot darilo, ta kos služi kot opomin na kontemplativno tradicijo rožnega venca.",
+      "catholicContext": "Rožni venec je katoliška molitev, osredotočena na premišljevanje dogodkov iz življenja Jezusa Kristusa in Device Marije.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Katoliški rožni venci",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAGnTG7BAOVioqqEY6eBUY3E",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H4302cb64b5ca42ff95fac5bb4f3491e0m.webp",
+      "imageAlt": "Rožnovenska ogrlica iz lesenih kroglic s križem",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4302cb64b5ca42ff95fac5bb4f3491e0m.webp",
+          "alt": "Rožnovenska ogrlica iz lesenih kroglic s križem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H49d37900628b4b03ab2987b044b0ff58Z.webp",
+          "alt": "Rožnovenska ogrlica iz lesenih kroglic s križem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9c4eec91659b4f658e5f55e1f92e523cr.webp",
+          "alt": "Rožnovenska ogrlica iz lesenih kroglic s križem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hacb30322c26e4ff9a4bdfaf71f1c75a45.webp",
+          "alt": "Rožnovenska ogrlica iz lesenih kroglic s križem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf5d527e0fa1c4164b798de8f919971a86.webp",
+          "alt": "Rožnovenska ogrlica iz lesenih kroglic s križem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H861b6cece66347b38438945a06ed321cK.webp",
+          "alt": "Rožnovenska ogrlica iz lesenih kroglic s križem"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Ročno izdelane lesene kroglice, vsaka s premerom 8 mm",
+        "Vključen obesek s križem",
+        "Zapenjanje na kaveljček za vzdržljivost",
+        "Uniseks dizajn, primeren za vse spole",
+        "Leseni material, brez glavnega kamna",
+        "Ogrlica v stilu kroglic"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Les"
+        },
+        {
+          "name": "Velikost kroglic",
+          "value": "8 mm"
+        },
+        {
+          "name": "Tip ogrlice",
+          "value": "Ogrlica s kroglicami"
+        },
+        {
+          "name": "Tip verižice",
+          "value": "Kroglice"
+        },
+        {
+          "name": "Zapenjanje",
+          "value": "Kaveljček"
+        },
+        {
+          "name": "Slog",
+          "value": "Verski"
+        },
+        {
+          "name": "Verska vrsta",
+          "value": "Katolicizem"
+        },
+        {
+          "name": "Spol",
+          "value": "Uniseks"
+        }
+      ],
+      "applications": [
+        "Versko darilo za krst ali prvo sveto obhajilo",
+        "Osebna pobožna uporaba",
+        "Zaloga katoliške trgovine z darili",
+        "Vsakodnevni dodatek, povezan z vero"
+      ],
+      "faq": [
+        {
+          "question": "Kakšna je velikost kroglic na tej rožnovenski ogrlici?",
+          "answer": "Kroglice imajo premer 8 mm in so iz lesa, kar zagotavlja udobno velikost za držanje in nošenje."
+        },
+        {
+          "question": "Ali je ta rožnovenska ogrlica primerna tako za moške kot za ženske?",
+          "answer": "Da, dizajn je uniseks, zato je primerna za vsakogar ne glede na spol."
+        },
+        {
+          "question": "Kakšno zapenjanje uporablja ogrlica?",
+          "answer": "Uporablja zapenjanje na kaveljček, ki varno povezuje kroglice."
+        }
+      ],
+      "pricing": {
+        "price": "0.85",
+        "regularPrice": "0.85",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.69",
+          "max": "0.85"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Rožnovenska ogrlica iz lesenih kroglic s križem",
+          "description": "Ta ročno izdelana rožnovenska ogrlica iz lesenih kroglic ima kroglice velikosti 8 mm in obesek s križem, namenjena katoliški pobožnosti. Z verižico iz kroglic in zapenjanjem na kaveljček je uniseks verski dodatek, primeren kot darilo za krst ali druge priložnosti.",
+          "sku": "ALI-AAGnTG7BAOVioqqEY6eBUY3E",
+          "image": [
+            "https://sc04.alicdn.com/kf/H4302cb64b5ca42ff95fac5bb4f3491e0m.jpg",
+            "https://sc04.alicdn.com/kf/H49d37900628b4b03ab2987b044b0ff58Z.jpg",
+            "https://sc04.alicdn.com/kf/H9c4eec91659b4f658e5f55e1f92e523cr.jpg",
+            "https://sc04.alicdn.com/kf/Hacb30322c26e4ff9a4bdfaf71f1c75a45.jpg",
+            "https://sc04.alicdn.com/kf/Hf5d527e0fa1c4164b798de8f919971a86.jpg",
+            "https://sc04.alicdn.com/kf/H861b6cece66347b38438945a06ed321cK.jpg"
+          ],
+          "category": "Katoliški rožni venci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Velikost kroglic",
+              "value": "8 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip ogrlice",
+              "value": "Ogrlica s kroglicami"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip verižice",
+              "value": "Kroglice"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Zapenjanje",
+              "value": "Kaveljček"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Verski"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verska vrsta",
+              "value": "Katolicizem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spol",
+              "value": "Uniseks"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.85",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.69",
+              "maxPrice": "0.85",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kakšna je velikost kroglic na tej rožnovenski ogrlici?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kroglice imajo premer 8 mm in so iz lesa, kar zagotavlja udobno velikost za držanje in nošenje."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je ta rožnovenska ogrlica primerna tako za moške kot za ženske?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, dizajn je uniseks, zato je primerna za vsakogar ne glede na spol."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kakšno zapenjanje uporablja ogrlica?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Uporablja zapenjanje na kaveljček, ki varno povezuje kroglice."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ad952878a1584de2d9481e39d1ec26cae6d05a9424e7aff06d8cda3206cd2e5e",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ad952878a1584de2d9481e39d1ec26cae6d05a9424e7aff06d8cda3206cd2e5e",
+            "contentHash": "ad952878a1584de2d9481e39d1ec26cae6d05a9424e7aff06d8cda3206cd2e5e",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:12.570Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "ad952878a1584de2d9481e39d1ec26cae6d05a9424e7aff06d8cda3206cd2e5e",
+            "contentHash": "94f41d255749e1dfb1530322820c0ab80289790036633fdd72f1f06092a71091",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:14:19.467Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGyTG7BAOVioqqEY6eBR_zq",
+      "sourceId": "AAGyTG7BAOVioqqEY6eBR_zq",
+      "sourceFingerprint": "8c468a7665da3e12c36853f493b6c1aeeb57d69d36a42d72b6113648d40f16f5",
+      "locale": "sl",
+      "slug": "plated-metal-stand-cross-home-decor-ornament-ebr_zq",
+      "title": "Obloženi kovinski stoječi križ za domačo dekoracijo",
+      "eyebrow": "Pravoslavni obloženi kovinski stoječi križ",
+      "summary": "Ta obloženi kovinski stoječi križ ima klasičen ruski pravoslavni dizajn in majhno podlago za samostoječo postavitev. Na izbiro so vojaško zelena, temno siva ali rjava barva. Primeren kot poudarek za domačo dekoracijo ali pobožno darilo.",
+      "description": "Ta stoječi križ, izdelan iz obložene kovine, je kompakten, a viden poudarek za police, mize ali stenske niše. Njegov dizajn odmeva tradicionalni ruski pravoslavni triprečni križ, obliko, ki je priznana tudi v nekaterih vzhodnokatoliških tradicijah.\n\nKriž stoji na svoji vgrajeni podlagi, kar omogoča preprosto postavitev na knjižno polico ali kamin brez dodatnih podpor. Tri barvne različice – vojaško zelena, temno siva in rjava – omogočajo uskladitev z obstoječo dekoracijo ali liturgičnimi letnimi časi.\n\nKot verski okrasek služi kot oprijemljiv opomin na vero, primeren za osebno uporabo ali kot darilo. Čeprav ni razpelo (ne prikazuje Kristusovega telesa), je pomemben pobožni predmet za molitvene prostore.",
+      "catholicContext": "V pravoslavni in katoliški tradiciji stoječi križ služi kot vidno znamenje vere za domače molitvene kotičke in pobožne prostore.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAGyTG7BAOVioqqEY6eBR_zq",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hf3a1347a26ed43a38475767606b1cce8C.webp",
+      "imageAlt": "Obloženi kovinski stoječi križ za domačo dekoracijo",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf3a1347a26ed43a38475767606b1cce8C.webp",
+          "alt": "Obloženi kovinski stoječi križ za domačo dekoracijo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hff55bfc184854466a657dc824f3fef4cc.webp",
+          "alt": "Obloženi kovinski stoječi križ za domačo dekoracijo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfefb3b16a8534546a8ee57e668d7b0aa0.webp",
+          "alt": "Obloženi kovinski stoječi križ za domačo dekoracijo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H74f608fae5f0433686be352d2896f692k.webp",
+          "alt": "Obloženi kovinski stoječi križ za domačo dekoracijo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Haf7e3b009fba4f0a97ad2ee7795c5c19p.webp",
+          "alt": "Obloženi kovinski stoječi križ za domačo dekoracijo"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc0c9907e38a7438d938a89bcb036370c7.webp",
+          "alt": "Obloženi kovinski stoječi križ za domačo dekoracijo - rjava",
+          "label": "rjava",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBR_zq-V-3399503"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H542366c44acb49d7848872f556bbc47b2.webp",
+          "alt": "Obloženi kovinski stoječi križ za domačo dekoracijo - temno siva",
+          "label": "temno siva",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBR_zq-V-324542552"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H53f587ac42744cc493e054bf52fa5a54w.webp",
+          "alt": "Obloženi kovinski stoječi križ za domačo dekoracijo - vojaško zelena",
+          "label": "vojaško zelena",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBR_zq-V-146576294"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Obložena kovinska konstrukcija s stoječo podlago",
+        "Klasičen ruski pravoslavni triprečni križ",
+        "Na voljo v treh barvnih različicah: vojaško zelena, temno siva, rjava",
+        "Kompaktna velikost za postavitev na polico, mizo ali pult",
+        "Kategorija: Okraski"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Obložena kovina"
+        },
+        {
+          "name": "Barvne različice",
+          "value": "Vojaško zelena, temno siva, rjava"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Stoječi križ"
+        }
+      ],
+      "applications": [
+        "Domača dekoracija za police ali kamine",
+        "Molitveni kotiček ali prostor za ikone",
+        "Poudarek na pisarniški mizi",
+        "Pobožno darilo za pravoslavne ali katoliške priložnosti"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je ta stoječi križ?",
+          "answer": "Križ je izdelan iz obložene kovine, s končno obdelavo, ki se razlikuje glede na izbrano barvno različico."
+        },
+        {
+          "question": "Katere barvne možnosti so na voljo?",
+          "answer": "Na izbiro imate vojaško zeleno, temno sivo ali rjavo."
+        },
+        {
+          "question": "Ali ta križ prikazuje Kristusovo telo?",
+          "answer": "Ne, to je navaden križ brez korpusa, zato ni razpelo."
+        }
+      ],
+      "pricing": {
+        "price": "2.00",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.70",
+          "max": "2.00"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Obloženi kovinski stoječi križ za domačo dekoracijo",
+          "description": "Ta obloženi kovinski stoječi križ ima klasičen ruski pravoslavni dizajn in majhno podlago za samostoječo postavitev. Na izbiro so vojaško zelena, temno siva ali rjava barva. Primeren kot poudarek za domačo dekoracijo ali pobožno darilo.",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eBR_zq",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hf3a1347a26ed43a38475767606b1cce8C.jpg",
+            "https://sc04.alicdn.com/kf/Hff55bfc184854466a657dc824f3fef4cc.jpg",
+            "https://sc04.alicdn.com/kf/Hfefb3b16a8534546a8ee57e668d7b0aa0.jpg",
+            "https://sc04.alicdn.com/kf/H74f608fae5f0433686be352d2896f692k.jpg",
+            "https://sc04.alicdn.com/kf/Haf7e3b009fba4f0a97ad2ee7795c5c19p.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Obložena kovina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barvne različice",
+              "value": "Vojaško zelena, temno siva, rjava"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Stoječi križ"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.70",
+              "maxPrice": "2.00",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je ta stoječi križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Križ je izdelan iz obložene kovine, s končno obdelavo, ki se razlikuje glede na izbrano barvno različico."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere barvne možnosti so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Na izbiro imate vojaško zeleno, temno sivo ali rjavo."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali ta križ prikazuje Kristusovo telo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne, to je navaden križ brez korpusa, zato ni razpelo."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3040c282fe86c526334bfc41b806ad3362f749dd0cef8055fdc67cd4097df4af",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3040c282fe86c526334bfc41b806ad3362f749dd0cef8055fdc67cd4097df4af",
+            "contentHash": "3040c282fe86c526334bfc41b806ad3362f749dd0cef8055fdc67cd4097df4af",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:32.840Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "3040c282fe86c526334bfc41b806ad3362f749dd0cef8055fdc67cd4097df4af",
+            "contentHash": "fa2879f9c9604b8ac19b51a241adeba496b6227f61c1f9b920a8ada938b8c27f",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:14:30.151Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAG0TG7BAOVioqqEY6ed-wCY",
+      "sourceId": "AAG0TG7BAOVioqqEY6ed-wCY",
+      "sourceFingerprint": "6a649959272b413b333a702f1e21b9e0e5c4ff0dc74c6f8dd8623e2e21521e71",
+      "locale": "sl",
+      "slug": "stainless-steel-lotus-pendant-gold-or-steel-color-ed-wcy",
+      "title": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva",
+      "eyebrow": "Obesek Lotus iz nerjavečega jekla",
+      "summary": "Ta obesek iz nerjavečega jekla ima motiv lotosovega cveta v uniseks dizajnu. Na voljo je v jekleni barvi ali z zlato prevleko, primeren za DIY nakit in veleprodajna naročila. Na voljo so tudi prilagojeni vzorci, zaradi česar je prilagodljiv dodatek za preprodajalce.",
+      "description": "Dizajn lotosovega cveta je priznan simbol v mnogih duhovnih tradicijah, vendar ta obesek deluje enako dobro kot preprost, eleganten dodatek. Izdelan je iz nerjavečega jekla, kar zagotavlja vzdržljivost in sodoben videz. Obesek je na voljo v dveh barvnih različicah: v jekleni barvi za brušeni, nevtralni ton, ali v zlati za toplejši zaključek. Ker se prodaja kot dodatek, je idealen za ustvarjalce, ki želijo izdelati svoje ogrlice, zapestnice ali uhane. Veleprodajni vidik s prilagodljivimi vzorci je namenjen podjetjem, ki želijo ponuditi edinstvene kose brez velikih minimalnih količin za standardne dizajne. Čeprav je obesek navdihnjen z vzhodnjaško duhovnostjo, ni vezan na nobeno religijo, zaradi česar je vsestranski izdelek za raznolike baze strank.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodatki",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAG0TG7BAOVioqqEY6ed-wCY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Heeaaa7a4406f4765ae465be7a71ab200w.webp",
+      "imageAlt": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heeaaa7a4406f4765ae465be7a71ab200w.webp",
+          "alt": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbef74da289584e1787a56325e0c1652bN.webp",
+          "alt": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbcbe6835d3124f0dae73b780af3aa974r.webp",
+          "alt": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H97338ae0198d4bfd883b8cf184d69a53N.webp",
+          "alt": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H99c66ef2e4e243d0a6e30617a42204a8m.webp",
+          "alt": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0b7d8f85b26e44a9b64abd5fe508b3d6Y.webp",
+          "alt": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva - jeklena barva",
+          "label": "jeklena barva",
+          "sku": "ALI-AAG0TG7BAOVioqqEY6ed-wCY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5accaf2245a74c11971b74b58c0d6c89e.webp",
+          "alt": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva - zlata",
+          "label": "zlata",
+          "sku": "ALI-AAG0TG7BAOVioqqEY6ed-wCY-V-3331116"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Izdelano iz nerjavečega jekla za dolgotrajno nošenje",
+        "Dizajn lotosovega cveta, primeren za uniseks",
+        "Na voljo v jekleni barvi ali z zlato prevleko",
+        "Zasnovano kot DIY komponent za prilagajanje nakita",
+        "Veleprodajna nabava z možnostjo prilagodljivih vzorcev"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Nerjaveče jeklo"
+        },
+        {
+          "name": "Barvne različice",
+          "value": "Jeklena barva, zlata"
+        },
+        {
+          "name": "Slog",
+          "value": "Obesek, uniseks"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Lotosov cvet"
+        },
+        {
+          "name": "Prilagoditev",
+          "value": "Prilagodljivi vzorci"
+        }
+      ],
+      "applications": [
+        "Izdelava DIY ogrlic",
+        "Okraski za zapestnice",
+        "Komponente za uhane",
+        "Veleprodajna preprodaja za trgovine z nakitom"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je ta obesek lotus?",
+          "answer": "Obesek je izdelan iz nerjavečega jekla, kar zagotavlja vzdržljivost in odpornost proti oksidaciji."
+        },
+        {
+          "question": "Katere barvne možnosti so na voljo?",
+          "answer": "Obesek je na voljo v dveh zaključkih: v jekleni barvi, ki daje naravni kovinski videz, in v zlati, ki daje toplejši ton."
+        },
+        {
+          "question": "Ali lahko prilagodim vzorec na tem obesku?",
+          "answer": "Da, dobavitelj ponuja prilagodljive vzorce za veleprodajna naročila. Za podrobnosti o možnostih vzorcev in zahtevah za naročila nas kontaktirajte."
+        }
+      ],
+      "pricing": {
+        "price": "0.42",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.51"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Obesek Lotus iz nerjavečega jekla - zlata ali jeklena barva",
+          "description": "Ta obesek iz nerjavečega jekla ima motiv lotosovega cveta v uniseks dizajnu. Na voljo je v jekleni barvi ali z zlato prevleko, primeren za DIY nakit in veleprodajna naročila. Na voljo so tudi prilagojeni vzorci, zaradi česar je prilagodljiv dodatek za preprodajalce.",
+          "sku": "ALI-AAG0TG7BAOVioqqEY6ed-wCY",
+          "image": [
+            "https://sc04.alicdn.com/kf/Heeaaa7a4406f4765ae465be7a71ab200w.jpg",
+            "https://sc04.alicdn.com/kf/Hbef74da289584e1787a56325e0c1652bN.jpg",
+            "https://sc04.alicdn.com/kf/Hbcbe6835d3124f0dae73b780af3aa974r.jpg",
+            "https://sc04.alicdn.com/kf/H97338ae0198d4bfd883b8cf184d69a53N.jpg",
+            "https://sc04.alicdn.com/kf/H99c66ef2e4e243d0a6e30617a42204a8m.jpg"
+          ],
+          "category": "Dodatki",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Nerjaveče jeklo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barvne različice",
+              "value": "Jeklena barva, zlata"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Obesek, uniseks"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Lotosov cvet"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Prilagoditev",
+              "value": "Prilagodljivi vzorci"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.42",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.51",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je ta obesek lotus?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek je izdelan iz nerjavečega jekla, kar zagotavlja vzdržljivost in odpornost proti oksidaciji."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere barvne možnosti so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek je na voljo v dveh zaključkih: v jekleni barvi, ki daje naravni kovinski videz, in v zlati, ki daje toplejši ton."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali lahko prilagodim vzorec na tem obesku?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, dobavitelj ponuja prilagodljive vzorce za veleprodajna naročila. Za podrobnosti o možnostih vzorcev in zahtevah za naročila nas kontaktirajte."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "a4e6ffeb88607e7cce92c38fb05f1bf384044e1fb03a93d7d10f98802903ecb8",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "a4e6ffeb88607e7cce92c38fb05f1bf384044e1fb03a93d7d10f98802903ecb8",
+            "contentHash": "a4e6ffeb88607e7cce92c38fb05f1bf384044e1fb03a93d7d10f98802903ecb8",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:24.145Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "a4e6ffeb88607e7cce92c38fb05f1bf384044e1fb03a93d7d10f98802903ecb8",
+            "contentHash": "14d0b0a6e98b219dd7ffbbc0e3309f773dda248151e1c1d2ad3e79bbbd0467f5",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:14:41.726Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH_TG7BAOVioqqEY6eAcpD5",
+      "sourceId": "AAH_TG7BAOVioqqEY6eAcpD5",
+      "sourceFingerprint": "d4512f5e9cdbf7033f24436e6a6ad245a24169212b86da70ceb83c616b02d990",
+      "locale": "sl",
+      "slug": "18k-gold-plated-cross-pendant-stainless-steel-chain-necklace-eacpd5",
+      "title": "Ogrlica z obeskom križa, pozlačena z 18K, verižica iz nerjavečega jekla",
+      "eyebrow": "ogrlica z obeskom križa",
+      "summary": "Eleganten obesek križa, pozlačen z 18K, na verižici iz nerjavečega jekla. Polirana površina in sodobne proporcije so subtilen poudarek za vsakodnevno nošenje. Na voljo sta dve različici verižice za izbiro želene dolžine.",
+      "description": "Obesek križa lovi svetlobo z gladkim, odsevnim zaključkom, značilnim za pozlato 18K. Čiste linije in simetrična oblika dajejo sodoben videz, ki se lepo nosi sam ali v kombinaciji z drugimi obeski. Verižica iz nerjavečega jekla zagotavlja trpežno osnovo s svetlim, srebrnim kontrastom.\n\nOblikovan za uniseks nošenje, obesek je dovolj lahek za udobje ves dan. Na voljo je v dveh različicah verižice, kar omogoča izbiro dolžine, ki najbolj ustreza vašemu izrezu ali osebnemu slogu. Nerjaveče jeklo je odporno proti temnenju in koroziji, zaradi česar je praktična izbira za redno uporabo.",
+      "catholicContext": "Navadni križ je priznan simbol krščanske vere, ki se razlikuje od razpela, ki vključuje Kristusovo telo.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Modna ogrlica",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAH_TG7BAOVioqqEY6eAcpD5",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Ha6e34b9f794946e498c8a66af726a6d9U.webp",
+      "imageAlt": "Ogrlica z obeskom križa, pozlačena z 18K, verižica iz nerjavečega jekla",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha6e34b9f794946e498c8a66af726a6d9U.webp",
+          "alt": "Ogrlica z obeskom križa, pozlačena z 18K, verižica iz nerjavečega jekla"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H65de89ec77824de0851735177e1a280fg.webp",
+          "alt": "Ogrlica z obeskom križa, pozlačena z 18K, verižica iz nerjavečega jekla"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H54a4c0ac68f74247b7fecfef01670219i.webp",
+          "alt": "Ogrlica z obeskom križa, pozlačena z 18K, verižica iz nerjavečega jekla"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf8bb90419cf744b9af80ae8fefb1cb01b.webp",
+          "alt": "Ogrlica z obeskom križa, pozlačena z 18K, verižica iz nerjavečega jekla - z-verizico-1",
+          "label": "z-verizico-1",
+          "sku": "ALI-AAH_TG7BAOVioqqEY6eAcpD5-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H58b3b6678bde402b8b5c94554d296b96Q.webp",
+          "alt": "Ogrlica z obeskom križa, pozlačena z 18K, verižica iz nerjavečega jekla - z-verizico-2",
+          "label": "z-verizico-2",
+          "sku": "ALI-AAH_TG7BAOVioqqEY6eAcpD5-V--3"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Površina obeska pozlačena z 18K",
+        "Vključena verižica iz nerjavečega jekla",
+        "Uniseks dizajn, primeren za vse spole",
+        "Na voljo dve različici verižice",
+        "Katoliški križni dizajn"
+      ],
+      "specifications": [
+        {
+          "name": "Dizajn",
+          "value": "Katoliški križ"
+        },
+        {
+          "name": "Materiali",
+          "value": "Obesek pozlačen z 18K, verižica iz nerjavečega jekla"
+        },
+        {
+          "name": "Različice",
+          "value": "Z verižico 1, z verižico 2"
+        }
+      ],
+      "applications": [
+        "Vsakodnevno nošenje",
+        "Verski dodatek",
+        "Plastenje z drugimi ogrlicami",
+        "Darilo"
+      ],
+      "faq": [
+        {
+          "question": "Katere različice so na voljo?",
+          "answer": "Ta ogrlica je na voljo v dveh različicah: 'z verižico 1' in 'z verižico 2', ki se verjetno razlikujeta po dolžini ali slogu verižice."
+        },
+        {
+          "question": "Ali je križ razpelo?",
+          "answer": "Glede na dejstva o izdelku je to obesek križa, ne razpelo. Razpelo vključuje Kristusovo podobo, ki v opisu ni omenjena."
+        },
+        {
+          "question": "Kateri materiali so uporabljeni?",
+          "answer": "Obesek je pozlačen z 18K, verižica pa je iz nerjavečega jekla, kar zagotavlja trajnost in odpornost proti temnenju."
+        }
+      ],
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ogrlica z obeskom križa, pozlačena z 18K, verižica iz nerjavečega jekla",
+          "description": "Eleganten obesek križa, pozlačen z 18K, na verižici iz nerjavečega jekla. Polirana površina in sodobne proporcije so subtilen poudarek za vsakodnevno nošenje. Na voljo sta dve različici verižice za izbiro želene dolžine.",
+          "sku": "ALI-AAH_TG7BAOVioqqEY6eAcpD5",
+          "image": [
+            "https://sc04.alicdn.com/kf/Ha6e34b9f794946e498c8a66af726a6d9U.jpg",
+            "https://sc04.alicdn.com/kf/H65de89ec77824de0851735177e1a280fg.jpg",
+            "https://sc04.alicdn.com/kf/H54a4c0ac68f74247b7fecfef01670219i.jpg"
+          ],
+          "category": "Modna ogrlica",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Katoliški križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiali",
+              "value": "Obesek pozlačen z 18K, verižica iz nerjavečega jekla"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Z verižico 1, z verižico 2"
+            }
+          ]
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Katere različice so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ta ogrlica je na voljo v dveh različicah: 'z verižico 1' in 'z verižico 2', ki se verjetno razlikujeta po dolžini ali slogu verižice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je križ razpelo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Glede na dejstva o izdelku je to obesek križa, ne razpelo. Razpelo vključuje Kristusovo podobo, ki v opisu ni omenjena."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kateri materiali so uporabljeni?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek je pozlačen z 18K, verižica pa je iz nerjavečega jekla, kar zagotavlja trajnost in odpornost proti temnenju."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "b6bbe3c7efb0a7eafcf8888c790959041630e9570492f18f0fcb3181022838b7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "b6bbe3c7efb0a7eafcf8888c790959041630e9570492f18f0fcb3181022838b7",
+            "contentHash": "b6bbe3c7efb0a7eafcf8888c790959041630e9570492f18f0fcb3181022838b7",
+            "attempts": 0,
+            "updatedAt": "2026-08-29T16:44:25.227Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "b6bbe3c7efb0a7eafcf8888c790959041630e9570492f18f0fcb3181022838b7",
+            "contentHash": "a3bca0623f47e74ee137ff9e4231d25243cb295a2e84ce477de56aff429d4d88",
+            "attempts": 1,
+            "updatedAt": "2026-08-29T17:14:51.687Z",
             "model": "deepseek-v4-flash"
           }
         }
