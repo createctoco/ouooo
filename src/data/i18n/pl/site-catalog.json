@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "pl",
   "sourceLocale": "en",
-  "sourceCatalogHash": "4991bc10dcbc7f2cb5df0d4093a9d4b311c8d5fa3115267905c6669fcf8846fc",
-  "generatedAt": "2026-08-31T08:49:09.245Z",
+  "sourceCatalogHash": "c04b715688b12b427f3d30f07532348a94d164dcffcaa6c7e4925cddb0941a4e",
+  "generatedAt": "2026-08-31T16:44:03.969Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAGyTG7BAOVioqqEY6eoLZPG",
-      "AAH1TG7BAOVioqqEY6eBSGu9",
-      "AAFeTG7BAOVioqqEY6eykl44",
-      "AAHATG7BAOVioqqEY6eYGnmR",
-      "AAEmTG7BAOVioqqEY6eNuCc2",
-      "AAHcTG7BAOVioqqEY6eA2r-_",
-      "AAGiTG7BAOVioqqEY6eBSjSf",
-      "AAEFTG7BAOVioqqEY6ezC5Uu",
-      "AAExTG7BAOVioqqEY6eEgu84",
-      "AAGMTG7BAOVioqqEY6eduIat"
+      "AAHNTG7BAOVioqqEY6ee1KUy",
+      "AAHATG7BAOVioqqEY6ey_1-s",
+      "AAHpTG7BAOVioqqEY6eBSlu_",
+      "AAGlTG7BAOVioqqEY6eBSpy6",
+      "AAF0TG7BAOVioqqEY6eyh0xr",
+      "AAHqTG7BAOVioqqEY6eErI2p",
+      "AAHFTG7BAOVioqqEY6eDBiSU",
+      "AAEuTG7BAOVioqqEY6eJHw50",
+      "AAF4TG7BAOVioqqEY6eDdXYG",
+      "AAFYTG7BAOVioqqEY6e0ck5g"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,10 +39,10 @@
     "brooch": "Broszka",
     "uncategorized": "Bez kategorii"
   },
-  "categoryGlossarySourceHash": "b977a2b717741eb323106d1e21c2cdda18d509f7f966e8c98ed0dd88af22c4ba",
+  "categoryGlossarySourceHash": "94a6de3ea98aead22d41cff9de4c78b9b5a1ab3615e38120c96fd770e461de57",
   "translationSummary": {
-    "ready": 430,
-    "skipped": 7,
+    "ready": 439,
+    "skipped": 8,
     "skippedProductIds": [
       "AAGxTG7BAOVioqqEY6e7uzWC",
       "AAEDTG7BAOVioqqEY6erMoEh",
@@ -50,26 +50,25 @@
       "AAE9TG7BAOVioqqEY6eoSmZh",
       "AAFiTG7BAOVioqqEY6eBSz9T",
       "AAFlTG7BAOVioqqEY6e0b3hG",
-      "AAEmTG7BAOVioqqEY6eNuCc2"
+      "AAEmTG7BAOVioqqEY6eNuCc2",
+      "AAF4TG7BAOVioqqEY6eDdXYG"
     ],
-    "reused": 417,
-    "generated": 13,
+    "reused": 428,
+    "generated": 11,
     "generatedProductIds": [
-      "AAE7TG7BAOVioqqEY6eoJHny",
-      "AAHuTG7BAOVioqqEY6eeDvPL",
-      "AAEgTG7BAOVioqqEY6eBt7Ez",
-      "AAEaTG7BAOVioqqEY6eBUYFD",
-      "AAGyTG7BAOVioqqEY6eoLZPG",
-      "AAH1TG7BAOVioqqEY6eBSGu9",
-      "AAFeTG7BAOVioqqEY6eykl44",
       "AAHATG7BAOVioqqEY6eYGnmR",
-      "AAHcTG7BAOVioqqEY6eA2r-_",
       "AAGiTG7BAOVioqqEY6eBSjSf",
-      "AAEFTG7BAOVioqqEY6ezC5Uu",
-      "AAExTG7BAOVioqqEY6eEgu84",
-      "AAGMTG7BAOVioqqEY6eduIat"
+      "AAHNTG7BAOVioqqEY6ee1KUy",
+      "AAHATG7BAOVioqqEY6ey_1-s",
+      "AAHpTG7BAOVioqqEY6eBSlu_",
+      "AAGlTG7BAOVioqqEY6eBSpy6",
+      "AAHqTG7BAOVioqqEY6eErI2p",
+      "AAF0TG7BAOVioqqEY6eyh0xr",
+      "AAHFTG7BAOVioqqEY6eDBiSU",
+      "AAEuTG7BAOVioqqEY6eJHw50",
+      "AAFYTG7BAOVioqqEY6e0ck5g"
     ],
-    "retriedBacklog": 6,
+    "retriedBacklog": 7,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -2948,6 +2947,393 @@
             "contentHash": "0b5ae93d770f04c916bf2731aebce97a1069c8e45bc089b817b0d0a6ece2f240",
             "attempts": 0,
             "updatedAt": "2026-08-31T08:25:31.319Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAF4TG7BAOVioqqEY6eDdXYG",
+      "sourceId": "AAF4TG7BAOVioqqEY6eDdXYG",
+      "sourceFingerprint": "1146d6b225d324b7d934d7bde20f56c570d70a4a0c046a49be5b077518303ebf",
+      "locale": "en",
+      "slug": "catholic-holy-water-bottle-with-alloy-embossed-design-eddxyg",
+      "title": "Catholic Holy Water Bottle with Alloy Embossed Design",
+      "eyebrow": "Catholic holy water bottle",
+      "summary": "This Catholic holy water bottle combines a glass body with an alloy embossed container. Choose from multiple gold or silver variants. It suits personal devotional use or as a thoughtful gift for Catholic occasions.",
+      "description": "This Catholic holy water bottle pairs a glass interior with an alloy outer container, finished with embossed detailing. The range includes gold and silver variants—numbered No. 1 through No. 17—so you can select a style that fits your inventory or personal preference.\n\nThe bottle serves as a practical vessel for carrying holy water, commonly used in home devotions or as a meaningful gift. Its compact design and durable alloy exterior protect the glass, making it suitable for everyday handling.\n\nWhether for individual use or wholesale distribution, this bottle offers a tangible connection to Catholic devotional practices. Its craftsmanship appeals to those seeking a reverent yet functional item.",
+      "catholicContext": "The Catholic Catechism recognizes popular devotions, such as the use of holy water, as extensions of the Church's liturgical life.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H62007d5622414ff38923883910f7a1d6q.webp",
+      "imageAlt": "Catholic Holy Water Bottle with Alloy Embossed Design",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H62007d5622414ff38923883910f7a1d6q.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H78e530afb98a428485ab8111d82d4228P.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H62a55080b1f447b095eb3caf44bb9508I.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7e02781bce74c979cba456724dc1608p.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha973f21f03dc46879f4e16ca00fe5046v.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hddcb83b1e5b64c3b9d706c7857ca1eb7m.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0adcb9b73da0482ca7990fe59364d658l.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-9-silver",
+          "label": "no-9-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdd8d3be301db4cf2a7ad45eedc09ebb49.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - size-10-silver",
+          "label": "size-10-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha97d349015ee4591a38c30aff2486ab3a.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-7-silver",
+          "label": "no-7-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H626f23c3f2204f81af9ef4f7c82de1e9e.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-8-silver",
+          "label": "no-8-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H42e90d47c847426f8970779de3732f0eX.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-5-silver",
+          "label": "no-5-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0150ec79fbdc49629eb4798828a039c00.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-6-silver",
+          "label": "no-6-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha328af5531ec49849c481ebc8ae77f27w.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-3-silver",
+          "label": "no-3-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H933d4629514f48b8af25455cf1fec9cex.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-4-silver",
+          "label": "no-4-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5fa6a067646c4d8db1150aed6221a984b.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-1-silver",
+          "label": "no-1-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hac92e146142a4bfda2fe3990fd19c75aC.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-2-silver",
+          "label": "no-2-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H23821ae0c7cf462bb03edfc38b67cfb1J.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-14-gold",
+          "label": "no-14-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1d6d040deb36486c86272c32a0eae99ef.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-15-gold",
+          "label": "no-15-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He19caa153dcd412da858fb0df21187abk.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-12-gold",
+          "label": "no-12-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha928d26186054b3c8490b151fa1f8e3an.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-13-gold",
+          "label": "no-13-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0b8ff89012b14860951ea84624aa64ceq.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-10-gold",
+          "label": "no-10-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe7adffc9b71437bbee96ee0cd219cadB.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-11-gold",
+          "label": "no-11-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8e19f614c6e64fc69059f5a8f3bb5a26z.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-8-gold",
+          "label": "no-8-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H66030a012c814d139e199afdaa1a1ec66.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-9-gold",
+          "label": "no-9-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6600c8c5a9c74637906511f1c6b5c6ccB.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-6-gold",
+          "label": "no-6-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4e86b64492f14106b440078a3a849217X.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-7-gold",
+          "label": "no-7-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Haf6456db6016423aa36a67e8b8ed49afU.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-4-gold",
+          "label": "no-4-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H50f660787fab4767b295a4e5fe6f9cdab.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-5-gold",
+          "label": "no-5-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H583bd85a92b94ec4a1f88cb0a4710833u.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-2-gold",
+          "label": "no-2-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0a62556aac3e48de8518c829ea8864731.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-3-gold",
+          "label": "no-3-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc8d15c3e97ca4aaaab39628c6a0d88e8n.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-1-gold",
+          "label": "no-1-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b6d8406d4f34e479637b6d1540a40deB.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-17-silver",
+          "label": "no-17-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--34"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H661408ee63ee4fb1a7a9e3038d7b648aJ.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-16-silver",
+          "label": "no-16-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--32"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5538d81c6464475fb90eaa435226d50eO.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-17-gold",
+          "label": "no-17-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--33"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7b8fcddb8e6b4d8684e817b1890dc80eE.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-15-silver",
+          "label": "no-15-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--30"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H955fc09c25134e95bd9722f384b09706d.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-16-gold",
+          "label": "no-16-gold",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--31"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b07909233034a84bc893cd0b91d1111M.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-13-silver",
+          "label": "no-13-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbff1651c3b08436590262bae431135526.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-14-silver",
+          "label": "no-14-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--29"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd97b63ecd00d4a97bd818aa12b86ab3ea.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-11-silver",
+          "label": "no-11-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1793aa28eba34280bde193461df7cc94f.webp",
+          "alt": "Catholic Holy Water Bottle with Alloy Embossed Design - no-12-silver",
+          "label": "no-12-silver",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG-V--27"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Glass bottle enclosed in an alloy container",
+        "Embossed detailing on the alloy surface",
+        "Available in gold and silver finish variants",
+        "Multiple numbered styles (No. 1 to No. 17) to choose from",
+        "Categorized as an ornament, suitable for display or carrying"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Glass and alloy"
+        },
+        {
+          "name": "Finish Options",
+          "value": "Gold and silver"
+        },
+        {
+          "name": "Variant Options",
+          "value": "34 numbered variants (e.g., No. 1 gold, No. 14 silver)"
+        }
+      ],
+      "applications": [
+        "Carrying holy water for personal devotion",
+        "Gift for Catholic occasions such as baptisms, First Communion, or Confirmations",
+        "Home display as a religious ornament",
+        "Wholesale retail stock for Catholic gift shops"
+      ],
+      "faq": [
+        {
+          "question": "What materials are used in this holy water bottle?",
+          "answer": "The bottle has a glass body and an outer container made of alloy, with an embossed design on the metal."
+        },
+        {
+          "question": "How many finish and style options are available?",
+          "answer": "There are 34 variants, including gold and silver finishes across numbered designs from No. 1 to No. 17."
+        },
+        {
+          "question": "Is this bottle suitable for everyday carrying?",
+          "answer": "The alloy outer shell helps protect the glass interior, making it practical for carrying holy water during daily use."
+        }
+      ],
+      "pricing": {
+        "price": "0.58",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Catholic Holy Water Bottle with Alloy Embossed Design",
+          "description": "Catholic holy water bottle in glass with alloy embossed container, available in gold and silver finishes, for devotional use and gifting.",
+          "sku": "ALI-AAF4TG7BAOVioqqEY6eDdXYG",
+          "image": [
+            "https://sc04.alicdn.com/kf/H62007d5622414ff38923883910f7a1d6q.jpg",
+            "https://sc04.alicdn.com/kf/H78e530afb98a428485ab8111d82d4228P.jpg",
+            "https://sc04.alicdn.com/kf/H62a55080b1f447b095eb3caf44bb9508I.jpg",
+            "https://sc04.alicdn.com/kf/Hf7e02781bce74c979cba456724dc1608p.jpg",
+            "https://sc04.alicdn.com/kf/Ha973f21f03dc46879f4e16ca00fe5046v.jpg",
+            "https://sc04.alicdn.com/kf/Hddcb83b1e5b64c3b9d706c7857ca1eb7m.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Glass and alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finish Options",
+              "value": "Gold and silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant Options",
+              "value": "34 numbered variants (e.g., No. 1 gold, No. 14 silver)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.58",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What materials are used in this holy water bottle?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The bottle has a glass body and an outer container made of alloy, with an embossed design on the metal."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many finish and style options are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are 34 variants, including gold and silver finishes across numbered designs from No. 1 to No. 17."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this bottle suitable for everyday carrying?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The alloy outer shell helps protect the glass interior, making it practical for carrying holy water during daily use."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "41d2b92da9f766d7aecc115161063665338e49156687c787bd75178b9a80baf8",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "41d2b92da9f766d7aecc115161063665338e49156687c787bd75178b9a80baf8",
+            "contentHash": "41d2b92da9f766d7aecc115161063665338e49156687c787bd75178b9a80baf8",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:20:06.482Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -97455,11 +97841,11 @@
       "sourceFingerprint": "cbdedc26a2a0e40bd2b7e5b3521d28694be172f9e580c0b1d1c2b53a3d356418",
       "locale": "pl",
       "slug": "black-wooden-beads-rosary-bracelet-eygnmr",
-      "title": "Czarna drewniana bransoletka różańcowa",
+      "title": "Bransoletka różańcowa z czarnych drewnianych koralików",
       "eyebrow": "bransoletka różańcowa",
       "summary": "Ta bransoletka różańcowa wykonana jest z czarnych drewnianych koralików i krzyżyka, zabezpieczona elastycznym sznurkiem dla wygodnego dopasowania. Dostępna w wariancie z czarnymi lub brązowymi koralikami. Odpowiednia do osobistej modlitwy i praktyk dewocyjnych.",
-      "description": "Ta bransoletka różańcowa wykonana jest z czarnych drewnianych koralików i zawiera krzyżyk, nawleczone na elastyczny sznurek dla łatwego zakładania. Dostępna jest w wariancie z czarnymi lub brązowymi koralikami, co daje wybór zgodny z osobistymi preferencjami. Bransoletka służy jako namacalna pomoc w modlitwie, szczególnie dla osób praktykujących różaniec.",
-      "catholicContext": "Różaniec to katolicka modlitwa skupiająca się na kontemplacji wydarzeń z życia Jezusa Chrystusa i Maryi Dziewicy.",
+      "description": "Ta bransoletka różańcowa wykonana jest z czarnych drewnianych koralików i zawiera krzyżyk, nawleczona na elastyczny sznurek dla łatwego zakładania. Dostępna jest w wariancie z czarnymi lub brązowymi koralikami, co daje możliwość wyboru zgodnie z osobistymi preferencjami. Bransoletka służy jako namacalna pomoc w modlitwie, szczególnie dla osób praktykujących Różaniec.",
+      "catholicContext": "Różaniec jest katolicką modlitwą skoncentrowaną na kontemplacji wydarzeń z życia Jezusa Chrystusa i Maryi Dziewicy.",
       "catholicRelevance": "explicit",
       "categories": [
         {
@@ -97470,43 +97856,43 @@
       ],
       "sku": "ALI-AAHATG7BAOVioqqEY6eYGnmR",
       "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hce5433ddf76a47beb08155c3eb0febbdP.webp",
-      "imageAlt": "Czarna drewniana bransoletka różańcowa",
+      "imageAlt": "Bransoletka różańcowa z czarnych drewnianych koralików",
       "gallery": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hce5433ddf76a47beb08155c3eb0febbdP.webp",
-          "alt": "Czarna drewniana bransoletka różańcowa"
+          "alt": "Bransoletka różańcowa z czarnych drewnianych koralików"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H374017953d1d446a88c94acd49168951o.webp",
-          "alt": "Czarna drewniana bransoletka różańcowa"
+          "alt": "Bransoletka różańcowa z czarnych drewnianych koralików"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd511553aba1c4619901d91c18fd8c10fh.webp",
-          "alt": "Czarna drewniana bransoletka różańcowa"
+          "alt": "Bransoletka różańcowa z czarnych drewnianych koralików"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc43d52c4405c494eb6d16e93da09e6cdR.webp",
-          "alt": "Czarna drewniana bransoletka różańcowa"
+          "alt": "Bransoletka różańcowa z czarnych drewnianych koralików"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H6a8f4e142fdb4c138e6a163a1e2b341eW.webp",
-          "alt": "Czarna drewniana bransoletka różańcowa"
+          "alt": "Bransoletka różańcowa z czarnych drewnianych koralików"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H394bdcb5b80746d2bc9abd863e5e63455.webp",
-          "alt": "Czarna drewniana bransoletka różańcowa"
+          "alt": "Bransoletka różańcowa z czarnych drewnianych koralików"
         }
       ],
       "variantImages": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd987856248214601ac8bc39ce46a3d89e.webp",
-          "alt": "Czarna drewniana bransoletka różańcowa - brązowa",
+          "alt": "Bransoletka różańcowa z czarnych drewnianych koralików - brązowa",
           "label": "brązowa",
           "sku": "ALI-AAHATG7BAOVioqqEY6eYGnmR-V-3399503"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/He30294e4f09b4c45bf3217625b91e885S.webp",
-          "alt": "Czarna drewniana bransoletka różańcowa - czarna",
+          "alt": "Bransoletka różańcowa z czarnych drewnianych koralików - czarna",
           "label": "czarna",
           "sku": "ALI-AAHATG7BAOVioqqEY6eYGnmR-V-3327837"
         }
@@ -97515,7 +97901,7 @@
       "features": [
         "Czarne drewniane koraliki",
         "Krzyżyk",
-        "Elastyczny sznurek",
+        "Elastyczny sznurek (rozciągliwy)",
         "Dostępna w wariancie czarnym i brązowym",
         "Styl różańcowy"
       ],
@@ -97550,7 +97936,7 @@
         },
         {
           "question": "Czy ta bransoletka jest dostępna w innych kolorach?",
-          "answer": "Tak, bransoletka występuje w dwóch wariantach: z czarnymi i brązowymi koralikami."
+          "answer": "Tak, bransoletka występuje w dwóch wariantach: czarne koraliki i brązowe koraliki."
         },
         {
           "question": "Jak bransoletka utrzymuje się na nadgarstku?",
@@ -97570,7 +97956,7 @@
         "product": {
           "@context": "https://schema.org",
           "@type": "Product",
-          "name": "Czarna drewniana bransoletka różańcowa",
+          "name": "Bransoletka różańcowa z czarnych drewnianych koralików",
           "description": "Ta bransoletka różańcowa wykonana jest z czarnych drewnianych koralików i krzyżyka, zabezpieczona elastycznym sznurkiem dla wygodnego dopasowania. Dostępna w wariancie z czarnymi lub brązowymi koralikami. Odpowiednia do osobistej modlitwy i praktyk dewocyjnych.",
           "sku": "ALI-AAHATG7BAOVioqqEY6eYGnmR",
           "image": [
@@ -97634,7 +98020,7 @@
               "name": "Czy ta bransoletka jest dostępna w innych kolorach?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Tak, bransoletka występuje w dwóch wariantach: z czarnymi i brązowymi koralikami."
+                "text": "Tak, bransoletka występuje w dwóch wariantach: czarne koraliki i brązowe koraliki."
               }
             },
             {
@@ -97650,22 +98036,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "22d6298c3c608a8e5b2a16a1ed67ce6c8a231d6e05555de40ded657588dda926",
+        "sourceHash": "9e219da15294ebc5e524dba40ec23b5f74141bce7dab7d25349dfdf4c5d9ed90",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "22d6298c3c608a8e5b2a16a1ed67ce6c8a231d6e05555de40ded657588dda926",
-            "contentHash": "22d6298c3c608a8e5b2a16a1ed67ce6c8a231d6e05555de40ded657588dda926",
+            "sourceHash": "9e219da15294ebc5e524dba40ec23b5f74141bce7dab7d25349dfdf4c5d9ed90",
+            "contentHash": "9e219da15294ebc5e524dba40ec23b5f74141bce7dab7d25349dfdf4c5d9ed90",
             "attempts": 0,
             "updatedAt": "2026-08-31T08:25:37.740Z",
             "model": "deepseek-v4-flash"
           },
           "pl": {
             "status": "ready",
-            "sourceHash": "22d6298c3c608a8e5b2a16a1ed67ce6c8a231d6e05555de40ded657588dda926",
-            "contentHash": "ff12b028b71b6bd85ce67527ea5f066a160fbfd3eec5c1c2bdd964fd527ebbc6",
+            "sourceHash": "9e219da15294ebc5e524dba40ec23b5f74141bce7dab7d25349dfdf4c5d9ed90",
+            "contentHash": "927a91af47c8d521795a45078e0b2c7821f987f9d4b01a69971a1ee050a35ad7",
             "attempts": 1,
-            "updatedAt": "2026-08-31T08:46:45.423Z",
+            "updatedAt": "2026-08-31T16:40:57.324Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -97886,11 +98272,11 @@
       "sourceFingerprint": "8ed3b8e8e35e0b29d06919ec5e738987d8cb4ecf2d1bc6afae6f9e931f93126e",
       "locale": "pl",
       "slug": "orthodox-cross-beaded-necklace-stainless-steel-ebsjsf",
-      "title": "Naszyjnik z krzyżem prawosławnym i koralikami ze stali nierdzewnej",
-      "eyebrow": "Naszyjnik z krzyżem prawosławnym i koralikami",
-      "summary": "Ten uniseks naszyjnik z koralikami posiada zawieszkę w kształcie krzyża prawosławnego ze stali nierdzewnej, dostępną w kolorze srebrnym lub złotym. Łańcuszek z koralików dopełnia religijny wzór, co czyni go odpowiednim prezentem na okazje katolickie i chrześcijańskie.",
-      "description": "Naszyjnik z krzyżem prawosławnym i koralikami łączy zawieszkę z krzyżem ze stali nierdzewnej z łańcuszkiem z koralików, oferowany w wersji srebrnej lub złotej. Jego uniseks design pasuje zarówno do mężczyzn, jak i kobiet, a konstrukcja z pazurkiem dodaje trwałości. Idealny do codziennego noszenia lub jako prezent, ten naszyjnik pasuje do katolickich praktyk pobożnościowych i religijnych obchodów.",
-      "catholicContext": "Krzyż może służyć jako zewnętrzny znak wiary chrześcijańskiej i pobożności ludowej, w odróżnieniu od krucyfiksu, który nosi ciało Chrystusa.",
+      "title": "Naszyjnik z krzyżem prawosławnym ze stali nierdzewnej",
+      "eyebrow": "Naszyjnik z krzyżem prawosławnym",
+      "summary": "Ten uniseks naszyjnik z koralikami posiada zawieszkę w kształcie krzyża prawosławnego ze stali nierdzewnej, dostępną w wersji srebrnej lub złotej. Łańcuszek z koralików uzupełnia religijny wzór, co czyni go odpowiednim prezentem na okazje katolickie i chrześcijańskie.",
+      "description": "Naszyjnik z krzyżem prawosławnym łączy zawieszkę w kształcie krzyża ze stali nierdzewnej z łańcuszkiem z koralików, oferowanym w wersji srebrnej lub złotej. Jego uniseks design pasuje zarówno do mężczyzn, jak i kobiet, a wykonanie z pazurem dodaje trwałości. Idealny do codziennego noszenia lub jako prezent, ten naszyjnik pasuje do katolickich praktyk religijnych i obrzędów.",
+      "catholicContext": "Krzyż może służyć jako zewnętrzny znak wiary chrześcijańskiej i pobożności ludowej, w odróżnieniu od krucyfiksu, który niesie ciało Chrystusa.",
       "catholicRelevance": "devotional_context",
       "categories": [
         {
@@ -97901,34 +98287,34 @@
       ],
       "sku": "ALI-AAGiTG7BAOVioqqEY6eBSjSf",
       "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hba1811a8213e4e548194eac8eebb46can.webp",
-      "imageAlt": "Naszyjnik z krzyżem prawosławnym i koralikami ze stali nierdzewnej",
+      "imageAlt": "Naszyjnik z krzyżem prawosławnym ze stali nierdzewnej",
       "gallery": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hba1811a8213e4e548194eac8eebb46can.webp",
-          "alt": "Naszyjnik z krzyżem prawosławnym i koralikami ze stali nierdzewnej"
+          "alt": "Naszyjnik z krzyżem prawosławnym ze stali nierdzewnej"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H2f9a00f7ebfe4cc19a6469829adf4f5eL.webp",
-          "alt": "Naszyjnik z krzyżem prawosławnym i koralikami ze stali nierdzewnej"
+          "alt": "Naszyjnik z krzyżem prawosławnym ze stali nierdzewnej"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf87a22b4b1af49e3a0de0f010740ef69L.webp",
-          "alt": "Naszyjnik z krzyżem prawosławnym i koralikami ze stali nierdzewnej"
+          "alt": "Naszyjnik z krzyżem prawosławnym ze stali nierdzewnej"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H72fcf63981ed4037bc48323af30611f3o.webp",
-          "alt": "Naszyjnik z krzyżem prawosławnym i koralikami ze stali nierdzewnej"
+          "alt": "Naszyjnik z krzyżem prawosławnym ze stali nierdzewnej"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H84c1a2fb24b64b738f0912caf4e391c34.webp",
-          "alt": "Naszyjnik z krzyżem prawosławnym i koralikami ze stali nierdzewnej"
+          "alt": "Naszyjnik z krzyżem prawosławnym ze stali nierdzewnej"
         }
       ],
       "variantImages": [],
       "accent": "#6f7c72",
       "features": [
-        "Konstrukcja ze stali nierdzewnej z powłoką srebrną lub złotą",
-        "Zawieszka w kształcie krzyża prawosławnego z oprawą pazurkową",
+        "Wykonanie ze stali nierdzewnej z galwanizacją srebrną lub złotą",
+        "Zawieszka w kształcie krzyża prawosławnego z oprawą z pazurem",
         "Łańcuszek z koralików dla charakterystycznego wyglądu",
         "Uniseks design odpowiedni dla wszystkich płci",
         "Sklasyfikowany jako styl religijny do użytku katolickiego"
@@ -97939,15 +98325,15 @@
           "value": "Stal nierdzewna"
         },
         {
-          "name": "Powłoka",
+          "name": "Galwanizacja",
           "value": "Srebrna, złota"
         },
         {
-          "name": "Rodzaj łańcuszka",
+          "name": "Typ łańcuszka",
           "value": "Koraliki"
         },
         {
-          "name": "Rodzaj zapięcia",
+          "name": "Typ zapięcia",
           "value": "Nie określono"
         },
         {
@@ -97962,21 +98348,21 @@
       "applications": [
         "Codzienna biżuteria religijna do osobistej pobożności",
         "Prezent na okazje katolickie lub prawosławne",
-        "Noszenie podczas nabożeństw lub spotkań religijnych",
+        "Noszenie podczas nabożeństw lub zgromadzeń religijnych",
         "Osobisty dodatek wyrażający wiarę chrześcijańską"
       ],
       "faq": [
         {
           "question": "Czy ten naszyjnik jest odpowiedni zarówno dla mężczyzn, jak i kobiet?",
-          "answer": "Tak, naszyjnik jest zaprojektowany jako uniseks, co czyni go odpowiednim dla wszystkich płci."
+          "answer": "Tak, naszyjnik został zaprojektowany jako uniseks, co czyni go odpowiednim dla wszystkich płci."
         },
         {
-          "question": "Jakie materiały są użyte do wykonania tego naszyjnika z krzyżem?",
-          "answer": "Naszyjnik jest wykonany ze stali nierdzewnej z wyborem powłoki srebrnej lub złotej, a łańcuszek składa się z koralików."
+          "question": "Jakie materiały są użyte do produkcji tego naszyjnika z krzyżem?",
+          "answer": "Naszyjnik jest wykonany ze stali nierdzewnej z wyborem srebrnej lub złotej galwanizacji, a łańcuszek składa się z koralików."
         },
         {
           "question": "Czy ten naszyjnik ma krucyfiks z ciałem Chrystusa?",
-          "answer": "Produkt jest opisany jako naszyjnik z krzyżem prawosławnym, który zazwyczaj przedstawia krzyż bez korpusu, ale konkretny wzór może się różnić; sprawdź obraz produktu lub szczegóły, aby potwierdzić."
+          "answer": "Produkt jest opisany jako naszyjnik z krzyżem prawosławnym, który zazwyczaj przedstawia krzyż bez korpusu, ale konkretny wzór może się różnić; sprawdź obraz produktu lub szczegóły, aby to potwierdzić."
         }
       ],
       "pricing": {
@@ -97993,8 +98379,8 @@
         "product": {
           "@context": "https://schema.org",
           "@type": "Product",
-          "name": "Naszyjnik z krzyżem prawosławnym i koralikami ze stali nierdzewnej",
-          "description": "Ten uniseks naszyjnik z koralikami posiada zawieszkę w kształcie krzyża prawosławnego ze stali nierdzewnej, dostępną w kolorze srebrnym lub złotym. Łańcuszek z koralików dopełnia religijny wzór, co czyni go odpowiednim prezentem na okazje katolickie i chrześcijańskie.",
+          "name": "Naszyjnik z krzyżem prawosławnym ze stali nierdzewnej",
+          "description": "Ten uniseks naszyjnik z koralikami posiada zawieszkę w kształcie krzyża prawosławnego ze stali nierdzewnej, dostępną w wersji srebrnej lub złotej. Łańcuszek z koralików uzupełnia religijny wzór, co czyni go odpowiednim prezentem na okazje katolickie i chrześcijańskie.",
           "sku": "ALI-AAGiTG7BAOVioqqEY6eBSjSf",
           "image": [
             "https://sc04.alicdn.com/kf/Hba1811a8213e4e548194eac8eebb46can.jpg",
@@ -98012,17 +98398,17 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Powłoka",
+              "name": "Galwanizacja",
               "value": "Srebrna, złota"
             },
             {
               "@type": "PropertyValue",
-              "name": "Rodzaj łańcuszka",
+              "name": "Typ łańcuszka",
               "value": "Koraliki"
             },
             {
               "@type": "PropertyValue",
-              "name": "Rodzaj zapięcia",
+              "name": "Typ zapięcia",
               "value": "Nie określono"
             },
             {
@@ -98058,15 +98444,15 @@
               "name": "Czy ten naszyjnik jest odpowiedni zarówno dla mężczyzn, jak i kobiet?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Tak, naszyjnik jest zaprojektowany jako uniseks, co czyni go odpowiednim dla wszystkich płci."
+                "text": "Tak, naszyjnik został zaprojektowany jako uniseks, co czyni go odpowiednim dla wszystkich płci."
               }
             },
             {
               "@type": "Question",
-              "name": "Jakie materiały są użyte do wykonania tego naszyjnika z krzyżem?",
+              "name": "Jakie materiały są użyte do produkcji tego naszyjnika z krzyżem?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Naszyjnik jest wykonany ze stali nierdzewnej z wyborem powłoki srebrnej lub złotej, a łańcuszek składa się z koralików."
+                "text": "Naszyjnik jest wykonany ze stali nierdzewnej z wyborem srebrnej lub złotej galwanizacji, a łańcuszek składa się z koralików."
               }
             },
             {
@@ -98074,7 +98460,7 @@
               "name": "Czy ten naszyjnik ma krucyfiks z ciałem Chrystusa?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Produkt jest opisany jako naszyjnik z krzyżem prawosławnym, który zazwyczaj przedstawia krzyż bez korpusu, ale konkretny wzór może się różnić; sprawdź obraz produktu lub szczegóły, aby potwierdzić."
+                "text": "Produkt jest opisany jako naszyjnik z krzyżem prawosławnym, który zazwyczaj przedstawia krzyż bez korpusu, ale konkretny wzór może się różnić; sprawdź obraz produktu lub szczegóły, aby to potwierdzić."
               }
             }
           ]
@@ -98082,22 +98468,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "b807a5361e4d3856c812cb2c7a1012d205ce21222f07360d3580a8fca0631027",
+        "sourceHash": "97817867710d558bc416ecf8805a4b81d7244061016f469797720cc76dabe30d",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "b807a5361e4d3856c812cb2c7a1012d205ce21222f07360d3580a8fca0631027",
-            "contentHash": "b807a5361e4d3856c812cb2c7a1012d205ce21222f07360d3580a8fca0631027",
+            "sourceHash": "97817867710d558bc416ecf8805a4b81d7244061016f469797720cc76dabe30d",
+            "contentHash": "97817867710d558bc416ecf8805a4b81d7244061016f469797720cc76dabe30d",
             "attempts": 0,
             "updatedAt": "2026-08-31T08:25:45.935Z",
             "model": "deepseek-v4-flash"
           },
           "pl": {
             "status": "ready",
-            "sourceHash": "b807a5361e4d3856c812cb2c7a1012d205ce21222f07360d3580a8fca0631027",
-            "contentHash": "d0c619aacd1a651c28aa800d30f7d92440e11600f786dae9b0685aa7c28586ca",
+            "sourceHash": "97817867710d558bc416ecf8805a4b81d7244061016f469797720cc76dabe30d",
+            "contentHash": "135b6c27e0d2964977de491ef98e984f0ae69ca6400da73704cd3bc7c6d996c3",
             "attempts": 1,
-            "updatedAt": "2026-08-31T08:48:38.950Z",
+            "updatedAt": "2026-08-31T16:41:06.727Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -98844,6 +99230,2042 @@
             "contentHash": "893c21a60a6e0bb08331f1d64634debf7e31f4a0a9016d22648b293933f6980f",
             "attempts": 1,
             "updatedAt": "2026-08-31T08:49:09.243Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHNTG7BAOVioqqEY6ee1KUy",
+      "sourceId": "AAHNTG7BAOVioqqEY6ee1KUy",
+      "sourceFingerprint": "aec24e53b3ff2125b33897fa3bab405a300890b31b7d9020ec45ae102f3fd184",
+      "locale": "pl",
+      "slug": "8mm-imitation-pearl-rosary-necklace-with-cross-ee1kuy",
+      "title": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem",
+      "eyebrow": "Różaniec naszyjnik z imitacji pereł",
+      "summary": "Ten różaniec naszyjnik z imitacji pereł o średnicy 8mm zawiera wisior z krzyżem, dostępny w ośmiu kolorach. Zaprojektowany do katolickiej modlitwy i praktyk dewocyjnych, służy również jako prezent na chrzest lub komunię.",
+      "description": "Różaniec naszyjnik z imitacji pereł o średnicy 8mm z wisorem krzyża. Dostępny w kolorach: szary, różany czerwony, czarny, czerwony, biały, różowy, niebieski i fioletowy, ten różaniec odpowiada różnym preferencjom. Koraliki mają średnicę 8mm, zapewniając zrównoważony rozmiar do trzymania podczas modlitwy. Styl naszyjnika pozwala na noszenie lub drapowanie podczas nabożeństwa. Przeznaczony jako katolicka pomoc dewocyjna, wspiera tradycyjną modlitwę różańcową. Wisior z krzyżem symbolizuje wiarę chrześcijańską, ale nie jest krucyfiksem.",
+      "catholicContext": "Różaniec jest katolicką modlitwą skoncentrowaną na kontemplacji wydarzeń z życia Jezusa Chrystusa i Najświętszej Maryi Panny.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Różańce katolickie",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H89b4168626de46d8b0bf5daf1a358142y.webp",
+      "imageAlt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H89b4168626de46d8b0bf5daf1a358142y.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc502cb340dbc45e8ab3274130320edebv.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hed9db248734446dea57a4463625a7c14t.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfdd4bdeba82c41188b1ca7f1977da202l.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1d6408b8b973421b9b4233606b616d42i.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha8cfd6684f62460598f521fa8ccc2969Y.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem - szary",
+          "label": "szary",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy-V-5412614"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H66bdcc1bdb5746c7be40f15ca329263co.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem - fioletowy",
+          "label": "fioletowy",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy-V-3851110"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5a1fdb673af8412a91b3f80feb9cd66cX.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem - niebieski",
+          "label": "niebieski",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy-V-123085"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H86f9ac149abb48f6b97d02e17ad237a0S.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem - różany czerwony",
+          "label": "różany czerwony",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5a2f9d26c85a4745b6e2b4014988e5bdn.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem - biały",
+          "label": "biały",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy-V-3331185"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hce98989c5294457f92945240d2bfcffaO.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem - czerwony",
+          "label": "czerwony",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy-V-3331260"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd3942aea6a3141e7aa2497c43cbcbcc4i.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem - różowy",
+          "label": "różowy",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy-V-3328925"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6f992c8f2fe14a58a71d12c3e7f0c741J.webp",
+          "alt": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem - czarny",
+          "label": "czarny",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy-V-3327837"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Koraliki z imitacji pereł 8mm",
+        "Zawiera wisior z krzyżem",
+        "Dostępny w ośmiu kolorach: szary, różany czerwony, czarny, czerwony, biały, różowy, niebieski, fioletowy",
+        "Różaniec w stylu naszyjnika",
+        "Katolicki design dewocyjny"
+      ],
+      "specifications": [
+        {
+          "name": "Rozmiar koralików",
+          "value": "8mm"
+        },
+        {
+          "name": "Materiał",
+          "value": "Imitacja pereł"
+        },
+        {
+          "name": "Design",
+          "value": "Różaniec z krzyżem"
+        },
+        {
+          "name": "Opcje kolorów",
+          "value": "Szary, różany czerwony, czarny, czerwony, biały, różowy, niebieski, fioletowy"
+        }
+      ],
+      "applications": [
+        "Katolicka modlitwa różańcowa",
+        "Prezent na chrzest",
+        "Prezent na pierwszą komunię",
+        "Biżuteria dewocyjna"
+      ],
+      "faq": [
+        {
+          "question": "Jakie kolory są dostępne dla tego naszyjnika różańcowego?",
+          "answer": "Naszyjnik różańcowy jest dostępny w ośmiu opcjach kolorystycznych: szary, różany czerwony, czarny, czerwony, biały, różowy, niebieski i fioletowy."
+        },
+        {
+          "question": "Czy krzyż na tym różańcu jest krucyfiksem?",
+          "answer": "Produkt jest opisany jako posiadający wisior z krzyżem, a nie krucyfiks, więc nie zawiera korpusu Chrystusa."
+        },
+        {
+          "question": "Jaki jest rozmiar koralików tego różańca?",
+          "answer": "Koraliki mają średnicę 8mm, co zapewnia wygodny rozmiar do trzymania podczas modlitwy."
+        }
+      ],
+      "pricing": {
+        "price": "0.58",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.52",
+          "max": "0.58"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Naszyjnik różańcowy z imitacji pereł 8mm z krzyżem",
+          "description": "Ten różaniec naszyjnik z imitacji pereł o średnicy 8mm zawiera wisior z krzyżem, dostępny w ośmiu kolorach. Zaprojektowany do katolickiej modlitwy i praktyk dewocyjnych, służy również jako prezent na chrzest lub komunię.",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6ee1KUy",
+          "image": [
+            "https://sc04.alicdn.com/kf/H89b4168626de46d8b0bf5daf1a358142y.jpg",
+            "https://sc04.alicdn.com/kf/Hc502cb340dbc45e8ab3274130320edebv.jpg",
+            "https://sc04.alicdn.com/kf/Hed9db248734446dea57a4463625a7c14t.jpg",
+            "https://sc04.alicdn.com/kf/Hfdd4bdeba82c41188b1ca7f1977da202l.jpg",
+            "https://sc04.alicdn.com/kf/H1d6408b8b973421b9b4233606b616d42i.jpg"
+          ],
+          "category": "Różańce katolickie",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Rozmiar koralików",
+              "value": "8mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Imitacja pereł"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Różaniec z krzyżem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcje kolorów",
+              "value": "Szary, różany czerwony, czarny, czerwony, biały, różowy, niebieski, fioletowy"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.58",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.52",
+              "maxPrice": "0.58",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Jakie kolory są dostępne dla tego naszyjnika różańcowego?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Naszyjnik różańcowy jest dostępny w ośmiu opcjach kolorystycznych: szary, różany czerwony, czarny, czerwony, biały, różowy, niebieski i fioletowy."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy krzyż na tym różańcu jest krucyfiksem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Produkt jest opisany jako posiadający wisior z krzyżem, a nie krucyfiks, więc nie zawiera korpusu Chrystusa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaki jest rozmiar koralików tego różańca?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Koraliki mają średnicę 8mm, co zapewnia wygodny rozmiar do trzymania podczas modlitwy."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "a5ee830513f9ad899e730c7bd4ab631ff0751a0df5c43e31a67fc8856b1b2999",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "a5ee830513f9ad899e730c7bd4ab631ff0751a0df5c43e31a67fc8856b1b2999",
+            "contentHash": "a5ee830513f9ad899e730c7bd4ab631ff0751a0df5c43e31a67fc8856b1b2999",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:19:26.847Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "a5ee830513f9ad899e730c7bd4ab631ff0751a0df5c43e31a67fc8856b1b2999",
+            "contentHash": "bc0408d1b1dedcb325f8d7312af2688469c76ad98846ff43c5e9d1f171dd6f54",
+            "attempts": 1,
+            "updatedAt": "2026-08-31T16:41:16.754Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHATG7BAOVioqqEY6ey_1-s",
+      "sourceId": "AAHATG7BAOVioqqEY6ey_1-s",
+      "sourceFingerprint": "450af4b9b45c24ceb3c1df4d80fe11f35fb154af1b6f5c305a085c4be3493e54",
+      "locale": "pl",
+      "slug": "6mm-8mm-titanium-steel-cross-ring-for-men-and-women-ey_1-s",
+      "title": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet",
+      "eyebrow": "Pierścień z krzyżem ze stali tytanowej",
+      "summary": "Trwały pierścień z krzyżem ze stali tytanowej do codziennego noszenia, dostępny w szerokości 6mm lub 8mm oraz w kolorze złotym, srebrnym lub czarnym. Ten uniwersalny religijny dodatek to prosty sposób na noszenie symbolu krzyża.",
+      "description": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm oferuje prosty design dla osób poszukujących religijnego symbolu w codziennym dodatku. Wykonany jest ze stali tytanowej, materiału wybranego ze względu na jego wytrzymałość, co czyni go odpowiednim do regularnego noszenia. Pierścień posiada motyw krzyża. Dostępny jest w dwóch szerokościach (6mm i 8mm) oraz trzech wariantach kolorystycznych: złotym, srebrnym i czarnym. Ta gama rozmiarów i wykończeń zapewnia elastyczność dla różnych gustów. Jako pierścień z krzyżem służy jako osobisty wyraz wiary, a nie przedmiot liturgiczny.",
+      "catholicContext": "Zwykły krzyż jest uznawanym symbolem chrześcijańskim, choć odróżnia się od krucyfiksu, który przedstawia ciało Chrystusa.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "161",
+          "name": "Pierścienie",
+          "slug": "rings"
+        }
+      ],
+      "sku": "ALI-AAHATG7BAOVioqqEY6ey_1-s",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H9235df0012ed42319d0c61a9077dd882M.webp",
+      "imageAlt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9235df0012ed42319d0c61a9077dd882M.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0ba5768c3574496aa0506576e828abd12.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H151a9684c292455fb779be4daa74f0b6m.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb78f91979954474db11760b4935be603B.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heb5b8db9e7094a50aeaa598111600750k.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H52ee66824a964beb90e2da491b855604L.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9a35ff99aacd48408829d262c4829703h.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet - 8mm-srebrny-kolor",
+          "label": "8mm-srebrny-kolor",
+          "sku": "ALI-AAHATG7BAOVioqqEY6ey_1-s-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2b7e88c2065b481d8c7ea2543df0e388n.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet - 6mm-srebrny-kolor",
+          "label": "6mm-srebrny-kolor",
+          "sku": "ALI-AAHATG7BAOVioqqEY6ey_1-s-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H116336bdde934a849ee97c72708db3d5s.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet - 8mm-czarny",
+          "label": "8mm-czarny",
+          "sku": "ALI-AAHATG7BAOVioqqEY6ey_1-s-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5788871b689048acb133abd1ad2307627.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet - 6mm-czarny",
+          "label": "6mm-czarny",
+          "sku": "ALI-AAHATG7BAOVioqqEY6ey_1-s-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb0ae48b9994244e1a28812a7223367d14.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet - 8mm-złoty",
+          "label": "8mm-złoty",
+          "sku": "ALI-AAHATG7BAOVioqqEY6ey_1-s-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6179a9d2c0ed4bfc854b61e197dda0c0C.webp",
+          "alt": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet - 6mm-złoty",
+          "label": "6mm-złoty",
+          "sku": "ALI-AAHATG7BAOVioqqEY6ey_1-s-V--5"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Konstrukcja ze stali tytanowej",
+        "Dostępny w szerokości 6mm i 8mm",
+        "Warianty kolorystyczne: złoty, srebrny i czarny",
+        "Uniwersalny design odpowiedni dla wszystkich płci",
+        "Symbol krzyża dla religijnego wyrazu"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Stal tytanowa"
+        },
+        {
+          "name": "Szerokość",
+          "value": "6mm lub 8mm"
+        },
+        {
+          "name": "Opcje kolorów",
+          "value": "Złoty, srebrny, czarny"
+        },
+        {
+          "name": "Płeć",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Codzienne noszenie na co dzień",
+        "Religijna symbolika w codziennym stroju",
+        "Prezent na okazje religijne",
+        "Dodatek modowy z designem opartym na wierze"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonany jest pierścień z krzyżem?",
+          "answer": "Pierścień z krzyżem jest wykonany ze stali tytanowej, trwałego materiału odpowiedniego do codziennego noszenia."
+        },
+        {
+          "question": "Jakie są dostępne szerokości i opcje kolorystyczne?",
+          "answer": "Pierścień jest dostępny w szerokości 6mm i 8mm, z wariantami kolorystycznymi: złoty, srebrny i czarny."
+        },
+        {
+          "question": "Czy ten pierścień jest odpowiedni zarówno dla mężczyzn, jak i kobiet?",
+          "answer": "Tak, pierścień ma uniwersalny design, co czyni go odpowiednim dla wszystkich płci."
+        }
+      ],
+      "pricing": {
+        "price": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.40",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pierścień z krzyżem ze stali tytanowej 6mm/8mm dla mężczyzn i kobiet",
+          "description": "Trwały pierścień z krzyżem ze stali tytanowej do codziennego noszenia, dostępny w szerokości 6mm lub 8mm oraz w kolorze złotym, srebrnym lub czarnym. Ten uniwersalny religijny dodatek to prosty sposób na noszenie symbolu krzyża.",
+          "sku": "ALI-AAHATG7BAOVioqqEY6ey_1-s",
+          "image": [
+            "https://sc04.alicdn.com/kf/H9235df0012ed42319d0c61a9077dd882M.jpg",
+            "https://sc04.alicdn.com/kf/H0ba5768c3574496aa0506576e828abd12.png",
+            "https://sc04.alicdn.com/kf/H151a9684c292455fb779be4daa74f0b6m.png",
+            "https://sc04.alicdn.com/kf/Hb78f91979954474db11760b4935be603B.png",
+            "https://sc04.alicdn.com/kf/Heb5b8db9e7094a50aeaa598111600750k.png",
+            "https://sc04.alicdn.com/kf/H52ee66824a964beb90e2da491b855604L.png"
+          ],
+          "category": "Pierścienie",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Stal tytanowa"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Szerokość",
+              "value": "6mm lub 8mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcje kolorów",
+              "value": "Złoty, srebrny, czarny"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Płeć",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.40",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonany jest pierścień z krzyżem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pierścień z krzyżem jest wykonany ze stali tytanowej, trwałego materiału odpowiedniego do codziennego noszenia."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie są dostępne szerokości i opcje kolorystyczne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pierścień jest dostępny w szerokości 6mm i 8mm, z wariantami kolorystycznymi: złoty, srebrny i czarny."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy ten pierścień jest odpowiedni zarówno dla mężczyzn, jak i kobiet?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, pierścień ma uniwersalny design, co czyni go odpowiednim dla wszystkich płci."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "08335a6e6b5a52633aa26db563ef34872ddf1c404dbf3d49cde7e8e65401caf5",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "08335a6e6b5a52633aa26db563ef34872ddf1c404dbf3d49cde7e8e65401caf5",
+            "contentHash": "08335a6e6b5a52633aa26db563ef34872ddf1c404dbf3d49cde7e8e65401caf5",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:19:41.395Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "08335a6e6b5a52633aa26db563ef34872ddf1c404dbf3d49cde7e8e65401caf5",
+            "contentHash": "b8151068c51bf01ba3dc26f4f93eca5f4d67e1d1b592e99983a8d41489441a50",
+            "attempts": 1,
+            "updatedAt": "2026-08-31T16:41:26.542Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHpTG7BAOVioqqEY6eBSlu_",
+      "sourceId": "AAHpTG7BAOVioqqEY6eBSlu_",
+      "sourceFingerprint": "8932e47d18e04be6af8010db0101844e3ea5edaf6994f241972ec7825a9c0346",
+      "locale": "pl",
+      "slug": "natural-stone-bead-rosary-necklace-with-zinc-alloy-cross-ebslu_",
+      "title": "Różaniec naszyjnik z naturalnych kamieni i krzyżem ze stopu cynku",
+      "eyebrow": "Naszyjnik różańcowy",
+      "summary": "Uniseks różaniec naszyjnik z paciorkami z naturalnych kamieni i krzyżem ze stopu cynku z antycznym srebrzeniem. Zaprojektowany do katolickiej modlitwy i użytku pobożnego, ten naszyjnik z paciorkami nadaje się do osobistej refleksji lub jako prezent.",
+      "description": "Ten naszyjnik różańcowy jest wykonany z paciorków z naturalnych kamieni, oferując dotykowy element modlitwy. Krzyż i inne metalowe elementy są wykonane ze stopu cynku z antycznym srebrzeniem, co nadaje mu stonowany, klasyczny wygląd. Konstrukcja naszyjnika z paciorków jest uniseks, co czyni go uniwersalnym dla każdego użytkownika.\n\nDla katolickich nabywców ten element służy jako materialna pomoc w modlitwie różańcowej, tradycyjnej modlitwie skupiającej się na życiu Jezusa i Maryi.",
+      "catholicContext": "Różaniec jest katolicką modlitwą skoncentrowaną na kontemplacji wydarzeń z życia Jezusa Chrystusa i Najświętszej Maryi Panny.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Różańce katolickie",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAHpTG7BAOVioqqEY6eBSlu_",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hc29fa713c66a4630ad62de35c301dcbfx.webp",
+      "imageAlt": "Różaniec naszyjnik z naturalnych kamieni i krzyżem ze stopu cynku",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc29fa713c66a4630ad62de35c301dcbfx.webp",
+          "alt": "Różaniec naszyjnik z naturalnych kamieni i krzyżem ze stopu cynku"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hedef9e28df404ccf8b91ec94963a54bco.webp",
+          "alt": "Różaniec naszyjnik z naturalnych kamieni i krzyżem ze stopu cynku"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3e42368b63bc49eb8067f91da9948d6e6.webp",
+          "alt": "Różaniec naszyjnik z naturalnych kamieni i krzyżem ze stopu cynku"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H68dba3386a554f3ea05ec9608ce3d275J.webp",
+          "alt": "Różaniec naszyjnik z naturalnych kamieni i krzyżem ze stopu cynku"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6f7c72",
+      "features": [
+        "Paciorki z naturalnych kamieni na łańcuszku naszyjnika z paciorków",
+        "Krzyż ze stopu cynku z antycznym srebrzeniem",
+        "Technologia osadzania kanałowego",
+        "Uniseks design odpowiedni dla wszystkich płci",
+        "Religijny styl z katolickim skojarzeniem"
+      ],
+      "specifications": [
+        {
+          "name": "Główny materiał biżuterii",
+          "value": "Kamień"
+        },
+        {
+          "name": "Typ materiału",
+          "value": "Stop cynku"
+        },
+        {
+          "name": "Powłoka",
+          "value": "Antyczne srebrzenie"
+        },
+        {
+          "name": "Technologia osadzania",
+          "value": "Osadzanie kanałowe"
+        },
+        {
+          "name": "Płeć",
+          "value": "Uniseks"
+        },
+        {
+          "name": "Typ biżuterii",
+          "value": "Naszyjniki / Naszyjniki z paciorków"
+        }
+      ],
+      "applications": [
+        "Modlitwa różańcowa katolicka",
+        "Osobiste użycie pobożne",
+        "Prezent na okazje religijne",
+        "Noszone jako biżuteria religijna"
+      ],
+      "faq": [
+        {
+          "question": "Jakie materiały są użyte w tym naszyjniku różańcowym?",
+          "answer": "Paciorki są wykonane z naturalnego kamienia, a krzyż i metalowe części są ze stopu cynku z antycznym srebrzeniem."
+        },
+        {
+          "question": "Czy ten naszyjnik różańcowy jest uniseks?",
+          "answer": "Tak, atrybut płci jest określony jako uniseks, więc może być noszony przez każdego."
+        },
+        {
+          "question": "Do jakiego stylu jest sklasyfikowany ten naszyjnik?",
+          "answer": "Jest sklasyfikowany jako naszyjnik z paciorków o religijnym, katolickim stylu i wzorze krzyża."
+        }
+      ],
+      "pricing": {
+        "price": "1.60",
+        "regularPrice": "1.60",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.30",
+          "max": "1.60"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Różaniec naszyjnik z naturalnych kamieni i krzyżem ze stopu cynku",
+          "description": "Uniseks różaniec naszyjnik z paciorkami z naturalnych kamieni i krzyżem ze stopu cynku z antycznym srebrzeniem. Zaprojektowany do katolickiej modlitwy i użytku pobożnego, ten naszyjnik z paciorkami nadaje się do osobistej refleksji lub jako prezent.",
+          "sku": "ALI-AAHpTG7BAOVioqqEY6eBSlu_",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hc29fa713c66a4630ad62de35c301dcbfx.jpg",
+            "https://sc04.alicdn.com/kf/Hedef9e28df404ccf8b91ec94963a54bco.jpg",
+            "https://sc04.alicdn.com/kf/H3e42368b63bc49eb8067f91da9948d6e6.jpg",
+            "https://sc04.alicdn.com/kf/H68dba3386a554f3ea05ec9608ce3d275J.jpg"
+          ],
+          "category": "Różańce katolickie",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Główny materiał biżuterii",
+              "value": "Kamień"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Typ materiału",
+              "value": "Stop cynku"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Powłoka",
+              "value": "Antyczne srebrzenie"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technologia osadzania",
+              "value": "Osadzanie kanałowe"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Płeć",
+              "value": "Uniseks"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Typ biżuterii",
+              "value": "Naszyjniki / Naszyjniki z paciorków"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.60",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.30",
+              "maxPrice": "1.60",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Jakie materiały są użyte w tym naszyjniku różańcowym?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Paciorki są wykonane z naturalnego kamienia, a krzyż i metalowe części są ze stopu cynku z antycznym srebrzeniem."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy ten naszyjnik różańcowy jest uniseks?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, atrybut płci jest określony jako uniseks, więc może być noszony przez każdego."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do jakiego stylu jest sklasyfikowany ten naszyjnik?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jest sklasyfikowany jako naszyjnik z paciorków o religijnym, katolickim stylu i wzorze krzyża."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "db1898aaa917e081db8bd1f359418ad1be1f595ba02326592b85f07b487ca72f",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "db1898aaa917e081db8bd1f359418ad1be1f595ba02326592b85f07b487ca72f",
+            "contentHash": "db1898aaa917e081db8bd1f359418ad1be1f595ba02326592b85f07b487ca72f",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:19:25.632Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "db1898aaa917e081db8bd1f359418ad1be1f595ba02326592b85f07b487ca72f",
+            "contentHash": "3b30356f96f063692ada83b2901ae2ee7b40e54f03d72085ab4ba876a0331d92",
+            "attempts": 1,
+            "updatedAt": "2026-08-31T16:41:35.341Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGlTG7BAOVioqqEY6eBSpy6",
+      "sourceId": "AAGlTG7BAOVioqqEY6eBSpy6",
+      "sourceFingerprint": "87e922c8f6af539a4fb9179bf35e401613f23f3627d4892cc1d0a930df4cf5b8",
+      "locale": "pl",
+      "slug": "1-6-1-3cm-religious-gold-and-silver-alloy-st-benedict-medal-ebspy6",
+      "title": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra",
+      "eyebrow": "Akcesoria",
+      "summary": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra",
+      "description": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Akcesoria",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGlTG7BAOVioqqEY6eBSpy6",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H135c4fcf8da044c788cb9862e9650122M.webp",
+      "imageAlt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H135c4fcf8da044c788cb9862e9650122M.webp",
+          "alt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H891d44a141c341e694a38bc7c7d3e926t.webp",
+          "alt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5696f1c3042c46fbb104ae78fd4a8b9cS.webp",
+          "alt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc9d97354e5e94386b5056405fb6db3103.webp",
+          "alt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcd449afe182d49b28ef3e0b24b99199ci.webp",
+          "alt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf1a85c00762549a1ab9909df42f246317.webp",
+          "alt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6041cf8345504d42be410ef417f203f5s.webp",
+          "alt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra - złoty-2-4cm2-2cm",
+          "label": "złoty-2-4cm2-2cm",
+          "sku": "ALI-AAGlTG7BAOVioqqEY6eBSpy6-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd54f4289909e441aab6c8dddc87359fbJ.webp",
+          "alt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra - złoty-1-6cm1-3cm",
+          "label": "złoty-1-6cm1-3cm",
+          "sku": "ALI-AAGlTG7BAOVioqqEY6eBSpy6-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd2ac9bdd4a124efcbfc5dad167d776011.webp",
+          "alt": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra - złoty-2-0cm1-8cm",
+          "label": "złoty-2-0cm1-8cm",
+          "sku": "ALI-AAGlTG7BAOVioqqEY6eBSpy6-V--2"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Wariant: Złoty-1,6cm*1,3cm, Złoty-2,0cm*1,8cm, Złoty-2,4cm*2,2cm"
+      ],
+      "specifications": [
+        {
+          "name": "Wariant",
+          "value": "Złoty-1,6cm*1,3cm, Złoty-2,0cm*1,8cm, Złoty-2,4cm*2,2cm"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.14",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.14",
+          "max": "0.19"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra",
+          "description": "Medalik św. Benedykta 1,6*1,3 cm ze stopu złota i srebra",
+          "sku": "ALI-AAGlTG7BAOVioqqEY6eBSpy6",
+          "image": [
+            "https://sc04.alicdn.com/kf/H135c4fcf8da044c788cb9862e9650122M.jpg",
+            "https://sc04.alicdn.com/kf/H891d44a141c341e694a38bc7c7d3e926t.jpg",
+            "https://sc04.alicdn.com/kf/H5696f1c3042c46fbb104ae78fd4a8b9cS.jpg",
+            "https://sc04.alicdn.com/kf/Hc9d97354e5e94386b5056405fb6db3103.jpg",
+            "https://sc04.alicdn.com/kf/Hcd449afe182d49b28ef3e0b24b99199ci.jpg",
+            "https://sc04.alicdn.com/kf/Hf1a85c00762549a1ab9909df42f246317.jpg"
+          ],
+          "category": "Akcesoria",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Wariant",
+              "value": "Złoty-1,6cm*1,3cm, Złoty-2,0cm*1,8cm, Złoty-2,4cm*2,2cm"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.14",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.14",
+              "maxPrice": "0.19",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "0c7125a329e774148be9c27ced0b56069ed5cb24b47fab797d2b6ecec8a5db6b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "0c7125a329e774148be9c27ced0b56069ed5cb24b47fab797d2b6ecec8a5db6b",
+            "contentHash": "0c7125a329e774148be9c27ced0b56069ed5cb24b47fab797d2b6ecec8a5db6b",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:19:59.120Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "0c7125a329e774148be9c27ced0b56069ed5cb24b47fab797d2b6ecec8a5db6b",
+            "contentHash": "ca51e5497204147a8689340a80a15a8121863f2bad7127e9dd9de39a120dd0ef",
+            "attempts": 1,
+            "updatedAt": "2026-08-31T16:41:39.483Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHqTG7BAOVioqqEY6eErI2p",
+      "sourceId": "AAHqTG7BAOVioqqEY6eErI2p",
+      "sourceFingerprint": "ac00bbeef2e7afcf72417dce16b774fdc929e957c78d009bafa632faf26953d6",
+      "locale": "pl",
+      "slug": "handcrafted-catholic-scapular-necklace-eeri2p",
+      "title": "Ręcznie wykonany katolicki naszyjnik szkaplerzowy",
+      "eyebrow": "Katolicki naszyjnik szkaplerzowy z wisiorkiem maryjnym",
+      "summary": "Ten ręcznie wykonany katolicki naszyjnik szkaplerzowy z wisiorkiem maryjnym wykonany jest z poliestru. Zaprojektowany jako dodatek religijny, pasuje zarówno mężczyznom, jak i kobietom. Geometryczny wzór i motyw przewodni sprawiają, że jest to przemyślany prezent na okazje takie jak Boże Narodzenie, Wielkanoc, wesela i rocznice.",
+      "description": "W całości wykonany z poliestru, ten naszyjnik szkaplerzowy jest lekki i trwały, odpowiedni do codziennego noszenia. Wisiorek przedstawia Najświętszą Maryję Pannę, stanowiąc widzialny wyraz pobożności maryjnej. Geometryczny wzór naszyjnika dodaje nowoczesnego akcentu do jego tradycyjnej symboliki religijnej.\n\nZaprojektowany jako dodatek unisex, pasuje mężczyznom, kobietom i dzieciom. Jego wszechstronność sprawia, że jest odpowiedni na wydarzenia religijne, przyjęcia lub jako znaczący prezent. Produkt jest sklasyfikowany w kategorii szkaplerzy katolickich i biżuterii religijnej, co odzwierciedla jego cel dewocyjny.",
+      "catholicContext": "Pobożność maryjna, odnosząca się do Najświętszej Maryi Panny, jest uznaną formą pobożności ludowej w tradycji katolickiej.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "39",
+          "name": "Szkaplerze katolickie",
+          "slug": "catholic-scapulars"
+        }
+      ],
+      "sku": "ALI-AAHqTG7BAOVioqqEY6eErI2p",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H0d0f45d9e9a4499b9f894248d472094f8.webp",
+      "imageAlt": "Ręcznie wykonany katolicki naszyjnik szkaplerzowy",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0d0f45d9e9a4499b9f894248d472094f8.webp",
+          "alt": "Ręcznie wykonany katolicki naszyjnik szkaplerzowy"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfb373e8a03404c04870aa47a5507127fr.webp",
+          "alt": "Ręcznie wykonany katolicki naszyjnik szkaplerzowy"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb25fac428a8e4a8599c324352eaab4a9P.webp",
+          "alt": "Ręcznie wykonany katolicki naszyjnik szkaplerzowy"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcde90704c5274dd488ebdedd208984b1F.webp",
+          "alt": "Ręcznie wykonany katolicki naszyjnik szkaplerzowy"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5691bac210784fe18c1b1f6d428f3db5G.webp",
+          "alt": "Ręcznie wykonany katolicki naszyjnik szkaplerzowy"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Materiał: poliester",
+        "Typ wisiorka: motyw przewodni, wzór maryjny",
+        "Płeć: unisex, odpowiedni dla kobiet, mężczyzn i dzieci",
+        "Styl: religijny, z geometrycznym wzorem",
+        "Okazje: prezent, ślub, rocznica, przyjęcie"
+      ],
+      "specifications": [
+        {
+          "name": "Główny materiał biżuterii",
+          "value": "Poliester"
+        },
+        {
+          "name": "Typ wisiorków lub charmsów",
+          "value": "Wisiorki motywowe"
+        },
+        {
+          "name": "Płeć",
+          "value": "Damskie, dziecięce, męskie, unisex"
+        },
+        {
+          "name": "Główny kamień",
+          "value": "Brak"
+        },
+        {
+          "name": "Rodzaj biżuterii",
+          "value": "Wisiorki lub charmsy"
+        },
+        {
+          "name": "Kształt/wzór",
+          "value": "Geometryczny"
+        },
+        {
+          "name": "Styl",
+          "value": "Religijny"
+        }
+      ],
+      "applications": [
+        "Codzienne noszenie jako przypomnienie dewocyjne",
+        "Prezent na okazje religijne, takie jak Boże Narodzenie czy Wielkanoc",
+        "Podziękowanie ślubne lub rocznicowe",
+        "Dodatek na spotkania religijne lub przyjęcia"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonany jest ten naszyjnik szkaplerzowy?",
+          "answer": "Naszyjnik jest wykonany z poliestru, który jest lekki i trwały do regularnego użytkowania."
+        },
+        {
+          "question": "Czy ten naszyjnik jest odpowiedni zarówno dla mężczyzn, jak i kobiet?",
+          "answer": "Tak, jest zaprojektowany jako unisex i jest odpowiedni dla mężczyzn, kobiet i dzieci."
+        },
+        {
+          "question": "Czy wisiorek ma określony wzór religijny?",
+          "answer": "Wisiorek jest motywowy i przedstawia wzór maryjny, odzwierciedlający Najświętszą Maryję Pannę, powszechnie używaną w pobożności katolickiej."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "regularPrice": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.35",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ręcznie wykonany katolicki naszyjnik szkaplerzowy",
+          "description": "Ten ręcznie wykonany katolicki naszyjnik szkaplerzowy z wisiorkiem maryjnym wykonany jest z poliestru. Zaprojektowany jako dodatek religijny, pasuje zarówno mężczyznom, jak i kobietom. Geometryczny wzór i motyw przewodni sprawiają, że jest to przemyślany prezent na okazje takie jak Boże Narodzenie, Wielkanoc, wesela i rocznice.",
+          "sku": "ALI-AAHqTG7BAOVioqqEY6eErI2p",
+          "image": [
+            "https://sc04.alicdn.com/kf/H0d0f45d9e9a4499b9f894248d472094f8.jpg",
+            "https://sc04.alicdn.com/kf/Hfb373e8a03404c04870aa47a5507127fr.jpg",
+            "https://sc04.alicdn.com/kf/Hb25fac428a8e4a8599c324352eaab4a9P.jpg",
+            "https://sc04.alicdn.com/kf/Hcde90704c5274dd488ebdedd208984b1F.jpg",
+            "https://sc04.alicdn.com/kf/H5691bac210784fe18c1b1f6d428f3db5G.jpg"
+          ],
+          "category": "Szkaplerze katolickie",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Główny materiał biżuterii",
+              "value": "Poliester"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Typ wisiorków lub charmsów",
+              "value": "Wisiorki motywowe"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Płeć",
+              "value": "Damskie, dziecięce, męskie, unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Główny kamień",
+              "value": "Brak"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Rodzaj biżuterii",
+              "value": "Wisiorki lub charmsy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kształt/wzór",
+              "value": "Geometryczny"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Styl",
+              "value": "Religijny"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.35",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonany jest ten naszyjnik szkaplerzowy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Naszyjnik jest wykonany z poliestru, który jest lekki i trwały do regularnego użytkowania."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy ten naszyjnik jest odpowiedni zarówno dla mężczyzn, jak i kobiet?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, jest zaprojektowany jako unisex i jest odpowiedni dla mężczyzn, kobiet i dzieci."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy wisiorek ma określony wzór religijny?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wisiorek jest motywowy i przedstawia wzór maryjny, odzwierciedlający Najświętszą Maryję Pannę, powszechnie używaną w pobożności katolickiej."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "5a49da1a83f3b07f3ba29e3d3e2a20023f04e5b6d629862eb32d4fbe98323b52",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "5a49da1a83f3b07f3ba29e3d3e2a20023f04e5b6d629862eb32d4fbe98323b52",
+            "contentHash": "5a49da1a83f3b07f3ba29e3d3e2a20023f04e5b6d629862eb32d4fbe98323b52",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:19:33.235Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "5a49da1a83f3b07f3ba29e3d3e2a20023f04e5b6d629862eb32d4fbe98323b52",
+            "contentHash": "d1cad74931210fc7e11fffa5c2a6154708abc44dea78642b8ae4098a2b1d2397",
+            "attempts": 1,
+            "updatedAt": "2026-08-31T16:41:49.074Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAF0TG7BAOVioqqEY6eyh0xr",
+      "sourceId": "AAF0TG7BAOVioqqEY6eyh0xr",
+      "sourceFingerprint": "bf8fa3eb89a251582db5caf0e96a8c7b4d29edec92e0ddb714d49975520fd5de",
+      "locale": "pl",
+      "slug": "8mm-black-volcanic-rock-rosary-necklace-eyh0xr",
+      "title": "Naszyjnik różańcowy z czarnej lawy 8mm",
+      "eyebrow": "katolicki naszyjnik różańcowy",
+      "summary": "Naszyjnik różańcowy wykonany z 8mm naturalnych czarnych koralików z wulkanicznej skały, uzupełniony żółtym tygrysim okiem i akcentami z kamienia żelaznego. Wybierz jeden z trzech wariantów czarnego kamienia, aby uzyskać nieco inny wygląd. Odpowiedni do osobistej modlitwy i praktyk pobożnościowych.",
+      "description": "Ten naszyjnik różańcowy jest nawleczony na 8mm koraliki z naturalnej czarnej skały wulkanicznej. Żółte tygrysie oko i koraliki z kamienia żelaznego stanowią subtelny kontrast w projekcie. Forma naszyjnika pozwala na wygodne noszenie, jednocześnie służąc jako narzędzie do modlitwy. Dostępne są trzy warianty, każdy z innym rodzajem czarnego kamienia: czarna lawa nr 2, czarna skała wulkaniczna nr 3 i matowy czarny kamień nr 4. Ta różnorodność pozwala dopasować różaniec do preferowanej tekstury i wykończenia.",
+      "catholicContext": "Różaniec to katolicka modlitwa skupiająca się na kontemplacji wydarzeń z życia Jezusa Chrystusa i Najświętszej Maryi Panny.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Różańce katolickie",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAF0TG7BAOVioqqEY6eyh0xr",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He19e49a7bc3b4b7e907808c9f2b2469cx.webp",
+      "imageAlt": "Naszyjnik różańcowy z czarnej lawy 8mm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He19e49a7bc3b4b7e907808c9f2b2469cx.webp",
+          "alt": "Naszyjnik różańcowy z czarnej lawy 8mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H875411f0ac744b5e8d02b4ea8766b906V.webp",
+          "alt": "Naszyjnik różańcowy z czarnej lawy 8mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf265a0f42b0e43848ccfb9a68571828fp.webp",
+          "alt": "Naszyjnik różańcowy z czarnej lawy 8mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd549805d19b74b18aaaf35812b0ae54b3.webp",
+          "alt": "Naszyjnik różańcowy z czarnej lawy 8mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He5e4c931c1344b9284a6f89656e2b178e.webp",
+          "alt": "Naszyjnik różańcowy z czarnej lawy 8mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6efbc82df2454763aaf58dc6dbbe4172o.webp",
+          "alt": "Naszyjnik różańcowy z czarnej lawy 8mm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hceb39856434143ce9974e0fdfcb6e31aF.webp",
+          "alt": "Naszyjnik różańcowy z czarnej lawy 8mm - 8mm-matte-black-stone-no-4",
+          "label": "8mm-matte-black-stone-no-4",
+          "sku": "ALI-AAF0TG7BAOVioqqEY6eyh0xr-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6170e1609f6c4138b9d8c3092ab8af75K.webp",
+          "alt": "Naszyjnik różańcowy z czarnej lawy 8mm - 8mm-black-lava-rock-no-2",
+          "label": "8mm-black-lava-rock-no-2",
+          "sku": "ALI-AAF0TG7BAOVioqqEY6eyh0xr-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He73b16d4bd0e474582475ba2f6b35826C.webp",
+          "alt": "Naszyjnik różańcowy z czarnej lawy 8mm - 8mm-black-volcanic-rock-no-3",
+          "label": "8mm-black-volcanic-rock-no-3",
+          "sku": "ALI-AAF0TG7BAOVioqqEY6eyh0xr-V--2"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Naturalne koraliki z czarnej skały wulkanicznej w rozmiarze 8mm",
+        "Koraliki akcentowe z żółtego tygrysiego oka i kamienia żelaznego",
+        "Konstrukcja różańca w formie naszyjnika",
+        "Trzy warianty czarnego kamienia do wyboru"
+      ],
+      "specifications": [
+        {
+          "name": "Rozmiar koralików",
+          "value": "8mm"
+        },
+        {
+          "name": "Materiały",
+          "value": "Czarna skała wulkaniczna, żółte tygrysie oko, kamień żelazny"
+        },
+        {
+          "name": "Dostępne warianty",
+          "value": "Czarna lawa nr 2, czarna skała wulkaniczna nr 3, matowy czarny kamień nr 4"
+        }
+      ],
+      "applications": [
+        "Osobista modlitwa różańcowa",
+        "Pobożność noszona na sobie",
+        "Religijny prezent dla mężczyzn",
+        "Codzienny dodatek o duchowym znaczeniu"
+      ],
+      "faq": [
+        {
+          "question": "Jakie są różne warianty czarnego kamienia?",
+          "answer": "Naszyjnik różańcowy jest oferowany w trzech wariantach: 8mm czarna lawa nr 2, 8mm czarna skała wulkaniczna nr 3 i 8mm matowy czarny kamień nr 4. Każdy używa innego rodzaju czarnego koralika, dając nieco inną teksturę i wykończenie."
+        },
+        {
+          "question": "Jakie materiały są użyte w tym różańcu?",
+          "answer": "Koraliki są wykonane z naturalnej czarnej skały wulkanicznej (lub czarnej lawy lub matowego czarnego kamienia, w zależności od wariantu), żółtego tygrysiego oka i kamienia żelaznego."
+        },
+        {
+          "question": "Czy ten różaniec nadaje się do codziennego noszenia?",
+          "answer": "Konstrukcja w formie naszyjnika i trwałe kamienne koraliki sprawiają, że jest praktyczny do regularnego noszenia, choć zawsze dobrze jest obchodzić się z przedmiotami religijnymi z szacunkiem."
+        }
+      ],
+      "pricing": {
+        "price": "2.80",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "2.18",
+          "max": "2.80"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Naszyjnik różańcowy z czarnej lawy 8mm",
+          "description": "Naszyjnik różańcowy wykonany z 8mm naturalnych czarnych koralików z wulkanicznej skały, uzupełniony żółtym tygrysim okiem i akcentami z kamienia żelaznego. Wybierz jeden z trzech wariantów czarnego kamienia, aby uzyskać nieco inny wygląd. Odpowiedni do osobistej modlitwy i praktyk pobożnościowych.",
+          "sku": "ALI-AAF0TG7BAOVioqqEY6eyh0xr",
+          "image": [
+            "https://sc04.alicdn.com/kf/He19e49a7bc3b4b7e907808c9f2b2469cx.png",
+            "https://sc04.alicdn.com/kf/H875411f0ac744b5e8d02b4ea8766b906V.png",
+            "https://sc04.alicdn.com/kf/Hf265a0f42b0e43848ccfb9a68571828fp.png",
+            "https://sc04.alicdn.com/kf/Hd549805d19b74b18aaaf35812b0ae54b3.png",
+            "https://sc04.alicdn.com/kf/He5e4c931c1344b9284a6f89656e2b178e.png",
+            "https://sc04.alicdn.com/kf/H6efbc82df2454763aaf58dc6dbbe4172o.png"
+          ],
+          "category": "Różańce katolickie",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Rozmiar koralików",
+              "value": "8mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiały",
+              "value": "Czarna skała wulkaniczna, żółte tygrysie oko, kamień żelazny"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dostępne warianty",
+              "value": "Czarna lawa nr 2, czarna skała wulkaniczna nr 3, matowy czarny kamień nr 4"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.80",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "2.18",
+              "maxPrice": "2.80",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Jakie są różne warianty czarnego kamienia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Naszyjnik różańcowy jest oferowany w trzech wariantach: 8mm czarna lawa nr 2, 8mm czarna skała wulkaniczna nr 3 i 8mm matowy czarny kamień nr 4. Każdy używa innego rodzaju czarnego koralika, dając nieco inną teksturę i wykończenie."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie materiały są użyte w tym różańcu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Koraliki są wykonane z naturalnej czarnej skały wulkanicznej (lub czarnej lawy lub matowego czarnego kamienia, w zależności od wariantu), żółtego tygrysiego oka i kamienia żelaznego."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy ten różaniec nadaje się do codziennego noszenia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Konstrukcja w formie naszyjnika i trwałe kamienne koraliki sprawiają, że jest praktyczny do regularnego noszenia, choć zawsze dobrze jest obchodzić się z przedmiotami religijnymi z szacunkiem."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "e1ddd72a7fd74963d3f7b1933875304fd31daa77f06498d99e587efe8b49bc87",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "e1ddd72a7fd74963d3f7b1933875304fd31daa77f06498d99e587efe8b49bc87",
+            "contentHash": "e1ddd72a7fd74963d3f7b1933875304fd31daa77f06498d99e587efe8b49bc87",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:19:56.990Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "e1ddd72a7fd74963d3f7b1933875304fd31daa77f06498d99e587efe8b49bc87",
+            "contentHash": "868411f5d329c1614d5b001c4fc1c1a80dcc3d6d14b2ffb64183d5b769d41c8c",
+            "attempts": 1,
+            "updatedAt": "2026-08-31T16:41:59.432Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHFTG7BAOVioqqEY6eDBiSU",
+      "sourceId": "AAHFTG7BAOVioqqEY6eDBiSU",
+      "sourceFingerprint": "c67120125963518d2620f18b4f699ca9da477c3d50190e3bd72ba057c1970a7b",
+      "locale": "pl",
+      "slug": "k9-crystal-cross-tabletop-ornament-decoration-edbisu",
+      "title": "Ozdoba stołowa w kształcie krzyża z kryształu K9",
+      "eyebrow": "Stołowa ozdoba w kształcie krzyża z kryształu K9",
+      "summary": "Ta ozdoba w kształcie krzyża z kryształu K9 wnosi czysty, fasetowany wygląd na blaty, półki czy do dekoracji sypialni. Dostępna w dziewięciu przezroczystych wariantach, doskonale nadaje się na katolickie upominki na śluby lub Boże Narodzenie. Kształt krzyża jest prosty, bez korpusu.",
+      "description": "Ozdoba łapie światło dzięki krystalicznej strukturze K9, tworząc czystą, lśniącą obecność na blacie lub półce. Jej kompaktowy rozmiar pasuje na stoliki nocne, kominki czy ekspozycje z prezentami. Sylwetka krzyża jest prosta i nieozdobiona, bez korpusu. Dostępna w dziewięciu przezroczystych wariantach, oferuje elastyczność w dopasowaniu do różnych stylów wnętrz lub preferencji prezentowych.",
+      "catholicContext": "Tradycja katolicka odróżnia prosty krzyż od krucyfiksu; ta ozdoba ma kształt krzyża bez korpusu.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ozdoby",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H4c8d0300e50f4edfac3c6bf851a78b25o.webp",
+      "imageAlt": "Ozdoba stołowa w kształcie krzyża z kryształu K9",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4c8d0300e50f4edfac3c6bf851a78b25o.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5e1a23529dc3476cbb0894163cb0b420d.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4d7b605de1f341279a7937254d3973c2k.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf9124a4766014a5885b31688080e3d79K.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Haa6423a511b0430b8ec02937cbbcd06a9.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb4a6aa80f99a4e02b4d47f23c516d4e61.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H65429211ce7e40feb0fc67f811432398P.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9 - clear-4",
+          "label": "clear-4",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc206b1d4c1f34e439432188a47fe9137Z.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9 - clear-5",
+          "label": "clear-5",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H94cacf234a5349029f16e27aa6487c18W.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9 - clear-3",
+          "label": "clear-3",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H201810c278ff48f39ec8022e25970456v.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9 - clear-2",
+          "label": "clear-2",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0b21a660314d49b6bb7410fd930a0104b.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9 - clear-1",
+          "label": "clear-1",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8258f9d706f64e5698934f8d6b743b2dy.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9 - clear-8",
+          "label": "clear-8",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdb13cb277f9548d7a12f5911c7d4d5e7d.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9 - clear-9",
+          "label": "clear-9",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2370691585c746fdba1748ba70a27aa5o.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9 - clear-7",
+          "label": "clear-7",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9e6631e796da49f8b38e1890e4013c46i.webp",
+          "alt": "Ozdoba stołowa w kształcie krzyża z kryształu K9 - clear-6",
+          "label": "clear-6",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU-V--6"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Wykonany z kryształu K9, znanego ze swojej czystości i załamania światła",
+        "Kształt krzyża bez korpusu (gładki krzyż)",
+        "Dziewięć przezroczystych wariantów",
+        "Zaprojektowany do ekspozycji na blacie lub półce",
+        "Odpowiedni jako prezent na śluby, Boże Narodzenie lub inne okazje"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Kryształ K9"
+        },
+        {
+          "name": "Kształt",
+          "value": "Krzyż (prosty, bez korpusu)"
+        },
+        {
+          "name": "Warianty",
+          "value": "clear-1 do clear-9"
+        },
+        {
+          "name": "Kategoria",
+          "value": "Ozdoby"
+        }
+      ],
+      "applications": [
+        "Dekoracja stołu w salonie lub przedpokoju",
+        "Ozdoba do sypialni na stolik nocny lub komodę",
+        "Prezent ślubny lub upominek",
+        "Prezent na Boże Narodzenie lub dekoracja świąteczna"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonana jest ta ozdoba w kształcie krzyża?",
+          "answer": "Ozdoba jest wykonana z kryształu K9, rodzaju kryształu znanego ze swojej czystości i właściwości załamujących światło."
+        },
+        {
+          "question": "Czy ta ozdoba to krucyfiks czy zwykły krzyż?",
+          "answer": "To zwykły krzyż, ponieważ w szczegółach produktu nie ma wzmianki o korpusie (figurze Chrystusa)."
+        },
+        {
+          "question": "Ile wariantów jest dostępnych?",
+          "answer": "Dostępnych jest dziewięć przezroczystych wariantów, oznaczonych jako clear-1 do clear-9."
+        }
+      ],
+      "pricing": {
+        "price": "1.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.45",
+          "max": "2.25"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ozdoba stołowa w kształcie krzyża z kryształu K9",
+          "description": "Ta ozdoba w kształcie krzyża z kryształu K9 wnosi czysty, fasetowany wygląd na blaty, półki czy do dekoracji sypialni. Dostępna w dziewięciu przezroczystych wariantach, doskonale nadaje się na katolickie upominki na śluby lub Boże Narodzenie. Kształt krzyża jest prosty, bez korpusu.",
+          "sku": "ALI-AAHFTG7BAOVioqqEY6eDBiSU",
+          "image": [
+            "https://sc04.alicdn.com/kf/H4c8d0300e50f4edfac3c6bf851a78b25o.jpg",
+            "https://sc04.alicdn.com/kf/H5e1a23529dc3476cbb0894163cb0b420d.jpg",
+            "https://sc04.alicdn.com/kf/H4d7b605de1f341279a7937254d3973c2k.jpg",
+            "https://sc04.alicdn.com/kf/Hf9124a4766014a5885b31688080e3d79K.jpg",
+            "https://sc04.alicdn.com/kf/Haa6423a511b0430b8ec02937cbbcd06a9.jpg",
+            "https://sc04.alicdn.com/kf/Hb4a6aa80f99a4e02b4d47f23c516d4e61.jpg"
+          ],
+          "category": "Ozdoby",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Kryształ K9"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kształt",
+              "value": "Krzyż (prosty, bez korpusu)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Warianty",
+              "value": "clear-1 do clear-9"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategoria",
+              "value": "Ozdoby"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.45",
+              "maxPrice": "2.25",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonana jest ta ozdoba w kształcie krzyża?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ozdoba jest wykonana z kryształu K9, rodzaju kryształu znanego ze swojej czystości i właściwości załamujących światło."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy ta ozdoba to krucyfiks czy zwykły krzyż?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To zwykły krzyż, ponieważ w szczegółach produktu nie ma wzmianki o korpusie (figurze Chrystusa)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ile wariantów jest dostępnych?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostępnych jest dziewięć przezroczystych wariantów, oznaczonych jako clear-1 do clear-9."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "884e53307d0397e7761c770e91cce946093496125be5eaa130e7729a24f67668",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "884e53307d0397e7761c770e91cce946093496125be5eaa130e7729a24f67668",
+            "contentHash": "884e53307d0397e7761c770e91cce946093496125be5eaa130e7729a24f67668",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:19:49.659Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "884e53307d0397e7761c770e91cce946093496125be5eaa130e7729a24f67668",
+            "contentHash": "dcdca16d4cf2b63ac5d6aa4e34d8fd9bcd06866131a651f4d9e2f37eea6380d9",
+            "attempts": 1,
+            "updatedAt": "2026-08-31T16:42:09.193Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEuTG7BAOVioqqEY6eJHw50",
+      "sourceId": "AAEuTG7BAOVioqqEY6eJHw50",
+      "sourceFingerprint": "1e078647ac5bf28152b66c2f4cd1bf06d4c1c366c22566cb889009fc9f120655",
+      "locale": "pl",
+      "slug": "8mm-rosary-bracelet-with-crucifix-and-marian-pendant-ejhw50",
+      "title": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym",
+      "eyebrow": "bransoletka różańcowa",
+      "summary": "Bransoletka różańcowa z koralikami 8 mm z krucyfiksem i wisiorkiem maryjnym, dostępna w dwóch wariantach: Gold1 i Gold2. Zaprojektowana z myślą o hurtowym zaopatrzeniu katolickich sklepów z prezentami, nadaje się do osobistej modlitwy lub ekspozycji w sklepie.",
+      "description": "Ta bransoletka różańcowa 8 mm łączy klasyczne elementy różańca: krucyfiks i wisiorek maryjny, z koralikami o średnicy 8 mm, zapewniającymi wygodne dopasowanie. Dwa złote warianty, Gold1 i Gold2, oferują subtelne opcje stylistyczne dla różnych gustów. Kompaktowa forma sprawia, że jest praktyczna do codziennego noszenia lub jako prezent w katolickich sklepach z dewocjonaliami. Dla hurtowników bransoletka stanowi wszechstronny dodatek do kolekcji religijnej biżuterii.",
+      "catholicContext": "Różaniec to katolicka modlitwa skupiająca się na kontemplacji wydarzeń z życia Jezusa Chrystusa i Maryi Dziewicy.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bransoletki różańcowe",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAEuTG7BAOVioqqEY6eJHw50",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H51b2c65958d343639a77ee92fcf2ab8aa.webp",
+      "imageAlt": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H51b2c65958d343639a77ee92fcf2ab8aa.webp",
+          "alt": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H393616ff327647f898d7c6208f0e0afaQ.webp",
+          "alt": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6a7dbf789e4644ff8092d6d0319ea1b8y.webp",
+          "alt": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H468ec36a64e1486e85d04d3d5d1a41d5w.webp",
+          "alt": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9b561eb88a6e4fe18444fc759983a0b9Y.webp",
+          "alt": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H65399dcf6d844f12bde55aaa13e385e6G.webp",
+          "alt": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He4be4812091349eda962e1205e1d7b86s.webp",
+          "alt": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym - gold1",
+          "label": "gold1",
+          "sku": "ALI-AAEuTG7BAOVioqqEY6eJHw50-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H131fa50af80a4d15b04dea43eb107f23u.webp",
+          "alt": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym - gold2",
+          "label": "gold2",
+          "sku": "ALI-AAEuTG7BAOVioqqEY6eJHw50-V--2"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Rozmiar koralików 8 mm dla zrównoważonego, wygodnego profilu",
+        "Zawiera krucyfiks przedstawiający Chrystusa na krzyżu",
+        "Posiada wisiorek maryjny reprezentujący Najświętszą Maryję Pannę",
+        "Dostępna w dwóch złotych wariantach: Gold1 i Gold2",
+        "Odpowiednia do hurtowego zaopatrzenia katolickich sklepów z prezentami"
+      ],
+      "specifications": [
+        {
+          "name": "Rozmiar koralików",
+          "value": "8 mm"
+        },
+        {
+          "name": "Warianty",
+          "value": "Gold1, Gold2"
+        },
+        {
+          "name": "Typ produktu",
+          "value": "Bransoletka różańcowa"
+        }
+      ],
+      "applications": [
+        "Osobista pomoc modlitewna podczas odmawiania różańca",
+        "Religijna biżuteria do codziennego noszenia",
+        "Produkt detaliczny dla katolickich sklepów z dewocjonaliami",
+        "Magazyn hurtowy dla sklepów z artykułami religijnymi"
+      ],
+      "faq": [
+        {
+          "question": "Jakie są dostępne warianty kolorystyczne?",
+          "answer": "Ta bransoletka różańcowa występuje w dwóch złotych wariantach: Gold1 i Gold2. Dokładna różnica w odcieniu nie jest określona, ale oferują one dwie opcje dopasowania do różnych preferencji."
+        },
+        {
+          "question": "Czy bransoletka zawiera krucyfiks?",
+          "answer": "Tak, bransoletka posiada ozdobę krucyfiksu, która przedstawia Chrystusa na krzyżu, wraz z wisiorkiem maryjnym."
+        },
+        {
+          "question": "Jaki jest rozmiar koralików tej bransoletki różańcowej?",
+          "answer": "Koraliki mają 8 mm średnicy, co zapewnia umiarkowanie solidny wygląd, pozostając wygodnym do noszenia na nadgarstku."
+        }
+      ],
+      "pricing": {
+        "price": "0.55",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.45",
+          "max": "0.55"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bransoletka różańcowa 8 mm z krucyfiksem i wisiorkiem maryjnym",
+          "description": "Bransoletka różańcowa z koralikami 8 mm z krucyfiksem i wisiorkiem maryjnym, dostępna w dwóch wariantach: Gold1 i Gold2. Zaprojektowana z myślą o hurtowym zaopatrzeniu katolickich sklepów z prezentami, nadaje się do osobistej modlitwy lub ekspozycji w sklepie.",
+          "sku": "ALI-AAEuTG7BAOVioqqEY6eJHw50",
+          "image": [
+            "https://sc04.alicdn.com/kf/H51b2c65958d343639a77ee92fcf2ab8aa.jpeg",
+            "https://sc04.alicdn.com/kf/H393616ff327647f898d7c6208f0e0afaQ.jpg",
+            "https://sc04.alicdn.com/kf/H6a7dbf789e4644ff8092d6d0319ea1b8y.jpg",
+            "https://sc04.alicdn.com/kf/H468ec36a64e1486e85d04d3d5d1a41d5w.jpg",
+            "https://sc04.alicdn.com/kf/H9b561eb88a6e4fe18444fc759983a0b9Y.jpg",
+            "https://sc04.alicdn.com/kf/H65399dcf6d844f12bde55aaa13e385e6G.jpg"
+          ],
+          "category": "Bransoletki różańcowe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Rozmiar koralików",
+              "value": "8 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Warianty",
+              "value": "Gold1, Gold2"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Typ produktu",
+              "value": "Bransoletka różańcowa"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.55",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.45",
+              "maxPrice": "0.55",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Jakie są dostępne warianty kolorystyczne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ta bransoletka różańcowa występuje w dwóch złotych wariantach: Gold1 i Gold2. Dokładna różnica w odcieniu nie jest określona, ale oferują one dwie opcje dopasowania do różnych preferencji."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy bransoletka zawiera krucyfiks?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, bransoletka posiada ozdobę krucyfiksu, która przedstawia Chrystusa na krzyżu, wraz z wisiorkiem maryjnym."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaki jest rozmiar koralików tej bransoletki różańcowej?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Koraliki mają 8 mm średnicy, co zapewnia umiarkowanie solidny wygląd, pozostając wygodnym do noszenia na nadgarstku."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "90cf50fa5bfad02ec2603cd3304658d019645562035c2ccdcf1c3870be6e502c",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "90cf50fa5bfad02ec2603cd3304658d019645562035c2ccdcf1c3870be6e502c",
+            "contentHash": "90cf50fa5bfad02ec2603cd3304658d019645562035c2ccdcf1c3870be6e502c",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:19:53.469Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "90cf50fa5bfad02ec2603cd3304658d019645562035c2ccdcf1c3870be6e502c",
+            "contentHash": "646007c78dfdd0a248c327c891cfc0deba47fb39ea2812952071e81936933db5",
+            "attempts": 1,
+            "updatedAt": "2026-08-31T16:42:18.875Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFYTG7BAOVioqqEY6e0ck5g",
+      "sourceId": "AAFYTG7BAOVioqqEY6e0ck5g",
+      "sourceFingerprint": "d35028f307ea0a3d79f03543fddcfe39bd1466955319b607f0d1aee0dd177970",
+      "locale": "pl",
+      "slug": "retro-mary-and-angel-oval-ornament-e0ck5g",
+      "title": "Retro owalna ozdoba z Maryją i aniołem",
+      "eyebrow": "ozdoba religijna",
+      "summary": "Ta retro owalna ozdoba przedstawia scenę religijną z Maryją i aniołem, dostępną w wielu wariantach złotych i srebrnych. Przeznaczona do dekoracji biurka i biura, wnosi klasyczny dewocyjny akcent do każdej przestrzeni. Dostępna w różnych wariantach kolorystycznych.",
+      "description": "Ta retro owalna ozdoba prezentuje klasyczne przedstawienie Maryi i anioła, co czyni ją subtelnym elementem dewocyjnym do domu lub miejsca pracy. Wzór nawiązuje do tradycyjnej ikonografii katolickiej, przemawiając do osób ceniących sztukę religijną w codziennym otoczeniu. Wykonana jako ozdoba dekoracyjna, doskonale sprawdza się na półkach, biurkach lub stołach biurowych. Wybierz spośród gamy złotych i srebrnych wykończeń, aby dopasować ją do swojego wystroju.",
+      "catholicContext": "Katechizm Kościoła katolickiego wymienia różaniec i medaliki wśród form pobożności ludowej związanej z życiem sakramentalnym.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ozdoby",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H193c90252c8f4c18a058bc5219f8c3531.webp",
+      "imageAlt": "Retro owalna ozdoba z Maryją i aniołem",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H193c90252c8f4c18a058bc5219f8c3531.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7cc3cc5e543e412a8d7c8ba3bf54036fB.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf458ef3d0b6849f9b6d08b04a1d5ccbep.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7a57f94acb44b0d802297ec8490711fX.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6838a5e39c3e4523b4549afb17e64334U.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1c00c2c234514724940f71d38bf039d71.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H75735b157a33413fb7609cc955531324m.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - złoty-4",
+          "label": "złoty-4",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H38b3e437309a4782ac40a3582f32f2100.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - złoty-5",
+          "label": "złoty-5",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6e860f2d730740a3b582eb72dfd568f8q.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - złoty-2",
+          "label": "złoty-2",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hae15151f4f054acb8d8384d146e1cf65G.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - złoty-3",
+          "label": "złoty-3",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc40f8d87a7e34b52aaeefb9223e43a84K.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - srebrny-3",
+          "label": "srebrny-3",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha32917830f8d4a31a646a89e1bc023e4z.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - srebrny-4",
+          "label": "srebrny-4",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H93a371b74d12467caeff233a0d3d86d6G.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - srebrny-1",
+          "label": "srebrny-1",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Haac3f7ebff144f958eb7c3a8d59ce96c9.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - srebrny-2",
+          "label": "srebrny-2",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb133150bec924cb99ee9e93615a985842.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - srebrny-5",
+          "label": "srebrny-5",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf7c5cc5118c84391ba56a09c396a08fbj.webp",
+          "alt": "Retro owalna ozdoba z Maryją i aniołem - złoty-1",
+          "label": "złoty-1",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g-V--1"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Owalny kształt z retro motywem religijnym",
+        "Przedstawia Maryję i anioła",
+        "Dostępna w złotych i srebrnych wariantach kolorystycznych",
+        "Nadaje się do dekoracji biurka i biura",
+        "Ozdoba rzemieślnicza do ekspozycji w domu"
+      ],
+      "specifications": [
+        {
+          "name": "Wariant",
+          "value": "Złoty 3, Złoty 4, Złoty 5, Złoty-1, Złoty-2, Srebrny 4, Srebrny-1, Srebrny-2, Srebrny-3, Srebrny-5"
+        }
+      ],
+      "applications": [
+        "Dekoracja biurka",
+        "Ekspozycja na biurowej półce",
+        "Ozdoba domowa",
+        "Kolekcja ozdób religijnych"
+      ],
+      "faq": [
+        {
+          "question": "Jakie warianty kolorystyczne są dostępne dla tej ozdoby?",
+          "answer": "Ozdoba dostępna jest w kilku złotych i srebrnych wykończeniach, w tym Złoty 3, Złoty 4, Złoty 5, Złoty-1, Złoty-2, Srebrny 4, Srebrny-1, Srebrny-2, Srebrny-3 i Srebrny-5."
+        },
+        {
+          "question": "Jaki jest kształt i motyw tej ozdoby?",
+          "answer": "To owalna ozdoba z retro sceną religijną przedstawiającą Maryję i anioła, odpowiednia do dekoracji dewocyjnych."
+        },
+        {
+          "question": "Gdzie można użyć tej ozdoby?",
+          "answer": "Jest przeznaczona do dekoracji biurka i biura, może również służyć jako ozdoba domowa lub element kolekcji ozdób religijnych."
+        }
+      ],
+      "pricing": {
+        "price": "0.60",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.50",
+          "max": "0.60"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Retro owalna ozdoba z Maryją i aniołem",
+          "description": "Ta retro owalna ozdoba przedstawia scenę religijną z Maryją i aniołem, dostępną w wielu wariantach złotych i srebrnych. Przeznaczona do dekoracji biurka i biura, wnosi klasyczny dewocyjny akcent do każdej przestrzeni. Dostępna w różnych wariantach kolorystycznych.",
+          "sku": "ALI-AAFYTG7BAOVioqqEY6e0ck5g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H193c90252c8f4c18a058bc5219f8c3531.png",
+            "https://sc04.alicdn.com/kf/H7cc3cc5e543e412a8d7c8ba3bf54036fB.png",
+            "https://sc04.alicdn.com/kf/Hf458ef3d0b6849f9b6d08b04a1d5ccbep.png",
+            "https://sc04.alicdn.com/kf/Hf7a57f94acb44b0d802297ec8490711fX.png",
+            "https://sc04.alicdn.com/kf/H6838a5e39c3e4523b4549afb17e64334U.png",
+            "https://sc04.alicdn.com/kf/H1c00c2c234514724940f71d38bf039d71.png"
+          ],
+          "category": "Ozdoby",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Wariant",
+              "value": "Złoty 3, Złoty 4, Złoty 5, Złoty-1, Złoty-2, Srebrny 4, Srebrny-1, Srebrny-2, Srebrny-3, Srebrny-5"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.60",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.50",
+              "maxPrice": "0.60",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Jakie warianty kolorystyczne są dostępne dla tej ozdoby?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ozdoba dostępna jest w kilku złotych i srebrnych wykończeniach, w tym Złoty 3, Złoty 4, Złoty 5, Złoty-1, Złoty-2, Srebrny 4, Srebrny-1, Srebrny-2, Srebrny-3 i Srebrny-5."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaki jest kształt i motyw tej ozdoby?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To owalna ozdoba z retro sceną religijną przedstawiającą Maryję i anioła, odpowiednia do dekoracji dewocyjnych."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Gdzie można użyć tej ozdoby?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jest przeznaczona do dekoracji biurka i biura, może również służyć jako ozdoba domowa lub element kolekcji ozdób religijnych."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "782f4ebd91a6acb636b0995df4f1083496e56bc3e1c1c548b8255d58ae140fc4",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "782f4ebd91a6acb636b0995df4f1083496e56bc3e1c1c548b8255d58ae140fc4",
+            "contentHash": "782f4ebd91a6acb636b0995df4f1083496e56bc3e1c1c548b8255d58ae140fc4",
+            "attempts": 0,
+            "updatedAt": "2026-08-31T16:20:22.151Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "782f4ebd91a6acb636b0995df4f1083496e56bc3e1c1c548b8255d58ae140fc4",
+            "contentHash": "57c0271ccb2210b8cb211a791acb1f08c9b12e624dbcd8332d82a3d8ff3a6949",
+            "attempts": 1,
+            "updatedAt": "2026-08-31T16:42:28.236Z",
             "model": "deepseek-v4-flash"
           }
         }
