@@ -3,8 +3,8 @@ name: Reconcile D1
 on:
   workflow_dispatch:
   schedule:
-    # 11:30 Asia/Shanghai every day, after the 02:00 UTC catalog sync + deploy.
-    - cron: '30 3 * * *'
+    # 00:30 Asia/Shanghai every day, after the 22:00 CST catalog sync + deploy.
+    - cron: '30 16 * * *'
 
 permissions:
   contents: read

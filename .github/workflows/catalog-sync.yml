@@ -8,8 +8,8 @@ on:
         type: number
         default: 10
   schedule:
-    # 10:00 Asia/Shanghai every day (GitHub cron uses UTC).
-    - cron: '0 2 * * *'
+    # 22:00 Asia/Shanghai every night (GitHub cron uses UTC; DeepSeek off-peak pricing = half cost).
+    - cron: '0 14 * * *'
   push:
     branches: [main]
     paths:
