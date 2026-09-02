@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "hr",
   "sourceLocale": "en",
-  "sourceCatalogHash": "537aff6b87ab2cb047b4a5dd0bd8bcde9fedfb536856c96537004eabb27e267e",
-  "generatedAt": "2026-09-01T17:57:29.645Z",
+  "sourceCatalogHash": "c3e41b537e41d49a4c8fdb4b605a53f7fc0c9130606357b6536b9d4695e4d17b",
+  "generatedAt": "2026-09-02T14:55:19.252Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAFVTG7BAOVioqqEY6eoODo3",
-      "AAGZTG7BAOVioqqEY6eoOxia",
-      "AAG9TG7BAOVioqqEY6eBSJTc",
-      "AAESTG7BAOVioqqEY6eBTWJe",
-      "AAHfTG7BAOVioqqEY6eBTb3Q",
-      "AAEgTG7BAOVioqqEY6e9O8Rg",
-      "AAFdTG7BAOVioqqEY6eBSpR6",
-      "AAFNTG7BAOVioqqEY6eBTX59",
-      "AAELTG7BAOVioqqEY6eBSDUJ",
-      "AAGTTG7BAOVioqqEY6eBTJym"
+      "AAHOTG7BAOVioqqEY6eBRtKx",
+      "AAHfTG7BAOVioqqEY6eHwv4U",
+      "AAEPTG7BAOVioqqEY6ezClB-",
+      "AAHVTG7BAOVioqqEY6e1p6LT",
+      "AAEdTG7BAOVioqqEY6eBR1N-",
+      "AAGiTG7BAOVioqqEY6eBRyC2",
+      "AAHdTG7BAOVioqqEY6e7K6PQ",
+      "AAHiTG7BAOVioqqEY6eOhv9L",
+      "AAHbTG7BAOVioqqEY6eef9nh",
+      "AAGtTG7BAOVioqqEY6ezCh7O"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -41,8 +41,8 @@
   },
   "categoryGlossarySourceHash": "94a6de3ea98aead22d41cff9de4c78b9b5a1ab3615e38120c96fd770e461de57",
   "translationSummary": {
-    "ready": 449,
-    "skipped": 8,
+    "ready": 458,
+    "skipped": 9,
     "skippedProductIds": [
       "AAGxTG7BAOVioqqEY6e7uzWC",
       "AAEDTG7BAOVioqqEY6erMoEh",
@@ -51,27 +51,22 @@
       "AAFiTG7BAOVioqqEY6eBSz9T",
       "AAFlTG7BAOVioqqEY6e0b3hG",
       "AAEmTG7BAOVioqqEY6eNuCc2",
-      "AAF4TG7BAOVioqqEY6eDdXYG"
+      "AAF4TG7BAOVioqqEY6eDdXYG",
+      "AAGtTG7BAOVioqqEY6ezCh7O"
     ],
-    "reused": 433,
-    "generated": 16,
+    "reused": 448,
+    "generated": 10,
     "generatedProductIds": [
-      "AAHNTG7BAOVioqqEY6ee1KUy",
-      "AAHpTG7BAOVioqqEY6eBSlu_",
-      "AAHqTG7BAOVioqqEY6eErI2p",
-      "AAHFTG7BAOVioqqEY6eDBiSU",
-      "AAEuTG7BAOVioqqEY6eJHw50",
-      "AAFYTG7BAOVioqqEY6e0ck5g",
-      "AAFVTG7BAOVioqqEY6eoODo3",
-      "AAGZTG7BAOVioqqEY6eoOxia",
-      "AAG9TG7BAOVioqqEY6eBSJTc",
-      "AAESTG7BAOVioqqEY6eBTWJe",
-      "AAHfTG7BAOVioqqEY6eBTb3Q",
-      "AAEgTG7BAOVioqqEY6e9O8Rg",
-      "AAFdTG7BAOVioqqEY6eBSpR6",
       "AAFNTG7BAOVioqqEY6eBTX59",
-      "AAELTG7BAOVioqqEY6eBSDUJ",
-      "AAGTTG7BAOVioqqEY6eBTJym"
+      "AAHOTG7BAOVioqqEY6eBRtKx",
+      "AAHfTG7BAOVioqqEY6eHwv4U",
+      "AAEPTG7BAOVioqqEY6ezClB-",
+      "AAEdTG7BAOVioqqEY6eBR1N-",
+      "AAHVTG7BAOVioqqEY6e1p6LT",
+      "AAGiTG7BAOVioqqEY6eBRyC2",
+      "AAHdTG7BAOVioqqEY6e7K6PQ",
+      "AAHiTG7BAOVioqqEY6eOhv9L",
+      "AAHbTG7BAOVioqqEY6eef9nh"
     ],
     "retriedBacklog": 8,
     "glossaryReused": true
@@ -3339,6 +3334,261 @@
             "contentHash": "41d2b92da9f766d7aecc115161063665338e49156687c787bd75178b9a80baf8",
             "attempts": 0,
             "updatedAt": "2026-08-31T16:20:06.482Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGtTG7BAOVioqqEY6ezCh7O",
+      "sourceId": "AAGtTG7BAOVioqqEY6ezCh7O",
+      "sourceFingerprint": "561c69660cf29253765e3ab301ed624d5e92094ea40e518d48bfad8fbad21909",
+      "locale": "en",
+      "slug": "vintage-metal-keychain-ornament-pendant-ezch7o",
+      "title": "Vintage Metal Keychain Ornament Pendant",
+      "eyebrow": "Metal keychain ornament pendant",
+      "summary": "This vintage-style metal keychain ornament pendant features engraved detailing and comes in a range of finishes including ancient bronze, gold, silver, and more. Choose from 10cm figurine versions or standard keychain sizes for versatile use.",
+      "description": "Crafted as a vintage-inspired metal ornament, this pendant doubles as a keychain and decorative piece. The surface showcases an engraved carving pattern that adds texture and character. Multiple variant options allow you to select the finish and size that best suits your display or gifting needs.\n\nAvailable finishes include ancient bronze, ancient red copper, gold, lead color, plain gold, plain silver, steel color, and more. The 10cm variants are suited for shelf or tabletop display, while the keychain versions offer portability. Each piece is made from metal and reflects an antique aesthetic.\n\nWhether used as a bag accessory or as a small decorative accent, this metal pendant brings a distinct vintage charm. Its compact size makes it easy to incorporate into various settings.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "83",
+          "name": "Keychains",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H2d422f6a9680473e9b9235ee431dce7aX.webp",
+      "imageAlt": "Vintage Metal Keychain Ornament Pendant",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2d422f6a9680473e9b9235ee431dce7aX.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heab11d23596a4133a9be9a8385a3e4938.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1e1ad5e6de584db2a552a47db2125321Z.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf23b68f1b6f34469ade28f6430bc6db0R.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha8c14ef44c4a4d59aa35beeb90c4ec9dU.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Haaca1c9cf3ed4c31a8050df1226d5c33E.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcb2e91f1ec4345aeabea7e84c81ede70S.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant - ancient-red-copper-10cm",
+          "label": "ancient-red-copper-10cm",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha9be59ff530f46da986d0b3e7b1a1fcbc.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant - ancient-bronze-10cm",
+          "label": "ancient-bronze-10cm",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H18b67656f19f4425b05f7b80d3413f23f.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant - lead-color-10cm",
+          "label": "lead-color-10cm",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc936236567ae4f8293b9ecc785658416o.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant - plain-silver-keychain",
+          "label": "plain-silver-keychain",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha307b4aa37444d02bdc249606eaf8a026.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant - plain-gold-keychain",
+          "label": "plain-gold-keychain",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00d22a34bcab4f3f946971f5064e53e0j.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant - gold-10cm",
+          "label": "gold-10cm",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fa740b8909847f29c06a069e8fb9dc76.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant - steel-color-10cm",
+          "label": "steel-color-10cm",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He7b7fb2b0531462b81e472ef1ddfd540Y.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant - plain-silver-10cm",
+          "label": "plain-silver-10cm",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf323e4a5f33e46e294186501b497a181E.webp",
+          "alt": "Vintage Metal Keychain Ornament Pendant - plain-gold-10cm",
+          "label": "plain-gold-10cm",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O-V--7"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Vintage metal construction",
+        "Engraved carving detail",
+        "Multiple finishes: ancient bronze, ancient red copper, gold, lead color, plain gold, plain silver, steel color",
+        "Available in 10cm and keychain sizes"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Metal"
+        },
+        {
+          "name": "Size options",
+          "value": "10cm variants and standard keychain size"
+        },
+        {
+          "name": "Finish options",
+          "value": "Ancient bronze, ancient red copper, gold, lead color, plain gold, plain silver, steel color"
+        },
+        {
+          "name": "Design",
+          "value": "Engraved carving"
+        }
+      ],
+      "applications": [
+        "Keychain accessory",
+        "Bag or purse charm",
+        "Decorative ornament for home display",
+        "Collectible item"
+      ],
+      "faq": [
+        {
+          "question": "What materials are used for this metal keychain ornament?",
+          "answer": "The ornament is made of metal. Specific alloy details are not provided, but it is described as a vintage metal craft."
+        },
+        {
+          "question": "What sizes are available for this ornament pendant?",
+          "answer": "The product comes in 10cm variants and standard keychain sizes. The 10cm versions are larger and may be suitable for display, while the keychain versions are designed for carrying."
+        },
+        {
+          "question": "Can I choose the finish for this keychain ornament?",
+          "answer": "Yes, multiple finish options are available, including ancient bronze, ancient red copper, gold, lead color, plain gold, plain silver, and steel color. You can select the variant that best suits your preference."
+        }
+      ],
+      "pricing": {
+        "price": "0.23",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.23",
+          "max": "1.25"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Vintage Metal Keychain Ornament Pendant",
+          "description": "Vintage metal keychain ornament pendant with engraved carving, available in multiple finishes and sizes. Ideal as a decorative accessory or collectible.",
+          "sku": "ALI-AAGtTG7BAOVioqqEY6ezCh7O",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2d422f6a9680473e9b9235ee431dce7aX.png",
+            "https://sc04.alicdn.com/kf/Heab11d23596a4133a9be9a8385a3e4938.png",
+            "https://sc04.alicdn.com/kf/H1e1ad5e6de584db2a552a47db2125321Z.png",
+            "https://sc04.alicdn.com/kf/Hf23b68f1b6f34469ade28f6430bc6db0R.png",
+            "https://sc04.alicdn.com/kf/Ha8c14ef44c4a4d59aa35beeb90c4ec9dU.png",
+            "https://sc04.alicdn.com/kf/Haaca1c9cf3ed4c31a8050df1226d5c33E.png"
+          ],
+          "category": "Keychains",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Metal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Size options",
+              "value": "10cm variants and standard keychain size"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finish options",
+              "value": "Ancient bronze, ancient red copper, gold, lead color, plain gold, plain silver, steel color"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Engraved carving"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.23",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.23",
+              "maxPrice": "1.25",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What materials are used for this metal keychain ornament?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The ornament is made of metal. Specific alloy details are not provided, but it is described as a vintage metal craft."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What sizes are available for this ornament pendant?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product comes in 10cm variants and standard keychain sizes. The 10cm versions are larger and may be suitable for display, while the keychain versions are designed for carrying."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I choose the finish for this keychain ornament?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, multiple finish options are available, including ancient bronze, ancient red copper, gold, lead color, plain gold, plain silver, and steel color. You can select the variant that best suits your preference."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "b97f5956cd212ee78f9267cd0b7b298f371619e4dabd9bff355ded90b65664cc",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "b97f5956cd212ee78f9267cd0b7b298f371619e4dabd9bff355ded90b65664cc",
+            "contentHash": "b97f5956cd212ee78f9267cd0b7b298f371619e4dabd9bff355ded90b65664cc",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:36.645Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -102783,10 +103033,10 @@
       "sourceFingerprint": "2c767637cc1481a6910632a3fb4354a8c40748a0da2a8ff72d6928aef8a5d8dc",
       "locale": "hr",
       "slug": "plastic-fluorescent-cross-ornament-brown-green-ebtx59",
-      "title": "Plastični fluorescentni križ kao ukras (smeđa, zelena)",
+      "title": "Plastični fluorescentni križ kao ukras (smeđi, zeleni)",
       "eyebrow": "fluorescentni plastični križ kao ukras",
-      "summary": "Dodajte suptilni sjaj svom dekoru uz ove plastične križeve kao ukrase. Dostupni u smeđoj i zelenoj boji, imaju fluorescentni završni sloj koji emitira svjetlost u uvjetima slabog osvjetljenja. Pogodni za kućni dekor ili kao mali dar unutar kršćanskih zajednica.",
-      "description": "Ovi ukrasni križevi izrađeni su od plastike i imaju fluorescentni premaz koji im omogućuje da svijetle nakon izlaganja svjetlu. Dostupne boje su smeđa i zelena, što vam daje dvije suptilne opcije za izlaganje. Njihova kompaktna veličina čini ih prikladnima za stolove, police ili druga mjesta u domu gdje želite tihi naglasak.\n\nKao jednostavni križevi - bez korpusa - usklađeni su sa širim kršćanskim simbolom, a ne s određenim prikazom raspela. Luminiscentni učinak može biti praktičan način označavanja tamnog kuta ili police bez trajnog osvjetljenja, a mogu poslužiti i kao mali znak vjere.\n\nKoristite ih kao bilo koji kućni ukras.",
+      "summary": "Dodajte suptilan sjaj svom dekoru uz ove plastične križeve kao ukrase. Dostupni u smeđoj i zelenoj boji, imaju fluorescentni premaz koji emitira svjetlost u uvjetima slabog osvjetljenja. Prikladni su za kućni dekor ili kao mali dar unutar kršćanskih zajednica.",
+      "description": "Ovi ukrasni križevi izrađeni su od plastike i imaju fluorescentni premaz koji im omogućuje da svijetle nakon izlaganja svjetlu. Dostupne boje su smeđa i zelena, što vam daje dvije suptilne opcije za izlaganje. Njihova kompaktna veličina čini ih prikladnima za stolove, police ili druga mjesta u domu gdje želite tihi naglasak.\n\nKao jednostavni križevi - bez korpusa - usklađeni su sa širim kršćanskim simbolom, a ne s određenim prikazom raspela. Luminiscentni učinak može biti praktičan način da označite tamni kut ili policu bez trajnog osvjetljenja, a mogu poslužiti i kao mali znak vjere.\n\nKoristite ih kao bilo koji kućni ukras.",
       "catholicContext": "Obični križ prepoznatljiv je kršćanski simbol, različit od raspela koje nosi sliku Kristova tijela.",
       "catholicRelevance": "explicit",
       "categories": [
@@ -102798,35 +103048,35 @@
       ],
       "sku": "ALI-AAFNTG7BAOVioqqEY6eBTX59",
       "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hbf77df7635aa412bb5e02fb3aa333401n.webp",
-      "imageAlt": "Plastični fluorescentni križ kao ukras (smeđa, zelena)",
+      "imageAlt": "Plastični fluorescentni križ kao ukras (smeđi, zeleni)",
       "gallery": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbf77df7635aa412bb5e02fb3aa333401n.webp",
-          "alt": "Plastični fluorescentni križ kao ukras (smeđa, zelena)"
+          "alt": "Plastični fluorescentni križ kao ukras (smeđi, zeleni)"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H661efa3a03f34ef98c15b1b945c52c0eZ.webp",
-          "alt": "Plastični fluorescentni križ kao ukras (smeđa, zelena)"
+          "alt": "Plastični fluorescentni križ kao ukras (smeđi, zeleni)"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H42c500c3f239482dae11c4e3e57348bfI.webp",
-          "alt": "Plastični fluorescentni križ kao ukras (smeđa, zelena)"
+          "alt": "Plastični fluorescentni križ kao ukras (smeđi, zeleni)"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H1114473abbb04e4682f8cd9a4f47136db.webp",
-          "alt": "Plastični fluorescentni križ kao ukras (smeđa, zelena)"
+          "alt": "Plastični fluorescentni križ kao ukras (smeđi, zeleni)"
         }
       ],
       "variantImages": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/H98ec4dd0b31d4453bd8e91907a71643av.webp",
-          "alt": "Plastični fluorescentni križ kao ukras (smeđa, zelena) - smeđa",
+          "alt": "Plastični fluorescentni križ kao ukras (smeđi, zeleni) - smeđa",
           "label": "smeđa",
           "sku": "ALI-AAFNTG7BAOVioqqEY6eBTX59-V-3399503"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/06/Hebb5f51057f845d2a22227d92af05ce0T.webp",
-          "alt": "Plastični fluorescentni križ kao ukras (smeđa, zelena) - zelena",
+          "alt": "Plastični fluorescentni križ kao ukras (smeđi, zeleni) - zelena",
           "label": "zelena",
           "sku": "ALI-AAFNTG7BAOVioqqEY6eBTX59-V-216016296"
         }
@@ -102837,7 +103087,7 @@
         "Fluorescentni premaz svijetli pri slabom svjetlu",
         "Dostupan u smeđoj i zelenoj boji",
         "Oblik križa bez korpusa",
-        "Pogodan kao ukras ili dar"
+        "Prikladan kao ukras ili dar"
       ],
       "specifications": [
         {
@@ -102852,7 +103102,7 @@
       "applications": [
         "Kućni dekor",
         "Dar za kršćanske prigode",
-        "Izlaganje na policama ili kaminima",
+        "Izlaganje na policama ili kaminu",
         "Rukotvorine ili DIY projekti"
       ],
       "faq": [
@@ -102862,11 +103112,11 @@
         },
         {
           "question": "Prikazuje li ovaj ukras Krista na križu?",
-          "answer": "Ne, to je obični križ bez korpusa, pa nije raspelo."
+          "answer": "Ne, riječ je o običnom križu bez korpusa, tako da nije raspelo."
         },
         {
           "question": "Kako djeluje fluorescentna značajka?",
-          "answer": "Plastični križ ima fluorescentni premaz koji upija svjetlost i emitira sjaj u tamnijim uvjetima, slično drugim predmetima koji svijetle u mraku."
+          "answer": "Plastični križ ima fluorescentni premaz koji upija svjetlost i emitira sjaj u tamnijim uvjetima, slično drugim proizvodima koji svijetle u mraku."
         }
       ],
       "pricing": {
@@ -102882,8 +103132,8 @@
         "product": {
           "@context": "https://schema.org",
           "@type": "Product",
-          "name": "Plastični fluorescentni križ kao ukras (smeđa, zelena)",
-          "description": "Dodajte suptilni sjaj svom dekoru uz ove plastične križeve kao ukrase. Dostupni u smeđoj i zelenoj boji, imaju fluorescentni završni sloj koji emitira svjetlost u uvjetima slabog osvjetljenja. Pogodni za kućni dekor ili kao mali dar unutar kršćanskih zajednica.",
+          "name": "Plastični fluorescentni križ kao ukras (smeđi, zeleni)",
+          "description": "Dodajte suptilan sjaj svom dekoru uz ove plastične križeve kao ukrase. Dostupni u smeđoj i zelenoj boji, imaju fluorescentni premaz koji emitira svjetlost u uvjetima slabog osvjetljenja. Prikladni su za kućni dekor ili kao mali dar unutar kršćanskih zajednica.",
           "sku": "ALI-AAFNTG7BAOVioqqEY6eBTX59",
           "image": [
             "https://sc04.alicdn.com/kf/Hbf77df7635aa412bb5e02fb3aa333401n.jpg",
@@ -102934,7 +103184,7 @@
               "name": "Prikazuje li ovaj ukras Krista na križu?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ne, to je obični križ bez korpusa, pa nije raspelo."
+                "text": "Ne, riječ je o običnom križu bez korpusa, tako da nije raspelo."
               }
             },
             {
@@ -102942,7 +103192,7 @@
               "name": "Kako djeluje fluorescentna značajka?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Plastični križ ima fluorescentni premaz koji upija svjetlost i emitira sjaj u tamnijim uvjetima, slično drugim predmetima koji svijetle u mraku."
+                "text": "Plastični križ ima fluorescentni premaz koji upija svjetlost i emitira sjaj u tamnijim uvjetima, slično drugim proizvodima koji svijetle u mraku."
               }
             }
           ]
@@ -102950,22 +103200,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "c7012a05eb203637d97744c05fd7955b237de7b0c0f62161aaa5fff04202acdb",
+        "sourceHash": "169288601a5b930750102ca84e7f5a1b1e4731e5736d1d24d977f85c18f75ecd",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "c7012a05eb203637d97744c05fd7955b237de7b0c0f62161aaa5fff04202acdb",
-            "contentHash": "c7012a05eb203637d97744c05fd7955b237de7b0c0f62161aaa5fff04202acdb",
+            "sourceHash": "169288601a5b930750102ca84e7f5a1b1e4731e5736d1d24d977f85c18f75ecd",
+            "contentHash": "169288601a5b930750102ca84e7f5a1b1e4731e5736d1d24d977f85c18f75ecd",
             "attempts": 0,
             "updatedAt": "2026-09-01T17:29:39.786Z",
             "model": "deepseek-v4-flash"
           },
           "hr": {
             "status": "ready",
-            "sourceHash": "c7012a05eb203637d97744c05fd7955b237de7b0c0f62161aaa5fff04202acdb",
-            "contentHash": "a228e54f98c98aa41dfa05b36023827a617826a34eb7ad38dba5a721bfa63bf2",
+            "sourceHash": "169288601a5b930750102ca84e7f5a1b1e4731e5736d1d24d977f85c18f75ecd",
+            "contentHash": "b8bb8cb30ad783e590d2ddc3491d0270a0bbbae349aacbaeecfe33dbe63a585c",
             "attempts": 1,
-            "updatedAt": "2026-09-01T17:57:06.140Z",
+            "updatedAt": "2026-09-02T14:53:41.808Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -103416,6 +103666,2126 @@
             "contentHash": "a22f57aec0e821fab8e88975df0437c1d8c3a1f8e091a2514a24e283eb188a55",
             "attempts": 1,
             "updatedAt": "2026-09-01T17:57:29.644Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHOTG7BAOVioqqEY6eBRtKx",
+      "sourceId": "AAHOTG7BAOVioqqEY6eBRtKx",
+      "sourceFingerprint": "1282b51651f1523ce738c3fbac6beef48ea1ea895ea1bedda425ea63694885b5",
+      "locale": "hr",
+      "slug": "alloy-crucifix-pendant-with-christ-corpus-ebrtkx",
+      "title": "Privjesak raspeća od legure s tijelom Krista",
+      "eyebrow": "privjesak raspeća od legure",
+      "summary": "Detaljan privjesak raspeća od legure s likom Krista. Nudi se u nekoliko varijanti, ovaj dodatak prikladan je za pričvršćivanje na krunicu, korištenje kao ogrlica ili kao dar za katoličke prigode. Kompaktan i lagan, privjesak se usredotočuje na tradicionalnu ikonografiju.",
+      "description": "Ovaj privjesak raspeća lijevan je od legure s likom Krista na križu. Komad je dovoljno kompaktan za svakodnevno nošenje nakita, a dostupno je nekoliko varijanti. Jednostavna konstrukcija čini ga praktičnim izborom za osobnu pobožnost ili vjerske zanatske projekte.\n\nIako dizajn odražava klasičnu kršćansku simboliku, ovaj se proizvod prodaje kao dodatak za nakit. Za one koji nabavljaju vjerske predmete, ovaj privjesak nudi svestranu osnovu za daljnju prilagodbu ili gotov proizvod.",
+      "catholicContext": "Raspeće koje prikazuje Krista na križu tradicionalna je pobožna slika u katoličkoj pobožnosti.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodaci",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAHOTG7BAOVioqqEY6eBRtKx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Ha3eea50f356e4de1a88f96149bd7ca45Z.webp",
+      "imageAlt": "Privjesak raspeća od legure s tijelom Krista",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha3eea50f356e4de1a88f96149bd7ca45Z.webp",
+          "alt": "Privjesak raspeća od legure s tijelom Krista"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H55886e3a09a3471781a895a44b9d5e66v.webp",
+          "alt": "Privjesak raspeća od legure s tijelom Krista"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H755d10a7a1494b2491adaa05871a7a188.webp",
+          "alt": "Privjesak raspeća od legure s tijelom Krista"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2a3f873b83b74f9590cdaa2256382caei.webp",
+          "alt": "Privjesak raspeća od legure s tijelom Krista"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc4bde0a1aa1244738430de1ff29721f30.webp",
+          "alt": "Privjesak raspeća od legure s tijelom Krista"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde7fcfd6f5974e1a8d2b09f6cc3dfc90d.webp",
+          "alt": "Privjesak raspeća od legure s tijelom Krista - 4",
+          "label": "4",
+          "sku": "ALI-AAHOTG7BAOVioqqEY6eBRtKx-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hafb7ec4daf254c3b8b3e0d0c7e2e4626G.webp",
+          "alt": "Privjesak raspeća od legure s tijelom Krista - 1",
+          "label": "1",
+          "sku": "ALI-AAHOTG7BAOVioqqEY6eBRtKx-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha6a1ecabbce641b08ffd20f4733b122e0.webp",
+          "alt": "Privjesak raspeća od legure s tijelom Krista - 3",
+          "label": "3",
+          "sku": "ALI-AAHOTG7BAOVioqqEY6eBRtKx-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3ccd8839b74e42ba90e4d11688dea89fk.webp",
+          "alt": "Privjesak raspeća od legure s tijelom Krista - 2",
+          "label": "2",
+          "sku": "ALI-AAHOTG7BAOVioqqEY6eBRtKx-V--1"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Konstrukcija od legure pruža izdržljivu, pristupačnu osnovu",
+        "Prikazuje tijelo Krista na križu, što odgovara definiciji raspeća",
+        "Nudi se u četiri različite varijante, omogućujući izbor stila ili veličine",
+        "Kompaktna veličina prikladna za korištenje kao privjesak na ogrlicama ili krunicama",
+        "Tradicionalni dizajn podržava pobožne primjene nakita"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Legura"
+        },
+        {
+          "name": "Varijante",
+          "value": "1, 2, 3, 4"
+        },
+        {
+          "name": "Vrsta proizvoda",
+          "value": "Privjesak raspeća"
+        },
+        {
+          "name": "Stil",
+          "value": "Religiozni"
+        }
+      ],
+      "applications": [
+        "Pričvrstite na krunicu",
+        "Nanižite na ogrlicu ili vrpcu",
+        "Uključite u dizajn nakita po narudžbi",
+        "Koristite kao dar za katoličku prigodu"
+      ],
+      "faq": [
+        {
+          "question": "Je li ovo privjesak od legure koji prikazuje Krista na križu?",
+          "answer": "Da, proizvod je lijevan od legure i prikazuje oblik raspeća, pokazujući tijelo Krista na križu."
+        },
+        {
+          "question": "Koje su varijante dostupne za ovo raspeće?",
+          "answer": "Popis nudi četiri varijante označene od 1 do 4, iako specifične razlike u veličini ili završnoj obradi nisu detaljno opisane. Kontaktirajte nas za pojedinosti o varijantama."
+        },
+        {
+          "question": "Može li se ovaj privjesak pričvrstiti na krunicu?",
+          "answer": "Zbog svoje kompaktne veličine, prikladan je za korištenje na krunicama, iako točna petlja ili pričvršćenje nisu specificirani. Provjerite dimenzije prije postavljanja."
+        }
+      ],
+      "pricing": {
+        "price": "0.25",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.14",
+          "max": "0.25"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Privjesak raspeća od legure s tijelom Krista",
+          "description": "Detaljan privjesak raspeća od legure s likom Krista. Nudi se u nekoliko varijanti, ovaj dodatak prikladan je za pričvršćivanje na krunicu, korištenje kao ogrlica ili kao dar za katoličke prigode. Kompaktan i lagan, privjesak se usredotočuje na tradicionalnu ikonografiju.",
+          "sku": "ALI-AAHOTG7BAOVioqqEY6eBRtKx",
+          "image": [
+            "https://sc04.alicdn.com/kf/Ha3eea50f356e4de1a88f96149bd7ca45Z.jpg",
+            "https://sc04.alicdn.com/kf/H55886e3a09a3471781a895a44b9d5e66v.jpg",
+            "https://sc04.alicdn.com/kf/H755d10a7a1494b2491adaa05871a7a188.jpg",
+            "https://sc04.alicdn.com/kf/H2a3f873b83b74f9590cdaa2256382caei.jpg",
+            "https://sc04.alicdn.com/kf/Hc4bde0a1aa1244738430de1ff29721f30.jpg"
+          ],
+          "category": "Dodaci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Legura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante",
+              "value": "1, 2, 3, 4"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta proizvoda",
+              "value": "Privjesak raspeća"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Religiozni"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.25",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.14",
+              "maxPrice": "0.25",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Je li ovo privjesak od legure koji prikazuje Krista na križu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, proizvod je lijevan od legure i prikazuje oblik raspeća, pokazujući tijelo Krista na križu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su varijante dostupne za ovo raspeće?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Popis nudi četiri varijante označene od 1 do 4, iako specifične razlike u veličini ili završnoj obradi nisu detaljno opisane. Kontaktirajte nas za pojedinosti o varijantama."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Može li se ovaj privjesak pričvrstiti na krunicu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zbog svoje kompaktne veličine, prikladan je za korištenje na krunicama, iako točna petlja ili pričvršćenje nisu specificirani. Provjerite dimenzije prije postavljanja."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "96606adc49ea87cbe095bcf4ea5d2be2e14244bf03147a1ea5473e695c038992",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "96606adc49ea87cbe095bcf4ea5d2be2e14244bf03147a1ea5473e695c038992",
+            "contentHash": "96606adc49ea87cbe095bcf4ea5d2be2e14244bf03147a1ea5473e695c038992",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:02.495Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "96606adc49ea87cbe095bcf4ea5d2be2e14244bf03147a1ea5473e695c038992",
+            "contentHash": "555ee59ecd01e2363fe3bc5765a64c11becc35d8d89e405ce0ecbab89ac9afb1",
+            "attempts": 1,
+            "updatedAt": "2026-09-02T14:53:50.357Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHfTG7BAOVioqqEY6eHwv4U",
+      "sourceId": "AAHfTG7BAOVioqqEY6eHwv4U",
+      "sourceFingerprint": "6871c868d1170e2d953bd0e8b8869741ce0be012d5aadea16227a3adbfd0dcc3",
+      "locale": "hr",
+      "slug": "resin-angel-heart-sculpture-tabletop-ornament-ehwv4u",
+      "title": "Anđeoska skulptura srca od smole za stol",
+      "eyebrow": "Anđeoski ukras figura od smole",
+      "summary": "Figura anđela od smole koja drži srce, dizajnirana za izlaganje na stolu. Katalogizirana pod Ukrasi, prikladna je za katoličke teme pričesti i krštenja ili opći kućni dekor. Dostupna u nekoliko varijanti veličine ili završne obrade.",
+      "description": "Kada vam treba mali dar ili komad za stol koji odgovara temama pričesti, krštenja ili sjećanja, ovaj anđeoski ukras opcija je za usporedbu. Skulptura prikazuje anđela koji drži srce, oblikovana od smole. Specifikacije o sastavu materijala i završnim dimenzijama nisu navedene, stoga zatražite te podatke prije narudžbe. Predmet je katalogiziran pod ukrasima, a varijante od 1 do 13 mogu ukazivati na razlike u veličini, pozi ili završnoj obradi. Budući da izvor ne specificira, preporučujemo da nam pošaljete poruku za raščlambu varijanti, detalje pakiranja i mogućnosti poklon kutije.",
+      "catholicContext": "Anđeli su u katoličkoj tradiciji prepoznati kao Božji glasnici i čuvari, što čini predmete s anđeoskom temom uobičajenima u kršćanskom devocionalnom dekoru.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ukrasi",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H7d960a2b63f0423dbbb5ada9ddcdb21dt.webp",
+      "imageAlt": "Anđeoska skulptura srca od smole za stol",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7d960a2b63f0423dbbb5ada9ddcdb21dt.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb8a6980a4b7c4ed893f2ac672e0738d5a.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7bebcdffe427454a87e2d3e156ea46abc.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd804b27ee3c64118aef503710f8e2630z.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He61901cefd1943ecb232e716f04afeeca.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8a9611b41c4b4a36879f446bff60a9466.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hec9234cece0d471e868b928704376a63Z.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 4",
+          "label": "4",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hea6d8d0350de4788b5f645e5937b8167U.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 3",
+          "label": "3",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1d6b97f42d7e41679fbd3a4bfa30587dG.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 2",
+          "label": "2",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H997efcefb8a141dc9c50bb49f3c3c3dfi.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 1",
+          "label": "1",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe714e69118845c1aa2e9c65774c6286F.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 13",
+          "label": "13",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He15038fa72124ef0a76e23ef005c727fI.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 12",
+          "label": "12",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe3d30e4c5df4fdab3effb5bf9c7d78ax.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 11",
+          "label": "11",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6284f31c5a6b445d9730b3447753ba67f.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 10",
+          "label": "10",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H72ab3599df774528be09b4a5a5b07c27A.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 9",
+          "label": "9",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b1df5bcf4dd4a18a1a41924fc0d0931d.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 8",
+          "label": "8",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H59b0f34833534a86b551c503a7fd9b306.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 7",
+          "label": "7",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd5e5f46af3954d09b48065d09e0f3793O.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 6",
+          "label": "6",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H27b40311affa49c2b7b6c148d0a7dd2ew.webp",
+          "alt": "Anđeoska skulptura srca od smole za stol - 5",
+          "label": "5",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U-V--5"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Konstrukcija od smole – materijal nije dalje specificiran u oglasu",
+        "Anđeoska figura koja drži srce – na temelju naslova i opisa slike proizvoda",
+        "Kategoriziran kao ukras za izlaganje na stolu",
+        "Dostupan u varijantama od 1 do 13",
+        "Nisu navedeni detalji o završnoj obradi ili boji – potvrdite prije kupnje"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Smola"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Ukrasi"
+        },
+        {
+          "name": "Opcije varijanti",
+          "value": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+        }
+      ],
+      "applications": [
+        "Dekor za stol u domu ili uredu",
+        "Dar za katoličku pričest ili krštenje",
+        "Izlaganje u kutku za molitvu ili na polici",
+        "Opća dekorativna upotreba kao ukras s anđeoskom temom"
+      ],
+      "faq": [
+        {
+          "question": "Koje su dimenzije ili težina ovog anđeoskog ukrasa?",
+          "answer": "Oglas ne specificira dimenzije ili težinu. Molimo kontaktirajte nas za te informacije od dobavljača."
+        },
+        {
+          "question": "Što znače brojevi varijanti?",
+          "answer": "Varijante vjerojatno predstavljaju veličinu, boju ili male razlike u dizajnu, ali točne razlike nisu opisane. Kontaktirajte nas da pojasnimo koju varijantu trebate."
+        },
+        {
+          "question": "Je li ovaj ukras prikladan za darove za krštenje?",
+          "answer": "S obzirom na anđeosku temu i naslov koji spominje pričest i krštenje, mogao bi odgovarati takvim prigodama, ali ne postoji eksplicitni opis. Preporučujemo da potvrdite dizajn i detalje pakiranja prije narudžbe."
+        }
+      ],
+      "pricing": {
+        "price": "1.14",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.14",
+          "max": "1.58"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Anđeoska skulptura srca od smole za stol",
+          "description": "Figura anđela od smole koja drži srce, dizajnirana za izlaganje na stolu. Katalogizirana pod Ukrasi, prikladna je za katoličke teme pričesti i krštenja ili opći kućni dekor. Dostupna u nekoliko varijanti veličine ili završne obrade.",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6eHwv4U",
+          "image": [
+            "https://sc04.alicdn.com/kf/H7d960a2b63f0423dbbb5ada9ddcdb21dt.jpg",
+            "https://sc04.alicdn.com/kf/Hb8a6980a4b7c4ed893f2ac672e0738d5a.jpg",
+            "https://sc04.alicdn.com/kf/H7bebcdffe427454a87e2d3e156ea46abc.jpg",
+            "https://sc04.alicdn.com/kf/Hd804b27ee3c64118aef503710f8e2630z.jpg",
+            "https://sc04.alicdn.com/kf/He61901cefd1943ecb232e716f04afeeca.jpg",
+            "https://sc04.alicdn.com/kf/H8a9611b41c4b4a36879f446bff60a9466.jpg"
+          ],
+          "category": "Ukrasi",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Smola"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Ukrasi"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcije varijanti",
+              "value": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.14",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.14",
+              "maxPrice": "1.58",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koje su dimenzije ili težina ovog anđeoskog ukrasa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oglas ne specificira dimenzije ili težinu. Molimo kontaktirajte nas za te informacije od dobavljača."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Što znače brojevi varijanti?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Varijante vjerojatno predstavljaju veličinu, boju ili male razlike u dizajnu, ali točne razlike nisu opisane. Kontaktirajte nas da pojasnimo koju varijantu trebate."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li ovaj ukras prikladan za darove za krštenje?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "S obzirom na anđeosku temu i naslov koji spominje pričest i krštenje, mogao bi odgovarati takvim prigodama, ali ne postoji eksplicitni opis. Preporučujemo da potvrdite dizajn i detalje pakiranja prije narudžbe."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "328cef34cd5ebec85eaf26d9bdbd6461cec68c945c726843656e6ac46045ecd0",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "328cef34cd5ebec85eaf26d9bdbd6461cec68c945c726843656e6ac46045ecd0",
+            "contentHash": "328cef34cd5ebec85eaf26d9bdbd6461cec68c945c726843656e6ac46045ecd0",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:07.904Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "328cef34cd5ebec85eaf26d9bdbd6461cec68c945c726843656e6ac46045ecd0",
+            "contentHash": "643bedf0428dc6f7d91f68579e7c986dbc60e709a12ea493a7a0080574a25259",
+            "attempts": 1,
+            "updatedAt": "2026-09-02T14:53:59.919Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEPTG7BAOVioqqEY6ezClB-",
+      "sourceId": "AAEPTG7BAOVioqqEY6ezClB-",
+      "sourceFingerprint": "e2e42be2b0f79fd87677bbc6b996a62f6c7bb843fa381cf92709094582ae3208",
+      "locale": "hr",
+      "slug": "retro-electroplated-vatican-crucifix-pendant-ezclb-",
+      "title": "Retro Elektroobloženi Vatikanski Raspeti Privjesak",
+      "eyebrow": "retro elektroobloženi raspeti privjesak",
+      "summary": "Ovaj elektroobloženi raspeti privjesak kombinira vintage karakter s detaljima inspiriranim Vatikanom. Dostupan u zlatnoj ili srebrnoj boji, služi kao središnji dio krunice, komponenta za izradu nakita ili viseći ukras. Kompaktan i lagan, privjesak odgovara kreativcima koji traže retro naglasak.",
+      "description": "Retro dizajn privjeska je njegova istaknuta značajka. Detalji u vintage stilu i elektroobloženi završetak daju mu starinski izgled, dok vatikanski motiv dodaje klasičan dodir. Odaberite zlatnu ili srebrnu boju kako biste uskladili s paletom vašeg projekta.\n\nIzrađen kao komponenta, ovaj raspeti privjesak može se ugraditi u krunice, koristiti kao privjesak za torbu ili ključeve ili postati središnja točka prilagođene ogrlice. Njegova svestranost čini ga osnovnim za kreativce i male proizvođače.\n\nSvaki privjesak prodaje se pojedinačno, što vam omogućuje naručivanje samo potrebne količine. Precizne dimenzije nisu navedene, stoga preporučujemo da potvrdite odgovarajuću veličinu za vašu namjenu prije narudžbe u velikim količinama.",
+      "catholicContext": "Raspeće prikazuje Krista na križu, razlikujući ga od običnog križa.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodaci",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAEPTG7BAOVioqqEY6ezClB-",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H13d8ca3e723c4d1595294cf0d9d51295W.webp",
+      "imageAlt": "Retro Elektroobloženi Vatikanski Raspeti Privjesak",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H13d8ca3e723c4d1595294cf0d9d51295W.webp",
+          "alt": "Retro Elektroobloženi Vatikanski Raspeti Privjesak"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb97aea01cdea48a98daf94b56b5f5fb1F.webp",
+          "alt": "Retro Elektroobloženi Vatikanski Raspeti Privjesak"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H069a24cf419a4c89ac9657d29208b001Z.webp",
+          "alt": "Retro Elektroobloženi Vatikanski Raspeti Privjesak"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H81deec1661d24ce5a7f7e651931cc675c.webp",
+          "alt": "Retro Elektroobloženi Vatikanski Raspeti Privjesak"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9017a7478af54788942a11cc61d9c1d53.webp",
+          "alt": "Retro Elektroobloženi Vatikanski Raspeti Privjesak"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H62406e2d1c064fec9bbbd4d7b2d82d4d8.webp",
+          "alt": "Retro Elektroobloženi Vatikanski Raspeti Privjesak"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbeffc04bbf2143bc92eeb21c788a31d1U.webp",
+          "alt": "Retro Elektroobloženi Vatikanski Raspeti Privjesak - zlatni",
+          "label": "zlatni",
+          "sku": "ALI-AAEPTG7BAOVioqqEY6ezClB--V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Heaa21c472f324fd6a35c3b5bfe93cb46d.webp",
+          "alt": "Retro Elektroobloženi Vatikanski Raspeti Privjesak - srebrni",
+          "label": "srebrni",
+          "sku": "ALI-AAEPTG7BAOVioqqEY6ezClB--V-3460547"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Retro dizajn inspiriran Vatikanom",
+        "Elektroobloženi završetak za uglađen izgled",
+        "Dostupan u zlatnoj ili srebrnoj varijanti",
+        "Prikladan kao komponenta krunice ili dio nakita",
+        "Također funkcionira kao viseći ukras ili DIY dodatak"
+      ],
+      "specifications": [
+        {
+          "name": "Varijanta",
+          "value": "Zlatna ili srebrna"
+        },
+        {
+          "name": "Završetak",
+          "value": "Elektroobloženo"
+        },
+        {
+          "name": "Tip",
+          "value": "Raspeti privjesak"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Retro vatikanski stil"
+        }
+      ],
+      "applications": [
+        "Komponenta krunice",
+        "Izrada DIY nakita",
+        "Viseći ukras za torbe ili ključeve",
+        "Privjesak za prilagođenu ogrlicu"
+      ],
+      "faq": [
+        {
+          "question": "Je li ovaj privjesak križ ili raspeće?",
+          "answer": "Proizvod je opisan kao raspeće, što znači da uključuje Kristovo tijelo na križu. Pakiranje i naslov to potvrđuju."
+        },
+        {
+          "question": "Koje su opcije boja dostupne?",
+          "answer": "Ovaj raspeti privjesak nudi se u dvije elektroobložene završnice: zlatnoj i srebrnoj."
+        },
+        {
+          "question": "Mogu li koristiti ovaj privjesak za izradu vlastite krunice?",
+          "answer": "Da, ovaj privjesak dizajniran je kao komponenta koja se može ugraditi u krunice ili druge religijske nakitne projekte. Prodaje se pojedinačno, tako da možete naručiti potrebnu količinu."
+        }
+      ],
+      "pricing": {
+        "price": "0.05",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.05"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Retro Elektroobloženi Vatikanski Raspeti Privjesak",
+          "description": "Ovaj elektroobloženi raspeti privjesak kombinira vintage karakter s detaljima inspiriranim Vatikanom. Dostupan u zlatnoj ili srebrnoj boji, služi kao središnji dio krunice, komponenta za izradu nakita ili viseći ukras. Kompaktan i lagan, privjesak odgovara kreativcima koji traže retro naglasak.",
+          "sku": "ALI-AAEPTG7BAOVioqqEY6ezClB-",
+          "image": [
+            "https://sc04.alicdn.com/kf/H13d8ca3e723c4d1595294cf0d9d51295W.png",
+            "https://sc04.alicdn.com/kf/Hb97aea01cdea48a98daf94b56b5f5fb1F.png",
+            "https://sc04.alicdn.com/kf/H069a24cf419a4c89ac9657d29208b001Z.png",
+            "https://sc04.alicdn.com/kf/H81deec1661d24ce5a7f7e651931cc675c.png",
+            "https://sc04.alicdn.com/kf/H9017a7478af54788942a11cc61d9c1d53.png",
+            "https://sc04.alicdn.com/kf/H62406e2d1c064fec9bbbd4d7b2d82d4d8.png"
+          ],
+          "category": "Dodaci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Varijanta",
+              "value": "Zlatna ili srebrna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Završetak",
+              "value": "Elektroobloženo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip",
+              "value": "Raspeti privjesak"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Retro vatikanski stil"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.05",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.05",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Je li ovaj privjesak križ ili raspeće?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Proizvod je opisan kao raspeće, što znači da uključuje Kristovo tijelo na križu. Pakiranje i naslov to potvrđuju."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su opcije boja dostupne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ovaj raspeti privjesak nudi se u dvije elektroobložene završnice: zlatnoj i srebrnoj."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Mogu li koristiti ovaj privjesak za izradu vlastite krunice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, ovaj privjesak dizajniran je kao komponenta koja se može ugraditi u krunice ili druge religijske nakitne projekte. Prodaje se pojedinačno, tako da možete naručiti potrebnu količinu."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "712bd1cd37a46e246fe777684bb074ed8de9f998250eaf644e09b0981b105451",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "712bd1cd37a46e246fe777684bb074ed8de9f998250eaf644e09b0981b105451",
+            "contentHash": "712bd1cd37a46e246fe777684bb074ed8de9f998250eaf644e09b0981b105451",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:25.548Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "712bd1cd37a46e246fe777684bb074ed8de9f998250eaf644e09b0981b105451",
+            "contentHash": "5e8ee0ff457a877ea68221902bd56119fe9b47e5c75c0e822f9df5a3036cc81b",
+            "attempts": 1,
+            "updatedAt": "2026-09-02T14:54:07.656Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEdTG7BAOVioqqEY6eBR1N-",
+      "sourceId": "AAEdTG7BAOVioqqEY6eBR1N-",
+      "sourceFingerprint": "0539fae18293a13330a9b85784f42bf74022703a7d808ff5f90b546a969e55ff",
+      "locale": "hr",
+      "slug": "st-benedict-crucifix-rosary-centerpiece-4-3x1-7cm-ebr1n-",
+      "title": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm",
+      "eyebrow": "Središnji križ krunice",
+      "summary": "Mali središnji križ od legure za sastavljanje ili popravak krunice. Veličina od 4,3x1,7 cm odgovara standardnim krunicama, a dizajn sv. Benedikta dodaje tradicionalan dodir. Dostupan u smeđoj ili srebrnoj boji.",
+      "description": "Ovaj središnji križ od legure, dimenzija 4,3x1,7 cm, izrađen je za izradu i popravak krunica. Kompaktne dimenzije odgovaraju standardnim krunicama, a oblik križa uključuje motiv sv. Benedikta - poznati lik u katoličkom pobožnom nakitu. Možete birati između smeđe ili srebrne završne obrade kako biste uskladili boje perli.\n\nOvaj komad je samo dio, a ne cijela krunica, pa ga možete kombinirati s vlastitim lancem ili vrpcom. Konstrukcija od legure održava malu težinu, što je korisno za krunice za svakodnevnu upotrebu. Koristite ga kao spojnicu između prve desetice i petlje ili kao središnji privjesak.",
+      "catholicContext": "Krunice često uključuju središnju medalju i križ; ovaj predmet je sastavni dio središnjeg dijela krunice.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodaci",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAEdTG7BAOVioqqEY6eBR1N-",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hbbf05ea843fc44f4aa4f8892f7128567u.webp",
+      "imageAlt": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbbf05ea843fc44f4aa4f8892f7128567u.webp",
+          "alt": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3d6ce5dd12794f8195cb5fbf292edc0dB.webp",
+          "alt": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdf3f14de0ba842c898d1974f14797024Z.webp",
+          "alt": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1005bb9a7bae470b8deb59a22eae3735z.webp",
+          "alt": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3c12002ec29c4fd1b6b87cead20e0713m.webp",
+          "alt": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H28f344319bae4663ba8468a44721f963k.webp",
+          "alt": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm - smeđi",
+          "label": "smeđa",
+          "sku": "ALI-AAEdTG7BAOVioqqEY6eBR1N--V-3399503"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3634983abbe74c52ba6094b3fce7b276j.webp",
+          "alt": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm - srebrni",
+          "label": "srebrna",
+          "sku": "ALI-AAEdTG7BAOVioqqEY6eBR1N--V-3460547"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Dimenzije 4,3 x 1,7 cm (približno 1,7 x 0,7 inča)",
+        "Izrađen od legure metala",
+        "Prikazuje sliku sv. Benedikta na križu središnjeg dijela",
+        "Dostupan u smeđoj ili srebrnoj završnoj obradi",
+        "Dizajniran kao komponenta središnjeg dijela krunice"
+      ],
+      "specifications": [
+        {
+          "name": "Veličina",
+          "value": "4,3 x 1,7 cm"
+        },
+        {
+          "name": "Materijal",
+          "value": "Legura"
+        },
+        {
+          "name": "Opcije završne obrade",
+          "value": "Smeđa, srebrna"
+        },
+        {
+          "name": "Tip",
+          "value": "Središnji križ krunice"
+        }
+      ],
+      "applications": [
+        "Zamjena dotrajalog središnjeg dijela krunice",
+        "Sastavljanje krunica po narudžbi",
+        "Izrada vjerskog nakita s temom sv. Benedikta",
+        "Popravak starih ili nasljednih krunica"
+      ],
+      "faq": [
+        {
+          "question": "Koje su točne dimenzije ovog središnjeg dijela krunice?",
+          "answer": "Središnji dio ima 4,3 cm duljine i 1,7 cm širine, što je otprilike 1,7 x 0,7 inča."
+        },
+        {
+          "question": "Mogu li birati između smeđe i srebrne završne obrade?",
+          "answer": "Da, ovaj središnji dio dostupan je u dvije završne obrade: smeđoj i srebrnoj."
+        },
+        {
+          "question": "Je li ovo cijela krunica ili samo središnji dio?",
+          "answer": "Ovaj predmet je samo središnji križ. Ne uključuje perle ili lanac, što ga čini prikladnim za izradu krunica, popravak ili zamjenu."
+        }
+      ],
+      "pricing": {
+        "price": "0.10",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.07",
+          "max": "0.10"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Središnji križ krunice sv. Benedikta 4,3x1,7 cm",
+          "description": "Mali središnji križ od legure za sastavljanje ili popravak krunice. Veličina od 4,3x1,7 cm odgovara standardnim krunicama, a dizajn sv. Benedikta dodaje tradicionalan dodir. Dostupan u smeđoj ili srebrnoj boji.",
+          "sku": "ALI-AAEdTG7BAOVioqqEY6eBR1N-",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hbbf05ea843fc44f4aa4f8892f7128567u.jpg",
+            "https://sc04.alicdn.com/kf/H3d6ce5dd12794f8195cb5fbf292edc0dB.jpg",
+            "https://sc04.alicdn.com/kf/Hdf3f14de0ba842c898d1974f14797024Z.jpg",
+            "https://sc04.alicdn.com/kf/H1005bb9a7bae470b8deb59a22eae3735z.jpg",
+            "https://sc04.alicdn.com/kf/H3c12002ec29c4fd1b6b87cead20e0713m.jpg"
+          ],
+          "category": "Dodaci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Veličina",
+              "value": "4,3 x 1,7 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Legura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcije završne obrade",
+              "value": "Smeđa, srebrna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip",
+              "value": "Središnji križ krunice"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.07",
+              "maxPrice": "0.10",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koje su točne dimenzije ovog središnjeg dijela krunice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Središnji dio ima 4,3 cm duljine i 1,7 cm širine, što je otprilike 1,7 x 0,7 inča."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Mogu li birati između smeđe i srebrne završne obrade?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, ovaj središnji dio dostupan je u dvije završne obrade: smeđoj i srebrnoj."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li ovo cijela krunica ili samo središnji dio?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ovaj predmet je samo središnji križ. Ne uključuje perle ili lanac, što ga čini prikladnim za izradu krunica, popravak ili zamjenu."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "08b7dce13f797c30de8cf861eb44dbd1fc10b1aa7a421bf20456788fb600b4dd",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "08b7dce13f797c30de8cf861eb44dbd1fc10b1aa7a421bf20456788fb600b4dd",
+            "contentHash": "08b7dce13f797c30de8cf861eb44dbd1fc10b1aa7a421bf20456788fb600b4dd",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:14.223Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "08b7dce13f797c30de8cf861eb44dbd1fc10b1aa7a421bf20456788fb600b4dd",
+            "contentHash": "ab82bf3824e637ee4c50a5f0b1bfb864494f612b6b63d10461aa0ca03105b0e9",
+            "attempts": 1,
+            "updatedAt": "2026-09-02T14:54:16.477Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHVTG7BAOVioqqEY6e1p6LT",
+      "sourceId": "AAHVTG7BAOVioqqEY6e1p6LT",
+      "sourceFingerprint": "8bf228b8b2310a40bca92048fbe1c7b9b283b7aca51d4e7982b4037136c50545",
+      "locale": "hr",
+      "slug": "handmade-woven-leather-cross-bracelet-with-magnetic-clasp-e1p6lt",
+      "title": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom",
+      "eyebrow": "Pletena kožna narukvica s križem i magnetskom kopčom",
+      "summary": "Ova ručno izrađena pletena kožna narukvica ima petoslojni pleteni dizajn i sigurnu magnetsku kopču, s privjeskom križa kao središnjim elementom. Odaberite crnu, zlatnu ili srebrnu varijantu za svestrani dodatak koji dobro pristaje uz ležernu ili svečanu odjeću.",
+      "description": "Narukvica je izrađena od pletene kože, pružajući izdržljivu, ali fleksibilnu teksturu koja udobno pristaje na zapešće. Petoslojno pletenje dodaje vizualnu dubinu i punoću, dok magnetska kopča osigurava jednostavno stavljanje i skidanje.\n\nZlatni privjesak križa ugrađen je u dizajn, služeći kao diskretan simbol vjere. Dostupna u tri boje – crnoj, zlatnoj i srebrnoj – ova se narukvica može uskladiti s osobnim stilom ili nositi u slojevima s drugim komadima.\n\nIdealna kao promišljen dar za krizmu, rođendane ili kao osobni svakodnevni podsjetnik vjere, spaja izradu i smislen dizajn.",
+      "catholicContext": "Križ je središnji simbol kršćanske vjere, koji se često nosi kao osobni izraz pobožnosti.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Krunične narukvice",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHVTG7BAOVioqqEY6e1p6LT",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H5553bfa08405471daf5507d1a61dbb00U.webp",
+      "imageAlt": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5553bfa08405471daf5507d1a61dbb00U.webp",
+          "alt": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0f2ba7a9f58a4fc9a5d15eca5f7e5db04.webp",
+          "alt": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb35850b1dfbe45d78abba552e9acc765y.webp",
+          "alt": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H529df3ee6c4c430cb4e4e88376aa780dE.webp",
+          "alt": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H338e24c0a6cd4a039a35eb35d38b3890H.webp",
+          "alt": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H731d4f9274f04c508faa406ca9ddc9d0P.webp",
+          "alt": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom - cross-five-layer-bracelet-black",
+          "label": "cross-five-layer-bracelet-black",
+          "sku": "ALI-AAHVTG7BAOVioqqEY6e1p6LT-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H463cebdcea794917b95a4fb1af982383g.webp",
+          "alt": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom - cross-five-layer-bracelet-silver",
+          "label": "cross-five-layer-bracelet-silver",
+          "sku": "ALI-AAHVTG7BAOVioqqEY6e1p6LT-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1ec60bdf7fcc4e5b85681d8285a70202g.webp",
+          "alt": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom - cross-five-layer-bracelet-gold",
+          "label": "cross-five-layer-bracelet-gold",
+          "sku": "ALI-AAHVTG7BAOVioqqEY6e1p6LT-V--2"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Pletena kožna konstrukcija s petoslojnim dizajnom",
+        "Magnetska kopča za jednostavno pričvršćivanje",
+        "Uključen zlatni privjesak križa",
+        "Dostupna u crnoj, zlatnoj i srebrnoj varijanti boje",
+        "Ručna izrada",
+        "Moderan i svestran stil"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Koža"
+        },
+        {
+          "name": "Vrsta kopče",
+          "value": "Magnetska"
+        },
+        {
+          "name": "Varijante boja",
+          "value": "Crna, zlatna, srebrna"
+        },
+        {
+          "name": "Stil",
+          "value": "Petoslojno pletenje"
+        }
+      ],
+      "applications": [
+        "Svakodnevno ležerno nošenje",
+        "Dodatak utemeljen na vjeri",
+        "Slojevito nošenje s drugim narukvicama",
+        "Darivanje za vjerske prigode"
+      ],
+      "faq": [
+        {
+          "question": "Od kojih je materijala ova narukvica izrađena?",
+          "answer": "Narukvica je izrađena od pletene kože s magnetskom kopčom, a uključuje metalni privjesak križa (boja ovisi o varijanti)."
+        },
+        {
+          "question": "Je li narukvica podesiva?",
+          "answer": "Činjenice o proizvodu ne navode je li narukvica podesiva. Dolazi u fiksnim veličinama prema varijanti."
+        },
+        {
+          "question": "Koje su mogućnosti boja dostupne?",
+          "answer": "Narukvica se nudi u tri varijante: crnoj, zlatnoj i srebrnoj, što se odnosi na križ i eventualno druge metalne dijelove."
+        }
+      ],
+      "pricing": {
+        "price": "1.32",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ručno izrađena pletena kožna narukvica s križem i magnetskom kopčom",
+          "description": "Ova ručno izrađena pletena kožna narukvica ima petoslojni pleteni dizajn i sigurnu magnetsku kopču, s privjeskom križa kao središnjim elementom. Odaberite crnu, zlatnu ili srebrnu varijantu za svestrani dodatak koji dobro pristaje uz ležernu ili svečanu odjeću.",
+          "sku": "ALI-AAHVTG7BAOVioqqEY6e1p6LT",
+          "image": [
+            "https://sc04.alicdn.com/kf/H5553bfa08405471daf5507d1a61dbb00U.png",
+            "https://sc04.alicdn.com/kf/H0f2ba7a9f58a4fc9a5d15eca5f7e5db04.png",
+            "https://sc04.alicdn.com/kf/Hb35850b1dfbe45d78abba552e9acc765y.png",
+            "https://sc04.alicdn.com/kf/H529df3ee6c4c430cb4e4e88376aa780dE.png",
+            "https://sc04.alicdn.com/kf/H338e24c0a6cd4a039a35eb35d38b3890H.png"
+          ],
+          "category": "Krunične narukvice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Koža"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta kopče",
+              "value": "Magnetska"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante boja",
+              "value": "Crna, zlatna, srebrna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Petoslojno pletenje"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.32",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojih je materijala ova narukvica izrađena?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica je izrađena od pletene kože s magnetskom kopčom, a uključuje metalni privjesak križa (boja ovisi o varijanti)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li narukvica podesiva?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Činjenice o proizvodu ne navode je li narukvica podesiva. Dolazi u fiksnim veličinama prema varijanti."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su mogućnosti boja dostupne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica se nudi u tri varijante: crnoj, zlatnoj i srebrnoj, što se odnosi na križ i eventualno druge metalne dijelove."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "961b54753b227348286147ded6bd5e07ea459908fa7bb95ec32a12958e47ac52",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "961b54753b227348286147ded6bd5e07ea459908fa7bb95ec32a12958e47ac52",
+            "contentHash": "961b54753b227348286147ded6bd5e07ea459908fa7bb95ec32a12958e47ac52",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:23.847Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "961b54753b227348286147ded6bd5e07ea459908fa7bb95ec32a12958e47ac52",
+            "contentHash": "affeffd240d30145f068e9ed85793a40e158a110c03ba4e7aa03fb9ea251537a",
+            "attempts": 2,
+            "updatedAt": "2026-09-02T14:54:34.615Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGiTG7BAOVioqqEY6eBRyC2",
+      "sourceId": "AAGiTG7BAOVioqqEY6eBRyC2",
+      "sourceFingerprint": "f8061ffe4916631f629ed2584bdfa5e678d90e74eb39bbc845701acd57b51710",
+      "locale": "hr",
+      "slug": "vintage-style-10mm-faux-agate-rosary-necklace-ebryc2",
+      "title": "Krunica-ogrlica u vintage stilu, 10mm, od lažnog ahata",
+      "eyebrow": "Katolička krunica s perlicama",
+      "summary": "Ručno nanizana krunica s perlicama od 10 mm lažnog ahata i križem od legure cinka s antiknim srebrnim premazom. Dizajn u vintage stilu s tkanjem nudi tradicionalan izgled za osobnu pobožnost ili kao smislen dar.",
+      "description": "Ova krunica-ogrlica ručno je nanizana s perlicama od 10 mm lažnog ahata, što joj daje znatan osjećaj, a istovremeno ostaje lagana zbog plastičnog materijala. Privjesak križa izrađen je od legure cinka s antiknim srebrnim premazom, što doprinosi vintage estetici. Vrsta lančića s perlicama i tehnika umetanja u kanal važni su detalji za one koji ispituju izradu. Kategoriziran kao uniseks i religiozan, u skladu je s katoličkim tradicijama. Koristite ga za vođenje molitve ili kao vidljiv izraz vjere. Proizvod dolazi iz marke OUOOO, model P8-R-0009.",
+      "catholicContext": "Krunica je tradicionalni katolički molitveni pomagalac usredotočen na razmatranje života Isusa i Djevice Marije.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Katoličke krunice",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAGiTG7BAOVioqqEY6eBRyC2",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He1db314f0d5241ffb8f5fb96bc60b532p.webp",
+      "imageAlt": "Krunica-ogrlica u vintage stilu, 10mm, od lažnog ahata",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He1db314f0d5241ffb8f5fb96bc60b532p.webp",
+          "alt": "Krunica-ogrlica u vintage stilu, 10mm, od lažnog ahata"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H87e4752dd01745f7876f2a5bc567a697b.webp",
+          "alt": "Krunica-ogrlica u vintage stilu, 10mm, od lažnog ahata"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H67d36cb2d0e5411fa5d3ee6aabcb293c3.webp",
+          "alt": "Krunica-ogrlica u vintage stilu, 10mm, od lažnog ahata"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83b0f9b9305848f89b99cf357c9c90faS.webp",
+          "alt": "Krunica-ogrlica u vintage stilu, 10mm, od lažnog ahata"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H865f178b1bac44a2888a002b44ac21b6e.webp",
+          "alt": "Krunica-ogrlica u vintage stilu, 10mm, od lažnog ahata"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Ručno nanizana s perlicama od 10 mm lažnog ahata",
+        "Privjesak križa izrađen od legure cinka s antiknim srebrnim premazom",
+        "Plastične perlice pružaju lagan osjećaj",
+        "Ogrlica s perlicama religiozne tematike",
+        "Uniseks dizajn prikladan za muškarce i žene",
+        "Predstavlja katoličku krunicu"
+      ],
+      "specifications": [
+        {
+          "name": "Veličina perlica",
+          "value": "10mm"
+        },
+        {
+          "name": "Glavni materijal",
+          "value": "Plastika (lažni ahat)"
+        },
+        {
+          "name": "Materijal križa",
+          "value": "Legura cinka"
+        },
+        {
+          "name": "Premaz",
+          "value": "Antikni srebrni premaz"
+        },
+        {
+          "name": "Namjena",
+          "value": "Uniseks"
+        },
+        {
+          "name": "Broj modela",
+          "value": "P8-R-0009"
+        }
+      ],
+      "applications": [
+        "Osobna molitva i meditacija",
+        "Nošenje kao religiozna ogrlica",
+        "Dar za katoličke prigode",
+        "Izlaganje u prodavaonicama vjerskih predmeta"
+      ],
+      "faq": [
+        {
+          "question": "Koji materijali se koriste za ovu krunicu-ogrlicu?",
+          "answer": "Perlice su izrađene od plastike koja oponaša ahat, dok su križ i ostali metalni dijelovi od legure cinka s antiknim srebrnim premazom."
+        },
+        {
+          "question": "Koliko su velike perlice?",
+          "answer": "Svaka perlica ima promjer od 10 mm, pružajući znatan, ali udoban izgled ogrlice."
+        },
+        {
+          "question": "Je li ova krunica prikladna i za muškarce i za žene?",
+          "answer": "Da, kategorizirana je kao uniseks, što je čini prikladnom za svakoga."
+        }
+      ],
+      "pricing": {
+        "price": "1.25",
+        "regularPrice": "1.25",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.20",
+          "max": "1.25"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Krunica-ogrlica u vintage stilu, 10mm, od lažnog ahata",
+          "description": "Ručno nanizana krunica s perlicama od 10 mm lažnog ahata i križem od legure cinka s antiknim srebrnim premazom. Dizajn u vintage stilu s tkanjem nudi tradicionalan izgled za osobnu pobožnost ili kao smislen dar.",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6eBRyC2",
+          "image": [
+            "https://sc04.alicdn.com/kf/He1db314f0d5241ffb8f5fb96bc60b532p.jpg",
+            "https://sc04.alicdn.com/kf/H87e4752dd01745f7876f2a5bc567a697b.jpg",
+            "https://sc04.alicdn.com/kf/H67d36cb2d0e5411fa5d3ee6aabcb293c3.jpg",
+            "https://sc04.alicdn.com/kf/H83b0f9b9305848f89b99cf357c9c90faS.jpg",
+            "https://sc04.alicdn.com/kf/H865f178b1bac44a2888a002b44ac21b6e.jpg"
+          ],
+          "category": "Katoličke krunice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Veličina perlica",
+              "value": "10mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni materijal",
+              "value": "Plastika (lažni ahat)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal križa",
+              "value": "Legura cinka"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Premaz",
+              "value": "Antikni srebrni premaz"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Namjena",
+              "value": "Uniseks"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Broj modela",
+              "value": "P8-R-0009"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.25",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.20",
+              "maxPrice": "1.25",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koji materijali se koriste za ovu krunicu-ogrlicu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Perlice su izrađene od plastike koja oponaša ahat, dok su križ i ostali metalni dijelovi od legure cinka s antiknim srebrnim premazom."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko su velike perlice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Svaka perlica ima promjer od 10 mm, pružajući znatan, ali udoban izgled ogrlice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li ova krunica prikladna i za muškarce i za žene?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, kategorizirana je kao uniseks, što je čini prikladnom za svakoga."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "46160f3dc33da13237bddf6da3174507bdfab1b7edc0a687239d708105e03ee0",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "46160f3dc33da13237bddf6da3174507bdfab1b7edc0a687239d708105e03ee0",
+            "contentHash": "46160f3dc33da13237bddf6da3174507bdfab1b7edc0a687239d708105e03ee0",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:20.062Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "46160f3dc33da13237bddf6da3174507bdfab1b7edc0a687239d708105e03ee0",
+            "contentHash": "7da295cfca1136628af67a9378bf7f32bffdc64e5484b4a698be3a473e3cb1f0",
+            "attempts": 1,
+            "updatedAt": "2026-09-02T14:54:42.474Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHdTG7BAOVioqqEY6e7K6PQ",
+      "sourceId": "AAHdTG7BAOVioqqEY6e7K6PQ",
+      "sourceFingerprint": "7bea79c530a2d8fefcca29dc306eb4a644328fd4bf6e53701173863416550985",
+      "locale": "hr",
+      "slug": "saint-benedict-cross-pendant-gold-plated-alloy-beaded-bracelet-e7k6pq",
+      "title": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama",
+      "eyebrow": "Narukvica s perlicama i privjeskom križa svetog Benedikta",
+      "summary": "Ova narukvica s perlicama ima privjesak križa svetog Benedikta od pozlaćene legure. Dostupna u crnoj, crvenoj, bijeloj, ružičastoj, plavoj ili zelenoj boji perlica. Jednostavan katolički pobožni komad prikladan za svakodnevno nošenje.",
+      "description": "Privjesak križa svetog Benedikta od pozlaćene legure središnji je dio ove narukvice s perlicama. Narukvica je dostupna u šest varijanti boja perlica: crnoj, crvenoj, bijeloj, ružičastoj, plavoj i zelenoj. Dizajnirana je za svakodnevno nošenje i praktičan je pobožni dodatak.\n\nKriž svetog Benedikta prepoznatljiva je katolička pobožna slika. Ova narukvica nudi diskretan način nošenja tog simbola. Pozlaćeni privjesak od legure u kontrastu je s obojenim perlicama, zadržavajući komad jednostavnim i nosivim.",
+      "catholicContext": "Medaljica svetog Benedikta široko je priznat katolički pobožni predmet koji se tradicionalno povezuje s molitvama za zaštitu od zla.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Krunične narukvice",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHdTG7BAOVioqqEY6e7K6PQ",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H52e72cb0852145289b174355b0133340z.webp",
+      "imageAlt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H52e72cb0852145289b174355b0133340z.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1750372659704acba45a61ab1e5cb151H.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha0ad7de84c51429b8fb0ead2eaa1fef4r.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7aef5d78732f4e49baabdddea5beb6e2C.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H37c897552a3641e791b5150471d95d75N.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hea33c825273c411393b0a9666f326b78E.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama - crna",
+          "label": "crna",
+          "sku": "ALI-AAHdTG7BAOVioqqEY6e7K6PQ-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H81714111556645fb9e22f567d2abe881h.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama - ružičasta",
+          "label": "ružičasta",
+          "sku": "ALI-AAHdTG7BAOVioqqEY6e7K6PQ-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1cec18af1b194cc19c026ec26b59d260K.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama - bijela",
+          "label": "bijela",
+          "sku": "ALI-AAHdTG7BAOVioqqEY6e7K6PQ-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha68ff17334324ec9842c2e78e135fc12K.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama - plava",
+          "label": "plava",
+          "sku": "ALI-AAHdTG7BAOVioqqEY6e7K6PQ-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5ef4c8906e3542a38a2df03efec59054I.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama - crvena",
+          "label": "crvena",
+          "sku": "ALI-AAHdTG7BAOVioqqEY6e7K6PQ-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H005dd628dd764c368b3c54f79b127279D.webp",
+          "alt": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama - zelena",
+          "label": "zelena",
+          "sku": "ALI-AAHdTG7BAOVioqqEY6e7K6PQ-V--5"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Privjesak križa svetog Benedikta",
+        "Pozlaćena legura",
+        "Dostupno u šest boja perlica: crna, crvena, bijela, ružičasta, plava, zelena",
+        "Stil narukvice s perlicama"
+      ],
+      "specifications": [
+        {
+          "name": "Glavni materijal",
+          "value": "Pozlaćena legura"
+        },
+        {
+          "name": "Varijante boja",
+          "value": "Crna, crvena, bijela, ružičasta, plava, zelena"
+        }
+      ],
+      "applications": [
+        "Svakodnevno pobožno nošenje",
+        "Osobni dar za katoličke primatelje",
+        "Inventar vjerskih proizvoda za maloprodaju",
+        "Opskrba župnih darovnica"
+      ],
+      "faq": [
+        {
+          "question": "Koje su varijante boja dostupne za ovu narukvicu?",
+          "answer": "Narukvica je dostupna u šest varijanti boja perlica: crnoj, crvenoj, bijeloj, ružičastoj, plavoj i zelenoj."
+        },
+        {
+          "question": "Od čega je izrađen privjesak?",
+          "answer": "Privjesak križa svetog Benedikta izrađen je od pozlaćene legure."
+        },
+        {
+          "question": "Je li ova narukvica krunica?",
+          "answer": "Ne, kategorizirana je kao krunična narukvica, ali nema tradicionalni broj zrna krunice niti raspelo. Sadrži privjesak križa svetog Benedikta."
+        }
+      ],
+      "pricing": {
+        "price": "0.75",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.70",
+          "max": "0.75"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Narukvica s križem svetog Benedikta, pozlaćena legura, s perlicama",
+          "description": "Ova narukvica s perlicama ima privjesak križa svetog Benedikta od pozlaćene legure. Dostupna u crnoj, crvenoj, bijeloj, ružičastoj, plavoj ili zelenoj boji perlica. Jednostavan katolički pobožni komad prikladan za svakodnevno nošenje.",
+          "sku": "ALI-AAHdTG7BAOVioqqEY6e7K6PQ",
+          "image": [
+            "https://sc04.alicdn.com/kf/H52e72cb0852145289b174355b0133340z.png",
+            "https://sc04.alicdn.com/kf/H1750372659704acba45a61ab1e5cb151H.png",
+            "https://sc04.alicdn.com/kf/Ha0ad7de84c51429b8fb0ead2eaa1fef4r.png",
+            "https://sc04.alicdn.com/kf/H7aef5d78732f4e49baabdddea5beb6e2C.png",
+            "https://sc04.alicdn.com/kf/H37c897552a3641e791b5150471d95d75N.png"
+          ],
+          "category": "Krunične narukvice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni materijal",
+              "value": "Pozlaćena legura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante boja",
+              "value": "Crna, crvena, bijela, ružičasta, plava, zelena"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.75",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.70",
+              "maxPrice": "0.75",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koje su varijante boja dostupne za ovu narukvicu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica je dostupna u šest varijanti boja perlica: crnoj, crvenoj, bijeloj, ružičastoj, plavoj i zelenoj."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Od čega je izrađen privjesak?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Privjesak križa svetog Benedikta izrađen je od pozlaćene legure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li ova narukvica krunica?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne, kategorizirana je kao krunična narukvica, ali nema tradicionalni broj zrna krunice niti raspelo. Sadrži privjesak križa svetog Benedikta."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f1fa8adb6de277aa176529548381b4a8fe393593d5448b20f09f886ff02bf338",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f1fa8adb6de277aa176529548381b4a8fe393593d5448b20f09f886ff02bf338",
+            "contentHash": "f1fa8adb6de277aa176529548381b4a8fe393593d5448b20f09f886ff02bf338",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:22.547Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "f1fa8adb6de277aa176529548381b4a8fe393593d5448b20f09f886ff02bf338",
+            "contentHash": "88213fcbe3215aa20dc52fbece351ed674906713ad27038157e39e225e8be5bf",
+            "attempts": 1,
+            "updatedAt": "2026-09-02T14:54:50.530Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHiTG7BAOVioqqEY6eOhv9L",
+      "sourceId": "AAHiTG7BAOVioqqEY6eOhv9L",
+      "sourceFingerprint": "ad32bccf2287eae788abcece50b75c83ffd2e91b04e2bfa81df2af26d5fca56f",
+      "locale": "hr",
+      "slug": "glass-holy-water-bottle-with-rose-flower-carving-eohv9l",
+      "title": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže",
+      "eyebrow": "Katolička bočica za blagoslovljenu vodu",
+      "summary": "Ova kristalna staklena bočica ima rezbariju ruže i namijenjena je za čuvanje blagoslovljene vode. Dostupna u više zlatnih kvadratnih uzoraka, služi kao dekorativna katolička uspomena za kućnu upotrebu.",
+      "description": "Kristalna bočica s rezbarijom cvijeta nudi pobožan način čuvanja blagoslovljene vode kod kuće. Stakleno tijelo je prozirno, pokazujući vodu unutra, dok zlatna kvadratna baza dodaje poseban akcent. Uz više zlatnih kvadratnih uzoraka za odabir, možete odabrati dizajn koji najbolje odgovara vašim preferencijama ili preferencijama kupaca.\n\nZahvaljujući kompaktnoj veličini, lako ga je postaviti blizu kutka za molitvu, police ili uz krevet. Iako bočica nije prethodno napunjena, namijenjena je posebno za blagoslovljenu vodu. Motiv izrezbarene ruže čini bočicu katoličkim ukrasom, ali i praktičnom posudom.",
+      "catholicContext": "Katolici koriste blagoslovljenu vodu u pobožnim praksama kod kuće, a posebna posuda je uobičajena za čuvanje i točenje iste.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ukrasi",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He0f53cdff74445b89ba368bf844d5bc93.webp",
+      "imageAlt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He0f53cdff74445b89ba368bf844d5bc93.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H99a6608663f2453abb9fbf079724c797b.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H89b0afd0963d44a6b2fb921981e30acfO.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfb77dc7133254180ac7b4a2cdf7cb49fV.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H30e94a89cd3d42e89e3d811e06c453e1z.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H36d7793c642843fb847612c545fb05d1H.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H49e3bf8c351b414a8d08c5be964ecd41T.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 9",
+          "label": "zlatni kvadrat br. 9",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H42623f37c605432389624bb57819db10X.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 8",
+          "label": "zlatni kvadrat br. 8",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3846d3b3c771435c965a53db8e40f4ecA.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 10",
+          "label": "zlatni kvadrat br. 10",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H06f59949b48e49eaa2c0232f0352a223L.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 7",
+          "label": "zlatni kvadrat br. 7",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0f6f776e9c514875a9ea3234317de79bS.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 6",
+          "label": "zlatni kvadrat br. 6",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hae1e9f8644fd4c6989b43334940b2f57T.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 5",
+          "label": "zlatni kvadrat br. 5",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hee3e18e5a78b4d46aaef446d23f4507eY.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 4",
+          "label": "zlatni kvadrat br. 4",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00d2f9ce2594475caf3da5548caa2defx.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 3",
+          "label": "zlatni kvadrat br. 3",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H13730094586045c797c108eac6109dcdD.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 2",
+          "label": "zlatni kvadrat br. 2",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2695c8ada081484ea4a3cfaa5724c8e0Z.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 1",
+          "label": "zlatni kvadrat br. 1",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4736f76094f44479829ae624da07bc359.webp",
+          "alt": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže - zlatni kvadrat br. 11",
+          "label": "zlatni kvadrat br. 11",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L-V--11"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Kristalno staklena konstrukcija omogućuje vidljivost razine vode.",
+        "Dizajn izrezbarene ruže ukrašava površinu bočice.",
+        "Zlatna kvadratna baza dostupna je u jedanaest varijanti uzorka.",
+        "Namijenjena kao posuda za blagoslovljenu vodu za katoličku pobožnu upotrebu.",
+        "Prikladna kao ukras ili poklon."
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Kristalno staklo (sa zlatnim kvadratnim akcentom)"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Izrezbarena ruža"
+        },
+        {
+          "name": "Varijante",
+          "value": "Zlatni kvadratni uzorci označeni brojevima od 1 do 11"
+        }
+      ],
+      "applications": [
+        "Čuvanje blagoslovljene vode za kućnu pobožnu upotrebu",
+        "Izlaganje u molitvenom kutku ili na polici",
+        "Katolički dar za prigode poput krštenja ili krizme",
+        "Dekorativni ukras za vjerski uređen interijer"
+      ],
+      "faq": [
+        {
+          "question": "Koji materijali se koriste za ovu bočicu za blagoslovljenu vodu?",
+          "answer": "Bočica je izrađena od kristalnog stakla i ima zlatni kvadratni akcent. Točan sastav stakla i metalne završne obrade nije naveden."
+        },
+        {
+          "question": "Dolazi li bočica prazna ili prethodno napunjena?",
+          "answer": "Proizvod je posuda i ne dolazi prethodno napunjena. Blagoslovljenu vodu napunite sami."
+        },
+        {
+          "question": "Koliko je zlatnih kvadratnih uzoraka dostupno?",
+          "answer": "Postoji jedanaest varijanti sa zlatnim kvadratom, označenih brojevima od 1 do 11. Svaka nudi poseban uzorak na dnu bočice."
+        }
+      ],
+      "pricing": {
+        "price": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Staklena bočica za blagoslovljenu vodu s rezbarijom ruže",
+          "description": "Ova kristalna staklena bočica ima rezbariju ruže i namijenjena je za čuvanje blagoslovljene vode. Dostupna u više zlatnih kvadratnih uzoraka, služi kao dekorativna katolička uspomena za kućnu upotrebu.",
+          "sku": "ALI-AAHiTG7BAOVioqqEY6eOhv9L",
+          "image": [
+            "https://sc04.alicdn.com/kf/He0f53cdff74445b89ba368bf844d5bc93.png",
+            "https://sc04.alicdn.com/kf/H99a6608663f2453abb9fbf079724c797b.png",
+            "https://sc04.alicdn.com/kf/H89b0afd0963d44a6b2fb921981e30acfO.png",
+            "https://sc04.alicdn.com/kf/Hfb77dc7133254180ac7b4a2cdf7cb49fV.png",
+            "https://sc04.alicdn.com/kf/H30e94a89cd3d42e89e3d811e06c453e1z.png",
+            "https://sc04.alicdn.com/kf/H36d7793c642843fb847612c545fb05d1H.png"
+          ],
+          "category": "Ukrasi",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Kristalno staklo (sa zlatnim kvadratnim akcentom)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Izrezbarena ruža"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante",
+              "value": "Zlatni kvadratni uzorci označeni brojevima od 1 do 11"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koji materijali se koriste za ovu bočicu za blagoslovljenu vodu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bočica je izrađena od kristalnog stakla i ima zlatni kvadratni akcent. Točan sastav stakla i metalne završne obrade nije naveden."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Dolazi li bočica prazna ili prethodno napunjena?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Proizvod je posuda i ne dolazi prethodno napunjena. Blagoslovljenu vodu napunite sami."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko je zlatnih kvadratnih uzoraka dostupno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Postoji jedanaest varijanti sa zlatnim kvadratom, označenih brojevima od 1 do 11. Svaka nudi poseban uzorak na dnu bočice."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f39ff59b9ec5fd04fa177b3fdcc9a19f7a2510dbaf3fefc514c1ba255bc33aec",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f39ff59b9ec5fd04fa177b3fdcc9a19f7a2510dbaf3fefc514c1ba255bc33aec",
+            "contentHash": "f39ff59b9ec5fd04fa177b3fdcc9a19f7a2510dbaf3fefc514c1ba255bc33aec",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:26.147Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "f39ff59b9ec5fd04fa177b3fdcc9a19f7a2510dbaf3fefc514c1ba255bc33aec",
+            "contentHash": "41f8e57cd00109f44a4ec617cc8f8bd5ace03fca0bfc49f7bc05ee3f51dafca8",
+            "attempts": 1,
+            "updatedAt": "2026-09-02T14:55:00.712Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHbTG7BAOVioqqEY6eef9nh",
+      "sourceId": "AAHbTG7BAOVioqqEY6eef9nh",
+      "sourceFingerprint": "fec0b74a97ad757ec82916d20f5697bff6dcc2d12af32f293c3eb843773db0b0",
+      "locale": "hr",
+      "slug": "8mm-crystal-rosary-bracelet-retro-design-eef9nh",
+      "title": "8mm Kristalna krunična narukvica retro dizajna",
+      "eyebrow": "Kristalna krunična narukvica",
+      "summary": "Ova krunična narukvica koristi 8mm kristalne perle na ručno izrađenoj vrpci, s križem na kraju. Retro dizajn i šest varijanti boja prikladni su za kupce katoličkih darova koji traže kompaktni pobožni dodatak za pričest ili osobnu molitvu.",
+      "description": "Narukvica ima 8mm kristalne perle ručno nanizane, s križem, u retro stilu. Dostupna u ružičastocrvenoj, bijeloj, ružičastoj, plavoj, zelenoj i ljubičastoj boji, nudi raznolikost boja bez promjene osnovne konstrukcije.\n\nBudući da je krunična narukvica, a ne puna krunica s pet desetica, prikladna je za kratku molitvu ili kao taktilni podsjetnik tijekom dana. Kompaktna veličina i kristalna završna obrada čine je praktičnim darom za pričest ili artiklom za katoličke trgovce.\n\nVeletrgovinske narudžbe mogu miješati boje, ali potvrdite zalihe i detalje pakiranja s nama prije narudžbe. Držimo činjenične opise proizvoda, pa ako trebate specifičan broj perli ili certifikat materijala, pitajte naš tim za nabavu.",
+      "catholicContext": "Krunica je katolička molitva usredotočena na razmatranje događaja iz života Isusa Krista i Djevice Marije.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Krunične narukvice",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHbTG7BAOVioqqEY6eef9nh",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H8c842559c1b146bf8265608d1381a036d.webp",
+      "imageAlt": "8mm Kristalna krunična narukvica retro dizajna",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8c842559c1b146bf8265608d1381a036d.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1953d0d274ba4208a8c1a9f20c0e73f2e.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H454302e7165d4bd2b1f16e7fd50898f2W.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb9c59f6556ca40779b41b0cf28da6e7bG.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfcf223b2e1b0437c8750d170b7c22728u.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6f93bb6df28447bca60bc361a70911c23.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H17de223a5c714a2b9d156959bd1bf8f6k.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna - zelena",
+          "label": "zelena",
+          "sku": "ALI-AAHbTG7BAOVioqqEY6eef9nh-V-216016296"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0fef46a976574ca4bdd46853d86cd5cf4.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna - ljubičasta",
+          "label": "ljubičasta",
+          "sku": "ALI-AAHbTG7BAOVioqqEY6eef9nh-V-3851110"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha8d34f9b1f174a25bd80316dff092e3dO.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna - ružičastocrvena",
+          "label": "ružičastocrvena",
+          "sku": "ALI-AAHbTG7BAOVioqqEY6eef9nh-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8b8f793bae65439ea4af18e8004f9fdb3.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna - plava",
+          "label": "plava",
+          "sku": "ALI-AAHbTG7BAOVioqqEY6eef9nh-V-123085"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1fd73efe21d548f7aa44a442022631a8j.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna - bijela",
+          "label": "bijela",
+          "sku": "ALI-AAHbTG7BAOVioqqEY6eef9nh-V-3331185"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6d53baca58b047709f49f485c2e2425cz.webp",
+          "alt": "8mm Kristalna krunična narukvica retro dizajna - ružičasta",
+          "label": "ružičasta",
+          "sku": "ALI-AAHbTG7BAOVioqqEY6eef9nh-V-3328925"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "8mm kristalne perle",
+        "Ručno izrađena vrpca",
+        "Križ kao ukras",
+        "Retro stil dizajna",
+        "Šest varijanti boja: ružičastocrvena, bijela, ružičasta, plava, zelena, ljubičasta"
+      ],
+      "specifications": [
+        {
+          "name": "Veličina perli",
+          "value": "8mm"
+        },
+        {
+          "name": "Materijal",
+          "value": "Kristal"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Retro"
+        },
+        {
+          "name": "Varijante boja",
+          "value": "Ružičastocrvena, bijela, ružičasta, plava, zelena, ljubičasta"
+        }
+      ],
+      "applications": [
+        "Pomoć za osobnu molitvu",
+        "Katolički dar za pričest",
+        "Svakodnevni pobožni dodatak",
+        "Inventar vjerskih trgovina"
+      ],
+      "faq": [
+        {
+          "question": "Koji se materijali koriste u ovoj kruničnoj narukvici?",
+          "answer": "Narukvica ima 8mm kristalne perle na ručno izrađenoj vrpci, s križem. Točan materijal vrpce nije naveden u našim činjenicama o proizvodu."
+        },
+        {
+          "question": "Koje opcije boja su dostupne za veletrgovinu?",
+          "answer": "Ova krunična narukvica dolazi u šest varijanti boja: ružičastocrvenoj, bijeloj, ružičastoj, plavoj, zelenoj i ljubičastoj. Možete miješati boje u veletrgovinskoj narudžbi, ovisno o zalihama."
+        },
+        {
+          "question": "Je li dizajn prikladan za dar za pričest?",
+          "answer": "Da, kompaktna krunična narukvica s križem čest je dar za pričest. Retro stil i kristalne perle daju poseban izgled, ali nije puna krunica."
+        }
+      ],
+      "pricing": {
+        "price": "0.60",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.60"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "8mm Kristalna krunična narukvica retro dizajna",
+          "description": "Ova krunična narukvica koristi 8mm kristalne perle na ručno izrađenoj vrpci, s križem na kraju. Retro dizajn i šest varijanti boja prikladni su za kupce katoličkih darova koji traže kompaktni pobožni dodatak za pričest ili osobnu molitvu.",
+          "sku": "ALI-AAHbTG7BAOVioqqEY6eef9nh",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8c842559c1b146bf8265608d1381a036d.jpg",
+            "https://sc04.alicdn.com/kf/H1953d0d274ba4208a8c1a9f20c0e73f2e.jpg",
+            "https://sc04.alicdn.com/kf/H454302e7165d4bd2b1f16e7fd50898f2W.jpg",
+            "https://sc04.alicdn.com/kf/Hb9c59f6556ca40779b41b0cf28da6e7bG.jpg",
+            "https://sc04.alicdn.com/kf/Hfcf223b2e1b0437c8750d170b7c22728u.jpg",
+            "https://sc04.alicdn.com/kf/H6f93bb6df28447bca60bc361a70911c23.jpg"
+          ],
+          "category": "Krunične narukvice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Veličina perli",
+              "value": "8mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Kristal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Retro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante boja",
+              "value": "Ružičastocrvena, bijela, ružičasta, plava, zelena, ljubičasta"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.60",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.60",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koji se materijali koriste u ovoj kruničnoj narukvici?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica ima 8mm kristalne perle na ručno izrađenoj vrpci, s križem. Točan materijal vrpce nije naveden u našim činjenicama o proizvodu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje opcije boja su dostupne za veletrgovinu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ova krunična narukvica dolazi u šest varijanti boja: ružičastocrvenoj, bijeloj, ružičastoj, plavoj, zelenoj i ljubičastoj. Možete miješati boje u veletrgovinskoj narudžbi, ovisno o zalihama."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li dizajn prikladan za dar za pričest?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, kompaktna krunična narukvica s križem čest je dar za pričest. Retro stil i kristalne perle daju poseban izgled, ali nije puna krunica."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "afbbcdec0ac68dff4c1c98468f8564b9dc7c8d7b4aaf79ac01920616451f382f",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "afbbcdec0ac68dff4c1c98468f8564b9dc7c8d7b4aaf79ac01920616451f382f",
+            "contentHash": "afbbcdec0ac68dff4c1c98468f8564b9dc7c8d7b4aaf79ac01920616451f382f",
+            "attempts": 0,
+            "updatedAt": "2026-09-02T14:31:28.452Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "afbbcdec0ac68dff4c1c98468f8564b9dc7c8d7b4aaf79ac01920616451f382f",
+            "contentHash": "2eedbffc438c19084f2b97efc7d3d6d621194d2430c3f7bfa928e4e891b17bdc",
+            "attempts": 1,
+            "updatedAt": "2026-09-02T14:55:09.096Z",
             "model": "deepseek-v4-flash"
           }
         }
