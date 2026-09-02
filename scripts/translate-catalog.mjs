@@ -13,6 +13,7 @@ const model = process.env.DEEPSEEK_MODEL || 'deepseek-v4-flash';
 const inputFile = resolve(process.env.OUOOO_SOURCE_CATALOG || 'src/data/site-catalog.json');
 const outputFile = resolve(process.env.OUOOO_TRANSLATED_OUTPUT || `src/data/i18n/${locale}/site-catalog.json`);
 const maxAttempts = 5;
+const giveUpAfter = Math.max(1, Number(process.env.OUOOO_TRANSLATION_GIVE_UP_AFTER || 5));
 
 if (!locale || locale === localeData.defaultLocale || !localeDefinition) {
   throw new Error('OUOOO_LOCALE must be one configured non-English locale.');
@@ -290,6 +291,8 @@ try {
   const previousBacklog = (previousCatalog.translationBacklog || []).filter(
     (product) => !deletedProductIds.has(String(product.productId))
   );
+  const previousGiveUp = previousCatalog.translationGiveUp || {};
+  const previousRetries = previousCatalog.translationRetries || {};
   const translationSourcesById = new Map(previousBacklog.map((product) => [String(product.productId), product]));
   for (const product of sourceCatalog.products) translationSourcesById.set(String(product.productId), product);
   const translationSources = [...translationSourcesById.values()];
@@ -300,32 +303,69 @@ try {
   for (const productId of deletedProductIds) productsById.delete(productId);
   let reused = 0;
   let skipped = 0;
+  let gaveUpThisRun = 0;
+  let gaveUpSkipped = 0;
   const skippedProductIds = [];
+  const droppedProductIds = [];
   const generatedProductIds = [];
   const translationBacklog = [];
+  const translationGiveUp = {};
+  const translationRetries = {};
   const backlogIds = new Set(previousBacklog.map((product) => String(product.productId)));
+  const sourceCatalogIds = new Set(sourceCatalog.products.map((product) => String(product.productId)));
+  // Give-up policy (宁缺毋滥): after N consecutive failed runs for an unchanged
+  // content version, stop retrying and drop the product from this locale, so the
+  // sub-site never shows it and we stop spending tokens on hopeless products. A
+  // later content change resets the counter and gives it a fresh chance.
   for (const [index, sourceProduct] of translationSources.entries()) {
+    const productId = String(sourceProduct.productId);
+    const sourceHash = String(sourceProduct.localization?.sourceHash || '');
+    // Previously given up with the SAME content: skip without calling the API.
+    if (previousGiveUp[productId] === sourceHash) {
+      gaveUpSkipped += 1;
+      translationGiveUp[productId] = sourceHash;
+      if (productsById.delete(productId)) droppedProductIds.push(productId);
+      continue;
+    }
     process.stdout.write(`Translating ${locale} ${index + 1}/${translationSources.length}...\n`);
-    const result = await translateProduct(
-      sourceProduct,
-      categoryGlossary,
-      previousById.get(String(sourceProduct.productId))
-    );
-    if (result.product) productsById.set(String(result.product.productId), result.product);
-    if (result.reused) reused += 1;
-    if (result.product && !result.reused) generatedProductIds.push(String(result.product.productId));
+    const result = await translateProduct(sourceProduct, categoryGlossary, previousById.get(productId));
+    if (result.product) productsById.set(productId, result.product);
+    if (result.reused) {
+      reused += 1;
+      delete previousRetries[productId];
+    }
+    if (result.product && !result.reused) {
+      generatedProductIds.push(productId);
+      delete previousRetries[productId];
+    }
     if (result.skipped) {
       skipped += 1;
-      skippedProductIds.push(String(sourceProduct.productId));
-      translationBacklog.push(sourceProduct);
+      skippedProductIds.push(productId);
+      const prior = previousRetries[productId];
+      // Products already stuck in the backlog when this give-up policy ships
+      // have no per-run count yet but have failed repeatedly: treat this run as
+      // their final attempt (drop if it fails again).
+      const failures = prior
+        ? prior.sourceHash === sourceHash
+          ? prior.count + 1
+          : 1
+        : backlogIds.has(productId)
+          ? giveUpAfter
+          : 1;
+      if (failures >= giveUpAfter) {
+        gaveUpThisRun += 1;
+        translationGiveUp[productId] = sourceHash;
+        // Drop any stale published translation too (content no longer matches EN).
+        if (productsById.delete(productId)) droppedProductIds.push(productId);
+      } else {
+        translationRetries[productId] = { count: failures, sourceHash };
+        translationBacklog.push(sourceProduct);
+      }
     }
   }
-  // Only keep products that still exist in the English source catalog so the
+  // Prune products that no longer exist in the English source catalog so the
   // localized catalogs never accumulate stale products the main site no longer
   // publishes (sub-sites must not show more products than the English site).
-  // Removed products are also folded into sync.deletedProductIds so the D1
-  // import actually deletes their rows (imports never delete without a tombstone).
-  const sourceCatalogIds = new Set(sourceCatalog.products.map((product) => String(product.productId)));
   const prunedProductIds = [];
   for (const productId of [...productsById.keys()]) {
     if (!sourceCatalogIds.has(productId)) {
@@ -333,12 +373,27 @@ try {
       productsById.delete(productId);
     }
   }
+  // Drop retry/give-up state for products that no longer exist in English.
+  for (const productId of [...Object.keys(translationRetries), ...Object.keys(translationGiveUp)]) {
+    if (!sourceCatalogIds.has(productId)) {
+      delete translationRetries[productId];
+      delete translationGiveUp[productId];
+    }
+  }
   const products = [...productsById.values()];
+  // Tombstones drive D1 deletes: source deletions + pruned + locally dropped.
+  // A product published this run is never tombstoned, so a later successful
+  // translation can bring it back on the sub-site.
+  const publishedIds = new Set(products.map((product) => String(product.productId)));
+  const tombstoneIds = new Set([
+    ...(sourceCatalog.sync?.deletedProductIds || []).map(String),
+    ...prunedProductIds,
+    ...droppedProductIds,
+  ]);
+  for (const productId of [...tombstoneIds]) if (publishedIds.has(productId)) tombstoneIds.delete(productId);
   const prunedSync = {
     ...sourceCatalog.sync,
-    deletedProductIds: [
-      ...new Set([...(sourceCatalog.sync?.deletedProductIds || []).map(String), ...prunedProductIds]),
-    ],
+    deletedProductIds: [...tombstoneIds],
   };
   const result = {
     schemaVersion: sourceCatalog.schemaVersion,
@@ -352,16 +407,22 @@ try {
     categoryGlossary,
     categoryGlossarySourceHash: categoryGlossaryResult.sourceHash,
     translationSummary: {
-      ready: translationSources.length - skipped,
+      ready: Math.max(0, translationSources.length - gaveUpSkipped - skipped),
       skipped,
       skippedProductIds,
       reused,
       generated: generatedProductIds.length,
       generatedProductIds,
+      gaveUp: gaveUpThisRun,
+      gaveUpSkipped,
+      dropped: droppedProductIds.length,
+      droppedProductIds,
       retriedBacklog: translationSources.filter((product) => backlogIds.has(String(product.productId))).length,
       glossaryReused: categoryGlossaryResult.reused,
     },
     translationBacklog,
+    translationRetries,
+    translationGiveUp,
     products,
   };
   await mkdir(dirname(outputFile), { recursive: true });
