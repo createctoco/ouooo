@@ -51,17 +51,35 @@ const header = ['PRAGMA foreign_keys = ON;'];
 // been implicated in those incidents.
 const productBlocks = uniqueProducts.map((product) => {
   const productId = String(product.productId);
+  // Guarded upsert: when the stored row is already identical
+  // (content_json IS excluded.content_json), the conflict-update is skipped so
+  // the row writes 0 rows. Missing rows still insert and stale rows still
+  // update, so D1 stays self-healing while a deploy only writes products whose
+  // content actually changed (~10/day x 14 locales instead of a full rewrite).
+  // updated_at now only advances when content really changes, so
+  // "recently updated first" ordering reflects real edits.
   const block = [
-    `INSERT INTO products (product_id, locale, slug, source_hash, updated_at, content_json) VALUES (${quote(productId)}, ${quote(locale)}, ${quote(product.slug)}, ${quote(product.localization?.sourceHash || '')}, ${quote(product.localization?.translations?.en?.updatedAt || catalog.generatedAt || new Date().toISOString())}, ${quote(JSON.stringify(product))}) ON CONFLICT(product_id, locale) DO UPDATE SET slug=excluded.slug, source_hash=excluded.source_hash, updated_at=excluded.updated_at, content_json=excluded.content_json;`,
-    `DELETE FROM product_categories WHERE product_id=${quote(productId)} AND locale=${quote(locale)};`,
+    `INSERT INTO products (product_id, locale, slug, source_hash, updated_at, content_json) VALUES (${quote(productId)}, ${quote(locale)}, ${quote(product.slug)}, ${quote(product.localization?.sourceHash || '')}, ${quote(product.localization?.translations?.en?.updatedAt || catalog.generatedAt || new Date().toISOString())}, ${quote(JSON.stringify(product))}) ON CONFLICT(product_id, locale) DO UPDATE SET slug=excluded.slug, source_hash=excluded.source_hash, updated_at=excluded.updated_at, content_json=excluded.content_json WHERE products.content_json IS NOT excluded.content_json;`,
   ];
   const categoriesBySlug = new Map(
     (product.categories || []).filter((category) => category?.slug).map((category) => [String(category.slug), category])
   );
-  for (const category of categoriesBySlug.values()) {
+  if (categoriesBySlug.size === 0) {
+    // No target categories: remove any rows left over from a previous import.
+    block.push(`DELETE FROM product_categories WHERE product_id=${quote(productId)} AND locale=${quote(locale)};`);
+  } else {
+    // Conditional category diff instead of delete-all + reinsert: unchanged
+    // category rows are never touched (0 rows written).
+    const keptSlugs = [...categoriesBySlug.keys()].map(quote).join(',');
     block.push(
-      `INSERT INTO product_categories (product_id, locale, category_slug, category_name) VALUES (${quote(productId)}, ${quote(locale)}, ${quote(category.slug)}, ${quote(category.name)});`
+      `DELETE FROM product_categories WHERE product_id=${quote(productId)} AND locale=${quote(locale)} AND category_slug NOT IN (${keptSlugs});`
     );
+    for (const [slug, category] of categoriesBySlug) {
+      block.push(
+        `UPDATE product_categories SET category_name=${quote(category.name)} WHERE product_id=${quote(productId)} AND locale=${quote(locale)} AND category_slug=${quote(slug)} AND category_name IS NOT ${quote(category.name)};`,
+        `INSERT INTO product_categories (product_id, locale, category_slug, category_name) SELECT ${quote(productId)}, ${quote(locale)}, ${quote(slug)}, ${quote(category.name)} WHERE NOT EXISTS (SELECT 1 FROM product_categories WHERE product_id=${quote(productId)} AND locale=${quote(locale)} AND category_slug=${quote(slug)});`
+      );
+    }
   }
   return block;
 });
