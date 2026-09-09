@@ -4,13 +4,84 @@ import Layout from '~/layouts/PageLayout.astro';
 const metadata = {
   title: 'About Us - Wholesale Rosaries & Custom Religious Gifts',
   description:
-    'OUOOO helps global wholesale buyers discover, compare, and source rosaries, Catholic gifts, devotional jewelry, and custom religious products.',
+    'Mecrt (Yiwu) International Trade Co., Ltd makes Catholic rosaries and religious gifts with rural artisan families. OUOOO is the sourcing catalog we built for clearer, more honest wholesale buying.',
 };
+
+const atAGlance = [
+  ['Founded', '2015'],
+  ['Artisans', '160+'],
+  ['Annual capacity', '$12M+'],
+  ['Countries served', '30+'],
+  ['Monthly output', '100,000+ units'],
+];
+
+const modelCards = [
+  [
+    'Training first',
+    'We invest systematically in artisan training. Many of our workers came to us with no steady income and no formal craft training; today they are skilled craftspeople, including more than 160 who specialize in the traditional Peruvian knot technique.',
+  ],
+  [
+    'Dignified, sustainable employment',
+    'Our artisans earn a fair, consistent income producing handcrafted religious goods. For families in poor rural areas, that income pays for school, medical care, and housing.',
+  ],
+  [
+    'Community reinvestment',
+    'A portion of our profits goes back into rural community infrastructure, education, and healthcare. Helping one family is good; helping a village is better.',
+  ],
+  [
+    'Craft preservation',
+    'We keep traditional hand-weaving and knotting techniques alive, techniques passed down through generations that might otherwise disappear.',
+  ],
+];
+
+const values = [
+  [
+    'Put people first',
+    'The artisan who makes your product matters as much as the product itself. We choose production methods that create employment over methods that cut corners.',
+  ],
+  [
+    'Quality is respect',
+    'A rosary that falls apart in a month disrespects the buyer and the person who made it. Every product passes multi-stage inspection across material sourcing, production, and packaging.',
+  ],
+  [
+    'Honesty in everything',
+    'From product descriptions to pricing, we give accurate, detailed information. We respect the religious meaning of what we sell, and we never present ordinary merchandise as blessed, consecrated, or officially approved unless that status is documented.',
+  ],
+];
+
+const catalogRows = [
+  ['Catholic rosaries', 'Wooden, Peruvian knot, glass bead, pardon pendant', '$0.42 – $1.20'],
+  ['Rosary bracelets', 'Wooden bead, cross, saint medal', '$0.35 – $0.80'],
+  ['Catholic scapulars', 'Brown, devotional, custom designs', '$0.30 – $0.90'],
+  ['Accessories', 'Centerpieces, saint medals, crucifixes, DIY parts', '$0.06 – $0.80'],
+  ['Ornaments', 'Wall crucifixes, holy water bottles, decorative crosses', '$0.26 – $1.25'],
+  ['Fashion necklaces', 'Cross necklaces, saint pendant necklaces', '$0.50 – $2.00'],
+  ['Keychains', 'Saint, cross, personalized designs', '$0.20 – $0.60'],
+  ['Rings & brooches', 'Saint rings, cross brooches, religious pins', '$0.15 – $0.70'],
+  ['Jewelry packaging', 'Gift boxes, pouches, display cards', '$0.10 – $0.50'],
+];
+
+const signature = [
+  ['Wooden Catholic rosary', 'Natural solid wood beads, hand-woven, with crucifix pendant and Marian centerpiece.'],
+  ['Peruvian knot rosary', 'Eight colors, fully customizable, with zinc alloy Saint Benedict crucifix.'],
+  ['Pardon pendant rosary', 'A design symbolizing prayer for forgiveness and spiritual peace.'],
+];
+
+const productionStats = [
+  ['Monthly output', '100,000+ units'],
+  ['Annual capacity', '$12M+ wholesale value'],
+  ['On-time delivery', '99.2% over the past year'],
+  ['Sampling', 'Prototypes within 3–5 business days'],
+  ['Standard lead time', '7–15 days'],
+  ['Large custom lead time', '15–25 days'],
+  ['Standard MOQ', '500 units'],
+  ['Custom MOQ', '1,000 units'],
+];
 
 const buyerTypes = [
   [
     'Catholic retailers',
-    'Gift shops and specialist stores comparing products for everyday devotion, feast days, and sacramental occasions.',
+    'Gift shops and specialist stores sourcing for daily devotion, feast days, and sacramental occasions.',
   ],
   [
     'Church and parish buyers',
@@ -18,246 +89,309 @@ const buyerTypes = [
   ],
   [
     'Importers and distributors',
-    'Professional buyers who need clearer specifications, repeatable products, packaging options, and export coordination.',
+    'Professional buyers who need clear specifications, repeatable products, packaging options, and export coordination.',
   ],
   [
     'Brands and online sellers',
-    'Businesses developing differentiated collections, private labels, exclusive colors, or custom packaging for their market.',
-  ],
-];
-
-const capabilities = [
-  [
-    'Rosaries and prayer items',
-    'Traditional five-decade rosaries, one-decade styles, bracelets, chaplets, pocket pieces, and related devotional items.',
-  ],
-  [
-    'Devotional jewelry',
-    'Crosses, crucifixes, medals, pendants, bracelets, rings, saint images, and faith-inspired accessories.',
-  ],
-  [
-    'Religious gifts',
-    'Ornaments, keepsakes, sacramental gifts, church-event items, and products for Baptism, First Communion, Confirmation, and memorial use.',
-  ],
-  [
-    'Material choices',
-    'Wood, glass, acrylic, resin, stone, zinc alloy, stainless steel, brass, cord, chain, plating, and mixed constructions.',
-  ],
-  [
-    'OEM and customization',
-    'Material, color, size, component, logo, insert card, label, packaging, and new-design evaluation where feasible.',
-  ],
-  [
-    'Packaging and presentation',
-    'Simple wholesale packing, pouches, gift boxes, display cards, barcodes, private-label information, and buyer-supplied artwork.',
-  ],
-];
-
-const sourcingSteps = [
-  [
-    '01',
-    'Discover',
-    'Browse products and collections by buyer intent instead of sorting through a crowded retail marketplace.',
-  ],
-  [
-    '02',
-    'Compare',
-    'Review images, variants, specifications, materials, Catholic context, and practical sourcing notes.',
-  ],
-  [
-    '03',
-    'Define',
-    'Share quantity, destination, target market, customization, packaging, and compliance requirements.',
-  ],
-  [
-    '04',
-    'Verify',
-    'Confirm availability, sample, material, MOQ, price, lead time, shipping, and final written specifications.',
+    'Businesses developing private labels, exclusive colors, custom packaging, and differentiated collections.',
   ],
 ];
 ---
 
 <Layout metadata={metadata}>
+  <style is:global>
+    details.fold > summary {
+      list-style: none;
+      cursor: pointer;
+    }
+    details.fold > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.fold .fold-icon {
+      transition: transform 0.2s ease;
+    }
+    details.fold[open] .fold-icon {
+      transform: rotate(180deg);
+    }
+  </style>
+
+  <!-- Hero -->
   <section class="bg-[#f6f1e8]">
     <div class="mx-auto grid max-w-7xl items-center gap-12 px-6 py-20 lg:grid-cols-[1.15fr_.85fr] lg:py-24">
       <div>
-        <p class="text-xs font-semibold uppercase tracking-[.16em] text-primary">About OUOOO</p>
-        <h1 class="mt-5 max-w-3xl text-4xl font-semibold leading-tight sm:text-5xl lg:text-6xl">
-          Meaningful products.<br />More practical sourcing.
+        <p class="text-xs font-semibold uppercase tracking-[.16em] text-primary">About us</p>
+        <h1 class="mt-5 max-w-3xl text-4xl font-semibold leading-[1.1] sm:text-5xl lg:text-6xl">
+          A company built to support vulnerable families.
         </h1>
-        <p class="mt-7 max-w-2xl text-lg leading-8 text-gray-700">
-          OUOOO is an independent B2B sourcing catalog for rosaries, Catholic gifts, devotional jewelry, and custom
-          religious products. We turn scattered product information into clearer options for global wholesale buyers.
+        <p class="mt-6 text-lg font-semibold text-gray-950">Mecrt (Yiwu) International Trade Co., Ltd</p>
+        <p class="mt-6 max-w-2xl text-lg leading-8 text-gray-700">
+          We are a religious goods manufacturer that works with artisan families in poor rural communities. OUOOO is the
+          sourcing catalog we built on top of that factory — so wholesale buyers can compare our products clearly and
+          confirm every detail in writing before they commit.
         </p>
         <div class="mt-9 flex flex-wrap gap-4">
           <a class="btn-primary" href="/products">Explore products</a>
-          <a class="btn-secondary" href="/contact">Contact OUOOO</a>
+          <a class="btn-secondary" href="/contact">Start a conversation</a>
         </div>
       </div>
-
       <aside class="rounded-3xl border border-black/10 bg-white p-8 shadow-sm sm:p-10">
-        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Our purpose</p>
-        <h2 class="mt-4 text-2xl font-semibold leading-8">Help buyers ask better questions before they commit.</h2>
-        <p class="mt-5 leading-7 text-muted">
-          Material names, finishes, dimensions, religious symbols, packaging, and customization details can be difficult
-          to compare from marketplace listings alone. OUOOO organizes those details and identifies what still needs to
-          be confirmed in a quotation, sample, or written specification.
-        </p>
-        <div class="mt-7 grid grid-cols-2 gap-3 text-sm">
-          <span class="rounded-xl bg-[#f6f1e8] px-4 py-3 font-medium">Buyer-first catalog</span>
-          <span class="rounded-xl bg-[#f6f1e8] px-4 py-3 font-medium">Structured details</span>
-          <span class="rounded-xl bg-[#f6f1e8] px-4 py-3 font-medium">Custom sourcing</span>
-          <span class="rounded-xl bg-[#f6f1e8] px-4 py-3 font-medium">Direct contact</span>
+        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Company at a glance</p>
+        <div class="mt-6 grid grid-cols-2 gap-3">
+          {
+            atAGlance.map(([label, value]) => (
+              <div class="rounded-2xl bg-[#f6f1e8] px-4 py-4">
+                <>
+                  <p class="text-xl font-semibold text-gray-950">{value}</p>
+                  <p class="mt-1 text-xs uppercase tracking-wide text-muted">{label}</p>
+                </>
+              </div>
+            ))
+          }
         </div>
       </aside>
     </div>
   </section>
 
+  <!-- Our story (collapsible) -->
   <section class="mx-auto max-w-7xl px-6 py-20">
     <div class="grid gap-10 lg:grid-cols-[.8fr_1.2fr] lg:items-start">
       <div>
-        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Built for thoughtful sourcing</p>
-        <h2 class="mt-4 text-3xl font-semibold leading-tight sm:text-4xl">
-          A catalog designed around wholesale decisions.
-        </h2>
-        <p class="mt-6 leading-8 text-muted">
-          OUOOO is not another shopping cart filled with duplicated titles. It is a product-discovery and inquiry
-          platform that helps buyers move from an initial image to a usable sourcing brief.
-        </p>
+        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Our purpose</p>
+        <h2 class="mt-4 text-3xl font-semibold leading-tight sm:text-4xl">Why this company exists.</h2>
       </div>
-      <div class="grid gap-5 sm:grid-cols-2">
-        <article class="rounded-2xl border border-black/10 p-6">
-          <h3 class="text-lg font-semibold">Clearer product identity</h3>
-          <p class="mt-3 leading-7 text-muted">
-            Shorter titles, relevant categories, useful specifications, and stable product references.
-          </p>
-        </article>
-        <article class="rounded-2xl border border-black/10 p-6">
-          <h3 class="text-lg font-semibold">Catholic context when relevant</h3>
-          <p class="mt-3 leading-7 text-muted">
-            Practical explanations of symbols and devotional use without adding unsupported claims.
-          </p>
-        </article>
-        <article class="rounded-2xl border border-black/10 p-6">
-          <h3 class="text-lg font-semibold">Material and variant clarity</h3>
-          <p class="mt-3 leading-7 text-muted">
-            Buyer-focused comparisons plus reminders about details that require physical or written verification.
-          </p>
-        </article>
-        <article class="rounded-2xl border border-black/10 p-6">
-          <h3 class="text-lg font-semibold">A focused next step</h3>
-          <p class="mt-3 leading-7 text-muted">
-            WhatsApp, WeChat, and email connect each product to a practical wholesale conversation.
-          </p>
-        </article>
+      <div>
+        <p class="text-lg leading-8 text-gray-800">
+          We didn't start this company to sell rosaries. We started it to give vulnerable families a way to earn a
+          living with dignity — and the rosaries came after.
+        </p>
+        <details class="fold mt-5 rounded-2xl border border-black/10 bg-[#f6f1e8]">
+          <summary class="flex items-center justify-between gap-4 px-6 py-5">
+            <span class="font-semibold text-gray-950">Read our full story</span>
+            <svg class="fold-icon h-5 w-5 shrink-0 text-primary" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+              <path
+                d="M5 8l5 5 5-5"
+                stroke="currentColor"
+                stroke-width="1.8"
+                stroke-linecap="round"
+                stroke-linejoin="round"></path>
+            </svg>
+          </summary>
+          <div class="space-y-5 border-t border-black/10 px-6 py-6 leading-7 text-muted">
+            <p>
+              Every company has an origin story. Most begin with a product idea or a market opportunity. Ours began with
+              a question: how do you create steady, dignified income for families in poor rural areas who have skills in
+              their hands but no way to sell them?
+            </p>
+            <p>The answer we found was handcraft. And that answer became the reason this company exists.</p>
+            <p>
+              We make Catholic rosaries, scapulars, and devotional jewelry — but that is not what we are about. What we
+              are about is people. Our handcrafted products are made in collaboration with artisans from low-income
+              rural families. Through this artisanal production, we have improved their living standards and raised
+              their income. That is not a side project. It is the founding purpose of our company, the value we organize
+              everything around, and the standard we measure success by.
+            </p>
+            <p class="font-medium text-gray-900">
+              If a decision doesn't help the families who work with us, we don't make it.
+            </p>
+          </div>
+        </details>
       </div>
     </div>
   </section>
 
+  <!-- Who we are + model -->
   <section class="border-y border-black/10 bg-[#f4f5f2]">
     <div class="mx-auto max-w-7xl px-6 py-20">
-      <div class="max-w-3xl">
-        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Who we serve</p>
-        <h2 class="mt-4 text-3xl font-semibold sm:text-4xl">
-          Different buyers, one need: reliable product understanding.
-        </h2>
-      </div>
-      <div class="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-4">
-        {
-          buyerTypes.map(([title, text]) => (
-            <article class="h-full rounded-2xl bg-white p-7">
-              <>
-                <h3 class="text-xl font-semibold">{title}</h3>
-                <p class="mt-4 leading-7 text-muted">{text}</p>
-              </>
-            </article>
-          ))
-        }
+      <div class="grid gap-10 lg:grid-cols-[.8fr_1.2fr] lg:items-start">
+        <div>
+          <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Who we are</p>
+          <h2 class="mt-4 text-3xl font-semibold leading-tight sm:text-4xl">
+            A factory built deliberately around people.
+          </h2>
+          <p class="mt-6 text-lg font-semibold text-gray-950">Mecrt (Yiwu) International Trade Co., Ltd</p>
+          <p class="mt-4 leading-8 text-muted">
+            Founded in 2015, we are a religious goods manufacturer. Our workshops are based in China and work directly
+            with artisan families in rural communities — a model we built deliberately, from the ground up.
+          </p>
+        </div>
+        <div class="grid gap-5 sm:grid-cols-2">
+          {
+            modelCards.map(([title, text]) => (
+              <article class="rounded-2xl border border-black/10 bg-white p-6">
+                <>
+                  <h3 class="text-lg font-semibold">{title}</h3>
+                  <p class="mt-3 leading-7 text-muted">{text}</p>
+                </>
+              </article>
+            ))
+          }
+        </div>
       </div>
     </div>
   </section>
 
+  <!-- Values -->
   <section class="mx-auto max-w-7xl px-6 py-20">
-    <div class="grid gap-8 lg:grid-cols-[.72fr_1.28fr]">
-      <div>
-        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">What buyers can explore</p>
-        <h2 class="mt-4 text-3xl font-semibold sm:text-4xl">From devotional pieces to complete presentation.</h2>
-        <p class="mt-6 leading-8 text-muted">
-          Product scope can grow over time, but every category follows the same principle: show what buyers need to
-          compare and clearly identify what must be verified before production.
-        </p>
-        <a class="mt-7 inline-flex font-semibold text-primary" href="/collections">Browse collections →</a>
-      </div>
-      <div class="grid gap-5 sm:grid-cols-2">
-        {
-          capabilities.map(([title, text]) => (
-            <article class="rounded-2xl border border-black/10 p-6">
-              <>
-                <h3 class="text-lg font-semibold">{title}</h3>
-                <p class="mt-3 leading-7 text-muted">{text}</p>
-              </>
-            </article>
-          ))
-        }
-      </div>
+    <div class="max-w-3xl">
+      <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Our values</p>
+      <h2 class="mt-4 text-3xl font-semibold sm:text-4xl">Three values, one commitment: people first.</h2>
     </div>
-  </section>
-
-  <section class="bg-[#0f3b2f] text-white">
-    <div class="mx-auto max-w-7xl px-6 py-20">
-      <p class="text-xs font-semibold uppercase tracking-[.15em] text-[#d8c5a3]">How OUOOO works</p>
-      <h2 class="mt-4 max-w-2xl text-3xl font-semibold sm:text-4xl">
-        A simple path from discovery to verified requirements.
-      </h2>
-      <div class="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
-        {
-          sourcingSteps.map(([number, title, text]) => (
-            <article class="border-t border-white/25 pt-5">
-              <>
-                <span class="text-xs font-semibold text-[#d8c5a3]">{number}</span>
-                <h3 class="mt-3 text-xl font-semibold">{title}</h3>
-                <p class="mt-4 leading-7 text-white/70">{text}</p>
-              </>
-            </article>
-          ))
-        }
-      </div>
-    </div>
-  </section>
-
-  <section class="mx-auto max-w-7xl px-6 py-20">
-    <div class="grid gap-8 lg:grid-cols-2">
-      <article class="rounded-3xl bg-[#f6f1e8] p-8 sm:p-10">
-        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Respecting religious meaning</p>
-        <h2 class="mt-4 text-3xl font-semibold">Useful context without invented claims.</h2>
-        <p class="mt-5 leading-8 text-muted">
-          A cross, crucifix, Marian medal, saint image, and sacramental gift do not all have the same meaning. OUOOO
-          adds Catholic context only when it fits the product and avoids presenting ordinary merchandise as blessed,
-          consecrated, relic-bearing, or officially approved unless that status is explicitly documented.
-        </p>
-      </article>
-      <article class="rounded-3xl bg-[#f1ece5] p-8 sm:p-10">
-        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Verification before commitment</p>
-        <h2 class="mt-4 text-3xl font-semibold">The website informs; the written specification confirms.</h2>
-        <p class="mt-5 leading-8 text-muted">
-          Images and descriptions help buyers shortlist products. Final material, color, dimensions, MOQ, price, sample,
-          packaging, compliance, lead time, shipping, and after-sales terms must be confirmed in the quotation, approved
-          sample, or order document before a bulk commitment.
-        </p>
-      </article>
-    </div>
-  </section>
-
-  <section class="border-t border-black/10">
-    <div class="mx-auto flex max-w-7xl flex-col gap-8 px-6 py-16 sm:flex-row sm:items-center sm:justify-between">
-      <div>
-        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Start a conversation</p><h2
-          class="mt-3 text-3xl font-semibold"
-        >
-          Tell us what you are trying to source.
-        </h2>
-      </div>
-      <a class="btn-primary shrink-0" href="/contact">Contact OUOOO</a>
+    <div class="mt-10 grid gap-5 md:grid-cols-3">
+      {
+        values.map(([title, text]) => (
+          <article class="flex h-full flex-col rounded-2xl border border-black/10 bg-[#f6f1e8] p-7">
+            <>
+              <h3 class="text-xl font-semibold">{title}</h3>
+              <p class="mt-4 leading-7 text-muted">{text}</p>
+            </>
+          </article>
+        ))
+      }
     </div>
   </section>
 </Layout>
+<!-- What we make -->
+<section class="bg-[#0f3b2f] text-white">
+  <div class="mx-auto max-w-7xl px-6 py-20">
+    <p class="text-xs font-semibold uppercase tracking-[.15em] text-[#d8c5a3]">What we make</p>
+    <h2 class="mt-4 max-w-3xl text-3xl font-semibold leading-tight sm:text-4xl">
+      A catalog across ten categories and thousands of variations.
+    </h2>
+    <div class="mt-10 overflow-x-auto rounded-2xl bg-white/5">
+      <table class="w-full min-w-[640px] text-left text-sm">
+        <thead>
+          <tr class="border-b border-white/15 text-xs uppercase tracking-wider text-white/60">
+            <th class="px-5 py-4 font-semibold">Category</th>
+            <th class="px-5 py-4 font-semibold">Key products</th>
+            <th class="px-5 py-4 font-semibold">Typical price range</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            catalogRows.map(([category, keyProducts, price]) => (
+              <tr class="border-b border-white/10 last:border-0">
+                <>
+                  <td class="px-5 py-3.5 font-medium text-white">{category}</td>
+                  <td class="px-5 py-3.5 text-white/75">{keyProducts}</td>
+                  <td class="whitespace-nowrap px-5 py-3.5 text-white/75">{price}</td>
+                </>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <p class="mt-8 text-sm text-white/70">
+      Typical wholesale unit prices in USD. Final pricing depends on material, size, quantity, and packaging — all
+      confirmed in writing before production.
+    </p>
+    <div class="mt-10 grid gap-5 md:grid-cols-3">
+      {
+        signature.map(([title, text]) => (
+          <article class="rounded-2xl border border-white/15 p-6">
+            <>
+              <h3 class="text-lg font-semibold text-[#d8c5a3]">{title}</h3>
+              <p class="mt-3 leading-7 text-white/75">{text}</p>
+            </>
+          </article>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<!-- Production & customization -->
+<section class="mx-auto max-w-7xl px-6 py-20">
+  <div class="grid gap-10 lg:grid-cols-[.8fr_1.2fr] lg:items-start">
+    <div>
+      <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Production & customization</p>
+      <h2 class="mt-4 text-3xl font-semibold leading-tight sm:text-4xl">Scale that keeps artisan workshops running.</h2>
+      <p class="mt-6 leading-8 text-muted">
+        Customization is a large part of our work: bead materials, colors, sizes, pendant styles, centerpieces,
+        private-label packaging, custom gift boxes, and display cards. When you order custom work from us, you are not
+        just building your product line — you are creating orders that keep artisan workshops running.
+      </p>
+      <a class="mt-7 inline-flex font-semibold text-primary" href="/customization">Customization options →</a>
+    </div>
+    <div class="grid gap-5 sm:grid-cols-2">
+      {
+        productionStats.map(([label, value]) => (
+          <article class="rounded-2xl border border-black/10 p-6">
+            <>
+              <p class="text-xl font-semibold text-gray-950">{value}</p>
+              <p class="mt-2 text-sm text-muted">{label}</p>
+            </>
+          </article>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<!-- Why OUOOO exists -->
+<section class="border-y border-black/10 bg-[#f4f5f2]">
+  <div class="mx-auto max-w-7xl px-6 py-20">
+    <div class="max-w-3xl">
+      <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Why OUOOO exists</p>
+      <h2 class="mt-4 text-3xl font-semibold sm:text-4xl">A catalog built around decisions — not checkout.</h2>
+      <p class="mt-6 leading-8 text-muted">
+        OUOOO was built for the same reason our factory was built: to make religious product sourcing clearer, more
+        honest, and more practical. A catalog listing shows a price and a photo; it rarely tells you the finish, the
+        exact dimensions, the meaning of the symbol on the medal, or what still needs to be confirmed before production.
+        OUOOO organizes those details so buyers can compare properly — and know exactly what must be verified in a
+        quotation, an approved sample, or a written specification before committing.
+      </p>
+    </div>
+    <div class="mt-10 grid gap-5 md:grid-cols-2">
+      <article class="rounded-3xl bg-white p-8 sm:p-10">
+        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Respect for religious meaning</p>
+        <h3 class="mt-4 text-2xl font-semibold">Useful context without invented claims.</h3>
+        <p class="mt-5 leading-8 text-muted">
+          A cross, a crucifix, and a Marian medal are not the same thing. We add Catholic context only where it
+          genuinely fits the product, and we never present ordinary merchandise as blessed, consecrated, relic-bearing,
+          or officially approved unless that status is documented.
+        </p>
+      </article>
+      <article class="rounded-3xl bg-white p-8 sm:p-10">
+        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Verification before commitment</p>
+        <h3 class="mt-4 text-2xl font-semibold">The website informs; the written specification confirms.</h3>
+        <p class="mt-5 leading-8 text-muted">
+          Material, dimensions, MOQ, price, sample, packaging, compliance, lead time, and shipping terms are all
+          confirmed in writing before bulk production. The website helps you shortlist; the written specification
+          confirms.
+        </p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- Who we serve -->
+<section class="mx-auto max-w-7xl px-6 py-20">
+  <div class="max-w-3xl">
+    <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Who we serve</p>
+    <h2 class="mt-4 text-3xl font-semibold sm:text-4xl">Different buyers, one need: reliable product understanding.</h2>
+  </div>
+  <div class="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-4">
+    {
+      buyerTypes.map(([title, text]) => (
+        <article class="h-full rounded-2xl border border-black/10 bg-[#f6f1e8] p-7">
+          <>
+            <h3 class="text-xl font-semibold">{title}</h3>
+            <p class="mt-4 leading-7 text-muted">{text}</p>
+          </>
+        </article>
+      ))
+    }
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="border-t border-black/10">
+  <div class="mx-auto flex max-w-7xl flex-col gap-8 px-6 py-16 sm:flex-row sm:items-center sm:justify-between">
+    <div>
+      <p class="text-xs font-semibold uppercase tracking-[.16em] text-primary">Start a conversation</p>
+      <h2 class="mt-3 text-3xl font-semibold">Tell us what you are trying to source.</h2>
+    </div>
+    <a class="btn-primary shrink-0" href="/contact">Contact us</a>
+  </div>
+</section>
