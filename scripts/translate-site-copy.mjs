@@ -156,6 +156,15 @@ const applyRosaryDecadeCorrections = (entry) => {
   }
   return translation === entry.translation ? entry : { ...entry, translation };
 };
+// Company legal name stays in English on every non-Chinese site and uses the
+// registered Chinese name (米恪（义乌）国际贸易有限公司) on both zh-hans and zh-hant.
+const companyNameEn = 'Mecrt (Yiwu) International Trade Co., Ltd';
+const companyNameZh = '米恪（义乌）国际贸易有限公司';
+const applyCompanyName = (entry) => {
+  if (!entry || entry.source !== companyNameEn) return entry;
+  const translation = locale === 'zh-hans' || locale === 'zh-hant' ? companyNameZh : companyNameEn;
+  return entry.translation === translation ? entry : { ...entry, translation };
+};
 
 for (const entry of source.entries || []) {
   const reviewed = reviewedTranslations[locale]?.get(entry.source);
@@ -292,7 +301,7 @@ for (let index = 0; index < pending.length; index += chunkSize) {
   await writeCheckpoint();
 }
 
-const entries = (source.entries || []).map(({ id }) => applyRosaryDecadeCorrections(ready.get(id)));
+const entries = (source.entries || []).map(({ id }) => applyCompanyName(applyRosaryDecadeCorrections(ready.get(id))));
 if (entries.some((entry) => !entry)) throw new Error(`Incomplete site-copy translation for ${locale}.`);
 const output = {
   schemaVersion: 1,
