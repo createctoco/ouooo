@@ -249,149 +249,153 @@ const buyerTypes = [
       }
     </div>
   </section>
-<!-- What we make -->
-<section class="bg-[#0f3b2f] text-white">
-  <div class="mx-auto max-w-7xl px-6 py-20">
-    <p class="text-xs font-semibold uppercase tracking-[.15em] text-[#d8c5a3]">What we make</p>
-    <h2 class="mt-4 max-w-3xl text-3xl font-semibold leading-tight sm:text-4xl">
-      A catalog across ten categories and thousands of variations.
-    </h2>
-    <div class="mt-10 overflow-x-auto rounded-2xl bg-white/5">
-      <table class="w-full min-w-[640px] text-left text-sm">
-        <thead>
-          <tr class="border-b border-white/15 text-xs uppercase tracking-wider text-white/60">
-            <th class="px-5 py-4 font-semibold">Category</th>
-            <th class="px-5 py-4 font-semibold">Key products</th>
-            <th class="px-5 py-4 font-semibold">Typical price range</th>
-          </tr>
-        </thead>
-        <tbody>
-          {
-            catalogRows.map(([category, keyProducts, price]) => (
-              <tr class="border-b border-white/10 last:border-0">
-                <>
-                  <td class="px-5 py-3.5 font-medium text-white">{category}</td>
-                  <td class="px-5 py-3.5 text-white/75">{keyProducts}</td>
-                  <td class="whitespace-nowrap px-5 py-3.5 text-white/75">{price}</td>
-                </>
-              </tr>
-            ))
-          }
-        </tbody>
-      </table>
-    </div>
-    <p class="mt-8 text-sm text-white/70">
-      Typical wholesale unit prices in USD. Final pricing depends on material, size, quantity, and packaging — all
-      confirmed in writing before production.
-    </p>
-    <div class="mt-10 grid gap-5 md:grid-cols-3">
-      {
-        signature.map(([title, text]) => (
-          <article class="rounded-2xl border border-white/15 p-6">
-            <>
-              <h3 class="text-lg font-semibold text-[#d8c5a3]">{title}</h3>
-              <p class="mt-3 leading-7 text-white/75">{text}</p>
-            </>
-          </article>
-        ))
-      }
-    </div>
-  </div>
-</section>
-
-<!-- Production & customization -->
-<section class="mx-auto max-w-7xl px-6 py-20">
-  <div class="grid gap-10 lg:grid-cols-[.8fr_1.2fr] lg:items-start">
-    <div>
-      <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Production & customization</p>
-      <h2 class="mt-4 text-3xl font-semibold leading-tight sm:text-4xl">Scale that keeps artisan workshops running.</h2>
-      <p class="mt-6 leading-8 text-muted">
-        Customization is a large part of our work: bead materials, colors, sizes, pendant styles, centerpieces,
-        private-label packaging, custom gift boxes, and display cards. When you order custom work from us, you are not
-        just building your product line — you are creating orders that keep artisan workshops running.
+  <!-- What we make -->
+  <section class="bg-[#0f3b2f] text-white">
+    <div class="mx-auto max-w-7xl px-6 py-20">
+      <p class="text-xs font-semibold uppercase tracking-[.15em] text-[#d8c5a3]">What we make</p>
+      <h2 class="mt-4 max-w-3xl text-3xl font-semibold leading-tight sm:text-4xl">
+        A catalog across ten categories and thousands of variations.
+      </h2>
+      <div class="mt-10 overflow-x-auto rounded-2xl bg-white/5">
+        <table class="w-full min-w-[640px] text-left text-sm">
+          <thead>
+            <tr class="border-b border-white/15 text-xs uppercase tracking-wider text-white/60">
+              <th class="px-5 py-4 font-semibold">Category</th>
+              <th class="px-5 py-4 font-semibold">Key products</th>
+              <th class="px-5 py-4 font-semibold">Typical price range</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              catalogRows.map(([category, keyProducts, price]) => (
+                <tr class="border-b border-white/10 last:border-0">
+                  <>
+                    <td class="px-5 py-3.5 font-medium text-white">{category}</td>
+                    <td class="px-5 py-3.5 text-white/75">{keyProducts}</td>
+                    <td class="whitespace-nowrap px-5 py-3.5 text-white/75">{price}</td>
+                  </>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+      <p class="mt-8 text-sm text-white/70">
+        Typical wholesale unit prices in USD. Final pricing depends on material, size, quantity, and packaging — all
+        confirmed in writing before production.
       </p>
-      <a class="mt-7 inline-flex font-semibold text-primary" href="/customization">Customization options →</a>
+      <div class="mt-10 grid gap-5 md:grid-cols-3">
+        {
+          signature.map(([title, text]) => (
+            <article class="rounded-2xl border border-white/15 p-6">
+              <>
+                <h3 class="text-lg font-semibold text-[#d8c5a3]">{title}</h3>
+                <p class="mt-3 leading-7 text-white/75">{text}</p>
+              </>
+            </article>
+          ))
+        }
+      </div>
     </div>
-    <div class="grid gap-5 sm:grid-cols-2">
-      {
-        productionStats.map(([label, value]) => (
-          <article class="rounded-2xl border border-black/10 p-6">
-            <>
-              <p class="text-xl font-semibold text-gray-950">{value}</p>
-              <p class="mt-2 text-sm text-muted">{label}</p>
-            </>
-          </article>
-        ))
-      }
-    </div>
-  </div>
-</section>
+  </section>
 
-<!-- Why OUOOO exists -->
-<section class="border-y border-black/10 bg-[#f4f5f2]">
-  <div class="mx-auto max-w-7xl px-6 py-20">
-    <div class="max-w-3xl">
-      <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Why OUOOO exists</p>
-      <h2 class="mt-4 text-3xl font-semibold sm:text-4xl">A catalog built around decisions — not checkout.</h2>
-      <p class="mt-6 leading-8 text-muted">
-        OUOOO was built for the same reason our factory was built: to make religious product sourcing clearer, more
-        honest, and more practical. A catalog listing shows a price and a photo; it rarely tells you the finish, the
-        exact dimensions, the meaning of the symbol on the medal, or what still needs to be confirmed before production.
-        OUOOO organizes those details so buyers can compare properly — and know exactly what must be verified in a
-        quotation, an approved sample, or a written specification before committing.
-      </p>
-    </div>
-    <div class="mt-10 grid gap-5 md:grid-cols-2">
-      <article class="rounded-3xl bg-white p-8 sm:p-10">
-        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Respect for religious meaning</p>
-        <h3 class="mt-4 text-2xl font-semibold">Useful context without invented claims.</h3>
-        <p class="mt-5 leading-8 text-muted">
-          A cross, a crucifix, and a Marian medal are not the same thing. We add Catholic context only where it
-          genuinely fits the product, and we never present ordinary merchandise as blessed, consecrated, relic-bearing,
-          or officially approved unless that status is documented.
+  <!-- Production & customization -->
+  <section class="mx-auto max-w-7xl px-6 py-20">
+    <div class="grid gap-10 lg:grid-cols-[.8fr_1.2fr] lg:items-start">
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Production & customization</p>
+        <h2 class="mt-4 text-3xl font-semibold leading-tight sm:text-4xl">
+          Scale that keeps artisan workshops running.
+        </h2>
+        <p class="mt-6 leading-8 text-muted">
+          Customization is a large part of our work: bead materials, colors, sizes, pendant styles, centerpieces,
+          private-label packaging, custom gift boxes, and display cards. When you order custom work from us, you are not
+          just building your product line — you are creating orders that keep artisan workshops running.
         </p>
-      </article>
-      <article class="rounded-3xl bg-white p-8 sm:p-10">
-        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Verification before commitment</p>
-        <h3 class="mt-4 text-2xl font-semibold">The website informs; the written specification confirms.</h3>
-        <p class="mt-5 leading-8 text-muted">
-          Material, dimensions, MOQ, price, sample, packaging, compliance, lead time, and shipping terms are all
-          confirmed in writing before bulk production. The website helps you shortlist; the written specification
-          confirms.
-        </p>
-      </article>
+        <a class="mt-7 inline-flex font-semibold text-primary" href="/customization">Customization options →</a>
+      </div>
+      <div class="grid gap-5 sm:grid-cols-2">
+        {
+          productionStats.map(([label, value]) => (
+            <article class="rounded-2xl border border-black/10 p-6">
+              <>
+                <p class="text-xl font-semibold text-gray-950">{value}</p>
+                <p class="mt-2 text-sm text-muted">{label}</p>
+              </>
+            </article>
+          ))
+        }
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- Who we serve -->
-<section class="mx-auto max-w-7xl px-6 py-20">
-  <div class="max-w-3xl">
-    <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Who we serve</p>
-    <h2 class="mt-4 text-3xl font-semibold sm:text-4xl">Different buyers, one need: reliable product understanding.</h2>
-  </div>
-  <div class="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-4">
-    {
-      buyerTypes.map(([title, text]) => (
-        <article class="h-full rounded-2xl border border-black/10 bg-[#f6f1e8] p-7">
-          <>
-            <h3 class="text-xl font-semibold">{title}</h3>
-            <p class="mt-4 leading-7 text-muted">{text}</p>
-          </>
+  <!-- Why OUOOO exists -->
+  <section class="border-y border-black/10 bg-[#f4f5f2]">
+    <div class="mx-auto max-w-7xl px-6 py-20">
+      <div class="max-w-3xl">
+        <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Why OUOOO exists</p>
+        <h2 class="mt-4 text-3xl font-semibold sm:text-4xl">A catalog built around decisions — not checkout.</h2>
+        <p class="mt-6 leading-8 text-muted">
+          OUOOO was built for the same reason our factory was built: to make religious product sourcing clearer, more
+          honest, and more practical. A catalog listing shows a price and a photo; it rarely tells you the finish, the
+          exact dimensions, the meaning of the symbol on the medal, or what still needs to be confirmed before
+          production. OUOOO organizes those details so buyers can compare properly — and know exactly what must be
+          verified in a quotation, an approved sample, or a written specification before committing.
+        </p>
+      </div>
+      <div class="mt-10 grid gap-5 md:grid-cols-2">
+        <article class="rounded-3xl bg-white p-8 sm:p-10">
+          <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Respect for religious meaning</p>
+          <h3 class="mt-4 text-2xl font-semibold">Useful context without invented claims.</h3>
+          <p class="mt-5 leading-8 text-muted">
+            A cross, a crucifix, and a Marian medal are not the same thing. We add Catholic context only where it
+            genuinely fits the product, and we never present ordinary merchandise as blessed, consecrated,
+            relic-bearing, or officially approved unless that status is documented.
+          </p>
         </article>
-      ))
-    }
-  </div>
-</section>
-
-<!-- CTA -->
-<section class="border-t border-black/10">
-  <div class="mx-auto flex max-w-7xl flex-col gap-8 px-6 py-16 sm:flex-row sm:items-center sm:justify-between">
-    <div>
-      <p class="text-xs font-semibold uppercase tracking-[.16em] text-primary">Start a conversation</p>
-      <h2 class="mt-3 text-3xl font-semibold">Tell us what you are trying to source.</h2>
+        <article class="rounded-3xl bg-white p-8 sm:p-10">
+          <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Verification before commitment</p>
+          <h3 class="mt-4 text-2xl font-semibold">The website informs; the written specification confirms.</h3>
+          <p class="mt-5 leading-8 text-muted">
+            Material, dimensions, MOQ, price, sample, packaging, compliance, lead time, and shipping terms are all
+            confirmed in writing before bulk production. The website helps you shortlist; the written specification
+            confirms.
+          </p>
+        </article>
+      </div>
     </div>
-    <a class="btn-primary shrink-0" href="/contact">Contact us</a>
-  </div>
-</section>
+  </section>
+
+  <!-- Who we serve -->
+  <section class="mx-auto max-w-7xl px-6 py-20">
+    <div class="max-w-3xl">
+      <p class="text-xs font-semibold uppercase tracking-[.15em] text-primary">Who we serve</p>
+      <h2 class="mt-4 text-3xl font-semibold sm:text-4xl">
+        Different buyers, one need: reliable product understanding.
+      </h2>
+    </div>
+    <div class="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-4">
+      {
+        buyerTypes.map(([title, text]) => (
+          <article class="h-full rounded-2xl border border-black/10 bg-[#f6f1e8] p-7">
+            <>
+              <h3 class="text-xl font-semibold">{title}</h3>
+              <p class="mt-4 leading-7 text-muted">{text}</p>
+            </>
+          </article>
+        ))
+      }
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="border-t border-black/10">
+    <div class="mx-auto flex max-w-7xl flex-col gap-8 px-6 py-16 sm:flex-row sm:items-center sm:justify-between">
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-[.16em] text-primary">Start a conversation</p>
+        <h2 class="mt-3 text-3xl font-semibold">Tell us what you are trying to source.</h2>
+      </div>
+      <a class="btn-primary shrink-0" href="/contact">Contact us</a>
+    </div>
+  </section>
 </Layout>
