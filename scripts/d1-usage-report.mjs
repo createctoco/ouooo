@@ -40,11 +40,16 @@ if (!groups) {
   process.exit(0);
 }
 console.log('date        rowsRead      rowsWritten');
-let tr = 0, tw = 0;
+let tr = 0,
+  tw = 0;
 for (const g of groups) {
   tr += g.sum.rowsRead;
   tw += g.sum.rowsWritten;
-  console.log(`${g.dimensions.date}  ${String(g.sum.rowsRead).padStart(10)}  ${String(g.sum.rowsWritten).padStart(10)}`);
+  console.log(
+    `${g.dimensions.date}  ${String(g.sum.rowsRead).padStart(10)}  ${String(g.sum.rowsWritten).padStart(10)}`
+  );
 }
 console.log(`TOTAL ${days}d   ${String(tr).padStart(10)}  ${String(tw).padStart(10)}`);
-console.log(`AVG/day      ${String(Math.round(tr / Math.max(1, groups.length))).padStart(10)}  ${String(Math.round(tw / Math.max(1, groups.length))).padStart(10)}`);
+console.log(
+  `AVG/day      ${String(Math.round(tr / Math.max(1, groups.length))).padStart(10)}  ${String(Math.round(tw / Math.max(1, groups.length))).padStart(10)}`
+);
