@@ -28,7 +28,7 @@ const collections = curatedEntries
       : null;
   })
   .filter((entry): entry is CuratedCollection & CollectionSummary => entry !== null);
-Astro.response.headers.set('Cache-Control', 'public, s-maxage=1800, stale-while-revalidate=86400');
+Astro.response.headers.set('Cache-Control', 'public, s-maxage=86400, stale-while-revalidate=86400');
 
 const metadata = {
   title: ui('collectionsMetaTitle'),

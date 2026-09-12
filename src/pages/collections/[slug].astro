@@ -10,7 +10,7 @@ export const prerender = false;
 const requestedPage = Number.parseInt(Astro.url.searchParams.get('page') || '1', 10);
 const collection = await getCollection(BUILD_LOCALE, Astro.params.slug || '', requestedPage, 24);
 if (!collection) return new Response(null, { status: 404, statusText: 'Collection not found' });
-Astro.response.headers.set('Cache-Control', 'public, s-maxage=1800, stale-while-revalidate=86400');
+Astro.response.headers.set('Cache-Control', 'public, s-maxage=86400, stale-while-revalidate=86400');
 const metadata = {
   title: ui('collectionMetaTitle', { name: collection.name }),
   description: ui('collectionMetaDescription', { name: collection.name.toLowerCase() }),
