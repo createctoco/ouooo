@@ -65,7 +65,11 @@ export const onRequest = defineMiddleware(async (context, next) => {
     const ttl = sharedMaxAge(response);
     if (ttl > 0) {
       const headers = new Headers(response.headers);
-      headers.set('cache-control', `public, max-age=${ttl}, s-maxage=${ttl}, stale-while-revalidate=86400`);
+      // Edge copies live for the full s-maxage the route declares (crawlers keep
+      // hitting the edge instead of D1), but browsers revalidate hourly so buyers
+      // still pick up catalogue edits quickly.
+      const browserMaxAge = Math.min(ttl, 3600);
+      headers.set('cache-control', `public, max-age=${browserMaxAge}, s-maxage=${ttl}, stale-while-revalidate=86400`);
       try {
         await cache.put(
           cacheKey,

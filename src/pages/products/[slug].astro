@@ -10,7 +10,7 @@ export const prerender = false;
 
 const product = await getProductBySlug(BUILD_LOCALE, Astro.params.slug || '');
 if (!product) return new Response(null, { status: 404, statusText: 'Product not found' });
-Astro.response.headers.set('Cache-Control', 'public, s-maxage=3600, stale-while-revalidate=86400');
+Astro.response.headers.set('Cache-Control', 'public, s-maxage=86400, stale-while-revalidate=86400');
 const metadata = { title: product.title, description: product.summary };
 const related = await getRelatedProducts(product, 3);
 const schemas = Object.values(product.structuredData).filter(Boolean);
