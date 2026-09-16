@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "es",
   "sourceLocale": "en",
-  "sourceCatalogHash": "fad7212a1d2155fbae74abbea93c2bd437cd176de088e990938d7b70d9295822",
-  "generatedAt": "2026-09-15T17:51:17.103Z",
+  "sourceCatalogHash": "f999ba26d9ad2e5d2a7b8b6b8e841c7128ad8bdbb3bbdac55d2edb49329f493a",
+  "generatedAt": "2026-09-16T17:49:59.704Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAHQTG7BAOVioqqEY6ezCKTt",
-      "AAHpTG7BAOVioqqEY6eBSOsx",
-      "AAG-TG7BAOVioqqEY6ezCzHL",
-      "AAG_TG7BAOVioqqEY6ezC98e",
-      "AAEQTG7BAOVioqqEY6eDBZ1n",
-      "AAGmTG7BAOVioqqEY6edyYG7",
-      "AAEPTG7BAOVioqqEY6ezCPpW",
-      "AAGhTG7BAOVioqqEY6ezCLym",
-      "AAHmTG7BAOVioqqEY6eBTNq7",
-      "AAE9TG7BAOVioqqEY6eBT4Vk"
+      "AAFFTG7BAOVioqqEY6ezCg13",
+      "AAHNTG7BAOVioqqEY6eBSiHd",
+      "AAGTTG7BAOVioqqEY6eBTYq3",
+      "AAGjTG7BAOVioqqEY6ezCyy1",
+      "AAH-TG7BAOVioqqEY6ezCLAP",
+      "AAHwTG7BAOVioqqEY6ezCwGt",
+      "AAGzTG7BAOVioqqEY6ezCGKS",
+      "AAEFTG7BAOVioqqEY6ezC3PQ",
+      "AAGsTG7BAOVioqqEY6ee6qf5",
+      "AAELTG7BAOVioqqEY6eMTkJr"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,41 +39,32 @@
     "brooch": "Broches",
     "uncategorized": "Sin categorizar"
   },
-  "categoryGlossarySourceHash": "02e71151141b61200b1839f8e91e91fa25c9e94152c19f42a3877df34fc1f055",
+  "categoryGlossarySourceHash": "0cbbe953170f9a8dc0391643e285a65d8b2d0e43679c93487615da93aafe228d",
   "translationSummary": {
-    "ready": 601,
+    "ready": 611,
     "skipped": 1,
     "skippedProductIds": [
       "AAFmTG7BAOVioqqEY6eyn3Yb"
     ],
-    "reused": 582,
-    "generated": 19,
+    "reused": 601,
+    "generated": 10,
     "generatedProductIds": [
-      "AAHzTG7BAOVioqqEY6eykNlU",
-      "AAF-TG7BAOVioqqEY6eyn0Rl",
-      "AAGsTG7BAOVioqqEY6eynILY",
-      "AAE3TG7BAOVioqqEY6eyp2tv",
-      "AAF5TG7BAOVioqqEY6eyqXwe",
-      "AAGsTG7BAOVioqqEY6eBSy6u",
-      "AAG4TG7BAOVioqqEY6ez6Xmf",
-      "AAHPTG7BAOVioqqEY6ezprg6",
-      "AAHyTG7BAOVioqqEY6ezCH61",
-      "AAHQTG7BAOVioqqEY6ezCKTt",
-      "AAHpTG7BAOVioqqEY6eBSOsx",
-      "AAG-TG7BAOVioqqEY6ezCzHL",
-      "AAG_TG7BAOVioqqEY6ezC98e",
-      "AAEQTG7BAOVioqqEY6eDBZ1n",
-      "AAGmTG7BAOVioqqEY6edyYG7",
-      "AAEPTG7BAOVioqqEY6ezCPpW",
-      "AAGhTG7BAOVioqqEY6ezCLym",
-      "AAHmTG7BAOVioqqEY6eBTNq7",
-      "AAE9TG7BAOVioqqEY6eBT4Vk"
+      "AAFFTG7BAOVioqqEY6ezCg13",
+      "AAHNTG7BAOVioqqEY6eBSiHd",
+      "AAGjTG7BAOVioqqEY6ezCyy1",
+      "AAGTTG7BAOVioqqEY6eBTYq3",
+      "AAH-TG7BAOVioqqEY6ezCLAP",
+      "AAHwTG7BAOVioqqEY6ezCwGt",
+      "AAGzTG7BAOVioqqEY6ezCGKS",
+      "AAEFTG7BAOVioqqEY6ezC3PQ",
+      "AAGsTG7BAOVioqqEY6ee6qf5",
+      "AAELTG7BAOVioqqEY6eMTkJr"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 5,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 10,
+    "retriedBacklog": 1,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -221,7 +212,7 @@
   ],
   "translationRetries": {
     "AAFmTG7BAOVioqqEY6eyn3Yb": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "f8ac1df4fb71a719cdc2337c3d5442b1f11d6d0d22f93f61fade175288e25d75"
     }
   },
@@ -136643,6 +136634,2549 @@
             "contentHash": "913b9fc58fa977430ea14bef1f0422409e7d8217ba6c87486dc633230ba74ef8",
             "attempts": 1,
             "updatedAt": "2026-09-15T17:51:17.101Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFFTG7BAOVioqqEY6ezCg13",
+      "sourceId": "AAFFTG7BAOVioqqEY6ezCg13",
+      "sourceFingerprint": "fb2de1a3fce3f65653c67616b1e6c9fe6021dc1eaa0596d2037a79b53ba48740",
+      "locale": "es",
+      "slug": "steel-color-or-gold-metal-crucifix-ornament-ezcg13",
+      "title": "Adorno de crucifijo de metal en color acero u oro",
+      "eyebrow": "Adorno de crucifijo de metal para exhibición",
+      "summary": "Este adorno de crucifijo de metal muestra a Jesús en la cruz y está disponible en color acero u oro. Es una pieza de exhibición para el hogar, la oficina, el automóvil o el escritorio, y permite a los compradores elegir un acabado uniforme en varias unidades o combinar acabados para distintos entornos.",
+      "description": "Los compradores que eligen un adorno de crucifijo para exhibición a menudo necesitan una pieza de metal que se lea con claridad a pequeña escala. Este adorno representa a Jesús en la cruz, por lo que el corpus es visible en lugar de quedar como una simple forma de cruz. Se ofrece en color acero u oro, lo que permite elegir entre un tono plateado más frío y un tono dorado más cálido.\n\nEl adorno es adecuado para colocarlo en el hogar, la oficina, el automóvil o el escritorio. Como los dos acabados se venden como variantes, los compradores pueden pedir un solo tono para lograr un aspecto uniforme o seleccionar ambos para distintos espacios. En los datos de producto proporcionados no se indican materiales, dimensiones, método de montaje ni opciones de personalización, por lo que esos detalles deben confirmarse antes de realizar el pedido.",
+      "catholicContext": "Un crucifijo representa a Cristo en la cruz, mientras que una cruz simple no lo hace.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Adornos",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFFTG7BAOVioqqEY6ezCg13",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/He2d98a5f58f04be99cd503e4323c2046z.webp",
+      "imageAlt": "Adorno de crucifijo de metal en color acero u oro",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He2d98a5f58f04be99cd503e4323c2046z.webp",
+          "alt": "Adorno de crucifijo de metal en color acero u oro"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H579ec44f733e485faee9d9cce225b473d.webp",
+          "alt": "Adorno de crucifijo de metal en color acero u oro"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H13a61c439d9b4e72a2ed3f906abbd79fL.webp",
+          "alt": "Adorno de crucifijo de metal en color acero u oro"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H698e698afc70486b96dd32afb9c852c6V.webp",
+          "alt": "Adorno de crucifijo de metal en color acero u oro"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H90d58847f9634235b583eb5d1d9c0eeet.webp",
+          "alt": "Adorno de crucifijo de metal en color acero u oro"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3cced18025f64b3e92045174b4515489E.webp",
+          "alt": "Adorno de crucifijo de metal en color acero u oro"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H15a84d13492244e0bbf12c55253ea93c9.webp",
+          "alt": "Adorno de crucifijo de metal en color acero u oro - oro",
+          "label": "oro",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6ezCg13-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2f40634b91104bb8b21ea12e4c31d0515.webp",
+          "alt": "Adorno de crucifijo de metal en color acero u oro - color acero",
+          "label": "color acero",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6ezCg13-V--1"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Adorno de crucifijo de metal con Jesús representado en la cruz",
+        "Disponible en acabados color acero y oro",
+        "Diseñado para exhibición en el hogar, la oficina, el automóvil o el escritorio",
+        "Forma de crucifijo en lugar de una cruz simple",
+        "Dos variantes de acabado permiten una selección coordinada o combinada"
+      ],
+      "specifications": [
+        {
+          "name": "Tipo de producto",
+          "value": "Adorno de crucifijo"
+        },
+        {
+          "name": "Material",
+          "value": "Metal (según lo indicado en la fuente del producto)"
+        },
+        {
+          "name": "Variantes de acabado",
+          "value": "Color acero; Oro"
+        },
+        {
+          "name": "Diseño",
+          "value": "Cruz con Jesús (crucifijo)"
+        },
+        {
+          "name": "Lugares de exhibición",
+          "value": "Hogar, oficina, automóvil, escritorio"
+        }
+      ],
+      "applications": [
+        "Exhibición en escritorio",
+        "Exhibición en oficina",
+        "Decoración del hogar",
+        "Exhibición en automóvil"
+      ],
+      "faq": [
+        {
+          "question": "¿Es una cruz o un crucifijo?",
+          "answer": "Es un crucifijo. Los datos del producto indican que el diseño muestra una cruz con Jesús, lo que significa que el corpus está presente en lugar de una cruz simple."
+        },
+        {
+          "question": "¿Qué opciones de acabado están disponibles?",
+          "answer": "El adorno viene en dos variantes: color acero y oro. Los compradores pueden elegir uno o ambos acabados."
+        },
+        {
+          "question": "¿Dónde se puede exhibir este adorno?",
+          "answer": "La fuente indica exhibición en el hogar, la oficina, el automóvil y el escritorio."
+        }
+      ],
+      "pricing": {
+        "price": "1.35",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.99",
+          "max": "1.35"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Adorno de crucifijo de metal en color acero u oro",
+          "description": "Este adorno de crucifijo de metal muestra a Jesús en la cruz y está disponible en color acero u oro. Es una pieza de exhibición para el hogar, la oficina, el automóvil o el escritorio, y permite a los compradores elegir un acabado uniforme en varias unidades o combinar acabados para distintos entornos.",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6ezCg13",
+          "image": [
+            "https://sc04.alicdn.com/kf/He2d98a5f58f04be99cd503e4323c2046z.png",
+            "https://sc04.alicdn.com/kf/H579ec44f733e485faee9d9cce225b473d.png",
+            "https://sc04.alicdn.com/kf/H13a61c439d9b4e72a2ed3f906abbd79fL.png",
+            "https://sc04.alicdn.com/kf/H698e698afc70486b96dd32afb9c852c6V.png",
+            "https://sc04.alicdn.com/kf/H90d58847f9634235b583eb5d1d9c0eeet.png",
+            "https://sc04.alicdn.com/kf/H3cced18025f64b3e92045174b4515489E.png"
+          ],
+          "category": "Adornos",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de producto",
+              "value": "Adorno de crucifijo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Metal (según lo indicado en la fuente del producto)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes de acabado",
+              "value": "Color acero; Oro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Diseño",
+              "value": "Cruz con Jesús (crucifijo)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lugares de exhibición",
+              "value": "Hogar, oficina, automóvil, escritorio"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.35",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.99",
+              "maxPrice": "1.35",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿Es una cruz o un crucifijo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Es un crucifijo. Los datos del producto indican que el diseño muestra una cruz con Jesús, lo que significa que el corpus está presente en lugar de una cruz simple."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué opciones de acabado están disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El adorno viene en dos variantes: color acero y oro. Los compradores pueden elegir uno o ambos acabados."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Dónde se puede exhibir este adorno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La fuente indica exhibición en el hogar, la oficina, el automóvil y el escritorio."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4e149d8a02af283d2df4702f9cf7928a4efc13ff19c38d420c31da8c360a4d33",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4e149d8a02af283d2df4702f9cf7928a4efc13ff19c38d420c31da8c360a4d33",
+            "contentHash": "4e149d8a02af283d2df4702f9cf7928a4efc13ff19c38d420c31da8c360a4d33",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:47:41.813Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "4e149d8a02af283d2df4702f9cf7928a4efc13ff19c38d420c31da8c360a4d33",
+            "contentHash": "2e81981b1dc74966c8c12d42c93de21d991c3a7b62967b3c0069eaccde21957d",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:25.815Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHNTG7BAOVioqqEY6eBSiHd",
+      "sourceId": "AAHNTG7BAOVioqqEY6eBSiHd",
+      "sourceFingerprint": "285b3104b37c4f3cf9658e0d68c534865efded7faaecea56096173089713095d",
+      "locale": "es",
+      "slug": "our-lady-of-guadalupe-alloy-necklace-with-cross-ebsihd",
+      "title": "Collar de aleación de Nuestra Señora de Guadalupe con cruz",
+      "eyebrow": "Collar mariano con colgante de cruz",
+      "summary": "Un collar de aleación con un colgante mariano de Nuestra Señora de Guadalupe y una cruz, suspendido en una cadena de collar sencilla. Se ofrece en cuatro variantes de tono dorado: Gold, Gold2, Gold3 y Gold4. Esta pieza de joyería religiosa lista para stock se adapta a líneas de regalo y accesorios devocionales.",
+      "description": "Este collar está construido en torno a un colgante de aleación que combina una imagen de Nuestra Señora de Guadalupe con una cruz, montado en una cadena de collar sencilla. La construcción es completamente de aleación metálica con acabados en tono dorado, lo que da a la pieza un aspecto uniforme entre el colgante y la cadena. El colgante y la cadena están fijados como una sola unidad, por lo que no hay componentes separados que ensamblar o combinar. Para los compradores mayoristas, la decisión principal es la selección de variante: Gold, Gold2, Gold3 y Gold4 ofrecen diferentes tonos dorados dentro del mismo diseño. El formato de collar sencillo mantiene el collar ligero y fácil de superponer o presentar en una tarjeta de joyería estándar. Debido a que el diseño es mariano y cruciforme, encaja naturalmente en secciones de regalos religiosos. Confirme las cantidades de variantes y las necesidades de empaque al hacer el pedido, ya que el listado no especifica formatos de caja o tarjeta.",
+      "catholicContext": "Nuestra Señora de Guadalupe es un título mariano de la Virgen María, venerada en la tradición católica; una cruz es un símbolo cristiano que puede o no incluir el cuerpo de Cristo.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Collares de moda",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHNTG7BAOVioqqEY6eBSiHd",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H7cd80a2cf9d4419abd62871551d808bah.webp",
+      "imageAlt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7cd80a2cf9d4419abd62871551d808bah.webp",
+          "alt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H80c5c216aab24409a55fe00ac09bde00v.webp",
+          "alt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H10961195ae3a40e4b3ff5979d990ad06t.webp",
+          "alt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H164e67a6a36a44b180da54f58818a19br.webp",
+          "alt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb73f3ef577214b4d9e04e21f517b4fe3k.webp",
+          "alt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf0fee7a3c19c4a98a33f47ec487302d2U.webp",
+          "alt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz - gold4",
+          "label": "gold4",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6eBSiHd-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd3373e5272624a68a5254b24d01bc925O.webp",
+          "alt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz - gold2",
+          "label": "gold2",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6eBSiHd-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfd74fb3fe0da4e078e99ea1429a84d2cB.webp",
+          "alt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz - gold3",
+          "label": "gold3",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6eBSiHd-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H765f736648bf4c7a9ace798643ff3cd0s.webp",
+          "alt": "Collar de aleación de Nuestra Señora de Guadalupe con cruz - gold",
+          "label": "gold",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6eBSiHd-V-3331116"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Construcción de aleación metálica con acabado en tono dorado",
+        "El colgante presenta a Nuestra Señora de Guadalupe y una cruz",
+        "Cadena de collar sencilla, fijada al colgante como una sola unidad",
+        "Cuatro variantes de tono dorado: Gold, Gold2, Gold3, Gold4",
+        "Motivos marianos y de cruz en un solo collar"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Aleación"
+        },
+        {
+          "name": "Acabado",
+          "value": "Tono dorado"
+        },
+        {
+          "name": "Tipo de cadena",
+          "value": "Collar sencillo"
+        },
+        {
+          "name": "Motivos del colgante",
+          "value": "Nuestra Señora de Guadalupe y cruz"
+        },
+        {
+          "name": "Variantes",
+          "value": "Gold, Gold2, Gold3, Gold4"
+        },
+        {
+          "name": "Peso",
+          "value": "No especificado"
+        }
+      ],
+      "applications": [
+        "Surtidos de joyería religiosa al por mayor",
+        "Selección de regalos devocionales marianos",
+        "Inventario de tiendas de artículos religiosos"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecho el collar?",
+          "answer": "El collar está hecho de aleación con acabado en tono dorado, según los atributos del producto."
+        },
+        {
+          "question": "¿Qué variantes están disponibles?",
+          "answer": "El collar viene en cuatro variantes: Gold, Gold2, Gold3 y Gold4."
+        },
+        {
+          "question": "¿El colgante incluye un crucifijo o una cruz simple?",
+          "answer": "Los datos del producto especifican una cruz; no se menciona el cuerpo de Cristo, por lo que se lista como cruz en lugar de crucifijo."
+        }
+      ],
+      "pricing": {
+        "price": "2.64",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "2.37",
+          "max": "2.64"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collar de aleación de Nuestra Señora de Guadalupe con cruz",
+          "description": "Un collar de aleación con un colgante mariano de Nuestra Señora de Guadalupe y una cruz, suspendido en una cadena de collar sencilla. Se ofrece en cuatro variantes de tono dorado: Gold, Gold2, Gold3 y Gold4. Esta pieza de joyería religiosa lista para stock se adapta a líneas de regalo y accesorios devocionales.",
+          "sku": "ALI-AAHNTG7BAOVioqqEY6eBSiHd",
+          "image": [
+            "https://sc04.alicdn.com/kf/H7cd80a2cf9d4419abd62871551d808bah.jpg",
+            "https://sc04.alicdn.com/kf/H80c5c216aab24409a55fe00ac09bde00v.jpg",
+            "https://sc04.alicdn.com/kf/H10961195ae3a40e4b3ff5979d990ad06t.jpg",
+            "https://sc04.alicdn.com/kf/H164e67a6a36a44b180da54f58818a19br.jpg",
+            "https://sc04.alicdn.com/kf/Hb73f3ef577214b4d9e04e21f517b4fe3k.jpg"
+          ],
+          "category": "Collares de moda",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Aleación"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Acabado",
+              "value": "Tono dorado"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de cadena",
+              "value": "Collar sencillo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motivos del colgante",
+              "value": "Nuestra Señora de Guadalupe y cruz"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Gold, Gold2, Gold3, Gold4"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Peso",
+              "value": "No especificado"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.64",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "2.37",
+              "maxPrice": "2.64",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecho el collar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El collar está hecho de aleación con acabado en tono dorado, según los atributos del producto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué variantes están disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El collar viene en cuatro variantes: Gold, Gold2, Gold3 y Gold4."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿El colgante incluye un crucifijo o una cruz simple?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los datos del producto especifican una cruz; no se menciona el cuerpo de Cristo, por lo que se lista como cruz en lugar de crucifijo."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "43c279580754aa293864e5cf082b017a0f4472a6c0807d1fdc1359bbb66b64b6",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "43c279580754aa293864e5cf082b017a0f4472a6c0807d1fdc1359bbb66b64b6",
+            "contentHash": "43c279580754aa293864e5cf082b017a0f4472a6c0807d1fdc1359bbb66b64b6",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:47:40.749Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "43c279580754aa293864e5cf082b017a0f4472a6c0807d1fdc1359bbb66b64b6",
+            "contentHash": "790a4f1f8581bb6a4a22497f7acdcdb5a4e51c0cfa5d9c11c0dd3900cc429ebf",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:29.704Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGjTG7BAOVioqqEY6ezCyy1",
+      "sourceId": "AAGjTG7BAOVioqqEY6ezCyy1",
+      "sourceFingerprint": "22fff77c1bef6a85c30c5676a7de339074632b2e31b9f30f33884d6d539de6a8",
+      "locale": "es",
+      "slug": "retro-metal-st-benedict-badge-ornament-ezcyy1",
+      "title": "Adorno Retro de Insignia de San Benito en Metal",
+      "eyebrow": "Adorno de insignia de San Benito en metal",
+      "summary": "Este adorno retro de metal presenta una insignia de San Benito en aleación. Está disponible en variantes de color café, marrón y plateado. Adecuado para el interior del automóvil y exhibición en escritorio, sirve como accesorio religioso decorativo.",
+      "description": "El adorno de insignia de San Benito está hecho de aleación con un acabado metálico retro. Viene en tres variantes de color: café, marrón y plateado. La pieza es lo suficientemente pequeña para usarse como adorno en el interior del automóvil o en el escritorio. Pertenece a la categoría de adornos. La fuente no proporciona dimensiones ni detalles de montaje. La insignia representa a San Benito, una figura asociada con las medallas devocionales católicas. Como artículo de venta al por menor, no es un sacramental y no posee ningún estatus religioso más allá de su diseño.",
+      "catholicContext": "El Catecismo Católico incluye las medallas entre las formas de piedad popular en torno a la vida sacramental.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Adornos",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAGjTG7BAOVioqqEY6ezCyy1",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hf36af43cb7bf42adb19d3f0e7559a84cm.webp",
+      "imageAlt": "Adorno Retro de Insignia de San Benito en Metal",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf36af43cb7bf42adb19d3f0e7559a84cm.webp",
+          "alt": "Adorno Retro de Insignia de San Benito en Metal"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf939d50e0a9d49d28a929ad22754c3f7V.webp",
+          "alt": "Adorno Retro de Insignia de San Benito en Metal"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcddbd9fbbc78492abb48ac489678a0d8X.webp",
+          "alt": "Adorno Retro de Insignia de San Benito en Metal"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc03cf8dc893040cbb3e56b1b1dd4f02dh.webp",
+          "alt": "Adorno Retro de Insignia de San Benito en Metal"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H213dba0d63714aa5868d2497258481f6e.webp",
+          "alt": "Adorno Retro de Insignia de San Benito en Metal"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H677823f3c7af474097a782e913366836T.webp",
+          "alt": "Adorno Retro de Insignia de San Benito en Metal"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H32ad698bdc9e4b9ba442977833e5763eM.webp",
+          "alt": "Adorno Retro de Insignia de San Benito en Metal - plateado",
+          "label": "plateado",
+          "sku": "ALI-AAGjTG7BAOVioqqEY6ezCyy1-V-3460547"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb0d19bb6143e4572bdcb14fcb82da985p.webp",
+          "alt": "Adorno Retro de Insignia de San Benito en Metal - café",
+          "label": "café",
+          "sku": "ALI-AAGjTG7BAOVioqqEY6ezCyy1-V-3778969"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7d64e647c48144eea7f40cf03bcd2042E.webp",
+          "alt": "Adorno Retro de Insignia de San Benito en Metal - marrón",
+          "label": "marrón",
+          "sku": "ALI-AAGjTG7BAOVioqqEY6ezCyy1-V-3399503"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Fabricado en aleación",
+        "Estilo metálico retro",
+        "Diseño de insignia de San Benito",
+        "Tres variantes de color: café, marrón, plateado",
+        "Categorizado como adorno"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Aleación"
+        },
+        {
+          "name": "Estilo",
+          "value": "Metal retro"
+        },
+        {
+          "name": "Variantes",
+          "value": "Café, Marrón, Plateado"
+        },
+        {
+          "name": "Categoría",
+          "value": "Adornos"
+        }
+      ],
+      "applications": [
+        "Decoración para el interior del automóvil",
+        "Adorno de escritorio",
+        "Artículo de regalo religioso"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué está hecha la insignia de San Benito?",
+          "answer": "La insignia está hecha de aleación según los atributos del producto. No se proporcionan más especificaciones de materiales."
+        },
+        {
+          "question": "¿Qué opciones de color están disponibles?",
+          "answer": "Viene en tres variantes: café, marrón y plateado."
+        },
+        {
+          "question": "¿Dónde se puede usar este adorno?",
+          "answer": "Está diseñado para el interior del automóvil o exhibición en escritorio como adorno religioso."
+        }
+      ],
+      "pricing": {
+        "price": "0.80",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.58",
+          "max": "0.80"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Adorno Retro de Insignia de San Benito en Metal",
+          "description": "Este adorno retro de metal presenta una insignia de San Benito en aleación. Está disponible en variantes de color café, marrón y plateado. Adecuado para el interior del automóvil y exhibición en escritorio, sirve como accesorio religioso decorativo.",
+          "sku": "ALI-AAGjTG7BAOVioqqEY6ezCyy1",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hf36af43cb7bf42adb19d3f0e7559a84cm.png",
+            "https://sc04.alicdn.com/kf/Hf939d50e0a9d49d28a929ad22754c3f7V.png",
+            "https://sc04.alicdn.com/kf/Hcddbd9fbbc78492abb48ac489678a0d8X.png",
+            "https://sc04.alicdn.com/kf/Hc03cf8dc893040cbb3e56b1b1dd4f02dh.png",
+            "https://sc04.alicdn.com/kf/H213dba0d63714aa5868d2497258481f6e.png",
+            "https://sc04.alicdn.com/kf/H677823f3c7af474097a782e913366836T.png"
+          ],
+          "category": "Adornos",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Aleación"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Estilo",
+              "value": "Metal retro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Café, Marrón, Plateado"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Categoría",
+              "value": "Adornos"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.80",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.58",
+              "maxPrice": "0.80",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué está hecha la insignia de San Benito?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La insignia está hecha de aleación según los atributos del producto. No se proporcionan más especificaciones de materiales."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué opciones de color están disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Viene en tres variantes: café, marrón y plateado."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Dónde se puede usar este adorno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Está diseñado para el interior del automóvil o exhibición en escritorio como adorno religioso."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "43d17044eab29843fc1251a2f0844f288829b3b826082d18de766c94e83aaaf2",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "43d17044eab29843fc1251a2f0844f288829b3b826082d18de766c94e83aaaf2",
+            "contentHash": "43d17044eab29843fc1251a2f0844f288829b3b826082d18de766c94e83aaaf2",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:47:39.275Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "43d17044eab29843fc1251a2f0844f288829b3b826082d18de766c94e83aaaf2",
+            "contentHash": "c9fc59a9a611a790530c953c2113d3bd5ed2d8a613cb92bd3284bfdb5487ffd8",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:32.698Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGTTG7BAOVioqqEY6eBTYq3",
+      "sourceId": "AAGTTG7BAOVioqqEY6eBTYq3",
+      "sourceFingerprint": "c77d7aa19b88ae11c9b77ac41781cca9a76f04a014bd81b427a91a9349548639",
+      "locale": "es",
+      "slug": "stainless-steel-virgin-mary-bead-bracelet-woven-adjustable-ebtyq3",
+      "title": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable",
+      "eyebrow": "Pulsera de cuentas de acero inoxidable con medallón de la Virgen María y banda tejida ajustable",
+      "summary": "Esta pulsera de cuentas de acero inoxidable combina un elemento central de la Virgen María con una banda tejida que se ajusta a diferentes tamaños de muñeca. Está disponible en negro o rojo y es adecuada para uso devocional o venta al por menor de joyería religiosa. La construcción utiliza cuentas de acero inoxidable y un cordón tejido.",
+      "description": "Una pulsera de cuentas de acero inoxidable centrada en un elemento de la Virgen María, ensartada en una banda tejida que se ajusta a diferentes muñecas. La mezcla de cuentas de metal y cordón textil le da una sensación diferente a la de una pulsera de cadena totalmente metálica. Los compradores que elijan entre esta y una pulsera de rosario estándar deben tener en cuenta el cierre tejido ajustable y los dos colores disponibles. Llega en negro o rojo. Las cuentas de acero inoxidable son el núcleo estructural, mientras que la banda tejida proporciona el ajuste ajustable. Se puede comercializar junto con pulseras de rosario o joyería mariana.",
+      "catholicContext": "La devoción mariana se centra en la Virgen María, y el Rosario es una oración católica centrada en la contemplación de los acontecimientos de la vida de Jesucristo y de la Virgen María.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Pulseras de rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGTTG7BAOVioqqEY6eBTYq3",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Ha2d7ab7b48cf418281ea4b9cbbafb166e.webp",
+      "imageAlt": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha2d7ab7b48cf418281ea4b9cbbafb166e.webp",
+          "alt": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6b67d26442e64ee781ade4616c232faek.webp",
+          "alt": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb49abd4d5971402994f930639142a5ff4.webp",
+          "alt": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb1c44413e8c44359b2a78c90e60cd897L.webp",
+          "alt": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H712ae29f20104080a67455d880ffca2fy.webp",
+          "alt": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3dedf14ef02b405587289d00868c04d5C.webp",
+          "alt": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable - rojo",
+          "label": "rojo",
+          "sku": "ALI-AAGTTG7BAOVioqqEY6eBTYq3-V-3331260"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdbc7cdfcb8b54065bf03fdd0ef1467f43.webp",
+          "alt": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable - negro",
+          "label": "negro",
+          "sku": "ALI-AAGTTG7BAOVioqqEY6eBTYq3-V-3327837"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Construcción de cuentas de acero inoxidable",
+        "Elemento central de la Virgen María",
+        "Banda tejida ajustable",
+        "Disponible en negro o rojo",
+        "Categorizada como pulsera de rosario"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cuentas de acero inoxidable con banda tejida"
+        },
+        {
+          "name": "Elemento central",
+          "value": "Virgen María"
+        },
+        {
+          "name": "Tipo de banda",
+          "value": "Tejida, ajustable"
+        },
+        {
+          "name": "Variantes de color",
+          "value": "Negro, Rojo"
+        },
+        {
+          "name": "Categoría de producto",
+          "value": "Pulseras de rosario"
+        }
+      ],
+      "applications": [
+        "Uso devocional personal",
+        "Exhibición minorista de joyería religiosa",
+        "Surtido de pulseras de rosario",
+        "Regalo para la devoción mariana"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecha la pulsera?",
+          "answer": "La pulsera utiliza cuentas de acero inoxidable y una banda tejida."
+        },
+        {
+          "question": "¿Qué colores están disponibles?",
+          "answer": "Está disponible en negro y rojo."
+        },
+        {
+          "question": "¿La pulsera es ajustable?",
+          "answer": "Sí, la banda tejida es ajustable."
+        }
+      ],
+      "pricing": {
+        "price": "3.39",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "2.97",
+          "max": "3.39"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pulsera de cuentas de acero inoxidable con la Virgen María, tejida y ajustable",
+          "description": "Esta pulsera de cuentas de acero inoxidable combina un elemento central de la Virgen María con una banda tejida que se ajusta a diferentes tamaños de muñeca. Está disponible en negro o rojo y es adecuada para uso devocional o venta al por menor de joyería religiosa. La construcción utiliza cuentas de acero inoxidable y un cordón tejido.",
+          "sku": "ALI-AAGTTG7BAOVioqqEY6eBTYq3",
+          "image": [
+            "https://sc04.alicdn.com/kf/Ha2d7ab7b48cf418281ea4b9cbbafb166e.jpg",
+            "https://sc04.alicdn.com/kf/H6b67d26442e64ee781ade4616c232faek.jpg",
+            "https://sc04.alicdn.com/kf/Hb49abd4d5971402994f930639142a5ff4.jpg",
+            "https://sc04.alicdn.com/kf/Hb1c44413e8c44359b2a78c90e60cd897L.jpg",
+            "https://sc04.alicdn.com/kf/H712ae29f20104080a67455d880ffca2fy.jpg"
+          ],
+          "category": "Pulseras de rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cuentas de acero inoxidable con banda tejida"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Elemento central",
+              "value": "Virgen María"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de banda",
+              "value": "Tejida, ajustable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes de color",
+              "value": "Negro, Rojo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Categoría de producto",
+              "value": "Pulseras de rosario"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "3.39",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "2.97",
+              "maxPrice": "3.39",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecha la pulsera?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La pulsera utiliza cuentas de acero inoxidable y una banda tejida."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué colores están disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Está disponible en negro y rojo."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿La pulsera es ajustable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, la banda tejida es ajustable."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "8d8b258d9062dc23a1d80985b964844eb044ecff148d22611219cdc48860b9ac",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "8d8b258d9062dc23a1d80985b964844eb044ecff148d22611219cdc48860b9ac",
+            "contentHash": "8d8b258d9062dc23a1d80985b964844eb044ecff148d22611219cdc48860b9ac",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:48:00.250Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "8d8b258d9062dc23a1d80985b964844eb044ecff148d22611219cdc48860b9ac",
+            "contentHash": "bb03249d89f25603d6db5086b6683485d673c657f789dc715c3d8f9b4f62c0df",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:36.008Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH-TG7BAOVioqqEY6ezCLAP",
+      "sourceId": "AAH-TG7BAOVioqqEY6ezCLAP",
+      "sourceFingerprint": "e505ba039915095369525f6c1a679043d3de062972bcd0bbe45d9cfbb14a25ab",
+      "locale": "es",
+      "slug": "antique-silver-three-way-rosary-connector-pendant-ezclap",
+      "title": "Pendiente conector de rosario de tres vías en plata antigua",
+      "eyebrow": "Pendiente conector de rosario de tres vías de aleación de zinc con motivo de cruz y María, baño de plata antigua",
+      "summary": "Pendiente conector de tres vías fundido en aleación de zinc con baño de plata antigua. El motivo de cruz y María es adecuado para el armado de rosarios, y el diseño unisex sirve para joyería religiosa de hombre y mujer. La fabricación de moldes y la creación de muestras están disponibles para este accesorio de rosario.",
+      "description": "Este pendiente está fundido en aleación de zinc y acabado con baño de plata antigua, una combinación que da al motivo de cruz y María un tono apagado y envejecido. El formato de tres vías está pensado para la construcción de rosarios, donde puede unir los hilos de un rosario. Como no se utiliza piedra principal ni incrustación, la forma y el baño definen el diseño. La pieza se clasifica como pendiente o dije unisex y es adecuada para proyectos de joyería religiosa. Para el abastecimiento, la fabricación de moldes y la creación de muestras están disponibles, y el número de modelo es XDZ25506.",
+      "catholicContext": "El Rosario es una oración católica centrada en la contemplación de los acontecimientos de la vida de Jesucristo y de la Virgen María, y sus misterios tradicionales se agrupan en Gozosos, Luminosos, Dolorosos y Gloriosos.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accesorios",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAH-TG7BAOVioqqEY6ezCLAP",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hb8dde7dab072428392c5b41c3803d6939.webp",
+      "imageAlt": "Pendiente conector de rosario de tres vías en plata antigua",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb8dde7dab072428392c5b41c3803d6939.webp",
+          "alt": "Pendiente conector de rosario de tres vías en plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha4d2fccd9a48447cac54d1697af91d291.webp",
+          "alt": "Pendiente conector de rosario de tres vías en plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8bd52900e62f4b599e2c0d835d093febb.webp",
+          "alt": "Pendiente conector de rosario de tres vías en plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha57b499ac37a45c3b68bcc9d2f468f73j.webp",
+          "alt": "Pendiente conector de rosario de tres vías en plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf187edb781434211864108bdd9062a46D.webp",
+          "alt": "Pendiente conector de rosario de tres vías en plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H409e8a3de81c4855bb49e14d1dd2e808J.webp",
+          "alt": "Pendiente conector de rosario de tres vías en plata antigua"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Cuerpo de aleación de zinc con baño de plata antigua",
+        "Formato conector de tres vías para el armado de rosarios",
+        "Motivo de cruz y María en estilo plateado retro",
+        "Clasificación como pendiente o dije unisex",
+        "Sin piedra principal, incrustación ni certificado",
+        "Fabricación de moldes y creación de muestras disponibles"
+      ],
+      "specifications": [
+        {
+          "name": "Material principal de joyería",
+          "value": "Aleación"
+        },
+        {
+          "name": "Tipo de material",
+          "value": "Aleación de zinc"
+        },
+        {
+          "name": "Baño",
+          "value": "Baño de plata antigua"
+        },
+        {
+          "name": "Tipo de pendiente o dije",
+          "value": "Dijes colgantes"
+        },
+        {
+          "name": "Forma/diseño",
+          "value": "Cruz"
+        },
+        {
+          "name": "Tipo religioso",
+          "value": "Catolicismo"
+        },
+        {
+          "name": "Estilo",
+          "value": "Religioso"
+        },
+        {
+          "name": "Género",
+          "value": "Unisex, mujer, hombre"
+        },
+        {
+          "name": "Piedra principal",
+          "value": "Ninguna"
+        },
+        {
+          "name": "Tecnología de incrustación",
+          "value": "Ninguna"
+        },
+        {
+          "name": "Ocasión",
+          "value": "Aniversario"
+        },
+        {
+          "name": "Tipo de certificado",
+          "value": "Ninguno"
+        },
+        {
+          "name": "Lugar de origen",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Número de modelo",
+          "value": "XDZ25506"
+        },
+        {
+          "name": "Nombre de marca",
+          "value": "Ninguno"
+        }
+      ],
+      "applications": [
+        "Armado y reparación de rosarios",
+        "Fabricación de joyería religiosa",
+        "Accesorio para regalo católico",
+        "Pendiente o dije de aniversario"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecho el pendiente conector de rosario de tres vías?",
+          "answer": "El pendiente está hecho de aleación de zinc con baño de plata antigua. No se utiliza piedra principal ni incrustación."
+        },
+        {
+          "question": "¿Este pendiente es adecuado para hacer o reparar un rosario?",
+          "answer": "Sí. El formato conector de tres vías está pensado para la construcción de rosarios, donde puede unir los hilos de un rosario. Los datos del producto lo clasifican como accesorio conector de rosario."
+        },
+        {
+          "question": "¿Se puede personalizar este pendiente?",
+          "answer": "Los datos del producto indican que los servicios de fabricación de moldes y creación de muestras están disponibles para este artículo. Contáctenos para comentar sus requisitos."
+        }
+      ],
+      "pricing": {
+        "price": "0.04",
+        "regularPrice": "0.04",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.04"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pendiente conector de rosario de tres vías en plata antigua",
+          "description": "Pendiente conector de tres vías fundido en aleación de zinc con baño de plata antigua. El motivo de cruz y María es adecuado para el armado de rosarios, y el diseño unisex sirve para joyería religiosa de hombre y mujer. La fabricación de moldes y la creación de muestras están disponibles para este accesorio de rosario.",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6ezCLAP",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb8dde7dab072428392c5b41c3803d6939.png",
+            "https://sc04.alicdn.com/kf/Ha4d2fccd9a48447cac54d1697af91d291.png",
+            "https://sc04.alicdn.com/kf/H8bd52900e62f4b599e2c0d835d093febb.png",
+            "https://sc04.alicdn.com/kf/Ha57b499ac37a45c3b68bcc9d2f468f73j.png",
+            "https://sc04.alicdn.com/kf/Hf187edb781434211864108bdd9062a46D.png",
+            "https://sc04.alicdn.com/kf/H409e8a3de81c4855bb49e14d1dd2e808J.png"
+          ],
+          "category": "Accesorios",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material principal de joyería",
+              "value": "Aleación"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de material",
+              "value": "Aleación de zinc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Baño",
+              "value": "Baño de plata antigua"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de pendiente o dije",
+              "value": "Dijes colgantes"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma/diseño",
+              "value": "Cruz"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo religioso",
+              "value": "Catolicismo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Estilo",
+              "value": "Religioso"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Género",
+              "value": "Unisex, mujer, hombre"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Piedra principal",
+              "value": "Ninguna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tecnología de incrustación",
+              "value": "Ninguna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Ocasión",
+              "value": "Aniversario"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de certificado",
+              "value": "Ninguno"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lugar de origen",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Número de modelo",
+              "value": "XDZ25506"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Nombre de marca",
+              "value": "Ninguno"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.04",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.04",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecho el pendiente conector de rosario de tres vías?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El pendiente está hecho de aleación de zinc con baño de plata antigua. No se utiliza piedra principal ni incrustación."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Este pendiente es adecuado para hacer o reparar un rosario?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí. El formato conector de tres vías está pensado para la construcción de rosarios, donde puede unir los hilos de un rosario. Los datos del producto lo clasifican como accesorio conector de rosario."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Se puede personalizar este pendiente?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los datos del producto indican que los servicios de fabricación de moldes y creación de muestras están disponibles para este artículo. Contáctenos para comentar sus requisitos."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "b4a4fbd82cd648fa92939ba7fd96a2934c5f548e1e0dde8be5a8aeef4420889e",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "b4a4fbd82cd648fa92939ba7fd96a2934c5f548e1e0dde8be5a8aeef4420889e",
+            "contentHash": "b4a4fbd82cd648fa92939ba7fd96a2934c5f548e1e0dde8be5a8aeef4420889e",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:47:43.402Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "b4a4fbd82cd648fa92939ba7fd96a2934c5f548e1e0dde8be5a8aeef4420889e",
+            "contentHash": "79d571469cb629401134bf9f34e2873a745bc1f1a9c0a2ee2abea224e1c89bfb",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:40.358Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHwTG7BAOVioqqEY6ezCwGt",
+      "sourceId": "AAHwTG7BAOVioqqEY6ezCwGt",
+      "sourceFingerprint": "17e734dbf346b8e767bd286bb6eee1f8e8d97b10010d88580da4fe72b5e7dd59",
+      "locale": "es",
+      "slug": "saint-benedict-antique-silver-alloy-rosary-connector-charm-ezcwgt",
+      "title": "Dije conector de rosario de San Benito en aleación de plata antigua",
+      "eyebrow": "Dije colgante conector de rosario de San Benito en aleación de zinc con baño de plata antigua",
+      "summary": "Dije en aleación de zinc con baño de plata antigua y diseño de San Benito. Funciona como conector de rosario o colgante para collares, pulseras y ensamblaje DIY. El estilo unisex se adapta a joyería religiosa de hombre y mujer, y hay servicio de fabricación de moldes para proyectos personalizados.",
+      "description": "Este dije de San Benito combina un acabado con baño de plata antigua con un motivo religioso vintage, lo que le da un tono suavemente envejecido en lugar de un pulido brillante. La base de aleación de zinc admite un relieve detallado, y el estilo unisex lo mantiene adecuado tanto para joyería de hombre como de mujer. Puede servir como conector de rosario o como colgante en un collar o pulsera. La superficie con baño de plata antigua es adecuada para ocasiones de aniversario, compromiso, boda, fiesta y regalo. Se ofrecen servicios de fabricación de moldes y de muestras para compradores que necesitan desarrollo personalizado.",
+      "catholicContext": "El Rosario es una oración católica de contemplación de la vida de Jesucristo y la Virgen María, con misterios agrupados en Gozosos, Luminosos, Dolorosos y Gloriosos; este dije de San Benito en aleación de zinc puede usarse para ensamblar o reparar un rosario o llevarse como joyería devocional.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accesorios",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAHwTG7BAOVioqqEY6ezCwGt",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H8387316bf553464791979f8ba825a449D.webp",
+      "imageAlt": "Dije conector de rosario de San Benito en aleación de plata antigua",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8387316bf553464791979f8ba825a449D.webp",
+          "alt": "Dije conector de rosario de San Benito en aleación de plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0c3ac36325574961806801d924a933991.webp",
+          "alt": "Dije conector de rosario de San Benito en aleación de plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9f7c06bb55f24a3787e23f0fb60dd5c8D.webp",
+          "alt": "Dije conector de rosario de San Benito en aleación de plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5ca50e68971c4828af849eb9d728b389f.webp",
+          "alt": "Dije conector de rosario de San Benito en aleación de plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1673b1d62d434f1bb6bb85224608df14w.webp",
+          "alt": "Dije conector de rosario de San Benito en aleación de plata antigua"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd2de6e78baf140bb8d40cbcd801d2190j.webp",
+          "alt": "Dije conector de rosario de San Benito en aleación de plata antigua"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Acabado con baño de plata antigua sobre aleación de zinc",
+        "Forma de dije colgante de San Benito",
+        "Adecuado como conector de rosario o colgante",
+        "Diseño unisex para joyería de mujer y de hombre",
+        "Sin piedra principal, perla, diamante ni incrustación",
+        "Servicio de fabricación de moldes disponible para desarrollo personalizado"
+      ],
+      "specifications": [
+        {
+          "name": "Material principal de joyería",
+          "value": "Aleación"
+        },
+        {
+          "name": "Tipo de material",
+          "value": "Aleación de zinc"
+        },
+        {
+          "name": "Baño",
+          "value": "Baño de plata antigua"
+        },
+        {
+          "name": "Tipo de joyería",
+          "value": "Colgantes o dijes"
+        },
+        {
+          "name": "Tipo de colgantes o dijes",
+          "value": "Dijes colgantes"
+        },
+        {
+          "name": "Estilo",
+          "value": "Religioso"
+        },
+        {
+          "name": "Tipo religioso",
+          "value": "Catolicismo"
+        },
+        {
+          "name": "Forma/Patrón",
+          "value": "San Benito"
+        },
+        {
+          "name": "Género",
+          "value": "Unisex, mujer, hombre"
+        },
+        {
+          "name": "Piedra principal",
+          "value": "Ninguna"
+        },
+        {
+          "name": "Tipo de perla",
+          "value": "Ninguna"
+        },
+        {
+          "name": "Forma del diamante",
+          "value": "Ninguna"
+        },
+        {
+          "name": "Tecnología de incrustación",
+          "value": "Ninguna"
+        },
+        {
+          "name": "Ocasión",
+          "value": "Aniversario, compromiso, regalo, boda, fiesta"
+        },
+        {
+          "name": "Tipo de certificado",
+          "value": "Ninguno"
+        },
+        {
+          "name": "Nombre de marca",
+          "value": "ManChao"
+        },
+        {
+          "name": "Número de modelo",
+          "value": "MC2024123001"
+        },
+        {
+          "name": "Lugar de origen",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Ensamblaje o reparación de rosarios como conector",
+        "Colgante de collar",
+        "Joyería de pulsera o dije",
+        "Joyería para regalo religioso y eventos"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecho el dije de San Benito?",
+          "answer": "El dije está hecho de aleación de zinc con un acabado con baño de plata antigua, lo que le da un tono plateado vintage. No se utiliza piedra principal, perla, diamante ni incrustación."
+        },
+        {
+          "question": "¿Se puede usar este dije como conector de rosario?",
+          "answer": "Sí. El producto se describe como accesorio conector de rosario y colgante, por lo que puede usarse en el ensamblaje o reparación de rosarios, así como llevarse como colgante."
+        },
+        {
+          "question": "¿Hay fabricación de moldes personalizados disponible para este dije?",
+          "answer": "Sí. La información del producto indica que el servicio de fabricación de moldes y de muestras está disponible para desarrollo personalizado."
+        },
+        {
+          "question": "¿Para qué ocasiones es adecuado este colgante de San Benito?",
+          "answer": "Las ocasiones indicadas son aniversario, compromiso, regalo, boda y fiesta. El estilo unisex lo hace adecuado para joyería de mujer y de hombre."
+        }
+      ],
+      "pricing": {
+        "price": "0.04",
+        "regularPrice": "0.04",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.04"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Dije conector de rosario de San Benito en aleación de plata antigua",
+          "description": "Dije en aleación de zinc con baño de plata antigua y diseño de San Benito. Funciona como conector de rosario o colgante para collares, pulseras y ensamblaje DIY. El estilo unisex se adapta a joyería religiosa de hombre y mujer, y hay servicio de fabricación de moldes para proyectos personalizados.",
+          "sku": "ALI-AAHwTG7BAOVioqqEY6ezCwGt",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8387316bf553464791979f8ba825a449D.png",
+            "https://sc04.alicdn.com/kf/H0c3ac36325574961806801d924a933991.png",
+            "https://sc04.alicdn.com/kf/H9f7c06bb55f24a3787e23f0fb60dd5c8D.png",
+            "https://sc04.alicdn.com/kf/H5ca50e68971c4828af849eb9d728b389f.png",
+            "https://sc04.alicdn.com/kf/H1673b1d62d434f1bb6bb85224608df14w.png",
+            "https://sc04.alicdn.com/kf/Hd2de6e78baf140bb8d40cbcd801d2190j.png"
+          ],
+          "category": "Accesorios",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material principal de joyería",
+              "value": "Aleación"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de material",
+              "value": "Aleación de zinc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Baño",
+              "value": "Baño de plata antigua"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de joyería",
+              "value": "Colgantes o dijes"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de colgantes o dijes",
+              "value": "Dijes colgantes"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Estilo",
+              "value": "Religioso"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo religioso",
+              "value": "Catolicismo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma/Patrón",
+              "value": "San Benito"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Género",
+              "value": "Unisex, mujer, hombre"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Piedra principal",
+              "value": "Ninguna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de perla",
+              "value": "Ninguna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma del diamante",
+              "value": "Ninguna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tecnología de incrustación",
+              "value": "Ninguna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Ocasión",
+              "value": "Aniversario, compromiso, regalo, boda, fiesta"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de certificado",
+              "value": "Ninguno"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Nombre de marca",
+              "value": "ManChao"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Número de modelo",
+              "value": "MC2024123001"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lugar de origen",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.04",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.04",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecho el dije de San Benito?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El dije está hecho de aleación de zinc con un acabado con baño de plata antigua, lo que le da un tono plateado vintage. No se utiliza piedra principal, perla, diamante ni incrustación."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Se puede usar este dije como conector de rosario?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí. El producto se describe como accesorio conector de rosario y colgante, por lo que puede usarse en el ensamblaje o reparación de rosarios, así como llevarse como colgante."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Hay fabricación de moldes personalizados disponible para este dije?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí. La información del producto indica que el servicio de fabricación de moldes y de muestras está disponible para desarrollo personalizado."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Para qué ocasiones es adecuado este colgante de San Benito?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Las ocasiones indicadas son aniversario, compromiso, regalo, boda y fiesta. El estilo unisex lo hace adecuado para joyería de mujer y de hombre."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "95abfaedfdc539d2f6953aa2a559eff801cc56b91d21026cd15df5d5b920856b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "95abfaedfdc539d2f6953aa2a559eff801cc56b91d21026cd15df5d5b920856b",
+            "contentHash": "95abfaedfdc539d2f6953aa2a559eff801cc56b91d21026cd15df5d5b920856b",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:47:45.585Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "95abfaedfdc539d2f6953aa2a559eff801cc56b91d21026cd15df5d5b920856b",
+            "contentHash": "bd67dea4206752406d09143455cc34c2fdb740d6145801b10d2da5f723f226f6",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:45.377Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGzTG7BAOVioqqEY6ezCGKS",
+      "sourceId": "AAGzTG7BAOVioqqEY6ezCGKS",
+      "sourceFingerprint": "e849b4ac3580b716a374a0d4185220170cf4f7b85dd2a0d077d05aacc58cd113",
+      "locale": "es",
+      "slug": "gold-chalice-patterned-catholic-keychain-ezcgks",
+      "title": "Llavero católico con patrón de cáliz dorado",
+      "eyebrow": "Llavero metálico religioso católico con patrón de cáliz",
+      "summary": "Un llavero metálico de tono dorado con un patrón de cáliz y un dije de copa JHS. Este pequeño accesorio religioso permite localizar fácilmente las llaves o los tiradores de bolsos y es adecuado para regalos católicos. Las opciones de variante se limitan al llavero dorado y el acabado dorado mostrados. Confirme los detalles de acabado y embalaje antes de realizar el pedido.",
+      "description": "Este llavero es una opción práctica si necesita un pequeño regalo religioso que no requiera talla ni ajuste. El colgante es un dije metálico en forma de copa con la inscripción JHS y un patrón de cáliz, suspendido de un llavero de tono dorado con la forma mostrada. El diseño se lee con claridad a simple vista, lo que ayuda cuando las llaves están enterradas en un bolso o bolsillo. Debido a que solo se listan el llavero dorado y las variantes doradas, los compradores deben confirmar con nosotros el acabado, las dimensiones del dije y el embalaje antes de realizar un pedido al por mayor.",
+      "catholicContext": "El Catecismo católico incluye las medallas y artículos similares entre las formas de piedad popular, que extienden pero no reemplazan la vida litúrgica de la Iglesia.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "83",
+          "name": "Llaveros",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAGzTG7BAOVioqqEY6ezCGKS",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H07430b4192ae464ca357fd13788f57edt.webp",
+      "imageAlt": "Llavero católico con patrón de cáliz dorado",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H07430b4192ae464ca357fd13788f57edt.webp",
+          "alt": "Llavero católico con patrón de cáliz dorado"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8f3914fe8cb14c8eb0f27538b032ec7c3.webp",
+          "alt": "Llavero católico con patrón de cáliz dorado"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2f2076f8c1a54f4cb2aeed8f06244577j.webp",
+          "alt": "Llavero católico con patrón de cáliz dorado"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He5c4a3ed6f4d4c618eb62c3ebfb945fce.webp",
+          "alt": "Llavero católico con patrón de cáliz dorado"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf0d79d5b7a334cb8bd01df2283a7c8522.webp",
+          "alt": "Llavero católico con patrón de cáliz dorado"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc4acb7fb40ff42c0a2fda3f224b4f9453.webp",
+          "alt": "Llavero católico con patrón de cáliz dorado"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H84a0552a3bb147ba85ca4df02ee42e00A.webp",
+          "alt": "Llavero católico con patrón de cáliz dorado - gold-keychain",
+          "label": "gold-keychain",
+          "sku": "ALI-AAGzTG7BAOVioqqEY6ezCGKS-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H59d45d6fff25410494946c321614771eX.webp",
+          "alt": "Llavero católico con patrón de cáliz dorado - gold",
+          "label": "gold",
+          "sku": "ALI-AAGzTG7BAOVioqqEY6ezCGKS-V-3331116"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Llavero metálico de tono dorado con dije de patrón de cáliz",
+        "Dije en forma de copa marcado con la inscripción JHS",
+        "Variante disponible: llavero dorado, acabado dorado",
+        "Diseñado como soporte colgante para llaves o accesorios de bolso",
+        "Posicionado como artículo de regalo religioso católico"
+      ],
+      "specifications": [
+        {
+          "name": "Tipo de producto",
+          "value": "Llavero con dije de copa de patrón de cáliz"
+        },
+        {
+          "name": "Material",
+          "value": "Metal"
+        },
+        {
+          "name": "Acabado / color",
+          "value": "Dorado"
+        },
+        {
+          "name": "Variante",
+          "value": "Llavero dorado; Dorado"
+        },
+        {
+          "name": "Inscripción del dije",
+          "value": "JHS"
+        },
+        {
+          "name": "Motivo del dije",
+          "value": "Patrón de cáliz"
+        }
+      ],
+      "applications": [
+        "Fijación a llavero",
+        "Dije para bolso o mochila",
+        "Artículo de regalo católico"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué está hecho este llavero?",
+          "answer": "El producto se lista como un llavero metálico con acabado dorado. La ficha no especifica la aleación metálica exacta ni la composición del baño."
+        },
+        {
+          "question": "¿Cómo es el dije?",
+          "answer": "El dije tiene forma de copa con la inscripción JHS y un patrón de cáliz, unido a un llavero dorado como se muestra."
+        },
+        {
+          "question": "¿Qué variantes están disponibles?",
+          "answer": "Las variantes listadas son el llavero dorado y el acabado dorado. No se indican otros colores o tamaños en los datos del producto."
+        },
+        {
+          "question": "¿Puedo pedir este llavero al por mayor para una parroquia o escuela?",
+          "answer": "Aceptamos consultas al por mayor para este llavero. Las cantidades, los plazos de entrega y el embalaje no se especifican en los datos actuales del producto, así que contáctenos para confirmar esos detalles antes de realizar el pedido."
+        }
+      ],
+      "pricing": {
+        "price": "0.26",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.26",
+          "max": "0.36"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Llavero católico con patrón de cáliz dorado",
+          "description": "Un llavero metálico de tono dorado con un patrón de cáliz y un dije de copa JHS. Este pequeño accesorio religioso permite localizar fácilmente las llaves o los tiradores de bolsos y es adecuado para regalos católicos. Las opciones de variante se limitan al llavero dorado y el acabado dorado mostrados. Confirme los detalles de acabado y embalaje antes de realizar el pedido.",
+          "sku": "ALI-AAGzTG7BAOVioqqEY6ezCGKS",
+          "image": [
+            "https://sc04.alicdn.com/kf/H07430b4192ae464ca357fd13788f57edt.png",
+            "https://sc04.alicdn.com/kf/H8f3914fe8cb14c8eb0f27538b032ec7c3.png",
+            "https://sc04.alicdn.com/kf/H2f2076f8c1a54f4cb2aeed8f06244577j.png",
+            "https://sc04.alicdn.com/kf/He5c4a3ed6f4d4c618eb62c3ebfb945fce.png",
+            "https://sc04.alicdn.com/kf/Hf0d79d5b7a334cb8bd01df2283a7c8522.png",
+            "https://sc04.alicdn.com/kf/Hc4acb7fb40ff42c0a2fda3f224b4f9453.png"
+          ],
+          "category": "Llaveros",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de producto",
+              "value": "Llavero con dije de copa de patrón de cáliz"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Metal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Acabado / color",
+              "value": "Dorado"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Llavero dorado; Dorado"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Inscripción del dije",
+              "value": "JHS"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motivo del dije",
+              "value": "Patrón de cáliz"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.26",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.26",
+              "maxPrice": "0.36",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué está hecho este llavero?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El producto se lista como un llavero metálico con acabado dorado. La ficha no especifica la aleación metálica exacta ni la composición del baño."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Cómo es el dije?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El dije tiene forma de copa con la inscripción JHS y un patrón de cáliz, unido a un llavero dorado como se muestra."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué variantes están disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Las variantes listadas son el llavero dorado y el acabado dorado. No se indican otros colores o tamaños en los datos del producto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Puedo pedir este llavero al por mayor para una parroquia o escuela?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Aceptamos consultas al por mayor para este llavero. Las cantidades, los plazos de entrega y el embalaje no se especifican en los datos actuales del producto, así que contáctenos para confirmar esos detalles antes de realizar el pedido."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f0eaf7bc99f0827d2c02a2228fda65e4a17024953e64a5bb1fe9dec46c81cb56",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f0eaf7bc99f0827d2c02a2228fda65e4a17024953e64a5bb1fe9dec46c81cb56",
+            "contentHash": "f0eaf7bc99f0827d2c02a2228fda65e4a17024953e64a5bb1fe9dec46c81cb56",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:47:58.580Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "f0eaf7bc99f0827d2c02a2228fda65e4a17024953e64a5bb1fe9dec46c81cb56",
+            "contentHash": "97f253237e8722c39e411577cf4cf99e9365ed35b97efedd4f62011c2f97abcc",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:49.344Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEFTG7BAOVioqqEY6ezC3PQ",
+      "sourceId": "AAEFTG7BAOVioqqEY6ezC3PQ",
+      "sourceFingerprint": "681d88f587e973992d3578e6ce6ff82b24be1edf2b15cfb0ddcb64b132f1d185",
+      "locale": "es",
+      "slug": "zinc-alloy-crucifix-ornament-with-jesus-figure-ezc3pq",
+      "title": "Adorno de crucifijo de aleación de zinc con figura de Jesús",
+      "eyebrow": "Adorno de crucifijo de aleación de zinc con figura de Jesús para exhibición en escritorio",
+      "summary": "Este adorno de aleación de zinc muestra un crucifijo con una figura de Jesús sobre una cruz de escritorio. Los compradores pueden elegir entre nueve variantes en tamaños de 13 cm, 14 cm y 15 cm con acabados verde antiguo, estaño antiguo, rojo antiguo, plata lisa y dorado. Es adecuado para surtidos de exhibición religiosa y merchandising en estanterías.",
+      "description": "Un adorno de crucifijo de metal con una figura de Jesús, dimensionado para exhibición en escritorio en lugar de montaje en pared. Las nueve variantes listadas abarcan alturas de 13 cm, 14 cm y 15 cm y acabados que incluyen verde antiguo, estaño antiguo, rojo antiguo, plata lisa y dorado. Los tamaños más pequeños permiten arreglos más compactos en estantes o mostradores, mientras que la versión de 15 cm da más presencia a la figura de Jesús en una exhibición. Como el corpus es parte del adorno, es un crucifijo y no una cruz simple.",
+      "catholicContext": "Un crucifijo representa a Cristo en la cruz, mientras que una cruz simple no lo hace; este adorno incluye una figura de Jesús, por lo que crucifijo es lo preciso.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Adornos",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hc8d62b7aa02541c8944b110ca69c5ea5R.webp",
+      "imageAlt": "Adorno de crucifijo de aleación de zinc con figura de Jesús",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc8d62b7aa02541c8944b110ca69c5ea5R.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1d02656f8fef4a72a318a457df00c08cD.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H14f8f67fd40e4293a09fede8a07e838eJ.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He35564796c434f70926950b5b217500eB.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H00fbbba6789e45548dfb6223762f284dm.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd46efa35bf5c440dbc78beaa0e46322eE.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7e6c1db3446c4802a7af3e81b5d2e4feV.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús - 15cm-dorado",
+          "label": "15cm-dorado",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5028c60ad8364e29b5ebffb26583c7aaR.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús - 14cm-verde-antiguo",
+          "label": "14cm-verde-antiguo",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H16f9ba427a1c42d99819901d001b98cfC.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús - 14cm-estaño-antiguo",
+          "label": "14cm-estaño-antiguo",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hdd1f8e689c8b4293bfc3945000bb8b61I.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús - 13cm-estaño-antiguo",
+          "label": "13cm-estaño-antiguo",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H58ae9a1a2c494e078b6a7c96bc6d6dc52.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús - 13cm-plata-lisa",
+          "label": "13cm-plata-lisa",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8cff1062aa52482ab325fdf54b3f557bZ.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús - 13cm-verde-antiguo",
+          "label": "13cm-verde-antiguo",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1b200b68fa124172b7af803c0b1d57cbV.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús - 15cm-estaño-antiguo",
+          "label": "15cm-estaño-antiguo",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe39009a6d0e4ca8b24a8f8fae6758a46.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús - 15cm-rojo-antiguo",
+          "label": "15cm-rojo-antiguo",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9468f350297444fb995b0c32deff5f395.webp",
+          "alt": "Adorno de crucifijo de aleación de zinc con figura de Jesús - 15cm-verde-antiguo",
+          "label": "15cm-verde-antiguo",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Adorno de crucifijo de metal de aleación de zinc con una figura de Jesús",
+        "Nueve opciones de variantes que combinan tamaño y acabado",
+        "Tres alturas listadas: 13 cm, 14 cm y 15 cm",
+        "Los acabados incluyen verde antiguo, estaño antiguo, rojo antiguo, plata lisa y dorado",
+        "Diseñado como accesorio de escritorio en lugar de adorno colgante"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Aleación de zinc"
+        },
+        {
+          "name": "Tipo de producto",
+          "value": "Adorno de crucifijo con figura de Jesús"
+        },
+        {
+          "name": "Alturas disponibles",
+          "value": "13 cm, 14 cm, 15 cm"
+        },
+        {
+          "name": "Acabados disponibles",
+          "value": "Verde antiguo, estaño antiguo, rojo antiguo, plata lisa, dorado"
+        },
+        {
+          "name": "Cantidad de variantes",
+          "value": "9"
+        },
+        {
+          "name": "Colocación",
+          "value": "Exhibición en escritorio"
+        }
+      ],
+      "applications": [
+        "Exhibición en escritorio o mesa",
+        "Estanterías de venta minorista de regalos religiosos",
+        "Surtidos de librerías católicas",
+        "Decoración religiosa para el hogar u oficina"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué tamaños y acabados están disponibles para este adorno de crucifijo?",
+          "answer": "Las variantes listadas abarcan alturas de 13 cm, 14 cm y 15 cm. Los acabados incluyen verde antiguo, estaño antiguo, rojo antiguo, plata lisa y dorado, sin que cada tamaño se ofrezca en todos los colores."
+        },
+        {
+          "question": "¿Es un crucifijo o una cruz simple?",
+          "answer": "Es un adorno de crucifijo que incluye una figura de Jesús en la cruz. Una cruz simple no llevaría el corpus."
+        },
+        {
+          "question": "¿De qué material está hecho el adorno?",
+          "answer": "Los datos del producto indican aleación de zinc como material, lo que da al adorno un acabado y apariencia metálicos."
+        }
+      ],
+      "pricing": {
+        "price": "1.15",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.15",
+          "max": "1.67"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Adorno de crucifijo de aleación de zinc con figura de Jesús",
+          "description": "Este adorno de aleación de zinc muestra un crucifijo con una figura de Jesús sobre una cruz de escritorio. Los compradores pueden elegir entre nueve variantes en tamaños de 13 cm, 14 cm y 15 cm con acabados verde antiguo, estaño antiguo, rojo antiguo, plata lisa y dorado. Es adecuado para surtidos de exhibición religiosa y merchandising en estanterías.",
+          "sku": "ALI-AAEFTG7BAOVioqqEY6ezC3PQ",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hc8d62b7aa02541c8944b110ca69c5ea5R.png",
+            "https://sc04.alicdn.com/kf/H1d02656f8fef4a72a318a457df00c08cD.png",
+            "https://sc04.alicdn.com/kf/H14f8f67fd40e4293a09fede8a07e838eJ.png",
+            "https://sc04.alicdn.com/kf/He35564796c434f70926950b5b217500eB.png",
+            "https://sc04.alicdn.com/kf/H00fbbba6789e45548dfb6223762f284dm.png",
+            "https://sc04.alicdn.com/kf/Hd46efa35bf5c440dbc78beaa0e46322eE.png"
+          ],
+          "category": "Adornos",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Aleación de zinc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de producto",
+              "value": "Adorno de crucifijo con figura de Jesús"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Alturas disponibles",
+              "value": "13 cm, 14 cm, 15 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Acabados disponibles",
+              "value": "Verde antiguo, estaño antiguo, rojo antiguo, plata lisa, dorado"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Cantidad de variantes",
+              "value": "9"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Colocación",
+              "value": "Exhibición en escritorio"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.15",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.15",
+              "maxPrice": "1.67",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿Qué tamaños y acabados están disponibles para este adorno de crucifijo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Las variantes listadas abarcan alturas de 13 cm, 14 cm y 15 cm. Los acabados incluyen verde antiguo, estaño antiguo, rojo antiguo, plata lisa y dorado, sin que cada tamaño se ofrezca en todos los colores."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Es un crucifijo o una cruz simple?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Es un adorno de crucifijo que incluye una figura de Jesús en la cruz. Una cruz simple no llevaría el corpus."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecho el adorno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los datos del producto indican aleación de zinc como material, lo que da al adorno un acabado y apariencia metálicos."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "1951530bc04468355e7c66288c3a9b47f0da774ee5d3c6b903f7f4fbb32fb96b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "1951530bc04468355e7c66288c3a9b47f0da774ee5d3c6b903f7f4fbb32fb96b",
+            "contentHash": "1951530bc04468355e7c66288c3a9b47f0da774ee5d3c6b903f7f4fbb32fb96b",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:47:52.135Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "1951530bc04468355e7c66288c3a9b47f0da774ee5d3c6b903f7f4fbb32fb96b",
+            "contentHash": "a7d1e45c75215224aa1b88cb4a705cd3b684948ee4669141b7b9f6bb7eb2def5",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:53.895Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGsTG7BAOVioqqEY6ee6qf5",
+      "sourceId": "AAGsTG7BAOVioqqEY6ee6qf5",
+      "sourceFingerprint": "9e3727f5b2e2fdda23d8a390233777607eaf3f3dc91ca2b39276270d1792f50d",
+      "locale": "es",
+      "slug": "adjustable-woven-cross-bracelet-with-saint-benedict-medal-ee6qf5",
+      "title": "Pulsera ajustable de cruz tejida con medalla de San Benito",
+      "eyebrow": "Pulsera ajustable de cruz tejida con medalla de San Benito",
+      "summary": "Esta pulsera ajustable tejida combina una correa textil con una cruz y una medalla de San Benito. Viene en negro, rojo y azul. El cierre ajustable se adapta a diferentes tamaños de muñeca, y la construcción tejida le da un aspecto casual y texturizado para el uso diario.",
+      "description": "El diseño se centra en una correa textil tejida que se une a una cruz y una medalla de San Benito. La textura tejida añade detalle superficial, mientras que la cruz y la medalla funcionan como puntos focales. Los colores son negro, rojo y azul, lo que mantiene el aspecto sencillo y versátil. El cierre ajustable permite al usuario modificar el ajuste. Como artículo devocional, lleva simbolismo católico en un formato casual. La pulsera es unisex, siguiendo el listado original del producto.",
+      "catholicContext": "La medalla de San Benito es una medalla devocional católica asociada con San Benito, y una cruz lisa es un símbolo cristiano que no representa la crucifixión.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Pulseras de rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGsTG7BAOVioqqEY6ee6qf5",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H752897948d4e42f48ee4fdca673b1f810.webp",
+      "imageAlt": "Pulsera ajustable de cruz tejida con medalla de San Benito",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H752897948d4e42f48ee4fdca673b1f810.webp",
+          "alt": "Pulsera ajustable de cruz tejida con medalla de San Benito"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7bb9ab11c94844b498ed35bc59b09801A.webp",
+          "alt": "Pulsera ajustable de cruz tejida con medalla de San Benito"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd03ef3186edf44cdabb1a1aabdfeb3e75.webp",
+          "alt": "Pulsera ajustable de cruz tejida con medalla de San Benito"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H75c0d66b7e3a46b8a3f2ed87a0dfd174M.webp",
+          "alt": "Pulsera ajustable de cruz tejida con medalla de San Benito"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3a8a68df807946c6aa34b85e5bc9791eA.webp",
+          "alt": "Pulsera ajustable de cruz tejida con medalla de San Benito"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfedaafe3f1184411a1d0c0c70573f171o.webp",
+          "alt": "Pulsera ajustable de cruz tejida con medalla de San Benito"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98b8eaf644e2468a98bba17410ab24c9I.webp",
+          "alt": "Pulsera ajustable de cruz tejida con medalla de San Benito - negro",
+          "label": "negro",
+          "sku": "ALI-AAGsTG7BAOVioqqEY6ee6qf5-V-3327837"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H35c913d8c8f548c79ca44d854f37e6cfs.webp",
+          "alt": "Pulsera ajustable de cruz tejida con medalla de San Benito - azul",
+          "label": "azul",
+          "sku": "ALI-AAGsTG7BAOVioqqEY6ee6qf5-V-123085"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3f5fbf7a32994b71a0ed943573db2e65c.webp",
+          "alt": "Pulsera ajustable de cruz tejida con medalla de San Benito - rojo",
+          "label": "rojo",
+          "sku": "ALI-AAGsTG7BAOVioqqEY6ee6qf5-V-3331260"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Correa de pulsera tejida",
+        "Componentes de cruz y medalla de San Benito",
+        "Cierre ajustable",
+        "Disponible en negro, rojo y azul",
+        "Listada como adecuada para hombres y mujeres"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Correa textil tejida"
+        },
+        {
+          "name": "Opciones de color",
+          "value": "Negro, rojo, azul"
+        },
+        {
+          "name": "Cierre",
+          "value": "Ajustable"
+        },
+        {
+          "name": "Medalla",
+          "value": "Medalla de San Benito"
+        },
+        {
+          "name": "Tipo de cruz",
+          "value": "Cruz lisa"
+        }
+      ],
+      "applications": [
+        "Uso devocional personal",
+        "Accesorio casual para el día a día",
+        "Regalo religioso"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué materiales componen la pulsera?",
+          "answer": "La pulsera presenta una correa textil tejida con una cruz y una medalla de San Benito como componentes focales. Los detalles específicos del metal o la fibra no se proporcionan en los datos del producto."
+        },
+        {
+          "question": "¿La pulsera es ajustable?",
+          "answer": "Sí, los datos del producto confirman un cierre ajustable, que permite al usuario ajustar el tamaño."
+        },
+        {
+          "question": "¿Qué opciones de color están disponibles?",
+          "answer": "La pulsera viene en negro, rojo y azul."
+        }
+      ],
+      "pricing": {
+        "price": "0.42",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.36",
+          "max": "0.42"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pulsera ajustable de cruz tejida con medalla de San Benito",
+          "description": "Esta pulsera ajustable tejida combina una correa textil con una cruz y una medalla de San Benito. Viene en negro, rojo y azul. El cierre ajustable se adapta a diferentes tamaños de muñeca, y la construcción tejida le da un aspecto casual y texturizado para el uso diario.",
+          "sku": "ALI-AAGsTG7BAOVioqqEY6ee6qf5",
+          "image": [
+            "https://sc04.alicdn.com/kf/H752897948d4e42f48ee4fdca673b1f810.jpg",
+            "https://sc04.alicdn.com/kf/H7bb9ab11c94844b498ed35bc59b09801A.jpg",
+            "https://sc04.alicdn.com/kf/Hd03ef3186edf44cdabb1a1aabdfeb3e75.jpg",
+            "https://sc04.alicdn.com/kf/H75c0d66b7e3a46b8a3f2ed87a0dfd174M.jpg",
+            "https://sc04.alicdn.com/kf/H3a8a68df807946c6aa34b85e5bc9791eA.jpg",
+            "https://sc04.alicdn.com/kf/Hfedaafe3f1184411a1d0c0c70573f171o.jpg"
+          ],
+          "category": "Pulseras de rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Correa textil tejida"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opciones de color",
+              "value": "Negro, rojo, azul"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Cierre",
+              "value": "Ajustable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Medalla",
+              "value": "Medalla de San Benito"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de cruz",
+              "value": "Cruz lisa"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.42",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.36",
+              "maxPrice": "0.42",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿Qué materiales componen la pulsera?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La pulsera presenta una correa textil tejida con una cruz y una medalla de San Benito como componentes focales. Los detalles específicos del metal o la fibra no se proporcionan en los datos del producto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿La pulsera es ajustable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, los datos del producto confirman un cierre ajustable, que permite al usuario ajustar el tamaño."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué opciones de color están disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La pulsera viene en negro, rojo y azul."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "57897382cbe5622e7df3414ed0ce94830ec564d9a21ca0bfb5ffb83ce8547095",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "57897382cbe5622e7df3414ed0ce94830ec564d9a21ca0bfb5ffb83ce8547095",
+            "contentHash": "57897382cbe5622e7df3414ed0ce94830ec564d9a21ca0bfb5ffb83ce8547095",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:47:48.718Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "57897382cbe5622e7df3414ed0ce94830ec564d9a21ca0bfb5ffb83ce8547095",
+            "contentHash": "4d4d0568c52ea1fe3922e4de73055e7db7c1786845f241f897e8cb735a3972b0",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:57.213Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAELTG7BAOVioqqEY6eMTkJr",
+      "sourceId": "AAELTG7BAOVioqqEY6eMTkJr",
+      "sourceFingerprint": "fbe1773c3e1f4cd929d01de6577334b4ccf1b8d3df5a5a12248496a3ef856d3c",
+      "locale": "es",
+      "slug": "colorful-santiago-de-compostela-the-pilgrim-s-way-brooch-metal-emtkjr",
+      "title": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino",
+      "eyebrow": "Broche",
+      "summary": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino, accesorios para ropa de iglesia con joyería grabada, venta al por mayor",
+      "description": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino, accesorios para ropa de iglesia con joyería grabada, venta al por mayor",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "210",
+          "name": "Broches",
+          "slug": "brooch"
+        }
+      ],
+      "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Had9479ef34974012aab30411110c0dcdT.webp",
+      "imageAlt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Had9479ef34974012aab30411110c0dcdT.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6418c7ee2aea46daa2b853c0f59b2610M.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0c91f6afbdd0423d99904747e229212cs.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8c461c3421344988bd859ca11ba7b9141.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H80fb5e6f12d545f5b78ec9265147834a1.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2466e00e0a2743f892c112f02e9f4349U.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5e656a54aa704bc6a0c848bd8c30a828E.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino - red4",
+          "label": "red4",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb7a2e24eac4e4f1aa547c18fd9ee065ci.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino - blue3",
+          "label": "blue3",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6935cbcbbe564fdaa01b685dcb72b2f0D.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino - red6",
+          "label": "red6",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H42ffb53c44094f868bd93e32041636a7R.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino - blue5",
+          "label": "blue5",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6baf9b0cdb22400f9ce802cbaf0da1426.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino - red8",
+          "label": "red8",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H23dc613fa54943fbb68e21d2c44c5d6fO.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino - red7",
+          "label": "red7",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha3b73e1552034f7cb8a614456f8c8c0ab.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino - yellow9",
+          "label": "yellow9",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc9ba2b515199437db826e3f56883d9bcV.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino - blue2",
+          "label": "blue2",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5feaa8c819354ed19c8ab9c7c7d22572g.webp",
+          "alt": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino - blue1",
+          "label": "blue1",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr-V--1"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Variante: Blue1, Blue2, Blue3, Blue5, Red4, Red6, Red7, Red8, Yellow9"
+      ],
+      "specifications": [
+        {
+          "name": "Variante",
+          "value": "Blue1, Blue2, Blue3, Blue5, Red4, Red6, Red7, Red8, Yellow9"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.29",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.29",
+          "max": "0.35"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino",
+          "description": "Broche metálico colorido de Santiago de Compostela, el Camino del Peregrino, accesorios para ropa de iglesia con joyería grabada, venta al por mayor",
+          "sku": "ALI-AAELTG7BAOVioqqEY6eMTkJr",
+          "image": [
+            "https://sc04.alicdn.com/kf/Had9479ef34974012aab30411110c0dcdT.jpg",
+            "https://sc04.alicdn.com/kf/H6418c7ee2aea46daa2b853c0f59b2610M.png",
+            "https://sc04.alicdn.com/kf/H0c91f6afbdd0423d99904747e229212cs.png",
+            "https://sc04.alicdn.com/kf/H8c461c3421344988bd859ca11ba7b9141.png",
+            "https://sc04.alicdn.com/kf/H80fb5e6f12d545f5b78ec9265147834a1.png",
+            "https://sc04.alicdn.com/kf/H2466e00e0a2743f892c112f02e9f4349U.png"
+          ],
+          "category": "Broches",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Blue1, Blue2, Blue3, Blue5, Red4, Red6, Red7, Red8, Yellow9"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.29",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.29",
+              "maxPrice": "0.35",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "a715ba3bbd0d1ce8e1efe0fda8a4b01661ddbcd93b789ed6a6172e700717e27d",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "a715ba3bbd0d1ce8e1efe0fda8a4b01661ddbcd93b789ed6a6172e700717e27d",
+            "contentHash": "a715ba3bbd0d1ce8e1efe0fda8a4b01661ddbcd93b789ed6a6172e700717e27d",
+            "attempts": 0,
+            "updatedAt": "2026-09-16T17:48:14.659Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "a715ba3bbd0d1ce8e1efe0fda8a4b01661ddbcd93b789ed6a6172e700717e27d",
+            "contentHash": "29bc3768909771985dc63e71a46b02a5e4e4c5245c2508fe08d0d9b8b716fb7f",
+            "attempts": 1,
+            "updatedAt": "2026-09-16T17:49:59.702Z",
             "model": "deepseek-v4-flash"
           }
         }
