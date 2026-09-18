@@ -93,7 +93,7 @@ export async function getCollection(
   };
 }
 
-export async function getRelatedProducts(product: Product, limit = 3): Promise<Product[]> {
+export async function getRelatedProducts(product: Product, limit = 4): Promise<Product[]> {
   const categorySlugs = product.categories.map(({ slug }) => slug).slice(0, 8);
   if (!categorySlugs.length) return [];
   const placeholders = categorySlugs.map(() => '?').join(',');

@@ -12,7 +12,7 @@ const product = await getProductBySlug(BUILD_LOCALE, Astro.params.slug || '');
 if (!product) return new Response(null, { status: 404, statusText: 'Product not found' });
 Astro.response.headers.set('Cache-Control', 'public, s-maxage=86400, stale-while-revalidate=86400');
 const metadata = { title: product.title, description: product.summary };
-const related = await getRelatedProducts(product, 3);
+const related = await getRelatedProducts(product, 4);
 const schemas = Object.values(product.structuredData).filter(Boolean);
 const inquiryUrl = getProductWhatsAppUrl({
   title: product.title,
@@ -220,7 +220,7 @@ const formatPrice = (value: string) =>
   </section>
 
   <section class="mx-auto max-w-7xl px-6 py-20">
-    <h2 class="text-3xl font-semibold">Related products</h2><div class="mt-9 grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
+    <h2 class="text-3xl font-semibold">Related products</h2><div class="mt-9 grid gap-7 sm:grid-cols-2 lg:grid-cols-4">
       {related.map((item) => <ProductCard product={item} />)}
     </div>
   </section>
