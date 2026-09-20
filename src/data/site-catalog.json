@@ -1,22 +1,22 @@
 {
   "schemaVersion": 3,
   "locale": "en",
-  "generatedAt": "2026-09-19T16:51:59.111Z",
+  "generatedAt": "2026-09-20T17:05:02.440Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAExTG7BAOVioqqEY6eycGgj",
-      "AAGzTG7BAOVioqqEY6eBQyDL",
-      "AAG6TG7BAOVioqqEY6eBQBTh",
-      "AAG5TG7BAOVioqqEY6ed_PQo",
-      "AAFxTG7BAOVioqqEY6eepq18",
-      "AAEoTG7BAOVioqqEY6eefV2s",
-      "AAGITG7BAOVioqqEY6ee5n-B",
-      "AAFeTG7BAOVioqqEY6eBTVA8",
-      "AAFBTG7BAOVioqqEY6eBTwFs",
-      "AAFRTG7BAOVioqqEY6eBTJFv"
+      "AAHOTG7BAOVioqqEY6eBSuWa",
+      "AAE1TG7BAOVioqqEY6eyn2t1",
+      "AAHxTG7BAOVioqqEY6eyn83P",
+      "AAHATG7BAOVioqqEY6eynDW5",
+      "AAFLTG7BAOVioqqEY6eypIlo",
+      "AAHnTG7BAOVioqqEY6eyn-Cy",
+      "AAGyTG7BAOVioqqEY6eyngvT",
+      "AAEHTG7BAOVioqqEY6eyn7Z8",
+      "AAElTG7BAOVioqqEY6eynkQN",
+      "AAHyTG7BAOVioqqEY6ePxgYT"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -26,7 +26,7 @@
   },
   "enrichmentSummary": {
     "generated": 12,
-    "reused": 637,
+    "reused": 647,
     "source_fallback": 1
   },
   "products": [
@@ -144478,6 +144478,2429 @@
             "contentHash": "c2980761c8b70eeadcde8874346b14a54003700921ae3f5e362af4fd07201f9a",
             "attempts": 0,
             "updatedAt": "2026-09-19T16:51:49.534Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHOTG7BAOVioqqEY6eBSuWa",
+      "sourceId": "AAHOTG7BAOVioqqEY6eBSuWa",
+      "sourceFingerprint": "624fb4dd6f08f1dc406d629bced4c702f07d4063dc3af9906b5cb39fa2c06780",
+      "locale": "en",
+      "slug": "stainless-steel-cross-pendant-necklace-ebsuwa",
+      "title": "Stainless Steel Cross Pendant Necklace",
+      "eyebrow": "Stainless steel cross pendant necklace",
+      "summary": "A stainless steel cross pendant necklace offered in gold and silver variants. The pendant uses a plain cross design and sits within a Catholic religious jewelry theme. Buyers comparing metal-tone options for a fashion necklace line can review the two available finishes before sourcing.",
+      "description": "For buyers weighing metal tone against a plain cross motif, this pendant necklace comes in gold and silver variants. Both are listed under a Catholic religious theme and a fashion necklace category. The pendant is a cross, not a crucifix: no corpus of Christ is stated in the product facts, so the plainer term applies. The pieces ship as fashion jewelry, which keeps the design focus on the cross shape and the metal finish rather than on liturgical use. Selection therefore comes down to which tone suits your assortment.",
+      "catholicContext": "A plain cross pendant is a religious jewelry form distinct from a crucifix, which depicts the corpus of Christ.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHOTG7BAOVioqqEY6eBSuWa",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H12749a179b354fafbf69871e133ff90ds.webp",
+      "imageAlt": "Stainless Steel Cross Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H12749a179b354fafbf69871e133ff90ds.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6fc925e5c2d64c75a4dfa2f28462b195c.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8120af40796d42858d387f54babbb8e8q.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1990a9ae65314fe88fd52d5ff6af3057x.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He98d2dd067524992a4dfcea941630a4dJ.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H46bf98c9ad2344c5978a4e4f912d49b77.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace - silver",
+          "label": "silver",
+          "sku": "ALI-AAHOTG7BAOVioqqEY6eBSuWa-V-3460547"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0c6f9de51a134601b089de9ddd73b7a3O.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace - gold",
+          "label": "gold",
+          "sku": "ALI-AAHOTG7BAOVioqqEY6eBSuWa-V-3331116"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Stainless steel construction",
+        "Cross pendant design",
+        "Available in gold and silver variants",
+        "Catholic religious theme",
+        "Fashion necklace category"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Design",
+          "value": "Cross pendant"
+        },
+        {
+          "name": "Variants",
+          "value": "Gold, Silver"
+        },
+        {
+          "name": "Category",
+          "value": "Fashion Necklace"
+        },
+        {
+          "name": "Theme",
+          "value": "Catholic religious"
+        }
+      ],
+      "applications": [
+        "Religious jewelry retail assortment",
+        "Fashion necklace display",
+        "Gift selection for Catholic-themed jewelry buyers",
+        "Everyday pendant wear"
+      ],
+      "faq": [
+        {
+          "question": "Is the pendant a cross or a crucifix?",
+          "answer": "The product facts describe a cross pendant. A crucifix depicts the corpus of Christ; that feature is not stated here, so this is a plain cross."
+        },
+        {
+          "question": "What material is the necklace made of?",
+          "answer": "The pendant necklace is made of stainless steel, according to the listed product attributes."
+        },
+        {
+          "question": "Which color options are available?",
+          "answer": "Two variants are listed: gold and silver."
+        },
+        {
+          "question": "How can I ask about wholesale ordering?",
+          "answer": "Contact us with your requested variant and quantity so we can discuss sourcing details."
+        }
+      ],
+      "pricing": {
+        "price": "1.90",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.80",
+          "max": "1.90"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Cross Pendant Necklace",
+          "description": "Stainless steel cross pendant necklace in gold or silver variants. A Catholic-themed fashion pendant in a plain cross design. Contact us about wholesale sourcing.",
+          "sku": "ALI-AAHOTG7BAOVioqqEY6eBSuWa",
+          "image": [
+            "https://sc04.alicdn.com/kf/H12749a179b354fafbf69871e133ff90ds.jpg",
+            "https://sc04.alicdn.com/kf/H6fc925e5c2d64c75a4dfa2f28462b195c.jpg",
+            "https://sc04.alicdn.com/kf/H8120af40796d42858d387f54babbb8e8q.jpg",
+            "https://sc04.alicdn.com/kf/H1990a9ae65314fe88fd52d5ff6af3057x.jpg",
+            "https://sc04.alicdn.com/kf/He98d2dd067524992a4dfcea941630a4dJ.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Cross pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Gold, Silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Fashion Necklace"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Theme",
+              "value": "Catholic religious"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.90",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.80",
+              "maxPrice": "1.90",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is the pendant a cross or a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product facts describe a cross pendant. A crucifix depicts the corpus of Christ; that feature is not stated here, so this is a plain cross."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What material is the necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant necklace is made of stainless steel, according to the listed product attributes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which color options are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Two variants are listed: gold and silver."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How can I ask about wholesale ordering?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Contact us with your requested variant and quantity so we can discuss sourcing details."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "0ca77d4aef6bd71f4565d6ec48d02ca49b72fd06dbfb7e6066475d5053963b21",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "0ca77d4aef6bd71f4565d6ec48d02ca49b72fd06dbfb7e6066475d5053963b21",
+            "contentHash": "0ca77d4aef6bd71f4565d6ec48d02ca49b72fd06dbfb7e6066475d5053963b21",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:04:31.236Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE1TG7BAOVioqqEY6eyn2t1",
+      "sourceId": "AAE1TG7BAOVioqqEY6eyn2t1",
+      "sourceFingerprint": "2e9f60dfd84e134f9cc207e21ebfb20549976ca4f241d7ec2e5f49eee526a5b9",
+      "locale": "en",
+      "slug": "stainless-steel-baseball-cross-pendant-necklace-eyn2t1",
+      "title": "Stainless Steel Baseball Cross Pendant Necklace",
+      "eyebrow": "Stainless steel baseball cross pendant necklace",
+      "summary": "This pendant necklace pairs a stainless steel cross with a 60cm pearl chain. The cross comes in four variants: baseball cross, black cross, burgundy cross, and orange cross. The baseball design adds a sports theme to the Christian cross shape.",
+      "description": "The pendant is made of stainless steel, a metal often chosen for its resistance to rust and corrosion. The cross shape identifies it as a Christian symbol, while the baseball variant adds a sports theme through its design. Each necklace uses a 60cm pearl chain. Four color or design variants are available: baseball cross, black cross, burgundy cross, and orange cross. For wholesale sourcing, confirm which variant you need, as each is listed separately. The stainless steel construction may suit buyers looking for a durable metal option for religious or sports-themed jewelry.",
+      "catholicContext": "A plain cross is a Christian symbol; this product is a cross, not a crucifix, because no corpus is present.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAE1TG7BAOVioqqEY6eyn2t1",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H012071c9f90f410cb30d3a3742755febd.webp",
+      "imageAlt": "Stainless Steel Baseball Cross Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H012071c9f90f410cb30d3a3742755febd.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4690942768584b648e4591e8742ad4f8F.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3bf5beec245c443c93b0c2049a1d11ffv.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hef80590ddd304359b2d0feaa793b24d52.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc19e792805764074bcd49f4812db67c2E.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H96eb66dec2c04dac88f4deb08e0e612ec.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd303c263618f4abc820308572bdfa0389.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace - black-cross-60cm-pearl-chain",
+          "label": "black-cross-60cm-pearl-chain",
+          "sku": "ALI-AAE1TG7BAOVioqqEY6eyn2t1-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He838fbe59fdb40a89de255bd408085f7J.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace - baseball-cross-60cm-pearl-chain",
+          "label": "baseball-cross-60cm-pearl-chain",
+          "sku": "ALI-AAE1TG7BAOVioqqEY6eyn2t1-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf4b1c4c0448b43b388b98b38ac11ceccp.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace - burgundy-cross-60cm-pearl-chain",
+          "label": "burgundy-cross-60cm-pearl-chain",
+          "sku": "ALI-AAE1TG7BAOVioqqEY6eyn2t1-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H039089fe60424c7ca916001bfba3c66dH.webp",
+          "alt": "Stainless Steel Baseball Cross Pendant Necklace - orange-cross-60cm-pearl-chain",
+          "label": "orange-cross-60cm-pearl-chain",
+          "sku": "ALI-AAE1TG7BAOVioqqEY6eyn2t1-V--2"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Stainless steel construction",
+        "60cm pearl chain included",
+        "Four variants: baseball cross, black cross, burgundy cross, orange cross",
+        "Baseball cross variant features a sports theme",
+        "Plain cross design without a corpus"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Chain length",
+          "value": "60cm"
+        },
+        {
+          "name": "Chain type",
+          "value": "Pearl chain"
+        },
+        {
+          "name": "Variants",
+          "value": "Baseball cross, black cross, burgundy cross, orange cross"
+        }
+      ],
+      "applications": [
+        "Religious jewelry retail",
+        "Sports-themed accessories",
+        "Personal adornment",
+        "Gift items"
+      ],
+      "faq": [
+        {
+          "question": "What is the pendant made of?",
+          "answer": "The pendant is made of stainless steel, as stated in the product title."
+        },
+        {
+          "question": "What chain is included?",
+          "answer": "Each necklace comes with a 60cm pearl chain."
+        },
+        {
+          "question": "What variants are available?",
+          "answer": "The available variants are baseball cross, black cross, burgundy cross, and orange cross, each with a 60cm pearl chain."
+        }
+      ],
+      "pricing": {
+        "price": "1.20",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.95",
+          "max": "1.20"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Baseball Cross Pendant Necklace",
+          "description": "Stainless steel baseball cross pendant necklace on a 60cm pearl chain, available in baseball, black, burgundy, and orange cross variants.",
+          "sku": "ALI-AAE1TG7BAOVioqqEY6eyn2t1",
+          "image": [
+            "https://sc04.alicdn.com/kf/H012071c9f90f410cb30d3a3742755febd.png",
+            "https://sc04.alicdn.com/kf/H4690942768584b648e4591e8742ad4f8F.png",
+            "https://sc04.alicdn.com/kf/H3bf5beec245c443c93b0c2049a1d11ffv.png",
+            "https://sc04.alicdn.com/kf/Hef80590ddd304359b2d0feaa793b24d52.png",
+            "https://sc04.alicdn.com/kf/Hc19e792805764074bcd49f4812db67c2E.png",
+            "https://sc04.alicdn.com/kf/H96eb66dec2c04dac88f4deb08e0e612ec.png"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Chain length",
+              "value": "60cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Chain type",
+              "value": "Pearl chain"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Baseball cross, black cross, burgundy cross, orange cross"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.20",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.95",
+              "maxPrice": "1.20",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the pendant made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant is made of stainless steel, as stated in the product title."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What chain is included?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Each necklace comes with a 60cm pearl chain."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What variants are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The available variants are baseball cross, black cross, burgundy cross, and orange cross, each with a 60cm pearl chain."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "59d5c3eaa854b08f9454c3bf7d17f7cb32a3103621bdbcc079b78e7f515dc8d0",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "59d5c3eaa854b08f9454c3bf7d17f7cb32a3103621bdbcc079b78e7f515dc8d0",
+            "contentHash": "59d5c3eaa854b08f9454c3bf7d17f7cb32a3103621bdbcc079b78e7f515dc8d0",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:04:34.539Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHxTG7BAOVioqqEY6eyn83P",
+      "sourceId": "AAHxTG7BAOVioqqEY6eyn83P",
+      "sourceFingerprint": "70347a8c753d709a3b7533ff638b7da764ef039804dee780bd415bef597ff70b",
+      "locale": "en",
+      "slug": "stainless-steel-cross-pendant-necklace-for-men-eyn83p",
+      "title": "Stainless Steel Cross Pendant Necklace for Men",
+      "eyebrow": "Catholic cross pendant necklace",
+      "summary": "A cross pendant necklace in stainless steel, offered in four style variants: Gold style 1, Gold style 2, Steel color style 1, and Steel color style 2. The men's fashion necklace combines a creative cross pendant with a durable stainless steel construction.",
+      "description": "This cross pendant necklace presents a creative cross design in stainless steel. The pendant is available in two gold styles and two steel color styles, giving buyers a choice between warm gold tones and bare steel looks. The necklace is listed as fashionable jewelry for men, with the cross as its central motif. As a Catholic devotional article, it carries a cross shape, not a crucifix, since no corpus is indicated. The stainless steel construction supports everyday wear.",
+      "catholicContext": "Catholic devotional jewelry often includes cross pendants as a form of popular piety, distinct from sacraments.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHxTG7BAOVioqqEY6eyn83P",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hca5e4f43f16d47e59377a930098d24075.webp",
+      "imageAlt": "Stainless Steel Cross Pendant Necklace for Men",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hca5e4f43f16d47e59377a930098d24075.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H992b57f4dfc643c0b3330ded2c67baada.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfc1e18da4d20425fb5921d70a95393e4d.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He089880d38de4a558bf2ed820ce4fe0dO.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb4d9c7758f264327bededdffe2ff65e9L.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5b2fd4ade47f40a3a038e55e8ab0ea70H.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He6591969c8d54cc99a600738de73d4579.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men - gold-style-1",
+          "label": "gold-style-1",
+          "sku": "ALI-AAHxTG7BAOVioqqEY6eyn83P-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6b0e4c607fc44c58a4cb1917e2353fba7.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men - gold-style-2",
+          "label": "gold-style-2",
+          "sku": "ALI-AAHxTG7BAOVioqqEY6eyn83P-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He08ff2835a584a3b8cf83950ab00fe2eR.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men - steel-color-style-1",
+          "label": "steel-color-style-1",
+          "sku": "ALI-AAHxTG7BAOVioqqEY6eyn83P-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcdce66731dea49f19c39aff79357c375l.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men - steel-color-style-2",
+          "label": "steel-color-style-2",
+          "sku": "ALI-AAHxTG7BAOVioqqEY6eyn83P-V--4"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Cross pendant design, not a crucifix",
+        "Stainless steel material",
+        "Four style variants: Gold style 1, Gold style 2, Steel color style 1, Steel color style 2",
+        "Fashionable jewelry for men",
+        "Catholic devotional jewelry"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Style variants",
+          "value": "Gold style 1, Gold style 2, Steel color style 1, Steel color style 2"
+        },
+        {
+          "name": "Pendant type",
+          "value": "Cross"
+        },
+        {
+          "name": "Target gender",
+          "value": "Men"
+        }
+      ],
+      "applications": [
+        "Personal Catholic devotional wear",
+        "Men's fashion accessory",
+        "Gift for Catholic men",
+        "Religious jewelry collection"
+      ],
+      "faq": [
+        {
+          "question": "What material is the Catholic cross pendant necklace made of?",
+          "answer": "The necklace is made of stainless steel."
+        },
+        {
+          "question": "What style variants are available?",
+          "answer": "The necklace comes in four variants: Gold style 1, Gold style 2, Steel color style 1, and Steel color style 2."
+        },
+        {
+          "question": "Is the pendant a cross or a crucifix?",
+          "answer": "The pendant is a cross. No corpus is shown or described in the product facts."
+        }
+      ],
+      "pricing": {
+        "price": "0.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.45",
+          "max": "0.68"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Cross Pendant Necklace for Men",
+          "description": "A Catholic cross pendant necklace in stainless steel with two gold and two steel color style variants. Creative cross design on a men's fashion necklace.",
+          "sku": "ALI-AAHxTG7BAOVioqqEY6eyn83P",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hca5e4f43f16d47e59377a930098d24075.jpg",
+            "https://sc04.alicdn.com/kf/H992b57f4dfc643c0b3330ded2c67baada.png",
+            "https://sc04.alicdn.com/kf/Hfc1e18da4d20425fb5921d70a95393e4d.png",
+            "https://sc04.alicdn.com/kf/He089880d38de4a558bf2ed820ce4fe0dO.png",
+            "https://sc04.alicdn.com/kf/Hb4d9c7758f264327bededdffe2ff65e9L.jpg",
+            "https://sc04.alicdn.com/kf/H5b2fd4ade47f40a3a038e55e8ab0ea70H.png"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style variants",
+              "value": "Gold style 1, Gold style 2, Steel color style 1, Steel color style 2"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pendant type",
+              "value": "Cross"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Target gender",
+              "value": "Men"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.45",
+              "maxPrice": "0.68",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the Catholic cross pendant necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The necklace is made of stainless steel."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What style variants are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The necklace comes in four variants: Gold style 1, Gold style 2, Steel color style 1, and Steel color style 2."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the pendant a cross or a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant is a cross. No corpus is shown or described in the product facts."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "e15ad05ef02cf712bcc7076fd78314891655b2da43ff57a2a9e630c85e197562",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "e15ad05ef02cf712bcc7076fd78314891655b2da43ff57a2a9e630c85e197562",
+            "contentHash": "e15ad05ef02cf712bcc7076fd78314891655b2da43ff57a2a9e630c85e197562",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:04:34.845Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHATG7BAOVioqqEY6eynDW5",
+      "sourceId": "AAHATG7BAOVioqqEY6eynDW5",
+      "sourceFingerprint": "f668b1fd0b1f286df126c2454502e89a0ac5059a57b453dc3daa8b656f654ca5",
+      "locale": "en",
+      "slug": "gold-plated-crystal-cross-rosary-bracelet-eyndw5",
+      "title": "Gold-Plated Crystal Cross Rosary Bracelet",
+      "eyebrow": "Gold-Plated Crystal Beaded Rosary Bracelet with Cross",
+      "summary": "A beaded rosary bracelet in gold-plated zinc alloy, set with round brilliant-cut crystal and rhinestone stones and a cross pattern. The unisex design suits gift retail, baptism and first communion merchandising, and devotional jewelry assortments. Each bracelet carries model number MC256406 and is made in CN;ZHE.",
+      "description": "This rosary bracelet is built on a beaded bracelet format with a cross pattern as its visible motif. The jewelry main material is alloy, specifically zinc alloy, finished with gold plating. Crystal and rhinestone stones in a round brilliant cut are set using micro insert inlay technology, giving the bracelet a faceted, light-catching surface across its beads.\n\nThe piece is listed as unisex and is categorized under rosary bracelets, with a religious style tied to Catholicism. It is intended as a gift item. The product is unbranded, carries no certificate, and is identified by model number MC256406. Origin is listed as CN;ZHE.",
+      "catholicContext": "The Rosary is a Catholic prayer centered on contemplation of events in the lives of Jesus Christ and the Virgin Mary; a rosary bracelet is a devotional article, not a sacramental, and is not blessed by virtue of being sold.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHATG7BAOVioqqEY6eynDW5",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H54ce4762e1dd4c12832835b2ff556b0e9.webp",
+      "imageAlt": "Gold-Plated Crystal Cross Rosary Bracelet",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H54ce4762e1dd4c12832835b2ff556b0e9.webp",
+          "alt": "Gold-Plated Crystal Cross Rosary Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5fcbcac98b87407c85241f6a6dc15d3fY.webp",
+          "alt": "Gold-Plated Crystal Cross Rosary Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb97b4ec73eeb4bd195c9d4d8cdb9941fp.webp",
+          "alt": "Gold-Plated Crystal Cross Rosary Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hed0e28a6616845dbb0be1c1680071eecK.webp",
+          "alt": "Gold-Plated Crystal Cross Rosary Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4d444c378ffe49e7943bc9e99af6e77ap.webp",
+          "alt": "Gold-Plated Crystal Cross Rosary Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd70632aa7b304584a1b4ce52ea32e3dam.webp",
+          "alt": "Gold-Plated Crystal Cross Rosary Bracelet"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#9a6b63",
+      "features": [
+        "Gold-plated zinc alloy construction",
+        "Round brilliant-cut crystal and rhinestone stones",
+        "Micro insert inlay technology",
+        "Cross pattern in a beaded bracelet format",
+        "Unisex religious style under the Catholicism type",
+        "Unbranded, no certificate, model MC256406"
+      ],
+      "specifications": [
+        {
+          "name": "Jewelry Main Material",
+          "value": "Alloy"
+        },
+        {
+          "name": "Material Type",
+          "value": "Zinc Alloy"
+        },
+        {
+          "name": "Plating",
+          "value": "Gold plated"
+        },
+        {
+          "name": "Main Stone",
+          "value": "Crystal, Rhinestone"
+        },
+        {
+          "name": "Inlay Technology",
+          "value": "Micro insert"
+        },
+        {
+          "name": "Diamond Shape",
+          "value": "Round Brilliant Cut"
+        },
+        {
+          "name": "Bracelets or Bangles Type",
+          "value": "Beaded Bracelets"
+        },
+        {
+          "name": "Shape/Pattern",
+          "value": "Cross"
+        },
+        {
+          "name": "Style",
+          "value": "Religious"
+        },
+        {
+          "name": "Religious Type",
+          "value": "Catholicism"
+        },
+        {
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "name": "Occasion",
+          "value": "Gift"
+        },
+        {
+          "name": "Brand Name",
+          "value": "None"
+        },
+        {
+          "name": "Certificate Type",
+          "value": "None"
+        },
+        {
+          "name": "Model Number",
+          "value": "MC256406"
+        },
+        {
+          "name": "Place of Origin",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Gift retail for Catholic devotional jewelry",
+        "Baptism and first communion gift assortments",
+        "Religious jewelry displays and accessory counters",
+        "Unisex beaded bracelet merchandising"
+      ],
+      "faq": [
+        {
+          "question": "What materials are used in this rosary bracelet?",
+          "answer": "The jewelry main material is alloy, listed more specifically as zinc alloy, with gold plating. The main stones are crystal and rhinestone, and the inlay technology is micro insert."
+        },
+        {
+          "question": "What is the stone cut and pattern on this bracelet?",
+          "answer": "The stones are described as round brilliant cut, and the shape or pattern is a cross. The bracelet is classified as a beaded bracelet within the rosary bracelet category."
+        },
+        {
+          "question": "Is this bracelet branded or certified?",
+          "answer": "No. The brand name is listed as None and the certificate type is None. The model number is MC256406, and the place of origin is CN;ZHE."
+        }
+      ],
+      "pricing": {
+        "price": "0.68",
+        "regularPrice": "0.68",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.56",
+          "max": "0.68"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Gold-Plated Crystal Cross Rosary Bracelet",
+          "description": "Gold-plated zinc alloy rosary bracelet with round brilliant-cut crystal and rhinestone beads and a cross pattern, unisex, model MC256406, for gift retail.",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eynDW5",
+          "image": [
+            "https://sc04.alicdn.com/kf/H54ce4762e1dd4c12832835b2ff556b0e9.png",
+            "https://sc04.alicdn.com/kf/H5fcbcac98b87407c85241f6a6dc15d3fY.png",
+            "https://sc04.alicdn.com/kf/Hb97b4ec73eeb4bd195c9d4d8cdb9941fp.png",
+            "https://sc04.alicdn.com/kf/Hed0e28a6616845dbb0be1c1680071eecK.png",
+            "https://sc04.alicdn.com/kf/H4d444c378ffe49e7943bc9e99af6e77ap.png",
+            "https://sc04.alicdn.com/kf/Hd70632aa7b304584a1b4ce52ea32e3dam.png"
+          ],
+          "category": "Rosary bracelets",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Jewelry Main Material",
+              "value": "Alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material Type",
+              "value": "Zinc Alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Plating",
+              "value": "Gold plated"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Main Stone",
+              "value": "Crystal, Rhinestone"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Inlay Technology",
+              "value": "Micro insert"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Diamond Shape",
+              "value": "Round Brilliant Cut"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Bracelets or Bangles Type",
+              "value": "Beaded Bracelets"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Shape/Pattern",
+              "value": "Cross"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Religious Type",
+              "value": "Catholicism"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Gender",
+              "value": "Unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Gift"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Brand Name",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Certificate Type",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Model Number",
+              "value": "MC256406"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of Origin",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.68",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.56",
+              "maxPrice": "0.68",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What materials are used in this rosary bracelet?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The jewelry main material is alloy, listed more specifically as zinc alloy, with gold plating. The main stones are crystal and rhinestone, and the inlay technology is micro insert."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the stone cut and pattern on this bracelet?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The stones are described as round brilliant cut, and the shape or pattern is a cross. The bracelet is classified as a beaded bracelet within the rosary bracelet category."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this bracelet branded or certified?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The brand name is listed as None and the certificate type is None. The model number is MC256406, and the place of origin is CN;ZHE."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "fde857de6381bbe11988f3a78ec42a8eb4986b4eddae34f174295ead58c64bfe",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "fde857de6381bbe11988f3a78ec42a8eb4986b4eddae34f174295ead58c64bfe",
+            "contentHash": "fde857de6381bbe11988f3a78ec42a8eb4986b4eddae34f174295ead58c64bfe",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:04:42.158Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFLTG7BAOVioqqEY6eypIlo",
+      "sourceId": "AAFLTG7BAOVioqqEY6eypIlo",
+      "sourceFingerprint": "fd430af8aa09b622cc95469fde83a7b2a92798bf83e55905da60cabee06dfb1f",
+      "locale": "en",
+      "slug": "christian-crystal-agate-jade-cross-straight-hole-loose-beads-diy-eypilo",
+      "title": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY",
+      "eyebrow": "Accessories",
+      "summary": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY Hairpin Sweater Chain Wearing Jewelry Accessories Wholesale",
+      "description": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY Hairpin Sweater Chain Wearing Jewelry Accessories Wholesale",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessories",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H302f946406a04b64a6ebce930829116ct.webp",
+      "imageAlt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H302f946406a04b64a6ebce930829116ct.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9c19a45fe0314525b44c80b58f054e8eC.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hddc2df0ee5a348789ec994cb68a2f18eY.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfad95144a68a427682d275f364955712n.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf8b8361148f34e32a4d069063ef58837d.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde2d507215824ba6906eb8fee5d79fc9k.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8079ba88e22446d5a367ccaeee0fcb4fp.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - obsidian",
+          "label": "obsidian",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hc1a74114d61b43faa7e45abbdcb53679z.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - pink-quartz",
+          "label": "pink-quartz",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H623fd5a7b1644570889138e85f4d3d279.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - white-agate",
+          "label": "white-agate",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H401fd84a35014f84ba3e210e61ed58a6f.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - random-stone",
+          "label": "random-stone",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6695f8d4fc7e40709e86cf109ffcdef3j.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - red-stone",
+          "label": "red-stone",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H722350a717f44be6825e4ef6614f33d3O.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - synthetic-white-turquoise",
+          "label": "synthetic-white-turquoise",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6087e021dcef4add9600667decf6e031O.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - yellow-jade",
+          "label": "yellow-jade",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H10b525da7d764c8abe7c0008b619357eb.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - synthetic-turquoise",
+          "label": "synthetic-turquoise",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H710c4d28c06c4373b141b202431196e0Z.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - red-agate",
+          "label": "red-agate",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He1d5403e652a4c8ab1cf0a5b38aa16b7l.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - golden-sandstone",
+          "label": "golden-sandstone",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3faf100ee39d4a57aa30b4724c5358bet.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - synthetic-opal",
+          "label": "synthetic-opal",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H02e477074bba42ae967b2606048b1117Z.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - blue-spotted-stone",
+          "label": "blue-spotted-stone",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfc010c0b93dc4a8d821e2d949342cf163.webp",
+          "alt": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY - stone",
+          "label": "stone",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo-V--5"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Variant: Blue spotted stone, Golden sandstone, Obsidian, Pink quartz, Random stone, Red agate, Red stone, Stone, Synthetic opal, Synthetic turquoise, Synthetic white turquoise, White agate, Yellow jade"
+      ],
+      "specifications": [
+        {
+          "name": "Variant",
+          "value": "Blue spotted stone, Golden sandstone, Obsidian, Pink quartz, Random stone, Red agate, Red stone, Stone, Synthetic opal, Synthetic turquoise, Synthetic white turquoise, White agate, Yellow jade"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.30",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY",
+          "description": "Christian Crystal Agate Jade Cross Straight Hole Loose Beads DIY Hairpin Sweater Chain Wearing Jewelry Accessories Wholesale",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eypIlo",
+          "image": [
+            "https://sc04.alicdn.com/kf/H302f946406a04b64a6ebce930829116ct.png",
+            "https://sc04.alicdn.com/kf/H9c19a45fe0314525b44c80b58f054e8eC.png",
+            "https://sc04.alicdn.com/kf/Hddc2df0ee5a348789ec994cb68a2f18eY.png",
+            "https://sc04.alicdn.com/kf/Hfad95144a68a427682d275f364955712n.png",
+            "https://sc04.alicdn.com/kf/Hf8b8361148f34e32a4d069063ef58837d.png",
+            "https://sc04.alicdn.com/kf/Hde2d507215824ba6906eb8fee5d79fc9k.png"
+          ],
+          "category": "Accessories",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Blue spotted stone, Golden sandstone, Obsidian, Pink quartz, Random stone, Red agate, Red stone, Stone, Synthetic opal, Synthetic turquoise, Synthetic white turquoise, White agate, Yellow jade"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.30",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2a3aacf6f767db8ceb02098138f77845ba5d9c73d522f886e64f9991aadfe09e",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2a3aacf6f767db8ceb02098138f77845ba5d9c73d522f886e64f9991aadfe09e",
+            "contentHash": "2a3aacf6f767db8ceb02098138f77845ba5d9c73d522f886e64f9991aadfe09e",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:04:59.361Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHnTG7BAOVioqqEY6eyn-Cy",
+      "sourceId": "AAHnTG7BAOVioqqEY6eyn-Cy",
+      "sourceFingerprint": "0ce67e64d46975a23306ac20b96b0c0231fe3b367bede98c2b04bdaa064cc39d",
+      "locale": "en",
+      "slug": "natural-agate-rough-cross-pendant-smooth-cut-eyn-cy",
+      "title": "Natural Agate Rough Cross Pendant, Smooth Cut",
+      "eyebrow": "Rough natural agate cross pendant with smooth finish, available in five stone variants",
+      "summary": "A cross-shaped pendant cut from natural agate in a rough profile with a smooth surface. Five variants are offered: aventurine, black agate, pink crystal, red agate, and white jade. Buyers choose this piece when they need a stone cross that reads clearly as a finished pendant or a component for assembled jewelry.",
+      "description": "This pendant takes the plain cross form and cuts it from natural agate, leaving the silhouette rough while the face is smooth. Because the stone is the material rather than a coating, tone and veining shift from piece to piece, and the five named variants let buyers group orders by color family. No dimensions, drill-hole details, or metal findings are stated in the product data, so confirm those against the actual units before committing to a design. It is cataloged as an accessory for jewelry use, not as a liturgical item.",
+      "catholicContext": "A plain cross pendant carries Christian devotional meaning; a crucifix, by contrast, depicts the corpus of Christ, so this plain cross is not a crucifix.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessories",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAHnTG7BAOVioqqEY6eyn-Cy",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hd9ca9709d0484425b721f472254745977.webp",
+      "imageAlt": "Natural Agate Rough Cross Pendant, Smooth Cut",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd9ca9709d0484425b721f472254745977.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hfbebbd40bbfd4dd28da6a7165143d49a0.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H303d4bc80cd84b358ddb0249ac96e369i.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H16de86761e1f457183a052395a544b448.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb3443a5a3049423fb79684e65fc12a931.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H100873bbf323417c8669b744767719d3K.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb9dd065045d440a39290e1905a04bf53s.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut - aventurine",
+          "label": "aventurine",
+          "sku": "ALI-AAHnTG7BAOVioqqEY6eyn-Cy-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb859368e1a9c45ae974d0a5660b920d9Z.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut - red-agate",
+          "label": "red-agate",
+          "sku": "ALI-AAHnTG7BAOVioqqEY6eyn-Cy-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H883e3a4ebeaa464499e21f4cb59421c1h.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut - pink-crystal",
+          "label": "pink-crystal",
+          "sku": "ALI-AAHnTG7BAOVioqqEY6eyn-Cy-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4d71ac06dacc433d87de638cec486aa6z.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut - white-jade",
+          "label": "white-jade",
+          "sku": "ALI-AAHnTG7BAOVioqqEY6eyn-Cy-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb73f36c8420449ce9da4627aa78b5550K.webp",
+          "alt": "Natural Agate Rough Cross Pendant, Smooth Cut - black-agate",
+          "label": "black-agate",
+          "sku": "ALI-AAHnTG7BAOVioqqEY6eyn-Cy-V--1"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Natural agate pendant cut in a rough cross shape with a smooth finish",
+        "Cross form is plain, without a corpus of Christ",
+        "Five variants: aventurine, black agate, pink crystal, red agate, white jade",
+        "Sold as a jewelry accessory for pendant or component use",
+        "Stone color and veining vary between individual pieces"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Natural agate (semi-precious chalcedony)"
+        },
+        {
+          "name": "Shape",
+          "value": "Cross, rough profile"
+        },
+        {
+          "name": "Surface",
+          "value": "Smooth"
+        },
+        {
+          "name": "Variants",
+          "value": "Aventurine, black agate, pink crystal, red agate, white jade"
+        },
+        {
+          "name": "Category",
+          "value": "Accessories"
+        }
+      ],
+      "applications": [
+        "Pendant in a finished necklace or cord",
+        "Component in assembled stone jewelry",
+        "Cross-shaped focal piece for craft projects",
+        "Color-matched grouping across the five variant options"
+      ],
+      "faq": [
+        {
+          "question": "What material is this cross pendant made from?",
+          "answer": "It is made from natural agate, described as a semi-precious chalcedony. The pendant is cut in a rough cross shape with a smooth surface."
+        },
+        {
+          "question": "Which variants are available?",
+          "answer": "Five variants are listed: aventurine, black agate, pink crystal, red agate, and white jade. Each is a separate color option within the same pendant format."
+        },
+        {
+          "question": "Are the pendants identical in color from piece to piece?",
+          "answer": "No. The material is natural stone, so color and veining vary between individual pieces. Buyers planning matched sets should confirm shade consistency when ordering."
+        },
+        {
+          "question": "Is this a crucifix?",
+          "answer": "No. The product facts describe a plain cross without a corpus of Christ, so it is a cross pendant, not a crucifix. In Catholic usage the terms are not interchangeable."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.55",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Natural Agate Rough Cross Pendant, Smooth Cut",
+          "description": "Rough natural agate cross pendant with a smooth finish, available in aventurine, black agate, pink crystal, red agate, and white jade variants for jewelry making.",
+          "sku": "ALI-AAHnTG7BAOVioqqEY6eyn-Cy",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hd9ca9709d0484425b721f472254745977.png",
+            "https://sc04.alicdn.com/kf/Hfbebbd40bbfd4dd28da6a7165143d49a0.png",
+            "https://sc04.alicdn.com/kf/H303d4bc80cd84b358ddb0249ac96e369i.png",
+            "https://sc04.alicdn.com/kf/H16de86761e1f457183a052395a544b448.png",
+            "https://sc04.alicdn.com/kf/Hb3443a5a3049423fb79684e65fc12a931.png",
+            "https://sc04.alicdn.com/kf/H100873bbf323417c8669b744767719d3K.png"
+          ],
+          "category": "Accessories",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Natural agate (semi-precious chalcedony)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Shape",
+              "value": "Cross, rough profile"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Surface",
+              "value": "Smooth"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Aventurine, black agate, pink crystal, red agate, white jade"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Accessories"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.55",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is this cross pendant made from?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is made from natural agate, described as a semi-precious chalcedony. The pendant is cut in a rough cross shape with a smooth surface."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which variants are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Five variants are listed: aventurine, black agate, pink crystal, red agate, and white jade. Each is a separate color option within the same pendant format."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are the pendants identical in color from piece to piece?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The material is natural stone, so color and veining vary between individual pieces. Buyers planning matched sets should confirm shade consistency when ordering."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The product facts describe a plain cross without a corpus of Christ, so it is a cross pendant, not a crucifix. In Catholic usage the terms are not interchangeable."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "de4ee3dbc267b3f5b351557b96aa84ce10fbc8bb83ca6fa1c4ff938412ca3719",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "de4ee3dbc267b3f5b351557b96aa84ce10fbc8bb83ca6fa1c4ff938412ca3719",
+            "contentHash": "de4ee3dbc267b3f5b351557b96aa84ce10fbc8bb83ca6fa1c4ff938412ca3719",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:05:01.903Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGyTG7BAOVioqqEY6eyngvT",
+      "sourceId": "AAGyTG7BAOVioqqEY6eyngvT",
+      "sourceFingerprint": "4047336c3f07cd3fb4f99c50be86e8dc9a74d4ff4f0c79051619d9c4c923ff02",
+      "locale": "en",
+      "slug": "stainless-steel-crucifix-pendant-necklace-eyngvt",
+      "title": "Stainless Steel Crucifix Pendant Necklace",
+      "eyebrow": "Stainless steel crucifix pendant necklace",
+      "summary": "This necklace features a stainless steel pendant that combines a crucifix with the Tree of Life motif. It is available in black, gold, and silver finishes, offering a choice for different style preferences. The crucifix pendant is designed for men and women.",
+      "description": "Stainless steel forms the base of this crucifix pendant necklace, giving it a durable, corrosion-resistant body suitable for daily wear. The pendant integrates a crucifix with a Tree of Life design, merging two symbolic elements into a single piece. The Tree of Life motif expands the visual narrative beyond a standard cross. The necklace is available in three variants: black, gold, and silver, allowing buyers to select finishes that match different customer tastes. Each variant maintains the same core construction, with the color applied to the stainless steel surface. The pendant is paired with a necklace chain, though chain details are not specified.",
+      "catholicContext": "The crucifix is a Christian devotional article depicting Christ on the cross.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAGyTG7BAOVioqqEY6eyngvT",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H6a1d56c5af614ab3b4022f420aec0e4dk.webp",
+      "imageAlt": "Stainless Steel Crucifix Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H6a1d56c5af614ab3b4022f420aec0e4dk.webp",
+          "alt": "Stainless Steel Crucifix Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H451ea15a2cdc4a2d87f3ae628d8bae1b4.webp",
+          "alt": "Stainless Steel Crucifix Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He0cceb16175f447382a6c13e7631eb07J.webp",
+          "alt": "Stainless Steel Crucifix Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha67dd134fbd04c5eb848b0ca79faa966m.webp",
+          "alt": "Stainless Steel Crucifix Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Haff7a87d227b436591f5e3d2b7ed74aeO.webp",
+          "alt": "Stainless Steel Crucifix Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H34a2ed5fb4a740a5adbbe0cd1f332957i.webp",
+          "alt": "Stainless Steel Crucifix Pendant Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha1a3a9c56738440bbfb4e5695ad36f3cP.webp",
+          "alt": "Stainless Steel Crucifix Pendant Necklace - gold",
+          "label": "gold",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eyngvT-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hac9b2dbce6c1468098889326373f4613F.webp",
+          "alt": "Stainless Steel Crucifix Pendant Necklace - silver",
+          "label": "silver",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eyngvT-V-3460547"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0db8293c72d845a88191011e27db9d341.webp",
+          "alt": "Stainless Steel Crucifix Pendant Necklace - black",
+          "label": "black",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eyngvT-V-3327837"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Stainless steel construction",
+        "Crucifix pendant with Tree of Life motif",
+        "Available in black, gold, and silver variants",
+        "Designed for men and women",
+        "Religious jewelry category"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Variant",
+          "value": "Black, Gold, Silver"
+        },
+        {
+          "name": "Design",
+          "value": "Crucifix with Tree of Life"
+        },
+        {
+          "name": "Target Audience",
+          "value": "Men, Women"
+        }
+      ],
+      "applications": [
+        "Personal devotional wear",
+        "Religious gift giving",
+        "Everyday jewelry",
+        "Church event or ministry merchandise"
+      ],
+      "faq": [
+        {
+          "question": "What material is the crucifix pendant necklace made of?",
+          "answer": "The pendant necklace is made of stainless steel."
+        },
+        {
+          "question": "What color options are available for this necklace?",
+          "answer": "It is available in black, gold, and silver variants."
+        },
+        {
+          "question": "Who is this crucifix necklace designed for?",
+          "answer": "The necklace is designed for both men and women."
+        }
+      ],
+      "pricing": {
+        "price": "0.59",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.59",
+          "max": "1.20"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Crucifix Pendant Necklace",
+          "description": "Stainless steel crucifix pendant necklace with Tree of Life design, available in black, gold, and silver variants for men and women.",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eyngvT",
+          "image": [
+            "https://sc04.alicdn.com/kf/H6a1d56c5af614ab3b4022f420aec0e4dk.png",
+            "https://sc04.alicdn.com/kf/H451ea15a2cdc4a2d87f3ae628d8bae1b4.png",
+            "https://sc04.alicdn.com/kf/He0cceb16175f447382a6c13e7631eb07J.png",
+            "https://sc04.alicdn.com/kf/Ha67dd134fbd04c5eb848b0ca79faa966m.png",
+            "https://sc04.alicdn.com/kf/Haff7a87d227b436591f5e3d2b7ed74aeO.png",
+            "https://sc04.alicdn.com/kf/H34a2ed5fb4a740a5adbbe0cd1f332957i.png"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Black, Gold, Silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Crucifix with Tree of Life"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Target Audience",
+              "value": "Men, Women"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.59",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.59",
+              "maxPrice": "1.20",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the crucifix pendant necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant necklace is made of stainless steel."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What color options are available for this necklace?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is available in black, gold, and silver variants."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is this crucifix necklace designed for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The necklace is designed for both men and women."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "216a10424fd84ddf0ff998b4772d3fb0990f4a9299da345709e0b1cf304ff60a",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "216a10424fd84ddf0ff998b4772d3fb0990f4a9299da345709e0b1cf304ff60a",
+            "contentHash": "216a10424fd84ddf0ff998b4772d3fb0990f4a9299da345709e0b1cf304ff60a",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:04:42.837Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEHTG7BAOVioqqEY6eyn7Z8",
+      "sourceId": "AAEHTG7BAOVioqqEY6eyn7Z8",
+      "sourceFingerprint": "4a1ef0b7f7c3fee46c830dd907d3a05620b9be979aca474d4cea2ce68321650a",
+      "locale": "en",
+      "slug": "our-lady-of-guadalupe-zinc-alloy-jewelry-charms-eyn7z8",
+      "title": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms",
+      "eyebrow": "Our Lady of Guadalupe DIY jewelry charms and beads",
+      "summary": "These retro-style zinc alloy charms and stringing beads feature Our Lady of Guadalupe imagery for DIY religious jewelry. Offered in gold and silver finishes, they suit bracelet and pendant projects that call for a Marian focal point. Buyers can select the finish that best fits their assembly needs. The set is intended for jewelry making and craft use.",
+      "description": "Our Lady of Guadalupe charms and stringing beads give jewelry makers a ready Marian element for handmade bracelets, pendants, and other strung designs. The components are made of zinc alloy with a retro finish, so they fit projects that lean toward vintage or traditional styling rather than high-polish modern looks.\n\nBecause the set is sold as DIY jewelry supplies, it works for small-batch assembly, craft kits, and repair or restyling work. Two color variants are available: gold and silver. Each piece is designed for stringing, which keeps the assembly process straightforward for bracelet and pendant formats.",
+      "catholicContext": "Our Lady of Guadalupe is a Marian title for the Virgin Mary, widely recognized in Catholic devotional practice.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessories",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAEHTG7BAOVioqqEY6eyn7Z8",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/H95e6d01e2efa448f9b1aac4f095992c04.webp",
+      "imageAlt": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H95e6d01e2efa448f9b1aac4f095992c04.webp",
+          "alt": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H628c7083bb184d27b415c3c9cbe44abdY.webp",
+          "alt": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbcb2bc9010a94b69b52725f5780f2d95u.webp",
+          "alt": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H40294edd3110438ab38bd2fccf3bec76m.webp",
+          "alt": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd97cc83e21be4e5285d7cc5af3dde34c9.webp",
+          "alt": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hba5347a7ee5545b3befd2d7088e43b62T.webp",
+          "alt": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9221c006b7ee43e69e850428da059f0ap.webp",
+          "alt": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms - silver",
+          "label": "silver",
+          "sku": "ALI-AAEHTG7BAOVioqqEY6eyn7Z8-V-3460547"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H123f57471494454987393743a52ca1edt.webp",
+          "alt": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms - gold",
+          "label": "gold",
+          "sku": "ALI-AAEHTG7BAOVioqqEY6eyn7Z8-V-3331116"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Zinc alloy construction",
+        "Retro finish",
+        "Our Lady of Guadalupe motif",
+        "Stringing beads and charms for DIY jewelry",
+        "Available in gold and silver variants"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Zinc alloy"
+        },
+        {
+          "name": "Style",
+          "value": "Retro"
+        },
+        {
+          "name": "Product type",
+          "value": "DIY jewelry charms and stringing beads"
+        },
+        {
+          "name": "Variant",
+          "value": "Gold, Silver"
+        },
+        {
+          "name": "Theme",
+          "value": "Our Lady of Guadalupe"
+        }
+      ],
+      "applications": [
+        "DIY religious bracelets",
+        "Pendant making",
+        "Stringing bead projects",
+        "Craft jewelry assembly"
+      ],
+      "faq": [
+        {
+          "question": "What material are these Our Lady of Guadalupe charms made of?",
+          "answer": "The charms and stringing beads are made of zinc alloy."
+        },
+        {
+          "question": "What color options are available?",
+          "answer": "They are available in two variants: gold and silver."
+        },
+        {
+          "question": "What are these charms designed for?",
+          "answer": "They are designed for DIY jewelry making, including bracelets, pendants, and other stringing projects."
+        }
+      ],
+      "pricing": {
+        "price": "0.04",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.02",
+          "max": "0.04"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Our Lady of Guadalupe Zinc Alloy Jewelry Charms",
+          "description": "Our Lady of Guadalupe charms and stringing beads in retro zinc alloy, available in gold and silver finishes for DIY religious bracelets and pendants.",
+          "sku": "ALI-AAEHTG7BAOVioqqEY6eyn7Z8",
+          "image": [
+            "https://sc04.alicdn.com/kf/H95e6d01e2efa448f9b1aac4f095992c04.png",
+            "https://sc04.alicdn.com/kf/H628c7083bb184d27b415c3c9cbe44abdY.png",
+            "https://sc04.alicdn.com/kf/Hbcb2bc9010a94b69b52725f5780f2d95u.png",
+            "https://sc04.alicdn.com/kf/H40294edd3110438ab38bd2fccf3bec76m.png",
+            "https://sc04.alicdn.com/kf/Hd97cc83e21be4e5285d7cc5af3dde34c9.png",
+            "https://sc04.alicdn.com/kf/Hba5347a7ee5545b3befd2d7088e43b62T.png"
+          ],
+          "category": "Accessories",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Zinc alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Retro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product type",
+              "value": "DIY jewelry charms and stringing beads"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Gold, Silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Theme",
+              "value": "Our Lady of Guadalupe"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.04",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.02",
+              "maxPrice": "0.04",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material are these Our Lady of Guadalupe charms made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The charms and stringing beads are made of zinc alloy."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What color options are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They are available in two variants: gold and silver."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are these charms designed for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They are designed for DIY jewelry making, including bracelets, pendants, and other stringing projects."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "e278f970550f0e7c58781c7a020fc76e3517b50ba34ad4f24844c2fcb77b09f7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "e278f970550f0e7c58781c7a020fc76e3517b50ba34ad4f24844c2fcb77b09f7",
+            "contentHash": "e278f970550f0e7c58781c7a020fc76e3517b50ba34ad4f24844c2fcb77b09f7",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:04:51.893Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAElTG7BAOVioqqEY6eynkQN",
+      "sourceId": "AAElTG7BAOVioqqEY6eynkQN",
+      "sourceFingerprint": "8ef409392182d98e924d218404e64c4182969e37dd332d55406e18769d1ed02a",
+      "locale": "en",
+      "slug": "zinc-alloy-catholic-cross-pendant-charm-for-diy-eynkqn",
+      "title": "Zinc Alloy Catholic Cross Pendant Charm for DIY",
+      "eyebrow": "Zinc alloy cross pendant charm for DIY jewelry making",
+      "summary": "A plain Catholic cross charm pendant cast in zinc alloy, model 3690. The unisex design suits children's, women's, and men's DIY jewelry projects. It has no main stone, pearl, or diamond, and no inlay. The cross shape is a Catholic religious symbol, not a crucifix with a corpus.",
+      "description": "This is a Catholic cross charm pendant made from zinc alloy, listed under jewelry pendants or charms with model number 3690. It is a plain cross without a corpus, so it is not a crucifix. The pendant carries no main stone, no pearl, and no diamond, and the inlay technology is listed as none. Plating is recorded as other, so the exact finish is not specified in the product data. The design is unisex and sized for children's, women's, and men's use, making it a general DIY jewelry accessory. It is produced in CN;ZHE and mould making is available on request. Brand name and certificate type are both listed as none. Occasion is recorded as other.",
+      "catholicContext": "A cross pendant is a form of popular Catholic devotion; a crucifix, by contrast, depicts Christ on the cross, while this pendant is a plain cross.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessories",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAElTG7BAOVioqqEY6eynkQN",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hd33c2ce60ec6469388bb274201b473f1m.webp",
+      "imageAlt": "Zinc Alloy Catholic Cross Pendant Charm for DIY",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd33c2ce60ec6469388bb274201b473f1m.webp",
+          "alt": "Zinc Alloy Catholic Cross Pendant Charm for DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf3e1e90dd2684de6aace5f7da7bafeaal.webp",
+          "alt": "Zinc Alloy Catholic Cross Pendant Charm for DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3123e00b7c0e4ba89596a19c61be89c59.webp",
+          "alt": "Zinc Alloy Catholic Cross Pendant Charm for DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4ec79e0f726943608c0ef5a1a59212fbx.webp",
+          "alt": "Zinc Alloy Catholic Cross Pendant Charm for DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H865304fc31834fcf8de357c59bc4aa2fD.webp",
+          "alt": "Zinc Alloy Catholic Cross Pendant Charm for DIY"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H5413d4ff32434ee68658bc7c009b5fbbk.webp",
+          "alt": "Zinc Alloy Catholic Cross Pendant Charm for DIY"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6f7c72",
+      "features": [
+        "Plain Catholic cross shape, not a crucifix with a corpus",
+        "Made from zinc alloy, model number 3690",
+        "No main stone, pearl, or diamond; inlay technology none",
+        "Unisex design listed for children's, women's, and men's use",
+        "Mould making service available per product attributes",
+        "Produced in CN;ZHE with no brand name and no certificate type"
+      ],
+      "specifications": [
+        {
+          "name": "Jewelry main material",
+          "value": "Alloy"
+        },
+        {
+          "name": "Material type",
+          "value": "Zinc alloy"
+        },
+        {
+          "name": "Pendant or charm type",
+          "value": "Charm pendants"
+        },
+        {
+          "name": "Shape/pattern",
+          "value": "Cross"
+        },
+        {
+          "name": "Style",
+          "value": "Religious"
+        },
+        {
+          "name": "Religious type",
+          "value": "Catholicism"
+        },
+        {
+          "name": "Gender",
+          "value": "Children's, Unisex, Women's, Men's"
+        },
+        {
+          "name": "Main stone",
+          "value": "None"
+        },
+        {
+          "name": "Pearl type",
+          "value": "None"
+        },
+        {
+          "name": "Diamond shape",
+          "value": "None"
+        },
+        {
+          "name": "Inlay technology",
+          "value": "None"
+        },
+        {
+          "name": "Plating",
+          "value": "Other"
+        },
+        {
+          "name": "Occasion",
+          "value": "Other"
+        },
+        {
+          "name": "Model number",
+          "value": "3690"
+        },
+        {
+          "name": "Brand name",
+          "value": "None"
+        },
+        {
+          "name": "Certificate type",
+          "value": "None"
+        },
+        {
+          "name": "Place of origin",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "DIY jewelry making with cross charms",
+        "Unisex pendant for children's, women's, or men's jewelry",
+        "Religious-style accessory assembly"
+      ],
+      "faq": [
+        {
+          "question": "Is this a cross or a crucifix?",
+          "answer": "It is a plain cross pendant. A crucifix depicts Christ on the cross, but the product attributes list the shape as a cross, not a crucifix."
+        },
+        {
+          "question": "What material is the pendant made from?",
+          "answer": "The pendant is made from zinc alloy, listed as the material type under alloy jewelry."
+        },
+        {
+          "question": "Does this pendant have stones or inlay?",
+          "answer": "No. The product data lists the main stone, pearl type, and diamond shape as none, and the inlay technology as none."
+        }
+      ],
+      "pricing": {
+        "price": "0.03",
+        "regularPrice": "0.03",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.03"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Zinc Alloy Catholic Cross Pendant Charm for DIY",
+          "description": "Zinc alloy Catholic cross pendant charm for DIY jewelry, model 3690. Unisex, no stone, no plating inlay, suitable for children's and adult jewelry making.",
+          "sku": "ALI-AAElTG7BAOVioqqEY6eynkQN",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hd33c2ce60ec6469388bb274201b473f1m.png",
+            "https://sc04.alicdn.com/kf/Hf3e1e90dd2684de6aace5f7da7bafeaal.png",
+            "https://sc04.alicdn.com/kf/H3123e00b7c0e4ba89596a19c61be89c59.png",
+            "https://sc04.alicdn.com/kf/H4ec79e0f726943608c0ef5a1a59212fbx.png",
+            "https://sc04.alicdn.com/kf/H865304fc31834fcf8de357c59bc4aa2fD.png",
+            "https://sc04.alicdn.com/kf/H5413d4ff32434ee68658bc7c009b5fbbk.png"
+          ],
+          "category": "Accessories",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Jewelry main material",
+              "value": "Alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material type",
+              "value": "Zinc alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pendant or charm type",
+              "value": "Charm pendants"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Shape/pattern",
+              "value": "Cross"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Religious type",
+              "value": "Catholicism"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Gender",
+              "value": "Children's, Unisex, Women's, Men's"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Main stone",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pearl type",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Diamond shape",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Inlay technology",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Plating",
+              "value": "Other"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Other"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Model number",
+              "value": "3690"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Brand name",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Certificate type",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of origin",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.03",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.03",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is this a cross or a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is a plain cross pendant. A crucifix depicts Christ on the cross, but the product attributes list the shape as a cross, not a crucifix."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What material is the pendant made from?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant is made from zinc alloy, listed as the material type under alloy jewelry."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does this pendant have stones or inlay?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The product data lists the main stone, pearl type, and diamond shape as none, and the inlay technology as none."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "860d8cf13675e94f31d445a13a9b96bb44bc5e5fbad8a1856de45cef78c3093e",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "860d8cf13675e94f31d445a13a9b96bb44bc5e5fbad8a1856de45cef78c3093e",
+            "contentHash": "860d8cf13675e94f31d445a13a9b96bb44bc5e5fbad8a1856de45cef78c3093e",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:04:53.533Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHyTG7BAOVioqqEY6ePxgYT",
+      "sourceId": "AAHyTG7BAOVioqqEY6ePxgYT",
+      "sourceFingerprint": "efd2e7003a1c13b5f1655e10ab50b8b7c3c1d1968b0600c4fb03551df34c1ffd",
+      "locale": "en",
+      "slug": "white-glass-bead-rosary-set-with-gold-plated-necklace-epxgyt",
+      "title": "White Glass Bead Rosary Set with Gold-Plated Necklace",
+      "eyebrow": "Glass bead rosary set with gold-plated beaded necklace",
+      "summary": "This rosary set pairs white glass beads with a gold-plated beaded necklace. The set is available in Gold or Silver variant options. Its classic white and metallic finish suits Catholic gift presentation. Buyers can select the variant that matches their inventory or gifting needs.",
+      "description": "This rosary set uses white glass beads and includes a gold-plated beaded necklace. The product is listed under Catholic Rosaries and comes in two variant options: Gold and Silver. The set pairs a classic white bead strand with a metallic-plated necklace component. Because the set is offered in two finishes, buyers can stock one variant or both. The product facts specify glass bead material and gold-plated construction for the necklace. No bead count, crucifix style, or centerpiece details are provided in the current product data.",
+      "catholicContext": "The Rosary is a Catholic prayer centered on contemplation of events in the lives of Jesus Christ and the Virgin Mary.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Catholic Rosaries",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAHyTG7BAOVioqqEY6ePxgYT",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hf681155a0f3d4723b75faf1e67606a47C.webp",
+      "imageAlt": "White Glass Bead Rosary Set with Gold-Plated Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hf681155a0f3d4723b75faf1e67606a47C.webp",
+          "alt": "White Glass Bead Rosary Set with Gold-Plated Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hd3781dcb2e3a4738a3f3a1404a8861a9J.webp",
+          "alt": "White Glass Bead Rosary Set with Gold-Plated Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9c84eb1723b340649e691fdeca79de81w.webp",
+          "alt": "White Glass Bead Rosary Set with Gold-Plated Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H8c51ffad94184a3f9d4df6210594a505z.webp",
+          "alt": "White Glass Bead Rosary Set with Gold-Plated Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha2f85790e65d429d8b88d8136f495785t.webp",
+          "alt": "White Glass Bead Rosary Set with Gold-Plated Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He21267f4155e4f239057c887a2dd10a4Y.webp",
+          "alt": "White Glass Bead Rosary Set with Gold-Plated Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha48ca7687d11440480cb42d109cf9757O.webp",
+          "alt": "White Glass Bead Rosary Set with Gold-Plated Necklace - gold",
+          "label": "gold",
+          "sku": "ALI-AAHyTG7BAOVioqqEY6ePxgYT-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H118ce90651af4fdc819b4aeb8ca7748a6.webp",
+          "alt": "White Glass Bead Rosary Set with Gold-Plated Necklace - silver",
+          "label": "silver",
+          "sku": "ALI-AAHyTG7BAOVioqqEY6ePxgYT-V-3460547"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "White glass beads form the rosary strand.",
+        "Set includes a gold-plated beaded necklace.",
+        "Available in Gold or Silver variant.",
+        "Listed under Catholic Rosaries.",
+        "Classic white and metallic color combination."
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Glass beads"
+        },
+        {
+          "name": "Necklace plating",
+          "value": "Gold-plated"
+        },
+        {
+          "name": "Variant options",
+          "value": "Gold, Silver"
+        },
+        {
+          "name": "Category",
+          "value": "Catholic Rosaries"
+        }
+      ],
+      "applications": [
+        "Catholic gift giving",
+        "Rosary prayer use",
+        "Devotional jewelry selection",
+        "Wholesale religious goods inventory"
+      ],
+      "faq": [
+        {
+          "question": "What material are the rosary beads made of?",
+          "answer": "The rosary beads are made of white glass, as stated in the product facts."
+        },
+        {
+          "question": "What variant options are available?",
+          "answer": "The set is available in Gold and Silver variants."
+        },
+        {
+          "question": "Does the set include a necklace?",
+          "answer": "Yes, the set includes a gold-plated beaded necklace."
+        }
+      ],
+      "pricing": {
+        "price": "0.98",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.68",
+          "max": "0.98"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "White Glass Bead Rosary Set with Gold-Plated Necklace",
+          "description": "White glass bead rosary set with gold-plated beaded necklace. Available in gold or silver variants. Ideal for Catholic gift and wholesale buyers.",
+          "sku": "ALI-AAHyTG7BAOVioqqEY6ePxgYT",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hf681155a0f3d4723b75faf1e67606a47C.jpg",
+            "https://sc04.alicdn.com/kf/Hd3781dcb2e3a4738a3f3a1404a8861a9J.jpg",
+            "https://sc04.alicdn.com/kf/H9c84eb1723b340649e691fdeca79de81w.jpg",
+            "https://sc04.alicdn.com/kf/H8c51ffad94184a3f9d4df6210594a505z.jpg",
+            "https://sc04.alicdn.com/kf/Ha2f85790e65d429d8b88d8136f495785t.jpg",
+            "https://sc04.alicdn.com/kf/He21267f4155e4f239057c887a2dd10a4Y.jpg"
+          ],
+          "category": "Catholic Rosaries",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Glass beads"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Necklace plating",
+              "value": "Gold-plated"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant options",
+              "value": "Gold, Silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Catholic Rosaries"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.98",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.68",
+              "maxPrice": "0.98",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material are the rosary beads made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The rosary beads are made of white glass, as stated in the product facts."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What variant options are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The set is available in Gold and Silver variants."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the set include a necklace?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the set includes a gold-plated beaded necklace."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "cc6a1ee08789ab9d6bceb9cc031e0e554b6845f3546919a0314ab6274e44d986",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "cc6a1ee08789ab9d6bceb9cc031e0e554b6845f3546919a0314ab6274e44d986",
+            "contentHash": "cc6a1ee08789ab9d6bceb9cc031e0e554b6845f3546919a0314ab6274e44d986",
+            "attempts": 0,
+            "updatedAt": "2026-09-20T17:04:55.231Z",
             "model": "deepseek-v4-flash"
           }
         }
