@@ -105,16 +105,25 @@ const sitemapIndex = {
   collections: collections.map((entry) => entry.slug),
 };
 
-// Single row per locale; 14 rows per deploy is negligible, so no write guard.
-const indexStatements = [
-  `INSERT INTO catalog_index (locale, product_count, order_json, collections_json, briefs_json, sitemap_json, categories_json, updated_at) VALUES (${quote(locale)}, ${ordered.length}, ${quote(JSON.stringify(orderRows))}, ${quote(JSON.stringify(collections))}, ${quote(JSON.stringify(briefRows))}, ${quote(JSON.stringify(sitemapIndex))}, ${quote(JSON.stringify(categoriesById))}, ${quote(new Date().toISOString())}) ON CONFLICT(locale) DO UPDATE SET product_count=excluded.product_count, order_json=excluded.order_json, collections_json=excluded.collections_json, briefs_json=excluded.briefs_json, sitemap_json=excluded.sitemap_json, categories_json=excluded.categories_json, updated_at=excluded.updated_at;`,
-];
-
-// One statement block per product so we can emit both a single full file (used
-// by reconcile-d1) and smaller batch files (used by the deploy). Large single
-// requests to D1 have occasionally triggered Cloudflare's D1 storage error
-// (code 7500); small batches keep each request well under the size that has
-// been implicated in those incidents.
+// D1 rejects very long SQL statements ("statement too long: SQLITE_TOOBIG"), so
+// the payload is stored as ~32 KB chunks and reassembled by the reader.
+const indexPayload = JSON.stringify({
+  productCount: ordered.length,
+  order: orderRows,
+  collections,
+  briefs: briefRows,
+  sitemap: sitemapIndex,
+  categories: categoriesById,
+});
+const INDEX_CHUNK_SIZE = 32000;
+const indexStatements = [`DELETE FROM catalog_index WHERE locale=${quote(locale)};`];
+for (let offset = 0, index = 0; offset < indexPayload.length; offset += INDEX_CHUNK_SIZE, index += 1) {
+  indexStatements.push(
+    `INSERT INTO catalog_index (locale, chunk, payload) VALUES (${quote(locale)}, ${index}, ${quote(
+      indexPayload.slice(offset, offset + INDEX_CHUNK_SIZE)
+    )});`
+  );
+}
 const productBlocks = uniqueProducts.map((product) => {
   const productId = String(product.productId);
   // Guarded upsert: when the stored row is already identical

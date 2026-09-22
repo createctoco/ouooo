@@ -6,15 +6,6 @@ import type { SupportedLocale } from '~/i18n/config';
 type ProductRow = { content_json: string };
 type CollectionRow = ProductCategory & { productCount: number; featuredProductJson: string };
 
-type CatalogIndexRow = {
-  product_count: number;
-  order_json: string;
-  collections_json: string;
-  briefs_json: string;
-  sitemap_json: string;
-  categories_json: string;
-};
-
 type ParsedIndex = {
   productCount: number;
   order: Array<{ id: string; slug: string; updatedAt: string }>;
@@ -27,15 +18,6 @@ type ParsedIndex = {
 const database = () => env.DB;
 const parseProduct = (row: ProductRow | null): Product | undefined =>
   row ? (JSON.parse(row.content_json) as Product) : undefined;
-
-const parseJson = <T>(value: unknown, fallback: T): T => {
-  if (typeof value !== 'string') return fallback;
-  try {
-    return JSON.parse(value) as T;
-  } catch {
-    return fallback;
-  }
-};
 
 // D1 bills per ROW read, so the listing pages used to cost 600-1,200 row reads
 // each (COUNT(*), GROUP BY, MIN(content_json) over ~640 products) and crawler
@@ -54,20 +36,29 @@ async function loadIndex(locale: SupportedLocale | string): Promise<ParsedIndex 
 
   let value: ParsedIndex | null = null;
   try {
-    const row = await database()
-      .prepare(
-        'SELECT product_count, order_json, collections_json, briefs_json, sitemap_json, categories_json FROM catalog_index WHERE locale = ? LIMIT 1'
-      )
+    // The payload is stored as ~32 KB chunks because D1 rejects longer SQL
+    // statements; reassemble before parsing.
+    const result = await database()
+      .prepare('SELECT payload FROM catalog_index WHERE locale = ? ORDER BY chunk')
       .bind(key)
-      .first<CatalogIndexRow>();
-    if (row) {
+      .all<{ payload: string }>();
+    const chunks = (result.results as Array<{ payload?: string }>).map((row) => String(row.payload ?? ''));
+    if (chunks.length) {
+      const parsed = JSON.parse(chunks.join('')) as {
+        productCount?: number;
+        order?: ParsedIndex['order'];
+        collections?: ParsedIndex['collections'];
+        briefs?: ParsedIndex['briefs'];
+        sitemap?: ParsedIndex['sitemap'];
+        categories?: ParsedIndex['categories'];
+      };
       value = {
-        productCount: Number(row.product_count) || 0,
-        order: parseJson(row.order_json, []),
-        collections: parseJson(row.collections_json, []),
-        briefs: parseJson(row.briefs_json, []),
-        sitemap: parseJson(row.sitemap_json, { products: [], collections: [] }),
-        categories: parseJson(row.categories_json, {}),
+        productCount: Number(parsed.productCount) || 0,
+        order: parsed.order || [],
+        collections: parsed.collections || [],
+        briefs: parsed.briefs || [],
+        sitemap: parsed.sitemap || { products: [], collections: [] },
+        categories: parsed.categories || {},
       };
     }
   } catch {
