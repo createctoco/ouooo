@@ -44,6 +44,72 @@ const uniqueProducts = [...productsById.values()];
 const batchSize = Math.max(1, Math.min(100, Number(process.env.OUOOO_D1_BATCH_SIZE || 25)));
 const header = ['PRAGMA foreign_keys = ON;'];
 
+// Precompute everything the listing pages need into a single row per locale, so
+// those pages read 1-2 rows instead of scanning every product row for the
+// locale. D1 bills per row read, and scanning ~640 rows per page render is what
+// let crawler traffic blow the free daily row read limit (2026-09-21).
+const updatedAtOf = (product) => String(product.localization?.translations?.en?.updatedAt || catalog.generatedAt || '');
+const contentOf = (product) => JSON.stringify(product);
+
+const ordered = [...uniqueProducts].sort((a, b) => {
+  const left = updatedAtOf(a);
+  const right = updatedAtOf(b);
+  if (left !== right) return left < right ? 1 : -1;
+  return String(a.productId) < String(b.productId) ? 1 : -1;
+});
+
+const orderRows = ordered.map((product) => ({
+  id: String(product.productId),
+  slug: String(product.slug),
+  updatedAt: updatedAtOf(product),
+}));
+const briefRows = ordered.map((product) => ({
+  slug: String(product.slug),
+  title: String(product.title || ''),
+  summary: String(product.summary || ''),
+}));
+
+const categoriesById = {};
+const collectionMap = new Map();
+for (const product of ordered) {
+  const productId = String(product.productId);
+  const slugs = [];
+  const content = contentOf(product);
+  for (const category of product.categories || []) {
+    if (!category?.slug) continue;
+    const slug = String(category.slug);
+    slugs.push(slug);
+    const entry = collectionMap.get(slug) || {
+      slug,
+      name: String(category.name || slug),
+      count: 0,
+      featuredProductId: productId,
+      featuredContent: content,
+    };
+    entry.count += 1;
+    // Mirror the old SQL (MIN(p.content_json)) so collection tiles keep showing
+    // the same featured product as before.
+    if (content < entry.featuredContent) {
+      entry.featuredContent = content;
+      entry.featuredProductId = productId;
+    }
+    collectionMap.set(slug, entry);
+  }
+  categoriesById[productId] = slugs;
+}
+const collections = [...collectionMap.values()]
+  .sort((a, b) => (a.name < b.name ? -1 : a.name > b.name ? 1 : a.slug < b.slug ? -1 : 1))
+  .map(({ slug, name, count, featuredProductId }) => ({ slug, name, count, featuredProductId }));
+const sitemapIndex = {
+  products: ordered.map((product) => String(product.slug)),
+  collections: collections.map((entry) => entry.slug),
+};
+
+// Single row per locale; 14 rows per deploy is negligible, so no write guard.
+const indexStatements = [
+  `INSERT INTO catalog_index (locale, product_count, order_json, collections_json, briefs_json, sitemap_json, categories_json, updated_at) VALUES (${quote(locale)}, ${ordered.length}, ${quote(JSON.stringify(orderRows))}, ${quote(JSON.stringify(collections))}, ${quote(JSON.stringify(briefRows))}, ${quote(JSON.stringify(sitemapIndex))}, ${quote(JSON.stringify(categoriesById))}, ${quote(new Date().toISOString())}) ON CONFLICT(locale) DO UPDATE SET product_count=excluded.product_count, order_json=excluded.order_json, collections_json=excluded.collections_json, briefs_json=excluded.briefs_json, sitemap_json=excluded.sitemap_json, categories_json=excluded.categories_json, updated_at=excluded.updated_at;`,
+];
+
 // One statement block per product so we can emit both a single full file (used
 // by reconcile-d1) and smaller batch files (used by the deploy). Large single
 // requests to D1 have occasionally triggered Cloudflare's D1 storage error
@@ -93,14 +159,22 @@ const deleteStatements = deletedProductIds.flatMap((productId) => [
 await mkdir(dirname(outputFile), { recursive: true });
 
 // Full single-file import (kept for reconcile-d1 which executes the whole file).
-await writeFile(outputFile, `${[...header, ...productBlocks.flat(), ...deleteStatements].join('\n')}\n`, 'utf8');
+await writeFile(
+  outputFile,
+  `${[...header, ...indexStatements, ...productBlocks.flat(), ...deleteStatements].join('\n')}\n`,
+  'utf8'
+);
 
 // Small batch files (used by the deploy to keep each D1 request small).
 let batchCount = 0;
 for (let index = 0; index < productBlocks.length; index += batchSize) {
   batchCount += 1;
   const chunk = productBlocks.slice(index, index + batchSize);
-  const batchStatements = [...header, ...chunk.flat(), ...(batchCount === 1 ? deleteStatements : [])];
+  const batchStatements = [
+    ...header,
+    ...(batchCount === 1 ? [...indexStatements, ...deleteStatements] : []),
+    ...chunk.flat(),
+  ];
   const batchBase = outputFile.endsWith('.sql') ? outputFile.slice(0, -4) : outputFile;
   const batchFile = `${batchBase}-${String(batchCount).padStart(3, '0')}.sql`;
   await writeFile(batchFile, `${batchStatements.join('\n')}\n`, 'utf8');
