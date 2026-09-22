@@ -36,22 +36,33 @@ function healthy() {
 }
 
 // Two independent checks before restoring, to avoid acting on a transient blip.
-let first = false;
-let second = false;
-try {
-  first = healthy();
-} catch (error) {
-  process.stderr.write(`First health check error: ${error instanceof Error ? error.message : String(error)}\n`);
-}
-try {
-  second = healthy();
-} catch (error) {
-  process.stderr.write(`Second health check error: ${error instanceof Error ? error.message : String(error)}\n`);
-}
+// `true` = queried successfully and the data looks healthy, `false` = queried
+// successfully but the data is wrong, `null` = the query itself failed.
+const check = (label) => {
+  try {
+    return healthy() ? true : false;
+  } catch (error) {
+    process.stderr.write(`${label} health check error: ${error instanceof Error ? error.message : String(error)}\n`);
+    return null;
+  }
+};
 
-if (first && second) {
+const first = check('First');
+const second = check('Second');
+
+if (first === true && second === true) {
   process.stdout.write('D1 is healthy; no action needed.\n');
   process.exit(0);
+}
+
+if (first === null || second === null) {
+  // We could not read the database at all (API/quota/network error). That is no
+  // evidence of corruption, and a Time Travel restore REWINDS the database, so
+  // it can destroy good data. On 2026-09-21 a free-tier row read limit error
+  // (code 7500) was misread as corruption and triggered four destructive
+  // restores. Never restore when the health signal is unreadable.
+  process.stderr.write('D1 health could not be determined (query failed); skipping auto-restore.\n');
+  process.exit(1);
 }
 
 // D1 is unhealthy: auto-restore to a recent known-good point (Time Travel),
