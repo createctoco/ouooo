@@ -4,7 +4,8 @@ import { fileURLToPath } from 'node:url';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const npx = process.platform === 'win32' ? 'npx.cmd' : 'npx';
-const minProducts = Number(process.env.OUOOO_D1_MIN_PRODUCTS || 4000);
+const minProducts = Number(process.env.OUOOO_D1_MIN_PRODUCTS || 500);
+const minLocales = Number(process.env.OUOOO_D1_MIN_LOCALES || 14);
 const restoreAgeSeconds = Math.max(300, Number(process.env.OUOOO_D1_RESTORE_AGE_SECONDS || 3600));
 
 function run(args) {
@@ -15,22 +16,38 @@ function run(args) {
   return spawnSync(call.command, call.args, { cwd: root, encoding: 'utf8', env: process.env, shell: false });
 }
 
-function queryCount(sql) {
+function queryCount(sql, key = 'total') {
   const r = run(['wrangler', 'd1', 'execute', 'ouooo-catalog', '--remote', '--json', '--command', sql]);
   if (r.status !== 0) throw new Error(`D1 query failed: ${r.stderr || r.stdout || r.error}`);
   const out = `${r.stdout || ''}${r.stderr || ''}`;
   const start = out.indexOf('[');
   const end = out.lastIndexOf(']');
   if (start < 0 || end < 0) throw new Error(`Unexpected wrangler output: ${out.slice(0, 200)}`);
-  return Number(JSON.parse(out.slice(start, end + 1))?.[0]?.results?.[0]?.total || 0);
+  return Number(JSON.parse(out.slice(start, end + 1))?.[0]?.results?.[0]?.[key] || 0);
 }
 
+// Only the English catalogue is counted, plus the number of locales present in
+// catalog_index. Both queries use covering indexes, so a check costs ~900 row
+// reads instead of the ~17,800 the previous full-table COUNT(*) pair cost - and
+// this runs twice per monitor tick, every 15 minutes.
 function healthy() {
-  const products = queryCount('SELECT COUNT(*) AS total FROM products;');
-  const uncategorized = queryCount("SELECT COUNT(*) AS c FROM product_categories WHERE category_slug='uncategorized';");
-  const ok = products >= minProducts && uncategorized === 0;
+  const products = queryCount("SELECT COUNT(*) AS total FROM products WHERE locale='en';");
+  const uncategorized = queryCount(
+    "SELECT COUNT(*) AS c FROM product_categories WHERE locale='en' AND category_slug='uncategorized';",
+    'c'
+  );
+  // catalog_index is advisory: without it the site falls back to the original
+  // queries, which is degraded but not corrupt.
+  const locales = (() => {
+    try {
+      return queryCount('SELECT COUNT(DISTINCT locale) AS locales FROM catalog_index;', 'locales');
+    } catch {
+      return null;
+    }
+  })();
+  const ok = products >= minProducts && uncategorized === 0 && (locales === null || locales >= minLocales);
   process.stdout.write(
-    `D1 health: products=${products} (min ${minProducts}), uncategorized=${uncategorized} (expected 0)\n`
+    `D1 health: en products=${products} (min ${minProducts}), en uncategorized=${uncategorized} (expected 0), indexed locales=${locales ?? 'n/a'} (min ${minLocales})\n`
   );
   return ok;
 }

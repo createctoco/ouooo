@@ -6,7 +6,8 @@ import { fileURLToPath } from 'node:url';
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const npx = process.platform === 'win32' ? 'npx.cmd' : 'npx';
 const bookmarkFile = resolve(root, '.d1/restore-bookmark.txt');
-const minProducts = Number(process.env.OUOOO_D1_MIN_PRODUCTS || 4000);
+const minProducts = Number(process.env.OUOOO_D1_MIN_PRODUCTS || 500);
+const minLocales = Number(process.env.OUOOO_D1_MIN_LOCALES || 14);
 
 function run(args) {
   const call =
@@ -44,19 +45,37 @@ function restoreBookmark() {
 
 let failed = false;
 try {
-  const products = Number(query('SELECT COUNT(*) AS total FROM products;')[0]?.total || 0);
+  // Indexed checks only: the previous full-table COUNT(*) pairs read ~17,800
+  // rows per deploy. Counting the English source catalogue uses the covering
+  // index on (locale, ...) and costs ~700 rows; the uncategorized lookup is
+  // served entirely from the (locale, category_slug) index.
+  const products = Number(query("SELECT COUNT(*) AS total FROM products WHERE locale='en';")[0]?.total || 0);
   const uncategorized = Number(
-    query("SELECT COUNT(*) AS c FROM product_categories WHERE category_slug='uncategorized';")[0]?.c || 0
+    query("SELECT COUNT(*) AS c FROM product_categories WHERE locale='en' AND category_slug='uncategorized';")[0]?.c ||
+      0
   );
+  const locales = (() => {
+    try {
+      return Number(query('SELECT COUNT(DISTINCT locale) AS locales FROM catalog_index;')[0]?.locales || 0);
+    } catch {
+      return null;
+    }
+  })();
   process.stdout.write(
-    `D1 health: products=${products} (min ${minProducts}), uncategorized=${uncategorized} (expected 0)\n`
+    `D1 health: en products=${products} (min ${minProducts}), en uncategorized=${uncategorized} (expected 0), indexed locales=${locales ?? 'n/a'} (min ${minLocales})\n`
   );
   if (products < minProducts) {
-    process.stderr.write(`D1 health check failed: products=${products} below minimum ${minProducts}.\n`);
+    process.stderr.write(`D1 health check failed: English products=${products} below minimum ${minProducts}.\n`);
     failed = true;
   }
   if (uncategorized !== 0) {
-    process.stderr.write(`D1 health check failed: uncategorized=${uncategorized} (expected 0).\n`);
+    process.stderr.write(`D1 health check failed: English uncategorized=${uncategorized} (expected 0).\n`);
+    failed = true;
+  }
+  if (locales !== null && locales < minLocales) {
+    process.stderr.write(
+      `D1 health check failed: only ${locales} locales present in catalog_index (min ${minLocales}).\n`
+    );
     failed = true;
   }
 } catch (error) {
