@@ -1,22 +1,22 @@
 {
   "schemaVersion": 3,
   "locale": "en",
-  "generatedAt": "2026-10-05T21:17:16.891Z",
+  "generatedAt": "2026-10-06T19:10:20.590Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAEmTG7BAOVioqqEY6euKIFL",
-      "AAF9TG7BAOVioqqEY6euKzRs",
-      "AAEVTG7BAOVioqqEY6euKhkg",
-      "AAHzTG7BAOVioqqEY6euKzza",
-      "AAGtTG7BAOVioqqEY6euK5W7",
-      "AAHYTG7BAOVioqqEY6euKQ_u",
-      "AAEYTG7BAOVioqqEY6euJp4i",
-      "AAHMTG7BAOVioqqEY6euJrJC",
-      "AAFATG7BAOVioqqEY6euKDYw",
-      "AAHsTG7BAOVioqqEY6euKZ7z"
+      "AAFLTG7BAOVioqqEY6euKAZr",
+      "AAEvTG7BAOVioqqEY6euJuZx",
+      "AAHDTG7BAOVioqqEY6euIE2k",
+      "AAGFTG7BAOVioqqEY6euMgmY",
+      "AAGeTG7BAOVioqqEY6euMN_d",
+      "AAEJTG7BAOVioqqEY6euM4wY",
+      "AAHvTG7BAOVioqqEY6euMMbH",
+      "AAExTG7BAOVioqqEY6euMGHu",
+      "AAE-TG7BAOVioqqEY6euM_lg",
+      "AAGTTG7BAOVioqqEY6euMPW8"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -26,7 +26,7 @@
   },
   "enrichmentSummary": {
     "generated": 12,
-    "reused": 797,
+    "reused": 807,
     "source_fallback": 1
   },
   "products": [
@@ -182431,6 +182431,2304 @@
             "contentHash": "2d0510ff23542c41e68a6d21767f3fc8929f69bd4ee95a9db1b350eb4c6b4020",
             "attempts": 0,
             "updatedAt": "2026-10-05T21:17:04.341Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFLTG7BAOVioqqEY6euKAZr",
+      "sourceId": "AAFLTG7BAOVioqqEY6euKAZr",
+      "sourceFingerprint": "2f3e555796c0d106b63797bab5ae709197547b94e376bac29e44207fe11bf526",
+      "locale": "en",
+      "slug": "st-benedict-exorcism-pendant-necklace-eukazr",
+      "title": "St. Benedict Exorcism Pendant Necklace",
+      "eyebrow": "St. Benedict pendant necklace",
+      "summary": "A St. Benedict pendant in stainless steel for wholesale religious jewelry assortments. Buyers choose a gold-tone or steel pendant, with or without a chain, giving four orderable variants. The pendant carries the St. Benedict medal design as a devotional article for Catholic customers.",
+      "description": "This wholesale necklace centers on a St. Benedict pendant described in the source title as an exorcism pendant. Stainless steel is the stated material, so the piece suits religious jewelry counters that stock durable metal pendants. Four variants are listed: gold pendant, steel pendant, gold pendant with chain, and steel pendant with chain. Buyers can stock the pendant alone or as a complete chain necklace without adding a second SKU. The design is listed for men, women, and unisex wear. It is classified under fashion necklaces. The St. Benedict medal is a devotional article, not a sacramental.",
+      "catholicContext": "The Catholic Catechism lists medals among forms of popular piety that surround sacramental life, so a St. Benedict medal is a devotional article rather than a sacramental.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAFLTG7BAOVioqqEY6euKAZr",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H50ddb4c5dbc64ed68113e8ffe6ef94c1u.webp",
+      "imageAlt": "St. Benedict Exorcism Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H50ddb4c5dbc64ed68113e8ffe6ef94c1u.webp",
+          "alt": "St. Benedict Exorcism Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hec8db52683d5413196b89083b1e662ee7.webp",
+          "alt": "St. Benedict Exorcism Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfeeee0c8240e432cb7acb274cb20acaev.webp",
+          "alt": "St. Benedict Exorcism Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6ef1c436ca0d4921b1e4c6710a78a525h.webp",
+          "alt": "St. Benedict Exorcism Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb01aa733216a49b1a7fdfe4b23a43295Y.webp",
+          "alt": "St. Benedict Exorcism Pendant Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H50ddb4c5dbc64ed68113e8ffe6ef94c1u.webp",
+          "alt": "St. Benedict Exorcism Pendant Necklace - steel-pendant-chain",
+          "label": "steel-pendant-chain",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6euKAZr-V--3"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Stainless steel construction, per the source listing",
+        "St. Benedict pendant design described as exorcism jewelry",
+        "Four variants: gold pendant, steel pendant, gold pendant + chain, steel pendant + chain",
+        "Listed as suitable for men, women, and unisex wear",
+        "Categorized as a fashion necklace"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Pendant design",
+          "value": "St. Benedict, described as exorcism pendant"
+        },
+        {
+          "name": "Variants",
+          "value": "Gold pendant; steel pendant; gold pendant + chain; steel pendant + chain"
+        },
+        {
+          "name": "Wearer",
+          "value": "Men, women, unisex"
+        },
+        {
+          "name": "Category",
+          "value": "Fashion necklace"
+        }
+      ],
+      "applications": [
+        "Religious jewelry retail assortments",
+        "Unisex necklace displays",
+        "Catholic devotional article inventory"
+      ],
+      "faq": [
+        {
+          "question": "What variants are available for this St. Benedict pendant necklace?",
+          "answer": "The source lists four: gold pendant, steel pendant, gold pendant plus chain, and steel pendant plus chain."
+        },
+        {
+          "question": "Is the pendant a cross or a crucifix?",
+          "answer": "The product facts describe a St. Benedict pendant and do not state that a corpus is present, so the more specific term crucifix is not used."
+        },
+        {
+          "question": "What material is this pendant made from?",
+          "answer": "The product facts state stainless steel."
+        }
+      ],
+      "pricing": {
+        "price": "1.75",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.75",
+          "max": "2.96"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "St. Benedict Exorcism Pendant Necklace",
+          "description": "Wholesale St. Benedict pendant necklace in stainless steel, offered as a gold or steel pendant, with or without a chain, for religious jewelry assortments.",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6euKAZr",
+          "image": [
+            "https://sc04.alicdn.com/kf/H50ddb4c5dbc64ed68113e8ffe6ef94c1u.jpg",
+            "https://sc04.alicdn.com/kf/Hec8db52683d5413196b89083b1e662ee7.jpg",
+            "https://sc04.alicdn.com/kf/Hfeeee0c8240e432cb7acb274cb20acaev.jpg",
+            "https://sc04.alicdn.com/kf/H6ef1c436ca0d4921b1e4c6710a78a525h.jpg",
+            "https://sc04.alicdn.com/kf/Hb01aa733216a49b1a7fdfe4b23a43295Y.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pendant design",
+              "value": "St. Benedict, described as exorcism pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Gold pendant; steel pendant; gold pendant + chain; steel pendant + chain"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Wearer",
+              "value": "Men, women, unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Fashion necklace"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.75",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.75",
+              "maxPrice": "2.96",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What variants are available for this St. Benedict pendant necklace?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The source lists four: gold pendant, steel pendant, gold pendant plus chain, and steel pendant plus chain."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the pendant a cross or a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product facts describe a St. Benedict pendant and do not state that a corpus is present, so the more specific term crucifix is not used."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What material is this pendant made from?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product facts state stainless steel."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "687a856ed30918609ff3f0b92bb345ab826e38accdfa668d740fa33fcfeef47b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "687a856ed30918609ff3f0b92bb345ab826e38accdfa668d740fa33fcfeef47b",
+            "contentHash": "687a856ed30918609ff3f0b92bb345ab826e38accdfa668d740fa33fcfeef47b",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:04.493Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEvTG7BAOVioqqEY6euJuZx",
+      "sourceId": "AAEvTG7BAOVioqqEY6euJuZx",
+      "sourceFingerprint": "9c35b762da09c5612175afdb509486e5f596c0b552e3340f4532090c19809375",
+      "locale": "en",
+      "slug": "stainless-steel-cross-pendant-necklace-eujuzx",
+      "title": "Stainless Steel Cross Pendant Necklace",
+      "eyebrow": "Stainless steel cross pendant necklace",
+      "summary": "A unisex cross pendant necklace in stainless steel with a themed pendant and no stone. It suits religious-style jewelry assortments and gift, engagement, wedding, anniversary, or party occasions. Buyers can order it as a DIY accessory or as a finished pendant for men's and women's collections.",
+      "description": "This cross pendant necklace gives buyers a straightforward option for religious-style jewelry assortments. The pendant is a themed cross with no main stone, so the focus stays on the stainless steel material and the pendant shape rather than on gemstones. It is listed for women, men, and unisex wear, which makes it useful across multiple customer groups. The necklace is also positioned as a DIY accessory for buyers who build or adapt jewelry ranges. Because no chain, clasp, or pendant dimensions are provided, the necklace should be selected on material, pendant type, and style rather than on measured size or construction details.",
+      "catholicContext": "A cross is a Christian symbol; it is not the same as a crucifix, which specifically shows the body of Christ.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAEvTG7BAOVioqqEY6euJuZx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H66f2d984e4aa461e8bb14fdd498d88c4b.webp",
+      "imageAlt": "Stainless Steel Cross Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H66f2d984e4aa461e8bb14fdd498d88c4b.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H246b46797593405999b10ad5d7b34e76B.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hab87b7cc34fc434f848fab8a929e7f6d0.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H49d08292b8674ee6b3b30a5200683ef6O.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8a7b55",
+      "features": [
+        "Stainless steel main material",
+        "Themed cross pendant with no main stone",
+        "Listed for women's, men's, and unisex wear",
+        "Religious style suitable for gift and event occasions",
+        "Can be ordered as a DIY jewelry accessory"
+      ],
+      "specifications": [
+        {
+          "name": "Jewelry Main Material",
+          "value": "Stainless Steel"
+        },
+        {
+          "name": "Pendants or Charms Type",
+          "value": "Themed Pendants"
+        },
+        {
+          "name": "Gender",
+          "value": "Women's, Men's, Unisex"
+        },
+        {
+          "name": "Main Stone",
+          "value": "None"
+        },
+        {
+          "name": "Style",
+          "value": "Religious"
+        },
+        {
+          "name": "Occasion",
+          "value": "Engagement, Gift, Wedding, Anniversary, Party"
+        },
+        {
+          "name": "Place of Origin",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Brand Name",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [
+        "Religious-style jewelry assortments",
+        "Gift and anniversary product selections",
+        "Wedding and engagement accessory displays",
+        "DIY jewelry making and custom pendant projects"
+      ],
+      "faq": [
+        {
+          "question": "What material is the cross pendant necklace made of?",
+          "answer": "The pendant necklace is made with stainless steel as the main material, and the pendant is a themed cross design with no main stone."
+        },
+        {
+          "question": "Who is this cross necklace designed for?",
+          "answer": "It is listed for women's, men's, and unisex wear, so it can be included in multiple jewelry categories rather than a single-gender range."
+        },
+        {
+          "question": "Can this necklace be used for DIY jewelry projects?",
+          "answer": "Yes. The product facts list it as a DIY accessory, and the pendant is a themed cross with no main stone, so it can be incorporated into custom jewelry designs."
+        },
+        {
+          "question": "What occasions is this pendant necklace suitable for?",
+          "answer": "The listed occasions are engagement, gift, wedding, anniversary, and party."
+        }
+      ],
+      "pricing": {
+        "price": "2.43",
+        "regularPrice": "2.43",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.76",
+          "max": "2.43"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Cross Pendant Necklace",
+          "description": "Wholesale stainless steel cross pendant necklace for men, women, and unisex buyers. Themed pendant, no stone, religious style, suitable for gifts and events.",
+          "sku": "ALI-AAEvTG7BAOVioqqEY6euJuZx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H66f2d984e4aa461e8bb14fdd498d88c4b.jpg",
+            "https://sc04.alicdn.com/kf/H246b46797593405999b10ad5d7b34e76B.png",
+            "https://sc04.alicdn.com/kf/Hab87b7cc34fc434f848fab8a929e7f6d0.png",
+            "https://sc04.alicdn.com/kf/H49d08292b8674ee6b3b30a5200683ef6O.png"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Jewelry Main Material",
+              "value": "Stainless Steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pendants or Charms Type",
+              "value": "Themed Pendants"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Gender",
+              "value": "Women's, Men's, Unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Main Stone",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Engagement, Gift, Wedding, Anniversary, Party"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of Origin",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Brand Name",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.43",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.76",
+              "maxPrice": "2.43",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the cross pendant necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant necklace is made with stainless steel as the main material, and the pendant is a themed cross design with no main stone."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is this cross necklace designed for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is listed for women's, men's, and unisex wear, so it can be included in multiple jewelry categories rather than a single-gender range."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can this necklace be used for DIY jewelry projects?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The product facts list it as a DIY accessory, and the pendant is a themed cross with no main stone, so it can be incorporated into custom jewelry designs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What occasions is this pendant necklace suitable for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The listed occasions are engagement, gift, wedding, anniversary, and party."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2ee2bf1fd084f2edbdc3848ede983a6d59e64314e8b0e52424d62bb840902d9d",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2ee2bf1fd084f2edbdc3848ede983a6d59e64314e8b0e52424d62bb840902d9d",
+            "contentHash": "2ee2bf1fd084f2edbdc3848ede983a6d59e64314e8b0e52424d62bb840902d9d",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:09.266Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHDTG7BAOVioqqEY6euIE2k",
+      "sourceId": "AAHDTG7BAOVioqqEY6euIE2k",
+      "sourceFingerprint": "030c04523f913d6de4d83ad80c0e8c0e8e0fd61e77d46317108123da19c04ed6",
+      "locale": "en",
+      "slug": "stainless-steel-cross-pendant-necklace-euie2k",
+      "title": "Stainless Steel Cross Pendant Necklace",
+      "eyebrow": "Stainless steel cross pendant necklace",
+      "summary": "A stainless steel cross pendant necklace offered as wholesale fashion jewelry in three chain variants: gold, black, and steel color. The design is unisex and minimalist, with the cross as the central pendant. It suits shops, online sellers, and gift buyers looking for a simple Christian-symbol necklace to stock.",
+      "description": "This necklace centers on a cross pendant and is made from stainless steel, a material commonly chosen for everyday jewelry because it resists tarnish and wear. The unisex minimalist styling keeps the pendant plain rather than ornate, so it can sit in a broad fashion or gift display. Wholesale buyers can order it in three chain variants: gold chain, black chain, and steel color chain. The product is listed under Fashion Necklace and is positioned as a stainless steel religious-symbol accessory rather than a devotional article.",
+      "catholicContext": "A plain cross is a Christian symbol; it is distinct from a crucifix, which depicts the corpus of Christ, and no crucifix is stated for this product.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHDTG7BAOVioqqEY6euIE2k",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H0e4c0b9caec1404fa29a5e17ba9293b2v.webp",
+      "imageAlt": "Stainless Steel Cross Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0e4c0b9caec1404fa29a5e17ba9293b2v.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H484a32f3aed74095881423e070a7bca6m.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H06936d90e0a64c068908ba8ff5eada37J.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Ha52b9fb1f94c4bed9ed623a006254d3es.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2a0edf8b8bdd474e8d5a8dd542fc32afE.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2223bdd3f44e4b2b8022c5234a8425dc4.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He07bb1001fd84580a3c71f058a4fc40b7.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace - black-chain",
+          "label": "black-chain",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6euIE2k-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2406966d6ee841efb6e6dda4d795292ay.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace - steel-color-chain",
+          "label": "steel-color-chain",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6euIE2k-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H01093d7cf3a34143b4c23a2a46f9ec43E.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace - gold-chain",
+          "label": "gold-chain",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6euIE2k-V--3"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Stainless steel cross pendant necklace",
+        "Unisex minimalist design",
+        "Available in three chain variants: gold, black, and steel color",
+        "Listed in the Fashion Necklace category",
+        "Material stated as stainless steel"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Design",
+          "value": "Unisex minimalist cross pendant"
+        },
+        {
+          "name": "Variant",
+          "value": "Gold chain"
+        },
+        {
+          "name": "Variant",
+          "value": "Black chain"
+        },
+        {
+          "name": "Variant",
+          "value": "Steel color chain"
+        },
+        {
+          "name": "Category",
+          "value": "Fashion Necklace"
+        }
+      ],
+      "applications": [
+        "Wholesale fashion jewelry assortment",
+        "Religious gift retail display",
+        "Online jewelry listings",
+        "Unisex everyday accessory stock"
+      ],
+      "faq": [
+        {
+          "question": "What material is the cross pendant necklace made from?",
+          "answer": "The supplied product facts state that the necklace is made from stainless steel."
+        },
+        {
+          "question": "What variants are available for this necklace?",
+          "answer": "The product is offered in three chain variants: gold chain, black chain, and steel color chain."
+        },
+        {
+          "question": "Is this necklace a crucifix or a plain cross?",
+          "answer": "The product facts describe it as a cross pendant necklace. No corpus of Christ is stated, so it should be treated as a plain cross rather than a crucifix."
+        }
+      ],
+      "pricing": {
+        "price": "2.56",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "2.56",
+          "max": "3.37"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Cross Pendant Necklace",
+          "description": "Wholesale stainless steel cross pendant necklace in gold, black, or steel color chain variants. A unisex minimalist Christian pendant for retail display.",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6euIE2k",
+          "image": [
+            "https://sc04.alicdn.com/kf/H0e4c0b9caec1404fa29a5e17ba9293b2v.jpg",
+            "https://sc04.alicdn.com/kf/H484a32f3aed74095881423e070a7bca6m.jpg",
+            "https://sc04.alicdn.com/kf/H06936d90e0a64c068908ba8ff5eada37J.jpg",
+            "https://sc04.alicdn.com/kf/Ha52b9fb1f94c4bed9ed623a006254d3es.jpg",
+            "https://sc04.alicdn.com/kf/H2a0edf8b8bdd474e8d5a8dd542fc32afE.jpg",
+            "https://sc04.alicdn.com/kf/H2223bdd3f44e4b2b8022c5234a8425dc4.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Unisex minimalist cross pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Gold chain"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Black chain"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Steel color chain"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Fashion Necklace"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.56",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "2.56",
+              "maxPrice": "3.37",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the cross pendant necklace made from?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The supplied product facts state that the necklace is made from stainless steel."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What variants are available for this necklace?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product is offered in three chain variants: gold chain, black chain, and steel color chain."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this necklace a crucifix or a plain cross?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product facts describe it as a cross pendant necklace. No corpus of Christ is stated, so it should be treated as a plain cross rather than a crucifix."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "a845758370a1fe29f028ebd2417fa07b03975540188ebbc47a335fa457fda421",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "a845758370a1fe29f028ebd2417fa07b03975540188ebbc47a335fa457fda421",
+            "contentHash": "a845758370a1fe29f028ebd2417fa07b03975540188ebbc47a335fa457fda421",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:03.201Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGFTG7BAOVioqqEY6euMgmY",
+      "sourceId": "AAGFTG7BAOVioqqEY6euMgmY",
+      "sourceFingerprint": "260d173feb12d8aa894e1af0453729c2cd58ef4ec0c40da5c57b48a5de06442f",
+      "locale": "en",
+      "slug": "stainless-steel-saint-michael-shield-pendant-necklace-eumgmy",
+      "title": "Stainless Steel Saint Michael Shield Pendant Necklace",
+      "eyebrow": "Archangel Saint Michael shield pendant necklace",
+      "summary": "This unisex necklace features a shield pendant depicting Archangel Saint Michael, made from stainless steel and offered in black, gold, and silver. It suits wholesale religious jewelry assortments, with the pendant and chain construction as the primary material and design details buyers should confirm before ordering.",
+      "description": "Stainless steel forms the core of this unisex pendant necklace, which displays a shield design associated with Archangel Saint Michael. Buyers sourcing religious jewelry can choose among three finish variants: black, gold, and silver. The shield motif gives the piece a defined focal shape rather than a plain cross or medal silhouette.\n\nIn wholesale terms, the product sits in a fashion necklace category and speaks to religious jewelry demand without relying on devotional claims. Confirm chain type, clasp style, and pendant dimensions with us before placing an order, since those details affect presentation and retail pricing. The stainless steel material and multi-finish range make the necklace straightforward to assort across men's and women's jewelry displays.",
+      "catholicContext": "Saint Michael is a subject of Catholic popular devotion, and religious jewelry is a common devotional article for personal wear.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAGFTG7BAOVioqqEY6euMgmY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Heecfafeddd814bed9e43db25dc61e7b3u.webp",
+      "imageAlt": "Stainless Steel Saint Michael Shield Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Heecfafeddd814bed9e43db25dc61e7b3u.webp",
+          "alt": "Stainless Steel Saint Michael Shield Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H89009566d8994f77837992e106fd67edF.webp",
+          "alt": "Stainless Steel Saint Michael Shield Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcd0be4f552d849409c67d74ec601412ew.webp",
+          "alt": "Stainless Steel Saint Michael Shield Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H857fbdd353df4722b07ac5e473519821t.webp",
+          "alt": "Stainless Steel Saint Michael Shield Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcaaa3dfedddc4b7284b78dbf3d2fe1b7b.webp",
+          "alt": "Stainless Steel Saint Michael Shield Pendant Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H45427298624e43309aea561a0e7e4657u.webp",
+          "alt": "Stainless Steel Saint Michael Shield Pendant Necklace - gold",
+          "label": "gold",
+          "sku": "ALI-AAGFTG7BAOVioqqEY6euMgmY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7ff389eebe3148419a196b688f388bbbs.webp",
+          "alt": "Stainless Steel Saint Michael Shield Pendant Necklace - silver",
+          "label": "silver",
+          "sku": "ALI-AAGFTG7BAOVioqqEY6euMgmY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6acf0e336f8b40a89a85ed0af9949cf4S.webp",
+          "alt": "Stainless Steel Saint Michael Shield Pendant Necklace - black",
+          "label": "black",
+          "sku": "ALI-AAGFTG7BAOVioqqEY6euMgmY-V--2"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Stainless steel construction",
+        "Archangel Saint Michael shield pendant design",
+        "Available in black, gold, and silver variants",
+        "Unisex necklace format",
+        "Categorized as fashion and religious jewelry"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Design",
+          "value": "Shield pendant with Archangel Saint Michael motif"
+        },
+        {
+          "name": "Color variants",
+          "value": "Black, Gold, Silver"
+        },
+        {
+          "name": "Category",
+          "value": "Fashion Necklace"
+        },
+        {
+          "name": "Target",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Wholesale religious jewelry assortments",
+        "Retail displays for men's and women's necklaces",
+        "Personal wear as a devotional article",
+        "Gift selection for Catholic customers"
+      ],
+      "faq": [
+        {
+          "question": "What material is the Saint Michael pendant necklace made of?",
+          "answer": "The pendant necklace is made of stainless steel, according to the product information provided."
+        },
+        {
+          "question": "What finish options are available for this necklace?",
+          "answer": "It comes in three variants: black, gold, and silver."
+        },
+        {
+          "question": "Can I confirm the chain and clasp details before ordering?",
+          "answer": "Yes. Chain type, clasp style, and pendant dimensions are not specified in the current product data, so we recommend contacting us to confirm these details before placing a wholesale order."
+        }
+      ],
+      "pricing": {
+        "price": "1.48",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.48",
+          "max": "1.84"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Saint Michael Shield Pendant Necklace",
+          "description": "Stainless steel Saint Michael shield pendant necklace in black, gold, or silver, featuring an Archangel Saint Michael shield design for unisex religious jewelry.",
+          "sku": "ALI-AAGFTG7BAOVioqqEY6euMgmY",
+          "image": [
+            "https://sc04.alicdn.com/kf/Heecfafeddd814bed9e43db25dc61e7b3u.jpg",
+            "https://sc04.alicdn.com/kf/H89009566d8994f77837992e106fd67edF.jpg",
+            "https://sc04.alicdn.com/kf/Hcd0be4f552d849409c67d74ec601412ew.jpg",
+            "https://sc04.alicdn.com/kf/H857fbdd353df4722b07ac5e473519821t.jpg",
+            "https://sc04.alicdn.com/kf/Hcaaa3dfedddc4b7284b78dbf3d2fe1b7b.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Shield pendant with Archangel Saint Michael motif"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Color variants",
+              "value": "Black, Gold, Silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Fashion Necklace"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Target",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.48",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.48",
+              "maxPrice": "1.84",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the Saint Michael pendant necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant necklace is made of stainless steel, according to the product information provided."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What finish options are available for this necklace?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It comes in three variants: black, gold, and silver."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I confirm the chain and clasp details before ordering?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Chain type, clasp style, and pendant dimensions are not specified in the current product data, so we recommend contacting us to confirm these details before placing a wholesale order."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "992ee732042447b5f8e5ddd49f8db326ec276039001264c600e49c35155ba60a",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "992ee732042447b5f8e5ddd49f8db326ec276039001264c600e49c35155ba60a",
+            "contentHash": "992ee732042447b5f8e5ddd49f8db326ec276039001264c600e49c35155ba60a",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:11.630Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGeTG7BAOVioqqEY6euMN_d",
+      "sourceId": "AAGeTG7BAOVioqqEY6euMN_d",
+      "sourceFingerprint": "848f054d16bd6788c133f7be654238cf8ce0dfafcacef718636b404518fc4984",
+      "locale": "en",
+      "slug": "two-tone-stainless-steel-double-layer-cross-pendant-necklace-eumn_d",
+      "title": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace",
+      "eyebrow": "Stainless steel double-layer cross pendant necklace",
+      "summary": "A two-tone stainless steel cross pendant necklace with a double-layer design that pairs a smaller cross with a larger one. The pendant comes in black, gold, and silver, giving buyers three distinct finish options in one religious jewelry style for men and women.",
+      "description": "This stainless steel cross pendant necklace stands out for its double-layer construction: two crosses are arranged in a tiered format, with the smaller cross set over or alongside the larger one. The two-tone finish adds contrast between the layers while keeping the overall silhouette clean and wearable. The necklace is offered in black, gold, and silver. Each variant applies a different color treatment to the same double-layer cross design. As a fashion necklace, it is a straightforward religious accessory for men and women, and the stainless steel material gives the piece a durable metal body. The cross shape is plain, without a corpus, so it is a cross rather than a crucifix.",
+      "catholicContext": "The cross is a central Christian symbol, and a plain cross pendant does not depict the corpus of Christ, so it is distinct from a crucifix.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAGeTG7BAOVioqqEY6euMN_d",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hba97d4eac41d4f4b9963e0ccb5898b8bt.webp",
+      "imageAlt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hba97d4eac41d4f4b9963e0ccb5898b8bt.webp",
+          "alt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3a729364707049c0824cc0d8315daaf1V.webp",
+          "alt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H04b2004e95534030bb170454aaf9be9dJ.webp",
+          "alt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He7f9da97651142c4a769bbd08347242cM.webp",
+          "alt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H8f3f39817683426690e8d5b89c7caadd1.webp",
+          "alt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3d6228111ac941fca1f05ab5c0d77327D.webp",
+          "alt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfb2f41d22d63498fa62de86388b5c46fw.webp",
+          "alt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace - black",
+          "label": "black",
+          "sku": "ALI-AAGeTG7BAOVioqqEY6euMN_d-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6587e23e8744483aa29da1f0b47fcea98.webp",
+          "alt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace - gold",
+          "label": "gold",
+          "sku": "ALI-AAGeTG7BAOVioqqEY6euMN_d-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6305f302f18f456599344da29fa6727fl.webp",
+          "alt": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace - silver",
+          "label": "silver",
+          "sku": "ALI-AAGeTG7BAOVioqqEY6euMN_d-V--1"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Double-layer cross pendant design with two crosses in a tiered arrangement",
+        "Two-tone finish that contrasts the layers",
+        "Stainless steel construction",
+        "Available in black, gold, and silver",
+        "Suitable for men and women"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Design",
+          "value": "Double-layer cross pendant"
+        },
+        {
+          "name": "Finish",
+          "value": "Two-tone"
+        },
+        {
+          "name": "Color variants",
+          "value": "Black, Gold, Silver"
+        },
+        {
+          "name": "Jewelry type",
+          "value": "Necklace"
+        },
+        {
+          "name": "Audience",
+          "value": "Men and women"
+        }
+      ],
+      "applications": [
+        "Religious jewelry retail",
+        "Fashion necklace assortment",
+        "Gift item for men or women",
+        "Wholesale jewelry catalog"
+      ],
+      "faq": [
+        {
+          "question": "What materials is the necklace made of?",
+          "answer": "The necklace is made of stainless steel with a two-tone finish. The pendant uses a double-layer cross design."
+        },
+        {
+          "question": "What color options are available?",
+          "answer": "The necklace comes in three color variants: black, gold, and silver."
+        },
+        {
+          "question": "Is this a cross or a crucifix?",
+          "answer": "It is a cross pendant. The product facts describe a cross shape without a corpus, so it is not a crucifix."
+        },
+        {
+          "question": "Who is this necklace designed for?",
+          "answer": "The product facts list it for both men and women as a religious fashion necklace."
+        }
+      ],
+      "pricing": {
+        "price": "2.00",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "2.00",
+          "max": "2.22"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Two-Tone Stainless Steel Double-Layer Cross Pendant Necklace",
+          "description": "Wholesale two-tone stainless steel cross pendant necklace with a double-layer design, available in black, gold, and silver for men and women.",
+          "sku": "ALI-AAGeTG7BAOVioqqEY6euMN_d",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hba97d4eac41d4f4b9963e0ccb5898b8bt.jpg",
+            "https://sc04.alicdn.com/kf/H3a729364707049c0824cc0d8315daaf1V.jpg",
+            "https://sc04.alicdn.com/kf/H04b2004e95534030bb170454aaf9be9dJ.jpg",
+            "https://sc04.alicdn.com/kf/He7f9da97651142c4a769bbd08347242cM.jpg",
+            "https://sc04.alicdn.com/kf/H8f3f39817683426690e8d5b89c7caadd1.jpg",
+            "https://sc04.alicdn.com/kf/H3d6228111ac941fca1f05ab5c0d77327D.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Double-layer cross pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finish",
+              "value": "Two-tone"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Color variants",
+              "value": "Black, Gold, Silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Jewelry type",
+              "value": "Necklace"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Audience",
+              "value": "Men and women"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "2.00",
+              "maxPrice": "2.22",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What materials is the necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The necklace is made of stainless steel with a two-tone finish. The pendant uses a double-layer cross design."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What color options are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The necklace comes in three color variants: black, gold, and silver."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this a cross or a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is a cross pendant. The product facts describe a cross shape without a corpus, so it is not a crucifix."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is this necklace designed for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product facts list it for both men and women as a religious fashion necklace."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ea1c421ad4af6b83344e853f726c667c120d26c4f59c42d352da9400739b7757",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ea1c421ad4af6b83344e853f726c667c120d26c4f59c42d352da9400739b7757",
+            "contentHash": "ea1c421ad4af6b83344e853f726c667c120d26c4f59c42d352da9400739b7757",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:08.291Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEJTG7BAOVioqqEY6euM4wY",
+      "sourceId": "AAEJTG7BAOVioqqEY6euM4wY",
+      "sourceFingerprint": "164dd13de1a4a4ece6a6ded17025a0f3525e412a7f3f4733f70fda77dba590a5",
+      "locale": "en",
+      "slug": "stainless-steel-cross-pendant-necklace-for-men-eum4wy",
+      "title": "Stainless Steel Cross Pendant Necklace for Men",
+      "eyebrow": "Stainless steel cross pendant necklace",
+      "summary": "This stainless steel cross pendant necklace for men comes in three color options: black, gold, or silver, each with a chain. The minimalist hip hop rock design suits everyday wear. As a plain cross, it does not depict the corpus of Christ.",
+      "description": "This cross pendant necklace is made from stainless steel and is available in three color finishes: black, gold, or silver. Each variant includes a chain. The design follows a minimalist hip hop and rock aesthetic, making it a straightforward accessory for men's fashion. The product is categorized as a fashion necklace. As a cross, it does not include a corpus, so it is not a crucifix. OUOOO offers this item for wholesale sourcing. For inquiries, contact us.",
+      "catholicContext": "A cross pendant is a Christian symbol; this product is a plain cross, not a crucifix, as no corpus of Christ is indicated in the product facts.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAEJTG7BAOVioqqEY6euM4wY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hc863e9e89fd548eca319aaaade186c80K.webp",
+      "imageAlt": "Stainless Steel Cross Pendant Necklace for Men",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc863e9e89fd548eca319aaaade186c80K.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3371d664421d432290d072cc3f929922y.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfa0b07b9c3f8479ea7afad3def0c076eD.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H8649a230c48b476ab33a006dc72d6093t.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9dc30fa6f6844667940742afc38b5419e.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc1ea0489a5bf452c8e3ce25ec8230f351.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men - gold-color-with-chain",
+          "label": "gold-color-with-chain",
+          "sku": "ALI-AAEJTG7BAOVioqqEY6euM4wY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd79344862ba14da79acd982ad4e90ece1.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men - silver-color-with-chain",
+          "label": "silver-color-with-chain",
+          "sku": "ALI-AAEJTG7BAOVioqqEY6euM4wY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H576839c794744bf5a714bf0441ad2f7e0.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace for Men - black-color-with-chain",
+          "label": "black-color-with-chain",
+          "sku": "ALI-AAEJTG7BAOVioqqEY6euM4wY-V--3"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Stainless steel construction",
+        "Available in black, gold, or silver color",
+        "Each variant includes a chain",
+        "Minimalist hip hop and rock style design",
+        "Cross pendant without corpus",
+        "Categorized as a fashion necklace"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Variant",
+          "value": "Black color with Chain, Gold Color with Chain, Silver color with chain"
+        },
+        {
+          "name": "Style",
+          "value": "Minimalist hip hop rock"
+        },
+        {
+          "name": "Product type",
+          "value": "Cross pendant necklace"
+        },
+        {
+          "name": "Includes chain",
+          "value": "Yes"
+        }
+      ],
+      "applications": [
+        "Men's fashion accessory",
+        "Everyday wear",
+        "Hip hop or rock style outfit",
+        "Wholesale jewelry assortment"
+      ],
+      "faq": [
+        {
+          "question": "What material is the cross pendant necklace made of?",
+          "answer": "The pendant necklace is made of stainless steel."
+        },
+        {
+          "question": "What color options are available?",
+          "answer": "It is available in black color with chain, gold color with chain, and silver color with chain."
+        },
+        {
+          "question": "Does the necklace include a chain?",
+          "answer": "Yes, each variant includes a chain as indicated in the product facts."
+        }
+      ],
+      "pricing": {
+        "price": "1.75",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.75",
+          "max": "2.43"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Cross Pendant Necklace for Men",
+          "description": "Stainless steel cross pendant necklace for men, available in black, gold, or silver color with chain. Minimalist hip hop rock style. Wholesale from OUOOO.",
+          "sku": "ALI-AAEJTG7BAOVioqqEY6euM4wY",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hc863e9e89fd548eca319aaaade186c80K.jpg",
+            "https://sc04.alicdn.com/kf/H3371d664421d432290d072cc3f929922y.jpg",
+            "https://sc04.alicdn.com/kf/Hfa0b07b9c3f8479ea7afad3def0c076eD.jpg",
+            "https://sc04.alicdn.com/kf/H8649a230c48b476ab33a006dc72d6093t.jpg",
+            "https://sc04.alicdn.com/kf/H9dc30fa6f6844667940742afc38b5419e.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Black color with Chain, Gold Color with Chain, Silver color with chain"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Minimalist hip hop rock"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product type",
+              "value": "Cross pendant necklace"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Includes chain",
+              "value": "Yes"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.75",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.75",
+              "maxPrice": "2.43",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the cross pendant necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant necklace is made of stainless steel."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What color options are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is available in black color with chain, gold color with chain, and silver color with chain."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the necklace include a chain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, each variant includes a chain as indicated in the product facts."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "d09a99d3b95a2112f21bc659f10ad742913bbb0683937080bb3e17ea518b0fb8",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "d09a99d3b95a2112f21bc659f10ad742913bbb0683937080bb3e17ea518b0fb8",
+            "contentHash": "d09a99d3b95a2112f21bc659f10ad742913bbb0683937080bb3e17ea518b0fb8",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:11.332Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHvTG7BAOVioqqEY6euMMbH",
+      "sourceId": "AAHvTG7BAOVioqqEY6euMMbH",
+      "sourceFingerprint": "15932cdcdc297b125c441d9dae1e7fc047fcc6c23d2ed90eb1a576f24a33feba",
+      "locale": "en",
+      "slug": "stainless-steel-viking-cross-pendant-necklace-eummbh",
+      "title": "Stainless Steel Viking Cross Pendant Necklace",
+      "eyebrow": "Stainless steel Viking cross pendant necklace",
+      "summary": "A stainless steel pendant necklace in a Viking cross design with a retro Nordic amulet look. Buyers can choose a gold, black, or steel color chain. The cross shape is a plain cross form, not a crucifix, making it suitable for retail jewelry assortments that mix religious symbols with Nordic-inspired men's accessories.",
+      "description": "This stainless steel Viking cross pendant necklace pairs a Nordic amulet motif with a cross silhouette. It is supplied as a men's fashion necklace, and the chain is offered in three color variants: gold, black, or steel color. The pendant and chain are stainless steel. The design sits at the intersection of religious symbol jewelry and retro Nordic styling, so it can be merchandised in either a men's fashion necklace display or a religious gifts section.",
+      "catholicContext": "A plain cross is distinct from a crucifix; this Viking-style cross pendant carries a cross form without a corpus of Christ.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHvTG7BAOVioqqEY6euMMbH",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hf5d1e0ef708840b19ef564e995623393i.webp",
+      "imageAlt": "Stainless Steel Viking Cross Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf5d1e0ef708840b19ef564e995623393i.webp",
+          "alt": "Stainless Steel Viking Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H63eb3289600f404ba08036c4564bac74B.webp",
+          "alt": "Stainless Steel Viking Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc31d37137bc14fd496f32cfa23909a06J.webp",
+          "alt": "Stainless Steel Viking Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H69678793a482485c8f3dd6f5bb9c57a1f.webp",
+          "alt": "Stainless Steel Viking Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H505889ffa2454ea8821ccdf410152b0cJ.webp",
+          "alt": "Stainless Steel Viking Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb7fa779e3ac842dbaf9e644c7e92f868j.webp",
+          "alt": "Stainless Steel Viking Cross Pendant Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5d2972cd1c2944e9986f4e9f4267783cw.webp",
+          "alt": "Stainless Steel Viking Cross Pendant Necklace - black-chain",
+          "label": "black-chain",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6euMMbH-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf0f9bc0738fd48f8b2c8e0088c275655t.webp",
+          "alt": "Stainless Steel Viking Cross Pendant Necklace - gold-chain",
+          "label": "gold-chain",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6euMMbH-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hebea3c45a0e04234a5c26d9148b5c41ao.webp",
+          "alt": "Stainless Steel Viking Cross Pendant Necklace - steel-color-chain",
+          "label": "steel-color-chain",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6euMMbH-V--1"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Stainless steel Viking cross pendant necklace for men",
+        "Available with gold-chain, black chain, or steel color chain",
+        "Retro Nordic amulet jewelry design",
+        "Plain cross form, not a crucifix"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Chain color options",
+          "value": "Gold-chain, black chain, steel color chain"
+        },
+        {
+          "name": "Pendant design",
+          "value": "Viking cross"
+        },
+        {
+          "name": "Style",
+          "value": "Retro Nordic amulet"
+        }
+      ],
+      "applications": [
+        "Men's fashion necklace retail",
+        "Religious gift assortment",
+        "Nordic or Viking-themed jewelry display"
+      ],
+      "faq": [
+        {
+          "question": "What chain color options are available for this Viking cross pendant necklace?",
+          "answer": "The necklace comes with a gold-chain, black chain, or steel color chain, depending on the variant selected."
+        },
+        {
+          "question": "Is this pendant a cross or a crucifix?",
+          "answer": "It is a plain cross pendant. The product facts describe a Viking cross design and do not include a corpus of Christ, so it is not a crucifix."
+        },
+        {
+          "question": "What material is the necklace made of?",
+          "answer": "The pendant and chain are made of stainless steel."
+        }
+      ],
+      "pricing": {
+        "price": "1.57",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.57",
+          "max": "1.84"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Viking Cross Pendant Necklace",
+          "description": "Wholesale stainless steel Viking cross pendant necklace for men, available with gold, black, or steel color chain options. A retro Nordic amulet jewelry style.",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6euMMbH",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hf5d1e0ef708840b19ef564e995623393i.jpg",
+            "https://sc04.alicdn.com/kf/H63eb3289600f404ba08036c4564bac74B.jpg",
+            "https://sc04.alicdn.com/kf/Hc31d37137bc14fd496f32cfa23909a06J.jpg",
+            "https://sc04.alicdn.com/kf/H69678793a482485c8f3dd6f5bb9c57a1f.jpg",
+            "https://sc04.alicdn.com/kf/H505889ffa2454ea8821ccdf410152b0cJ.jpg",
+            "https://sc04.alicdn.com/kf/Hb7fa779e3ac842dbaf9e644c7e92f868j.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Chain color options",
+              "value": "Gold-chain, black chain, steel color chain"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pendant design",
+              "value": "Viking cross"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Retro Nordic amulet"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.57",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.57",
+              "maxPrice": "1.84",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What chain color options are available for this Viking cross pendant necklace?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The necklace comes with a gold-chain, black chain, or steel color chain, depending on the variant selected."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this pendant a cross or a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is a plain cross pendant. The product facts describe a Viking cross design and do not include a corpus of Christ, so it is not a crucifix."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What material is the necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant and chain are made of stainless steel."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f0a2e653f2ebb20aaee1c1a76eebb5c98de2e45f7d69e6192e8767b3730e9a34",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f0a2e653f2ebb20aaee1c1a76eebb5c98de2e45f7d69e6192e8767b3730e9a34",
+            "contentHash": "f0a2e653f2ebb20aaee1c1a76eebb5c98de2e45f7d69e6192e8767b3730e9a34",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:17.946Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAExTG7BAOVioqqEY6euMGHu",
+      "sourceId": "AAExTG7BAOVioqqEY6euMGHu",
+      "sourceFingerprint": "52e9232ed9baeb013aaff4446a77061cb14b8517bdc317d366cb58812ed335dc",
+      "locale": "en",
+      "slug": "stainless-steel-cross-pendant-necklace-eumghu",
+      "title": "Stainless Steel Cross Pendant Necklace",
+      "eyebrow": "Stainless steel cross pendant necklace with gold-plated and silver-tone variants",
+      "summary": "This cross pendant necklace comes in four options so buyers can match metal tone and scale to different customers. Choose gold-plated or silver-tone finish, each in a 21mm x 34mm or 28mm x 51mm pendant. Both sizes suit men's and women's fashion jewelry ranges.",
+      "description": "Stocking religious jewelry usually means choosing between finish and size before anything else. This cross pendant necklace is offered in four variants: gold-plated and silver-tone, each in a 21mm x 34mm and a 28mm x 51mm pendant. The smaller size reads as a modest everyday cross; the larger 28mm x 51mm option gives a heavier presence on the chain.\n\nThe pendant is made of stainless steel, with the gold version plated. Because the construction is stainless steel, the pieces are positioned for fashion jewelry use rather than fine jewelry.",
+      "catholicContext": "A plain cross, as distinct from a crucifix that depicts the corpus of Christ, is a recognizable Christian emblem that may be worn as a personal devotional article.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAExTG7BAOVioqqEY6euMGHu",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Ha80e1d71449c4c81a5487f89dcafe3b9h.webp",
+      "imageAlt": "Stainless Steel Cross Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Ha80e1d71449c4c81a5487f89dcafe3b9h.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6f380af487e54b03ae3db9a063205b61j.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H991b29d61c934b1c9ee4efcaff2e22e0o.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H71e036831feb428c8edfee17e8de9675l.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd2fcd696ccbc485f9bbeb528ca5ee2f3S.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc2d54ab49a074f87a8ac8121952c9887Z.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace - silver-28mm-51mm",
+          "label": "silver-28mm-51mm",
+          "sku": "ALI-AAExTG7BAOVioqqEY6euMGHu-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0dbe67fdcd684b788bcfddb5792283f16.webp",
+          "alt": "Stainless Steel Cross Pendant Necklace - gold-28mm-51mm",
+          "label": "gold-28mm-51mm",
+          "sku": "ALI-AAExTG7BAOVioqqEY6euMGHu-V--4"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Four variants: gold-plated or silver-tone finish",
+        "Two pendant sizes: 21mm x 34mm and 28mm x 51mm",
+        "Stainless steel construction with gold plating on the gold variant",
+        "Cross-shaped pendant, not a crucifix with a corpus",
+        "Listed for both men's and women's fashion jewelry"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel; gold-plated finish on gold variant"
+        },
+        {
+          "name": "Finish options",
+          "value": "Gold-plated or silver-tone"
+        },
+        {
+          "name": "Size options",
+          "value": "21mm x 34mm or 28mm x 51mm"
+        },
+        {
+          "name": "Product type",
+          "value": "Cross pendant necklace"
+        },
+        {
+          "name": "Category",
+          "value": "Fashion Necklace"
+        }
+      ],
+      "applications": [
+        "Men's and women's fashion jewelry assortment",
+        "Religious or devotional jewelry display",
+        "Everyday pendant necklace stock"
+      ],
+      "faq": [
+        {
+          "question": "What sizes are available for this cross pendant?",
+          "answer": "The pendant is offered in two sizes: 21mm x 34mm and 28mm x 51mm."
+        },
+        {
+          "question": "What finishes can I order?",
+          "answer": "There are two finish options: gold-plated and silver-tone."
+        },
+        {
+          "question": "Is this a crucifix or a cross?",
+          "answer": "It is described as a cross pendant. The product facts do not indicate a corpus of Christ, so it should be treated as a cross rather than a crucifix."
+        }
+      ],
+      "pricing": {
+        "price": "1.48",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.48",
+          "max": "2.38"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Cross Pendant Necklace",
+          "description": "Stainless steel cross pendant necklace in four variants: gold-plated or silver-tone, in 21mm x 34mm and 28mm x 51mm sizes, for men's and women's fashion jewelry.",
+          "sku": "ALI-AAExTG7BAOVioqqEY6euMGHu",
+          "image": [
+            "https://sc04.alicdn.com/kf/Ha80e1d71449c4c81a5487f89dcafe3b9h.jpg",
+            "https://sc04.alicdn.com/kf/H6f380af487e54b03ae3db9a063205b61j.jpg",
+            "https://sc04.alicdn.com/kf/H991b29d61c934b1c9ee4efcaff2e22e0o.jpg",
+            "https://sc04.alicdn.com/kf/H71e036831feb428c8edfee17e8de9675l.jpg",
+            "https://sc04.alicdn.com/kf/Hd2fcd696ccbc485f9bbeb528ca5ee2f3S.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel; gold-plated finish on gold variant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finish options",
+              "value": "Gold-plated or silver-tone"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Size options",
+              "value": "21mm x 34mm or 28mm x 51mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product type",
+              "value": "Cross pendant necklace"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Fashion Necklace"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.48",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.48",
+              "maxPrice": "2.38",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What sizes are available for this cross pendant?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendant is offered in two sizes: 21mm x 34mm and 28mm x 51mm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What finishes can I order?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are two finish options: gold-plated and silver-tone."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this a crucifix or a cross?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is described as a cross pendant. The product facts do not indicate a corpus of Christ, so it should be treated as a cross rather than a crucifix."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "65b17c17b4b2f83275cc885fff121cb94415609a05345c32eb34d4fc512db3a8",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "65b17c17b4b2f83275cc885fff121cb94415609a05345c32eb34d4fc512db3a8",
+            "contentHash": "65b17c17b4b2f83275cc885fff121cb94415609a05345c32eb34d4fc512db3a8",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:15.153Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE-TG7BAOVioqqEY6euM_lg",
+      "sourceId": "AAE-TG7BAOVioqqEY6euM_lg",
+      "sourceFingerprint": "43a4edc8a5929f7a4ca243f4b851db039768bee6a41f1ba18abd225000e1d504",
+      "locale": "en",
+      "slug": "titanium-steel-square-cross-pendant-necklace-eum_lg",
+      "title": "Titanium Steel Square Cross Pendant Necklace",
+      "eyebrow": "Titanium steel square cross pendant necklace",
+      "summary": "This necklace centers on a square cross pendant with a clean, minimalist outline and no main stone, so the titanium surface carries the design. It is listed as religious-style jewelry for men, women, and unisex wear, and it is positioned for gift, engagement, wedding, anniversary, and party occasions.",
+      "description": "The pendant takes the form of a square cross: straight arms contained within a squared silhouette, with the metal surface left unadorned. There is no main stone, so the look depends on the titanium and the geometry of the charm rather than on set stones or engraving. Because the outline is plain rather than figural, it reads as a cross and not as a crucifix. The necklace is classified as a themed pendant in religious style and is listed for men's, women's, and unisex wear, which keeps the sizing and styling conversation open. It is intended for gift, engagement, wedding, anniversary, and party occasions.",
+      "catholicContext": "A plain cross pendant is a Christian devotional article; it is not a crucifix, and this product's facts do not include a corpus or any blessing or sacramental status.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAE-TG7BAOVioqqEY6euM_lg",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H0780fde9037243b68bdb8f174c90377d7.webp",
+      "imageAlt": "Titanium Steel Square Cross Pendant Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0780fde9037243b68bdb8f174c90377d7.webp",
+          "alt": "Titanium Steel Square Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H674c6ffa8f55434f869e78c1014a4ca8t.webp",
+          "alt": "Titanium Steel Square Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfc0707cd628246a0b48afc142858ce6be.webp",
+          "alt": "Titanium Steel Square Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H86b5f904f05c435081b299cfd330594dT.webp",
+          "alt": "Titanium Steel Square Cross Pendant Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H97bd1fd2410744078572f89931704e9bp.webp",
+          "alt": "Titanium Steel Square Cross Pendant Necklace"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Square cross pendant with a minimalist, unadorned silhouette",
+        "Titanium as the main jewelry material",
+        "No main stone set in the pendant",
+        "Listed for men's, women's, and unisex wear",
+        "Religious-style themed pendant",
+        "Positioned for gift, engagement, wedding, anniversary, and party occasions"
+      ],
+      "specifications": [
+        {
+          "name": "Jewelry main material",
+          "value": "Titanium"
+        },
+        {
+          "name": "Pendant or charm type",
+          "value": "Themed pendant"
+        },
+        {
+          "name": "Gender",
+          "value": "Women's, men's, unisex"
+        },
+        {
+          "name": "Main stone",
+          "value": "None"
+        },
+        {
+          "name": "Style",
+          "value": "Religious"
+        },
+        {
+          "name": "Occasion",
+          "value": "Engagement, gift, wedding, anniversary, party"
+        },
+        {
+          "name": "Place of origin",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Brand name",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [
+        "Gift giving",
+        "Engagement and wedding wear",
+        "Anniversary wear",
+        "Party wear"
+      ],
+      "faq": [
+        {
+          "question": "What material is the square cross pendant necklace made of?",
+          "answer": "The listed jewelry main material is titanium. The pendant has no main stone."
+        },
+        {
+          "question": "Is the pendant a cross or a crucifix?",
+          "answer": "It is described as a cross pendant. The product facts do not state that a corpus of Christ is present, so it should be treated as a plain cross rather than a crucifix."
+        },
+        {
+          "question": "Who is this necklace listed for?",
+          "answer": "It is listed for women's, men's, and unisex wear, in a religious style, with occasions including engagement, gift, wedding, anniversary, and party."
+        }
+      ],
+      "pricing": {
+        "price": "1.80",
+        "regularPrice": "1.80",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.30",
+          "max": "1.80"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Titanium Steel Square Cross Pendant Necklace",
+          "description": "Minimalist square cross pendant necklace in titanium, a religious-style unisex jewelry piece with no main stone, suited to gifting and everyday wear.",
+          "sku": "ALI-AAE-TG7BAOVioqqEY6euM_lg",
+          "image": [
+            "https://sc04.alicdn.com/kf/H0780fde9037243b68bdb8f174c90377d7.jpg",
+            "https://sc04.alicdn.com/kf/H674c6ffa8f55434f869e78c1014a4ca8t.jpg",
+            "https://sc04.alicdn.com/kf/Hfc0707cd628246a0b48afc142858ce6be.jpg",
+            "https://sc04.alicdn.com/kf/H86b5f904f05c435081b299cfd330594dT.jpg",
+            "https://sc04.alicdn.com/kf/H97bd1fd2410744078572f89931704e9bp.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Jewelry main material",
+              "value": "Titanium"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pendant or charm type",
+              "value": "Themed pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Gender",
+              "value": "Women's, men's, unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Main stone",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Engagement, gift, wedding, anniversary, party"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of origin",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Brand name",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.80",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.30",
+              "maxPrice": "1.80",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the square cross pendant necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The listed jewelry main material is titanium. The pendant has no main stone."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the pendant a cross or a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is described as a cross pendant. The product facts do not state that a corpus of Christ is present, so it should be treated as a plain cross rather than a crucifix."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is this necklace listed for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is listed for women's, men's, and unisex wear, in a religious style, with occasions including engagement, gift, wedding, anniversary, and party."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2baa1338e32880eb1cb6128b732b9542f74f73d2c656a27af66d1b870c92f2b6",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2baa1338e32880eb1cb6128b732b9542f74f73d2c656a27af66d1b870c92f2b6",
+            "contentHash": "2baa1338e32880eb1cb6128b732b9542f74f73d2c656a27af66d1b870c92f2b6",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:15.325Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGTTG7BAOVioqqEY6euMPW8",
+      "sourceId": "AAGTTG7BAOVioqqEY6euMPW8",
+      "sourceFingerprint": "ed7f91bd06bd9a3cedd27fc8d45f3e6c75d6bb61bae776d09f6c3ab6cdae577e",
+      "locale": "en",
+      "slug": "stainless-steel-double-layer-cross-necklace-eumpw8",
+      "title": "Stainless Steel Double-Layer Cross Necklace",
+      "eyebrow": "Stainless steel double-layer cross necklace",
+      "summary": "This stainless steel double-layer cross necklace uses titanium steel for a non-fading finish. Five chain variants include gold, black, silver, and splicing options. It is positioned as fashion jewelry for men and women, suited to gift and retail assortments.",
+      "description": "This necklace pairs a double-layer cross pendant with a stainless steel and titanium steel construction, described as non-fading. The design is offered in five chain variants: gold-chain, black and silver splicing with chain, black chain, gold and silver splicing with chain, and silver chain.\n\nThe piece sits in the fashion necklace category and is presented for men and women. As a plain cross design without a corpus, it is a cross rather than a crucifix.",
+      "catholicContext": "A cross is a Christian symbol; this necklace is a plain cross, not a crucifix, since no corpus of Christ is described.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAGTTG7BAOVioqqEY6euMPW8",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H245908f457634f4ba21954b58d09fdd6F.webp",
+      "imageAlt": "Stainless Steel Double-Layer Cross Necklace",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H245908f457634f4ba21954b58d09fdd6F.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H99ad9111a1d848bab85d98e3d5d4cd93h.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H46f5b610a09940b0a921d11149bab56cI.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf1ccf936eddf4f269db3dc84a09cce999.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H61c8eebf282842f78860c5875ebcdd2aj.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hee7c150b055c40bf989e5ed2d84fe86bQ.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H07d65c3cde1147dcbd79928a3f71eee62.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace - black-and-silver-splicing-with-chain",
+          "label": "black-and-silver-splicing-with-chain",
+          "sku": "ALI-AAGTTG7BAOVioqqEY6euMPW8-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H53b4c8aa4b18486f90f120e2e1096dcb4.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace - gold-chain",
+          "label": "gold-chain",
+          "sku": "ALI-AAGTTG7BAOVioqqEY6euMPW8-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0cb7920325174a19820b2ebc81f8a0beF.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace - gold-and-silver-splicing-with-chain",
+          "label": "gold-and-silver-splicing-with-chain",
+          "sku": "ALI-AAGTTG7BAOVioqqEY6euMPW8-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc0a9222eae4345869c6340dd212e5851K.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace - black-chain",
+          "label": "black-chain",
+          "sku": "ALI-AAGTTG7BAOVioqqEY6euMPW8-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc2842ebb15194d449b283ffac1478eee4.webp",
+          "alt": "Stainless Steel Double-Layer Cross Necklace - silver-chain",
+          "label": "silver-chain",
+          "sku": "ALI-AAGTTG7BAOVioqqEY6euMPW8-V--3"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Double-layer cross pendant design",
+        "Stainless steel and titanium steel construction",
+        "Non-fading finish as described by the source",
+        "Five chain variants: gold, black, silver, and two splicing options",
+        "Marketed for men and women"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel and titanium steel"
+        },
+        {
+          "name": "Design",
+          "value": "Double-layer cross pendant"
+        },
+        {
+          "name": "Finish",
+          "value": "Non-fading (as stated)"
+        },
+        {
+          "name": "Variants",
+          "value": "Gold-chain; Black and silver splicing with chain; Black chain; Gold and silver splicing with chain; Silver chain"
+        },
+        {
+          "name": "Category",
+          "value": "Fashion Necklace"
+        }
+      ],
+      "applications": [
+        "Retail fashion jewelry assortment",
+        "Gift for men or women",
+        "Everyday unisex accessory",
+        "Wholesale cross necklace selection"
+      ],
+      "faq": [
+        {
+          "question": "What material is this double-layer cross necklace made of?",
+          "answer": "It is made of stainless steel and titanium steel, with a non-fading finish as described."
+        },
+        {
+          "question": "What variants are available?",
+          "answer": "Five chain variants: gold-chain, black and silver splicing with chain, black chain, gold and silver splicing with chain, and silver chain."
+        },
+        {
+          "question": "Is this a cross or a crucifix?",
+          "answer": "It is a cross. No corpus of Christ is described, so it is not a crucifix."
+        }
+      ],
+      "pricing": {
+        "price": "1.84",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.84",
+          "max": "2.22"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Double-Layer Cross Necklace",
+          "description": "Double-layer stainless steel cross necklace with titanium steel, non-fading finish, and five chain variants. Wholesale for men and women gift jewelry.",
+          "sku": "ALI-AAGTTG7BAOVioqqEY6euMPW8",
+          "image": [
+            "https://sc04.alicdn.com/kf/H245908f457634f4ba21954b58d09fdd6F.jpg",
+            "https://sc04.alicdn.com/kf/H99ad9111a1d848bab85d98e3d5d4cd93h.jpg",
+            "https://sc04.alicdn.com/kf/H46f5b610a09940b0a921d11149bab56cI.jpg",
+            "https://sc04.alicdn.com/kf/Hf1ccf936eddf4f269db3dc84a09cce999.jpg",
+            "https://sc04.alicdn.com/kf/H61c8eebf282842f78860c5875ebcdd2aj.jpg",
+            "https://sc04.alicdn.com/kf/Hee7c150b055c40bf989e5ed2d84fe86bQ.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel and titanium steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Double-layer cross pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finish",
+              "value": "Non-fading (as stated)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Gold-chain; Black and silver splicing with chain; Black chain; Gold and silver splicing with chain; Silver chain"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Fashion Necklace"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.84",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.84",
+              "maxPrice": "2.22",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is this double-layer cross necklace made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is made of stainless steel and titanium steel, with a non-fading finish as described."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What variants are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Five chain variants: gold-chain, black and silver splicing with chain, black chain, gold and silver splicing with chain, and silver chain."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this a cross or a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is a cross. No corpus of Christ is described, so it is not a crucifix."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2b4fa6f76e452aae1710579b46c03f75c0cd6a95317f915ab30c73b1462c6a9f",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2b4fa6f76e452aae1710579b46c03f75c0cd6a95317f915ab30c73b1462c6a9f",
+            "contentHash": "2b4fa6f76e452aae1710579b46c03f75c0cd6a95317f915ab30c73b1462c6a9f",
+            "attempts": 0,
+            "updatedAt": "2026-10-06T19:10:18.271Z",
             "model": "deepseek-v4-flash"
           }
         }
