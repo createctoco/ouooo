@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "hr",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a8e85eb36a14c03826e1a03d07cf01c288e27ee89a5d63ea92727bb534fde794",
-  "generatedAt": "2026-10-18T17:08:19.112Z",
+  "sourceCatalogHash": "5b9d005dfb248524c6617607ad567067461453285b4bbdc81e15baa4a15c62a1",
+  "generatedAt": "2026-10-19T19:40:59.037Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFNTG7BAOVioqqEY6enmEhC",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,32 +39,33 @@
     "brooch": "Broš",
     "uncategorized": "Nekategorizirano"
   },
-  "categoryGlossarySourceHash": "4a86757abd72447c98bb9c8f6706ce10a440e73eb1a0f384ce13d0de0da8aba2",
+  "categoryGlossarySourceHash": "5ea453f4898973f6927766e0e346b2065451c612ec6cbd9e1713f5f7020b6cf2",
   "translationSummary": {
-    "ready": 926,
+    "ready": 936,
     "skipped": 2,
     "skippedProductIds": [
       "AAG2TG7BAOVioqqEY6evaYQW",
       "AAFNTG7BAOVioqqEY6enmEhC"
     ],
-    "reused": 917,
-    "generated": 9,
+    "reused": 926,
+    "generated": 10,
     "generatedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 9,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 1,
+    "retriedBacklog": 2,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -827,11 +828,11 @@
   ],
   "translationRetries": {
     "AAG2TG7BAOVioqqEY6evaYQW": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     },
     "AAFNTG7BAOVioqqEY6enmEhC": {
-      "count": 1,
+      "count": 2,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     }
   },
@@ -216579,6 +216580,2734 @@
             "contentHash": "2a89e676a62fe6a68bd8ad7acc17d4c9ad6c07a0c3512d5a600eebf0c8777b57",
             "attempts": 1,
             "updatedAt": "2026-10-18T17:08:19.109Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceFingerprint": "e3ecd2368a3a82ba31d6bf0c1512363bbefba2c16f5900d62dfe4968a4c0f99b",
+      "locale": "hr",
+      "slug": "hematite-orthodox-icon-bracelet-e5binb",
+      "title": "Narukvica s hematitnim zrnima i pravoslavnom ikonom",
+      "eyebrow": "Narukvica s hematitnim zrnima i okruglim medaljonom od slitine u obliku kapi ulja sa svetačkim likom",
+      "summary": "Hematitna zrna spojena su s okruglim okvirom od slitine u obliku kapi ulja koji nosi svetački portret, što ovoj pobožnoj narukvici daje tamni metalni izgled i središnji motiv ikone. Nudi se u varijantama Black-1 i Black-2 te pripada kategoriji vjerskog nakita kao nosivi komad sa svetačkom ikonom.",
+      "description": "Mala hematitna zrna tvore niz ove narukvice s pravoslavnom ikonom, a njihova sivo-crna metalna površina stvara kontrast s glatkim oblikom medaljona od slitine u obliku kapi ulja. Lice medaljona ispunjava svetački portret, pa je slika središte dizajna, a ne sporedni detalj.\n\nU izvornom se opisu narukvica predstavlja kao pobožni nakit sa svetačkim portretom i nudi se u dvije varijante, Black-1 i Black-2. Kupci koji biraju između njih trebaju prije naručivanja potvrditi koji portret i završnu obradu nosi pojedina varijanta, jer su u opisu varijante označene samo tim nazivima.",
+      "catholicContext": "Katolička pučka pobožnost uključuje pobožni nakit i medaljice koje se nose kao osobni podsjetnici na vjeru; takvi su predmeti pobožni predmeti i nisu sakramentali ako ih Crkva ne blagoslovi.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Krunične narukvice",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+      "imageAlt": "Narukvica s hematitnim zrnima i pravoslavnom ikonom",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+          "alt": "Narukvica s hematitnim zrnima i pravoslavnom ikonom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0600b17ae79a4bd69eeaa12ebcfefe070.webp",
+          "alt": "Narukvica s hematitnim zrnima i pravoslavnom ikonom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.webp",
+          "alt": "Narukvica s hematitnim zrnima i pravoslavnom ikonom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc5bb635c17214b988110fba3fe8293c1J.webp",
+          "alt": "Narukvica s hematitnim zrnima i pravoslavnom ikonom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H21fe9a1e791d4959afbb8aa369902b31H.webp",
+          "alt": "Narukvica s hematitnim zrnima i pravoslavnom ikonom"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb5420080172e4cc6ab6a3bd66a82555cG.webp",
+          "alt": "Narukvica s hematitnim zrnima i pravoslavnom ikonom - black-1",
+          "label": "black-1",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4c9f8692907049de9415bc02fafb2c12y.webp",
+          "alt": "Narukvica s hematitnim zrnima i pravoslavnom ikonom - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--2"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Niz hematitnih zrna",
+        "Medaljon od slitine u obliku kapi ulja",
+        "Dizajn sa svetačkim portretom kao ikonom",
+        "Dvije varijante: Black-1 i Black-2",
+        "U izvornim kategorijama svrstano pod krunične narukvice"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Hematitna zrna s medaljonom od slitine"
+        },
+        {
+          "name": "Oblik medaljona",
+          "value": "Kap ulja"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Portret pravoslavnog sveca kao ikona"
+        },
+        {
+          "name": "Varijante",
+          "value": "Black-1, Black-2"
+        }
+      ],
+      "applications": [
+        "Osobno pobožno nošenje",
+        "Darivanje u vjerske svrhe",
+        "Nabava asortimana narukvica za trgovine vjerskom robom"
+      ],
+      "faq": [
+        {
+          "question": "Koji su materijali upotrijebljeni u narukvici s hematitnim zrnima i pravoslavnom ikonom?",
+          "answer": "Narukvica je izrađena od hematitnih zrna i medaljona od slitine u obliku kapi ulja sa svetačkim portretom, kako je navedeno u opisu proizvoda."
+        },
+        {
+          "question": "Koje su varijante dostupne?",
+          "answer": "Navedene su dvije varijante, Black-1 i Black-2. Pojedinosti o portretu i završnoj obradi za svaku varijantu nisu navedene u dostupnim podacima o proizvodu, stoga ih prije naručivanja potvrdite s nama."
+        },
+        {
+          "question": "Je li ova narukvica krunicа?",
+          "answer": "Navedena je u kategoriji kruničnih narukvica, ali je opisana kao narukvica s pravoslavnom ikonom, a ne kao krunicа sa zrnima i raspelom. Za pojedinosti o njezinoj izradi obratite se nama."
+        }
+      ],
+      "pricing": {
+        "price": "0.55",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.32",
+          "max": "0.55"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Narukvica s hematitnim zrnima i pravoslavnom ikonom",
+          "description": "Hematitna zrna spojena su s okruglim okvirom od slitine u obliku kapi ulja koji nosi svetački portret, što ovoj pobožnoj narukvici daje tamni metalni izgled i središnji motiv ikone. Nudi se u varijantama Black-1 i Black-2 te pripada kategoriji vjerskog nakita kao nosivi komad sa svetačkom ikonom.",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcc89be8f26a54d01a955b6460329c03da.png",
+            "https://sc04.alicdn.com/kf/H0600b17ae79a4bd69eeaa12ebcfefe070.png",
+            "https://sc04.alicdn.com/kf/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.png",
+            "https://sc04.alicdn.com/kf/Hc5bb635c17214b988110fba3fe8293c1J.png",
+            "https://sc04.alicdn.com/kf/H21fe9a1e791d4959afbb8aa369902b31H.png"
+          ],
+          "category": "Krunične narukvice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Hematitna zrna s medaljonom od slitine"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblik medaljona",
+              "value": "Kap ulja"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Portret pravoslavnog sveca kao ikona"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante",
+              "value": "Black-1, Black-2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.55",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.32",
+              "maxPrice": "0.55",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koji su materijali upotrijebljeni u narukvici s hematitnim zrnima i pravoslavnom ikonom?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica je izrađena od hematitnih zrna i medaljona od slitine u obliku kapi ulja sa svetačkim portretom, kako je navedeno u opisu proizvoda."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su varijante dostupne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedene su dvije varijante, Black-1 i Black-2. Pojedinosti o portretu i završnoj obradi za svaku varijantu nisu navedene u dostupnim podacima o proizvodu, stoga ih prije naručivanja potvrdite s nama."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li ova narukvica krunicа?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedena je u kategoriji kruničnih narukvica, ali je opisana kao narukvica s pravoslavnom ikonom, a ne kao krunicа sa zrnima i raspelom. Za pojedinosti o njezinoj izradi obratite se nama."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:42.229Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "baf01f9fa61853a19de55051a663aa1072048a189f1ec5adc46fad5019b193d2",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:02.446Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceFingerprint": "d4323b8bc0c3a5c5ab42489d5dd6c6379cc9b601eb638c449ca006b7b3b1bbb2",
+      "locale": "hr",
+      "slug": "saint-benedict-portrait-charm-bracelet-with-knot-design-evbsed",
+      "title": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora",
+      "eyebrow": "Narukvica s privjeskom portreta katoličkog sveca i koncentričnim dizajnom čvora",
+      "summary": "Narukvica od cinkove slitine s okruglim privjeskom portreta svetog Benedikta i koncentričnim dizajnom čvora. Nudi se u dvije varijante boje, zlatnom i srebrnom tonu, a kategorizirana je za asortimane kruničnih narukvica. Uniseks stil i privjesak s portretom čine je pobožnim dodatkom za izlaganje u trgovinama ili osobno nošenje.",
+      "description": "Ova narukvica spaja okrugli privjesak portreta svetog Benedikta s koncentričnim dizajnom čvora u cinkovoj slitini. Privjesak s portretom služi kao vizualno središte, dok uzorak čvora dodaje teksturu narukvici. Dostupne su dvije opcije boje: zlatni i srebrni ton. Narukvica je uniseks i klasificirana je pod krunične narukvice, što je čini prirodnim dijelom asortimana pobožnog nakita ili osobne kolekcije. Dodatni detalji izrade nisu navedeni.",
+      "catholicContext": "Katolički katekizam navodi medaljice i krunicu među oblicima pučke pobožnosti oko sakramentalnog života; ova narukvica ima privjesak portreta svetog Benedikta, ali ne podrazumijeva nikakav blagoslov ni duhovni učinak.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Krunične narukvice",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+      "imageAlt": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+          "alt": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0aa414c838e04a80a5555f716d6a0eafQ.webp",
+          "alt": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9a1ab462614dfb941979f715cb8093o.webp",
+          "alt": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H799b99b026a54375a2d858a9248810b3o.webp",
+          "alt": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haafc857f0fe24a3bac1725643eaf0fa55.webp",
+          "alt": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4f57991730c54639ab0e3cf901b5fe5az.webp",
+          "alt": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H277d2d5f55c842e0bcbe779174aa271ag.webp",
+          "alt": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora - portrait-round-pendant-concentric-knot-bracelet-silver",
+          "label": "portrait-round-pendant-concentric-knot-bracelet-silver",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbc60e136d11e451d864e9931ab324078L.webp",
+          "alt": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora - portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "label": "portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Okrugli privjesak portreta koji prikazuje svetog Benedikta",
+        "Koncentrični dizajn čvora integriran u narukvicu",
+        "Izrađena od cinkove slitine",
+        "Dostupna u varijantama zlatnog i srebrnog tona",
+        "Uniseks stil"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Cinkova slitina"
+        },
+        {
+          "name": "Oblik privjeska",
+          "value": "Okrugli portret"
+        },
+        {
+          "name": "Motiv dizajna",
+          "value": "Koncentrični čvor"
+        },
+        {
+          "name": "Varijante",
+          "value": "Zlatni ton, srebrni ton"
+        },
+        {
+          "name": "Rod",
+          "value": "Uniseks"
+        }
+      ],
+      "applications": [
+        "Asortimani kruničnih narukvica",
+        "Izlaganje pobožnog nakita u trgovinama",
+        "Osobno nošenje kao katolički dodatak"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg je materijala izrađena narukvica svetog Benedikta?",
+          "answer": "Narukvica je izrađena od cinkove slitine, kako je navedeno u podacima o proizvodu."
+        },
+        {
+          "question": "Koje su opcije boje dostupne za ovu narukvicu?",
+          "answer": "Dostupna je u dvije varijante: zlatni i srebrni ton."
+        },
+        {
+          "question": "Ima li narukvica poseban element dizajna?",
+          "answer": "Da, ima koncentrični dizajn čvora i okrugli privjesak portreta svetog Benedikta."
+        }
+      ],
+      "pricing": {
+        "price": "2.02",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.46",
+          "max": "2.02"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Narukvica s privjeskom portreta svetog Benedikta i dizajnom čvora",
+          "description": "Narukvica od cinkove slitine s okruglim privjeskom portreta svetog Benedikta i koncentričnim dizajnom čvora. Nudi se u dvije varijante boje, zlatnom i srebrnom tonu, a kategorizirana je za asortimane kruničnih narukvica. Uniseks stil i privjesak s portretom čine je pobožnim dodatkom za izlaganje u trgovinama ili osobno nošenje.",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdea22dc4ebaf416d993110b987c1a45eq.jpg",
+            "https://sc04.alicdn.com/kf/H0aa414c838e04a80a5555f716d6a0eafQ.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9a1ab462614dfb941979f715cb8093o.jpg",
+            "https://sc04.alicdn.com/kf/H799b99b026a54375a2d858a9248810b3o.jpg",
+            "https://sc04.alicdn.com/kf/Haafc857f0fe24a3bac1725643eaf0fa55.jpg",
+            "https://sc04.alicdn.com/kf/H4f57991730c54639ab0e3cf901b5fe5az.jpg"
+          ],
+          "category": "Krunične narukvice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Cinkova slitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblik privjeska",
+              "value": "Okrugli portret"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motiv dizajna",
+              "value": "Koncentrični čvor"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante",
+              "value": "Zlatni ton, srebrni ton"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Rod",
+              "value": "Uniseks"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.02",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.46",
+              "maxPrice": "2.02",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg je materijala izrađena narukvica svetog Benedikta?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica je izrađena od cinkove slitine, kako je navedeno u podacima o proizvodu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su opcije boje dostupne za ovu narukvicu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostupna je u dvije varijante: zlatni i srebrni ton."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ima li narukvica poseban element dizajna?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, ima koncentrični dizajn čvora i okrugli privjesak portreta svetog Benedikta."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:39.725Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "19c3e535df48a4c9247c0953860fb5d61e8cdeb1f214d9f755265deb35dc0333",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:07.972Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceFingerprint": "61b2d7e3356a73b18c3dc7963677a4ddad1789a18501cc132b5b183b57051bbe",
+      "locale": "hr",
+      "slug": "st-michael-archangel-pendant-necklace-evsz32",
+      "title": "Ogrlica s privjeskom sv. Mihaela Arkanđela",
+      "eyebrow": "Ogrlica s privjeskom sv. Mihaela Arkanđela",
+      "summary": "Ogrlica s privjeskom sv. Mihaela Arkanđela namijenjena muškarcima, dostupna u zlatnoj, čeličnoj ili crnoj završnoj obradi te kao samostalni privjesak ili s ogrlicom. Izrada od nehrđajućeg čelika prikladna je za svakodnevno nošenje i za veleprodajne asortimane vjerskog nakita.",
+      "description": "Ova ogrlica s privjeskom sv. Mihaela Arkanđela daje trgovcima na malo pobožnu opciju nakita za muškarce. Privjesak prikazuje sv. Mihaela Arkanđela i nudi se u šest varijanti: zlatna ogrlica, zlatni samostalni privjesak, čelična ogrlica, čelični samostalni privjesak, crni samostalni privjesak i crna ogrlica.\n\nIzrada od nehrđajućeg čelika čini privjesak prikladnim za redovito nošenje. Kupci mogu odabrati inačice samo s privjeskom za zamjenu ili kombiniranje s vlastitim lančićem ili odabrati kompletan set s ogrlicom spreman za izlaganje. Zlatna, čelična i crna završna obrada pružaju prepoznatljive izglede unutar jedne veleprodajne linije.",
+      "catholicContext": "Katolički katekizam ubraja medaljice među pučke pobožnosti koje okružuju sakramentalni život, iako maloprodajna medaljica sama po sebi nije sakramental ako nije blagoslovljena.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Modna ogrlica",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+      "imageAlt": "Ogrlica s privjeskom sv. Mihaela Arkanđela",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H66c3a23db07f4839a58e942ce6594368h.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2f110b1fcd8144b687b778648b449fcdo.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdae2836afbfc45a0966e78005d1b47f0O.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2e19b52179064160bd7704c014bf88f8E.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9fde2232964a8ebcf7193a9ca0b82eq.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H57331c582f9145f6b66fa811285bea32O.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela - black-necklace",
+          "label": "black-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5e978dd19295411cab94d17d5b2c56491.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela - steel-necklace",
+          "label": "steel-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2af800dce72c4466ab33138fc8722fb8G.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela - steel-single-pendant",
+          "label": "steel-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1de99a6362664f3ba3c9e661291d3dd0y.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela - gold-necklace",
+          "label": "gold-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H883797df6113451b9045aab40ff0fd8aw.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela - gold-single-pendant",
+          "label": "gold-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfe57aaddbed64e838e0d5df541fbfc26Q.webp",
+          "alt": "Ogrlica s privjeskom sv. Mihaela Arkanđela - black-single-pendant",
+          "label": "black-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--5"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Dizajn privjeska sv. Mihaela Arkanđela",
+        "Izrada od nehrđajućeg čelika",
+        "Stil muškog vjerskog nakita",
+        "Dostupno samo kao privjesak ili s ogrlicom",
+        "Opcije zlatne, čelične i crne završne obrade",
+        "Šest varijanti prema završnoj obradi i konfiguraciji"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Nehrđajući čelik"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Sv. Mihael Arkanđeo"
+        },
+        {
+          "name": "Varijante",
+          "value": "Zlatna ogrlica, zlatni samostalni privjesak, čelična ogrlica, čelični samostalni privjesak, crni samostalni privjesak, crna ogrlica"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Modna ogrlica"
+        }
+      ],
+      "applications": [
+        "Maloprodaja muškog vjerskog nakita",
+        "Veleprodajni asortimani pobožnih privjesaka",
+        "Zamjena samo privjeskom ili kombiniranje s vlastitim lančićem",
+        "Odabir darova za katoličke muškarce"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg je materijala izrađen privjesak sv. Mihaela Arkanđela?",
+          "answer": "Privjesak je izrađen od nehrđajućeg čelika, prema specifikacijama proizvoda."
+        },
+        {
+          "question": "Koje su varijante dostupne za ovaj privjesak?",
+          "answer": "Privjesak je dostupan u šest varijanti: zlatna ogrlica, zlatni samostalni privjesak, čelična ogrlica, čelični samostalni privjesak, crni samostalni privjesak i crna ogrlica."
+        },
+        {
+          "question": "Je li privjesak dostupan bez ogrlice?",
+          "answer": "Da, varijante zlatni samostalni privjesak, čelični samostalni privjesak i crni samostalni privjesak opcije su samo s privjeskom. Varijante s ogrlicom uključuju lančić."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "1.30"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ogrlica s privjeskom sv. Mihaela Arkanđela",
+          "description": "Ogrlica s privjeskom sv. Mihaela Arkanđela namijenjena muškarcima, dostupna u zlatnoj, čeličnoj ili crnoj završnoj obradi te kao samostalni privjesak ili s ogrlicom. Izrada od nehrđajućeg čelika prikladna je za svakodnevno nošenje i za veleprodajne asortimane vjerskog nakita.",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+          "image": [
+            "https://sc04.alicdn.com/kf/H807494b20657480e89258156a7edf1d9C.jpg",
+            "https://sc04.alicdn.com/kf/H66c3a23db07f4839a58e942ce6594368h.jpg",
+            "https://sc04.alicdn.com/kf/H2f110b1fcd8144b687b778648b449fcdo.jpg",
+            "https://sc04.alicdn.com/kf/Hdae2836afbfc45a0966e78005d1b47f0O.jpg",
+            "https://sc04.alicdn.com/kf/H2e19b52179064160bd7704c014bf88f8E.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9fde2232964a8ebcf7193a9ca0b82eq.jpg"
+          ],
+          "category": "Modna ogrlica",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Nehrđajući čelik"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Sv. Mihael Arkanđeo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante",
+              "value": "Zlatna ogrlica, zlatni samostalni privjesak, čelična ogrlica, čelični samostalni privjesak, crni samostalni privjesak, crna ogrlica"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Modna ogrlica"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "1.30",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg je materijala izrađen privjesak sv. Mihaela Arkanđela?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Privjesak je izrađen od nehrđajućeg čelika, prema specifikacijama proizvoda."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su varijante dostupne za ovaj privjesak?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Privjesak je dostupan u šest varijanti: zlatna ogrlica, zlatni samostalni privjesak, čelična ogrlica, čelični samostalni privjesak, crni samostalni privjesak i crna ogrlica."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li privjesak dostupan bez ogrlice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, varijante zlatni samostalni privjesak, čelični samostalni privjesak i crni samostalni privjesak opcije su samo s privjeskom. Varijante s ogrlicom uključuju lančić."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:47.757Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "2d4dac94de30e51e2a1a08bb7fc08f0f8cb5d2bb857ef87c14f0affe198e4a38",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:14.276Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceFingerprint": "004dd5177f082c66c35b386d00b5975d3aa370d90f91bd88b96b1ae218a35a76",
+      "locale": "hr",
+      "slug": "stainless-steel-embossed-key-pendant-necklace-evbfp0",
+      "title": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima",
+      "eyebrow": "Ogrlica s privjeskom ključa od nehrđajućeg čelika",
+      "summary": "Ogrlica s privjeskom ključa od nehrđajućeg čelika u mat zlatnoj ili srebrnoj završnoj obradi, s reljefnim detaljima na privjesku ključa. Asortiman obuhvaća sedam dizajna ključa, YE-21 do YE-27, od kojih je svaki dostupan u obje završne obrade i predstavljen kao uniseks nakit vintage stila.",
+      "description": "Tijelo ove ogrlice s privjeskom ključa izrađeno je od nehrđajućeg čelika, a privjesak ključa ima reljefni uzorak umjesto glatke površine. Svaki je privjesak dostupan u mat zlatnoj ili srebrnoj boji, pa kupci mogu naručiti obje završne obrade u istom dizajnu.\n\nAsortiman obuhvaća sedam oblika ključa, označenih od YE-21 do YE-27, što veleprodajnom asortimanu daje nekoliko opcija siluete uz istu konstrukciju i priču o završnoj obradi. Privjesak ključa osmišljen je kao uniseks nakit vintage stila, što odgovara rodno mješovitoj prodaji. Prilikom sastavljanja narudžbe odaberite dizajne i završne obrade po pojedinoj liniji.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodaci",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+      "imageAlt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4d5b442a583345bd81f57d77b2663cecz.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb590cbf4af37405fb03f9540c4527e0d5.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1aacdffbdb3d4931a4588dcbc5b80c1fr.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5d3961f4984241d09121b14f932e3a778.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had36ed420ca045519d9587d4e7c5c9a5J.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1662c7049c8645f7aa404b77ca28da50p.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-25-silver",
+          "label": "ye-25-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hde3070a700284384a335a3f35bcd7ca6G.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-25-gold",
+          "label": "ye-25-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1116bc965d3c4b159c656ce0c791d305n.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-24-silver",
+          "label": "ye-24-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc78dab51f8af4691b2773eaa41a54d320.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-24-gold",
+          "label": "ye-24-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hda1e48e16764402a93cf21f2e49fb1ea0.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-27-silver",
+          "label": "ye-27-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc65429c1020e4c35a5e1a1eb3e591b4cY.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-27-gold",
+          "label": "ye-27-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H37248617f2eb40f4ab5a76a106d72d4ak.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-21-silver",
+          "label": "ye-21-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4e05bb7087f144c294f890cd7a046accf.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-21-gold",
+          "label": "ye-21-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H52406ffa885740afb7328c0f159ee7ee9.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-23-silver",
+          "label": "ye-23-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H271e06fa4d66425ba64e09deb580f8308.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-23-gold",
+          "label": "ye-23-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H8c5fe5b785c747d2bf5edc2d26286b5e3.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-22-silver",
+          "label": "ye-22-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H81fb0a50cc72436788963ebec0a6234d8.webp",
+          "alt": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima - ye-22-gold",
+          "label": "ye-22-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--4"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Ogrlica s privjeskom ključa od nehrđajućeg čelika",
+        "Reljefni detalji na privjesku ključa",
+        "Dostupne mat zlatna i srebrna završna obrada",
+        "Sedam dizajna ključa: YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27",
+        "Svaki dizajn dostupan u zlatnoj i srebrnoj boji",
+        "Uniseks nakit vintage stila"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Nehrđajući čelik"
+        },
+        {
+          "name": "Vrsta privjeska",
+          "value": "Privjesak ključ"
+        },
+        {
+          "name": "Površinski detalj",
+          "value": "Reljefni"
+        },
+        {
+          "name": "Opcije završne obrade",
+          "value": "Mat zlatna; srebrna"
+        },
+        {
+          "name": "Oznake dizajna",
+          "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+        },
+        {
+          "name": "Struktura varijanti",
+          "value": "Svaki dizajn u zlatnoj i srebrnoj boji"
+        },
+        {
+          "name": "Namijenjeni korisnik",
+          "value": "Uniseks"
+        }
+      ],
+      "applications": [
+        "Veleprodajni asortiman nakita",
+        "Maloprodajni izložak ogrlica vintage stila",
+        "Prodaja uniseks dodataka",
+        "Odabir privjeska s motivom ključa prema dizajnu i završnoj obradi"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg je materijala ogrlica s privjeskom ključa?",
+          "answer": "Ogrlica s privjeskom ključa izrađena je od nehrđajućeg čelika, s reljefnim detaljima na privjesku ključa."
+        },
+        {
+          "question": "Koliko je dizajna ključa dostupno?",
+          "answer": "Dostupno je sedam dizajna ključa, označenih od YE-21 do YE-27."
+        },
+        {
+          "question": "Koje završne obrade mogu naručiti?",
+          "answer": "Svaki je dizajn ključa dostupan u mat zlatnoj ili srebrnoj boji, što daje četrnaest kombinacija dizajna i završne obrade u cijelom asortimanu."
+        }
+      ],
+      "pricing": {
+        "price": "0.38",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.38",
+          "max": "0.67"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ogrlica s privjeskom ključa od nehrđajućeg čelika s reljefnim detaljima",
+          "description": "Ogrlica s privjeskom ključa od nehrđajućeg čelika u mat zlatnoj ili srebrnoj završnoj obradi, s reljefnim detaljima na privjesku ključa. Asortiman obuhvaća sedam dizajna ključa, YE-21 do YE-27, od kojih je svaki dostupan u obje završne obrade i predstavljen kao uniseks nakit vintage stila.",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+          "image": [
+            "https://sc04.alicdn.com/kf/H3ed56730450848fea80c873e577ef82aQ.jpg",
+            "https://sc04.alicdn.com/kf/H4d5b442a583345bd81f57d77b2663cecz.jpg",
+            "https://sc04.alicdn.com/kf/Hb590cbf4af37405fb03f9540c4527e0d5.jpg",
+            "https://sc04.alicdn.com/kf/H1aacdffbdb3d4931a4588dcbc5b80c1fr.jpg",
+            "https://sc04.alicdn.com/kf/H5d3961f4984241d09121b14f932e3a778.jpg",
+            "https://sc04.alicdn.com/kf/Had36ed420ca045519d9587d4e7c5c9a5J.jpg"
+          ],
+          "category": "Dodaci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Nehrđajući čelik"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta privjeska",
+              "value": "Privjesak ključ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Površinski detalj",
+              "value": "Reljefni"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcije završne obrade",
+              "value": "Mat zlatna; srebrna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oznake dizajna",
+              "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Struktura varijanti",
+              "value": "Svaki dizajn u zlatnoj i srebrnoj boji"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Namijenjeni korisnik",
+              "value": "Uniseks"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.38",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.38",
+              "maxPrice": "0.67",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg je materijala ogrlica s privjeskom ključa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ogrlica s privjeskom ključa izrađena je od nehrđajućeg čelika, s reljefnim detaljima na privjesku ključa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko je dizajna ključa dostupno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostupno je sedam dizajna ključa, označenih od YE-21 do YE-27."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje završne obrade mogu naručiti?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Svaki je dizajn ključa dostupan u mat zlatnoj ili srebrnoj boji, što daje četrnaest kombinacija dizajna i završne obrade u cijelom asortimanu."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:45.515Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "ae260c1b78bdd06e22982bfe5b5c03ded86a9a43baedb8667a89fb1d61cc54da",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:20.949Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceFingerprint": "9ebab8cd61ba0b008dd94c19be6fa8b017e8c3abca9954b347a88c62d6c573ba",
+      "locale": "hr",
+      "slug": "gold-plated-rhinestone-pendant-necklace-60cm-chain-evsfpx",
+      "title": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm",
+      "eyebrow": "Ogrlica s privjeskom od titanskog čelika s opcijom četvrtastog bisernog lanca",
+      "summary": "Ogrlica s privjeskom od titanskog čelika nudi se u dva stila privjeska: dijamantni privjesak s umetnutim kristalima ili glatki sjajni privjesak, svaki u pozlaćenoj ili čeličnoj završnoj obradi. Kupci mogu uz privjesak odabrati četvrtasti biserni lanac od 3,0 mm u zlatnoj ili čeličnoj izvedbi, duljine 60 cm, ili naručiti samo privjeske.",
+      "description": "Ova ogrlica s privjeskom temelji se na četvrtastom bisernom lancu od 3,0 mm duljine 60 cm, dostupnom u zlatnoj ili čeličnoj završnoj obradi. Privjesak dolazi u četiri inačice: dijamantni privjesak s umetnutim kristalima ili glatki sjajni privjesak, svaki u pozlaćenoj ili čeličnoj završnoj obradi.\n\nPrivjesci se mogu naručiti pojedinačno bez lanca, pa kupci mogu sami sastavljati kombinacije ili zasebno obnavljati zalihe stilova privjesaka od lanaca. Sve inačice lanaca i privjesaka dijele isti promjer četvrtastog bisernog lanca i duljinu od 60 cm, što osigurava dosljednost veličina u mješovitoj narudžbi.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Modna ogrlica",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+      "imageAlt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He25f1d019a504490b7e3cb4a03ffae0d9.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1dd5ebb1c2444928a08e397ea352d3b1U.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc0d8b010101e4bf6a56d9466dd697e93v.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had5889308e734e07be1262d7c3405982H.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hccee46ae10ab4e5e989244c414b3db3bd.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc7d22e6ceb64ce18fa195b3540f4a92V.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm - gold-diamond-single-pendant",
+          "label": "gold-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H521cbaa0cf1b4225a2ef135bf7fb1721i.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm - steel-diamond-single-pendant",
+          "label": "steel-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbea5891ae5c546af8e7295058a24e880s.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm - gold-glossy-single-pendant",
+          "label": "gold-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf780c965233c4b508e44c0c088dc8771U.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm - steel-glossy-single-pendant",
+          "label": "steel-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf14f96621734d5199f4894118e949d1N.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm - 3-0-60cm-steel-square-pearl-chain",
+          "label": "3-0-60cm-steel-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5572ccb5ab63484eb67a536835a283d5W.webp",
+          "alt": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm - 3-0-60cm-gold-square-pearl-chain",
+          "label": "3-0-60cm-gold-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--5"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Privjesak u dva stila: dijamantni privjesak s umetnutim kristalima ili glatki sjajni privjesak",
+        "Opcije završne obrade privjeska: pozlaćena ili čelična",
+        "Četvrtasti biserni lanac promjera 3,0 mm, zlatni ili čelični",
+        "Duljina lanca: 60 cm",
+        "Privjesci dostupni pojedinačno bez lanca"
+      ],
+      "specifications": [
+        {
+          "name": "Stil lanca",
+          "value": "Četvrtasti biserni lanac"
+        },
+        {
+          "name": "Promjer lanca",
+          "value": "3,0 mm"
+        },
+        {
+          "name": "Duljina lanca",
+          "value": "60 cm"
+        },
+        {
+          "name": "Završne obrade lanca",
+          "value": "Zlatna; čelična"
+        },
+        {
+          "name": "Stilovi privjeska",
+          "value": "Dijamantni privjesak s kristalima; glatki sjajni privjesak"
+        },
+        {
+          "name": "Završne obrade privjeska",
+          "value": "Pozlaćena; čelična"
+        },
+        {
+          "name": "Osnovni materijal",
+          "value": "Titanski čelik"
+        },
+        {
+          "name": "Opcije jedinice",
+          "value": "Privjesak s lancem; privjesak pojedinačno"
+        }
+      ],
+      "applications": [
+        "Maloprodaja nakita u hip hop i streetwear stilu",
+        "Sastavljanje ogrlica za DIY i zamjena privjesaka"
+      ],
+      "faq": [
+        {
+          "question": "Koje duljine i promjera je lanac ogrlice?",
+          "answer": "Četvrtasti biserni lanac ima promjer 3,0 mm i duljinu 60 cm, u zlatnoj ili čeličnoj završnoj obradi."
+        },
+        {
+          "question": "Mogu li naručiti privjeske bez lanca?",
+          "answer": "Da. Inačice privjesaka navedene su pojedinačno, odvojeno od opcija lanca 3,0 × 60 cm."
+        },
+        {
+          "question": "Koliko ima inačica privjeska?",
+          "answer": "Četiri: zlatni dijamant, zlatni sjajni, čelični dijamant i čelični sjajni. Dijamantne inačice imaju umetnute kristale; sjajne inačice su glatke."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "3.19"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pozlaćena ogrlica s privjeskom od kristala, lanac 60 cm",
+          "description": "Ogrlica s privjeskom od titanskog čelika nudi se u dva stila privjeska: dijamantni privjesak s umetnutim kristalima ili glatki sjajni privjesak, svaki u pozlaćenoj ili čeličnoj završnoj obradi. Kupci mogu uz privjesak odabrati četvrtasti biserni lanac od 3,0 mm u zlatnoj ili čeličnoj izvedbi, duljine 60 cm, ili naručiti samo privjeske.",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H9f70e950c96544f0aa5c1f38fb162ed1k.jpg",
+            "https://sc04.alicdn.com/kf/He25f1d019a504490b7e3cb4a03ffae0d9.jpg",
+            "https://sc04.alicdn.com/kf/H1dd5ebb1c2444928a08e397ea352d3b1U.jpg",
+            "https://sc04.alicdn.com/kf/Hc0d8b010101e4bf6a56d9466dd697e93v.jpg",
+            "https://sc04.alicdn.com/kf/Had5889308e734e07be1262d7c3405982H.jpg",
+            "https://sc04.alicdn.com/kf/Hccee46ae10ab4e5e989244c414b3db3bd.jpg"
+          ],
+          "category": "Modna ogrlica",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Stil lanca",
+              "value": "Četvrtasti biserni lanac"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Promjer lanca",
+              "value": "3,0 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Duljina lanca",
+              "value": "60 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Završne obrade lanca",
+              "value": "Zlatna; čelična"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stilovi privjeska",
+              "value": "Dijamantni privjesak s kristalima; glatki sjajni privjesak"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Završne obrade privjeska",
+              "value": "Pozlaćena; čelična"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Osnovni materijal",
+              "value": "Titanski čelik"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcije jedinice",
+              "value": "Privjesak s lancem; privjesak pojedinačno"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "3.19",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koje duljine i promjera je lanac ogrlice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Četvrtasti biserni lanac ima promjer 3,0 mm i duljinu 60 cm, u zlatnoj ili čeličnoj završnoj obradi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Mogu li naručiti privjeske bez lanca?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Inačice privjesaka navedene su pojedinačno, odvojeno od opcija lanca 3,0 × 60 cm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko ima inačica privjeska?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Četiri: zlatni dijamant, zlatni sjajni, čelični dijamant i čelični sjajni. Dijamantne inačice imaju umetnute kristale; sjajne inačice su glatke."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:10.973Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "3348d6a2ef319e936e898f7136975a73fb0868940be94a0f0869cee8ed6ef51e",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:27.366Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceFingerprint": "debee61d7511dba0eb16cae06bdee3ba5705bfe1f6ab199c5a7c0c1baa3196de",
+      "locale": "hr",
+      "slug": "cartoon-waterproof-paper-stickers-50-piece-set-evo6x2",
+      "title": "Cartoon vodootporne papirnate naljepnice, set od 50 komada",
+      "eyebrow": "Set cartoon papirnatih naljepnica i dekala",
+      "summary": "Set od 50 naljepnica u cartoon stilu veličine 4–6 cm, tiskanih na papiru s vodootpornom završnom obradom. Dekali se mogu lijepiti na bilježnice, maske za telefone, skateboarde i stranice albuma za svakodnevno DIY ukrašavanje.",
+      "description": "Ležerno nacrtani cartoon motivi daju ovom setu od 50 naljepnica razigran izgled, a svaki dekal mjeri 4–6 cm. Digitalni tisak prenosi ilustraciju na papir, a vodootporna završna obrada pomaže naljepnici da izdrži na svakodnevnim predmetima.\n\nSet je prikladan za manje poslove ukrašavanja, a ne za izložbene komade: bilježnice, maske za telefone, skateboardi i stranice albuma svi prihvaćaju dekale. Kupci koji traže gotov asortiman cartoon naljepnica za rukotvorine i kućno ukrašavanje mogu naručiti paket od 50 komada u isporučenom sastavu.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ukrasi",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+      "imageAlt": "Cartoon vodootporne papirnate naljepnice, set od 50 komada",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+          "alt": "Cartoon vodootporne papirnate naljepnice, set od 50 komada"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf7c10c436fa94667a5b30afbb5471a4d6.webp",
+          "alt": "Cartoon vodootporne papirnate naljepnice, set od 50 komada"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7860c5686e464687ac9bdc3f4125a9e0O.webp",
+          "alt": "Cartoon vodootporne papirnate naljepnice, set od 50 komada"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H60101040415a47df996a49b7fd1718f7F.webp",
+          "alt": "Cartoon vodootporne papirnate naljepnice, set od 50 komada"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H11033a559ecc479488fb3d4a55a59a58M.webp",
+          "alt": "Cartoon vodootporne papirnate naljepnice, set od 50 komada"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Set od 50 naljepnica u cartoon stilu",
+        "Svaka naljepnica mjeri 4–6 cm",
+        "Tiskane na papiru digitalnim tiskom",
+        "Vodootporna završna obrada",
+        "Samoljepljive naljepnice koje se mogu lijepiti na površine",
+        "Isporučuje proizvodno poduzeće TJMY"
+      ],
+      "specifications": [
+        {
+          "name": "Broj artikla",
+          "value": "T01042877"
+        },
+        {
+          "name": "Veličina naljepnice",
+          "value": "4–6 cm"
+        },
+        {
+          "name": "Količina",
+          "value": "50 komada po setu"
+        },
+        {
+          "name": "Materijal",
+          "value": "Papir"
+        },
+        {
+          "name": "Postupak tiska",
+          "value": "Digitalni tisak"
+        },
+        {
+          "name": "Stil",
+          "value": "Cartoon"
+        },
+        {
+          "name": "Značajka",
+          "value": "Vodootporno"
+        },
+        {
+          "name": "Ljepljivost",
+          "value": "Može se lijepiti"
+        },
+        {
+          "name": "IP ovlaštenje",
+          "value": "Ne"
+        },
+        {
+          "name": "Mjesto podrijetla",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Ukrašavanje bilježnica",
+        "Ukrašavanje maski za telefone",
+        "Ukrašavanje skateboarda",
+        "Albumi i DIY projekti"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg su materijala ove cartoon naljepnice?",
+          "answer": "Naljepnice su izrađene od papira s vodootpornom završnom obradom, a motiv je nanesen digitalnim tiskom."
+        },
+        {
+          "question": "Kolika je svaka naljepnica u setu od 50 komada?",
+          "answer": "Svaka naljepnica mjeri 4–6 cm, a set sadrži 50 komada."
+        },
+        {
+          "question": "Jesu li ove naljepnice službeno licencirani dizajni likova?",
+          "answer": "Ne. Podaci o proizvodu navode da IP nije ovlašten, pa se set ne smije smatrati licenciranom robom s likovima."
+        }
+      ],
+      "pricing": {
+        "price": "0.81",
+        "regularPrice": "0.81",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.59",
+          "max": "0.81"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Cartoon vodootporne papirnate naljepnice, set od 50 komada",
+          "description": "Set od 50 naljepnica u cartoon stilu veličine 4–6 cm, tiskanih na papiru s vodootpornom završnom obradom. Dekali se mogu lijepiti na bilježnice, maske za telefone, skateboarde i stranice albuma za svakodnevno DIY ukrašavanje.",
+          "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb566f6faea1b4fef945db17c0e802b93m.jpg",
+            "https://sc04.alicdn.com/kf/Hf7c10c436fa94667a5b30afbb5471a4d6.jpg",
+            "https://sc04.alicdn.com/kf/H7860c5686e464687ac9bdc3f4125a9e0O.jpg",
+            "https://sc04.alicdn.com/kf/H60101040415a47df996a49b7fd1718f7F.jpg",
+            "https://sc04.alicdn.com/kf/H11033a559ecc479488fb3d4a55a59a58M.jpg"
+          ],
+          "category": "Ukrasi",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Broj artikla",
+              "value": "T01042877"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Veličina naljepnice",
+              "value": "4–6 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Količina",
+              "value": "50 komada po setu"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Papir"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Postupak tiska",
+              "value": "Digitalni tisak"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Cartoon"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Značajka",
+              "value": "Vodootporno"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Ljepljivost",
+              "value": "Može se lijepiti"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "IP ovlaštenje",
+              "value": "Ne"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Mjesto podrijetla",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.81",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.59",
+              "maxPrice": "0.81",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg su materijala ove cartoon naljepnice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Naljepnice su izrađene od papira s vodootpornom završnom obradom, a motiv je nanesen digitalnim tiskom."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kolika je svaka naljepnica u setu od 50 komada?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Svaka naljepnica mjeri 4–6 cm, a set sadrži 50 komada."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jesu li ove naljepnice službeno licencirani dizajni likova?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne. Podaci o proizvodu navode da IP nije ovlašten, pa se set ne smije smatrati licenciranom robom s likovima."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:04.236Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "5f52e0c9f40172ac41e31e465cc330c4d9dff7e9caf9c94bd04167b0ee9dccce",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:32.332Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceFingerprint": "f2aefb0d73a9a01bd533b867af2727fa02f3b2c25751312a6880ad3d1861d5a4",
+      "locale": "hr",
+      "slug": "st-benedict-medal-leather-wrap-bracelet-evbksy",
+      "title": "Kožna narukvica s medaljom svetog Benedikta",
+      "eyebrow": "Kožna narukvica s medaljom svetog Benedikta",
+      "summary": "Ova kožna narukvica s medaljom svetog Benedikta na pletenoj vrpci ima vintage punk izgled u više slojeva. Dostupna je u crnoj, plavoj, smeđoj i ružičastoj varijanti. Namijenjena je muškarcima i ženama te služi kao pobožni dodatak ili svakodnevni nakit.",
+      "description": "Ova narukvica spaja medalju svetog Benedikta s pletenom kožnom vrpcom u višeslojnom dizajnu. Vintage punk stil daje joj teksturiran, ležeran izgled koji se razlikuje od jednostavne lančane narukvice. Dimenzionirana je za muškarce i žene i dostupna u nekoliko varijanti boja, pa kupci mogu odabrati ton koji odgovara osobnom ukusu ili uskladiti manji asortiman. Medalja je središnji element, što narukvicu čini prepoznatljivim pobožnim predmetom uz njezinu ulogu nakita. Kao maloprodajni artikl, to je osebujna opcija za kupce koji traže dodatak s medaljom svetog Benedikta koji nije tradicionalna metalna medalja ni lanac.",
+      "catholicContext": "Katolički katekizam navodi medalje među oblicima pučke pobožnosti koji okružuju sakramentalni život.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Krunične narukvice",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+      "imageAlt": "Kožna narukvica s medaljom svetog Benedikta",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6049c460daf040fab829377a8d025c56o.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc816f9cb6e6d4626aae5373d6ad803c33.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haf62351ce68a46808e1252bd3c31a81bh.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H00e3c243f0ad4267b129bc4ebaa9229bo.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd84c633a0f724c918179736ff5a955fcS.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - brown-17",
+          "label": "brown-17",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0107de3307df492fa56319983e266a65i.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - black-18",
+          "label": "black-18",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd6a926baa69e45ac84b04b5d36259673z.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - pink-19",
+          "label": "pink-19",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4479743d0f8c4b03aec710f3f2452c2ak.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - blue-20",
+          "label": "blue-20",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb6871ec81bf647b2b8644145673d1ffdp.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - brown-13",
+          "label": "brown-13",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9a222e84659e415081703bf8d4d3a16e1.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - black-14",
+          "label": "black-14",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H55f5154f8fef4718bd1a40283b0b0b65c.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - pink-15",
+          "label": "pink-15",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He2128143b5054e388e5d967ce7b214fct.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - blue-16",
+          "label": "blue-16",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd5de65cd8e114c95b612870da353ceebt.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - brown-9",
+          "label": "brown-9",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3761cebef3a441fc86d4b691e1707abeW.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - black-10",
+          "label": "black-10",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H09e8833edd7848479613522d0ccd61b23.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - pink-11",
+          "label": "pink-11",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb1a3b63a890f4b51b02d7db63de34784U.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - blue-12",
+          "label": "blue-12",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf48ae25ea7e45cda41f5c0025aaecaeX.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - brown-5",
+          "label": "brown-5",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0e2deeb5496443e89cf009b9919712bq.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - black-6",
+          "label": "black-6",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0d3082c7da5420ab7c8d653c7a1171f1.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - pink-7",
+          "label": "pink-7",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H98a994d323ee41d0897b6f9630efe529F.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - blue-8",
+          "label": "blue-8",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc4a66c3182b04675a1329933a6ad61aev.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - brown-1",
+          "label": "brown-1",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc67dfbc82fbb4a4c945c7e4b7a54fd47w.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd4d51387b1cd4b34b54467bbfdb304eeo.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - pink-3",
+          "label": "pink-3",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf0846d70999048668d432e27d1ac9c09v.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - blue-4",
+          "label": "blue-4",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2b0639166e8e47f0a1805d4e61a61589g.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - brown-25",
+          "label": "brown-25",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0a17355894844d6b9c040694fb58c500a.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - black-26",
+          "label": "black-26",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3736e684bf254a419db856206d2136a9g.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - pink-27",
+          "label": "pink-27",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H03a89d2d2153472db5c3bdbff7b3f5a5p.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - blue-28",
+          "label": "blue-28",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H212ae41e40c74df5a8ee59ee1adbc2d03.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - brown-21",
+          "label": "brown-21",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6a811a0266cd4d39931ee17f2368ad95W.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - black-22",
+          "label": "black-22",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd28dfe41fad645fa988bc6ccbd61f5b6k.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - pink-23",
+          "label": "pink-23",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Ha799b9f03b834e47b9351fc13c347a24K.webp",
+          "alt": "Kožna narukvica s medaljom svetog Benedikta - blue-24",
+          "label": "blue-24",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--24"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Medalja svetog Benedikta kao središnji element",
+        "Izrada od pletene kožne vrpce",
+        "Višeslojni dizajn omotane narukvice",
+        "Vintage punk stil",
+        "Dostupna u crnoj, plavoj, smeđoj i ružičastoj varijanti boja",
+        "Namijenjena muškarcima i ženama"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Koža i vrpca (materijal medalje nije naveden)"
+        },
+        {
+          "name": "Dizajn",
+          "value": "Pleteni omot, više slojeva"
+        },
+        {
+          "name": "Varijante boja",
+          "value": "Crna, plava, smeđa, ružičasta"
+        },
+        {
+          "name": "Namijenjeno",
+          "value": "Muškarci i žene"
+        }
+      ],
+      "applications": [
+        "Osobno pobožno nošenje",
+        "Svakodnevni ležerni nakit",
+        "Dar katoličkom prijatelju ili članu obitelji",
+        "Maloprodajni asortiman vjerskih dodataka"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg je materijala kožna narukvica s medaljom svetog Benedikta?",
+          "answer": "Narukvica koristi pletenu kožnu vrpcu, ali metal ili materijal same medalje nije naveden u informacijama o proizvodu."
+        },
+        {
+          "question": "Koje su mogućnosti boja dostupne za ovu narukvicu?",
+          "answer": "Narukvica je dostupna u crnoj, plavoj, smeđoj i ružičastoj varijanti boja."
+        },
+        {
+          "question": "Je li ova narukvica dimenzionirana za muškarce ili žene?",
+          "answer": "Narukvica je namijenjena i muškarcima i ženama."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.47",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Kožna narukvica s medaljom svetog Benedikta",
+          "description": "Ova kožna narukvica s medaljom svetog Benedikta na pletenoj vrpci ima vintage punk izgled u više slojeva. Dostupna je u crnoj, plavoj, smeđoj i ružičastoj varijanti. Namijenjena je muškarcima i ženama te služi kao pobožni dodatak ili svakodnevni nakit.",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+          "image": [
+            "https://sc04.alicdn.com/kf/H95f42ec3c8134a3e8b2fa3796e901cb7J.jpg",
+            "https://sc04.alicdn.com/kf/H6049c460daf040fab829377a8d025c56o.jpg",
+            "https://sc04.alicdn.com/kf/Hc816f9cb6e6d4626aae5373d6ad803c33.jpg",
+            "https://sc04.alicdn.com/kf/Haf62351ce68a46808e1252bd3c31a81bh.jpg",
+            "https://sc04.alicdn.com/kf/H00e3c243f0ad4267b129bc4ebaa9229bo.jpg"
+          ],
+          "category": "Krunične narukvice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Koža i vrpca (materijal medalje nije naveden)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn",
+              "value": "Pleteni omot, više slojeva"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante boja",
+              "value": "Crna, plava, smeđa, ružičasta"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Namijenjeno",
+              "value": "Muškarci i žene"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.47",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg je materijala kožna narukvica s medaljom svetog Benedikta?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica koristi pletenu kožnu vrpcu, ali metal ili materijal same medalje nije naveden u informacijama o proizvodu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su mogućnosti boja dostupne za ovu narukvicu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica je dostupna u crnoj, plavoj, smeđoj i ružičastoj varijanti boja."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je li ova narukvica dimenzionirana za muškarce ili žene?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica je namijenjena i muškarcima i ženama."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:01.388Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "99557d100e05af84da108a76ad683c0379e5b07b878dd8424b38122c05081f43",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:39.712Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceFingerprint": "78a6d761e3165f7fa531ba1f696c9948d9f76d21a0fdc5ce9db93dcd0b58c7cb",
+      "locale": "hr",
+      "slug": "oval-tee-pendant-zinc-alloy-rosary-charm-enxshy",
+      "title": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak",
+      "eyebrow": "Ovalni privjesak u obliku slova T od legure cinka, dostupan u više varijanti veličine i težine",
+      "summary": "Ovaj ovalni privjesak u obliku slova T izrađen je od legure cinka i dostupan je u 17 varijanti, svaka s vlastitom težinom i dimenzijama. Kupci mogu odabrati veličinu koja odgovara njihovoj kruničnoj ogrlici ili sklopu nakita. Privjesak je pojedinačna metalna komponenta; perle krunice, lančići i raspela nisu uključeni.",
+      "description": "Za kupce koji sastavljaju krunične ogrlice ili mali metalni nakit, ovalni privjesak u obliku slova T nudi kompaktnu komponentu od legure cinka u nizu veličina. Svaka je varijanta određena težinom i približnim dimenzijama, tako da privjesak možete uskladiti s određenom veličinom perli ili debljinom lančića. Najlakše varijante teže 0,5 g i mjere oko 1 × 1,4, dok najteža ima 2,2 g pri 1,9 × 2,2. Sve su izrađene od legure cinka. Privjesak je samostalni komad, a ne gotova krunica ili ogrlica. Može se kombinirati s drugim komponentama za izradu krunice ili koristiti kao ukrasni visak u dizajnu nakita. Ovalni oblik slova T daje jednostavan, retro metalni izgled. Budući da je privjesak komponenta, kupci trebaju planirati vlastito sastavljanje ili doradu.",
+      "catholicContext": "Krunica je katolička molitva usredotočena na razmatranje događaja iz života Isusa Krista i Djevice Marije, a njezine fizičke perle, središnji dio i raspelo opisuju se samo kada su prisutni u podacima o proizvodu.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodaci",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+      "imageAlt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha39c0bed9b794c8ba64ee57004b75425k.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha784cb2856944f43a8dd9952a17385acO.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98d04ae4b7bc4fd3846ca16d1cb20b35X.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9ef0ecd2cd6c40efbcf691e3bbbdeb83l.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "label": "st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcd0f301215084f3489dd025bce5f4f2cT.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H947de7c9a70a41799807bce12b6553e1Y.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-13-zinc-alloy-1g-1-5-1-9",
+          "label": "st11-13-zinc-alloy-1g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He04f86f00d7142d286deedc44b34ad1fr.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-14-zinc-alloy-1g-1-2-1-7",
+          "label": "st11-14-zinc-alloy-1g-1-2-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83708f1d99c74d75ab2fb99ce860b405t.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "label": "st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0e1085f7400346c9a1be818a15eeabb10.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-12-zinc-alloy-1g-1-5-2",
+          "label": "st11-12-zinc-alloy-1g-1-5-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2674c81ccabc4e82a86f418146e0c3d7g.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-17-zinc-alloy-0-5g-1-1-4",
+          "label": "st11-17-zinc-alloy-0-5g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H95913d1bca2d4ea8b6af87efb565e7b1q.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "label": "st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1811b409a2ac4bc788500977264d0442e.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-16-zinc-alloy-0-6g-1-1-4",
+          "label": "st11-16-zinc-alloy-0-6g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe9c09207a749fa9a4674758557aadfM.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "label": "st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b66efdd31f947c684c237323be52229L.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "label": "st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H74181d62a35b4b1bb911635bc2dd768eI.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde6d18900b814021afbbde05dd3675383.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "label": "st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H09226ad16a804607a85e8f401544fff62.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "label": "st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H85e7d19e1e0c4f3bad8e67c96676fde4e.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-10-zinc-alloy-1g-1-2-1-5",
+          "label": "st11-10-zinc-alloy-1g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4a5478778b0444af9e783c6fbe06982fD.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "label": "st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He0a68fc3d0e6417690729173dbc4db83x.webp",
+          "alt": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak - st11-8-zinc-alloy-1-3g-1-6-2",
+          "label": "st11-8-zinc-alloy-1-3g-1-6-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Ovalni oblik privjeska slova T od legure cinka",
+        "17 varijanti s pojedinačnim težinama i dimenzijama",
+        "Težine se kreću od 0,5 g do 2,2 g",
+        "Dimenzije se kreću od približno 1 × 1,4 do 1,9 × 2,2",
+        "Prikladan kao komponenta za krunične ogrlice ili nakit",
+        "Samo privjesak; ostale komponente nisu uključene"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Legura cinka"
+        },
+        {
+          "name": "Oblik",
+          "value": "Ovalni privjesak u obliku slova T"
+        },
+        {
+          "name": "Broj varijanti",
+          "value": "17"
+        },
+        {
+          "name": "Raspon težine",
+          "value": "0,5 g do 2,2 g"
+        },
+        {
+          "name": "Raspon dimenzija",
+          "value": "Približno 1 × 1,4 do 1,9 × 2,2"
+        }
+      ],
+      "applications": [
+        "Sastavljanje krunične ogrlice",
+        "Izrada nakita",
+        "Rukotvorski projekti",
+        "Ukrasni privjesak za ogrlice"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg je materijala izrađen ovalni privjesak u obliku slova T?",
+          "answer": "Ovalni privjesak u obliku slova T izrađen je od legure cinka."
+        },
+        {
+          "question": "Koliko je varijanti dostupno?",
+          "answer": "Dostupno je 17 varijanti, svaka s različitom kombinacijom težine i dimenzija."
+        },
+        {
+          "question": "Koje su najmanja i najveća veličina?",
+          "answer": "Najmanja varijanta teži 0,5 g i mjeri približno 1 × 1,4. Najveća teži 2,2 g i mjeri približno 1,9 × 2,2."
+        }
+      ],
+      "pricing": {
+        "price": "0.03",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.11"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ovalni privjesak u obliku slova T od legure cinka – krunični privjesak",
+          "description": "Ovaj ovalni privjesak u obliku slova T izrađen je od legure cinka i dostupan je u 17 varijanti, svaka s vlastitom težinom i dimenzijama. Kupci mogu odabrati veličinu koja odgovara njihovoj kruničnoj ogrlici ili sklopu nakita. Privjesak je pojedinačna metalna komponenta; perle krunice, lančići i raspela nisu uključeni.",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hec22ce1bbe01454f871983e4dd562d4eQ.jpg",
+            "https://sc04.alicdn.com/kf/Ha39c0bed9b794c8ba64ee57004b75425k.jpg",
+            "https://sc04.alicdn.com/kf/Ha784cb2856944f43a8dd9952a17385acO.jpg",
+            "https://sc04.alicdn.com/kf/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.jpg",
+            "https://sc04.alicdn.com/kf/H98d04ae4b7bc4fd3846ca16d1cb20b35X.jpg"
+          ],
+          "category": "Dodaci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Legura cinka"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblik",
+              "value": "Ovalni privjesak u obliku slova T"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Broj varijanti",
+              "value": "17"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Raspon težine",
+              "value": "0,5 g do 2,2 g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Raspon dimenzija",
+              "value": "Približno 1 × 1,4 do 1,9 × 2,2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.03",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.11",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg je materijala izrađen ovalni privjesak u obliku slova T?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ovalni privjesak u obliku slova T izrađen je od legure cinka."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko je varijanti dostupno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostupno je 17 varijanti, svaka s različitom kombinacijom težine i dimenzija."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su najmanja i najveća veličina?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Najmanja varijanta teži 0,5 g i mjeri približno 1 × 1,4. Najveća teži 2,2 g i mjeri približno 1,9 × 2,2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:03.513Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "c7db0ae5722c606e7b2340aa9e41a92a37024279afed79b4615d4801192bb6f8",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:48.313Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceFingerprint": "69b89b6ca30b4bb6663184455acb490901ed4c3f42782c2b703b9b87836b422a",
+      "locale": "hr",
+      "slug": "glass-holy-water-bottle-ornament-with-rose-cover-ek-1tb",
+      "title": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže",
+      "eyebrow": "ukras od staklene bočice svete vode",
+      "summary": "Ovaj ukras je prozirna staklena bočica kapaciteta 15 ml s ukrasnim poklopcem u obliku ruže. Prozirno staklo pokazuje sadržaj, dok poklopac u obliku ruže dodaje detalj. Dostupan je u četiri varijante: Gold1, Gold2, Silver1 i Silver2, što ga čini prikladnim za izradu nakita ili male ukrasne komade.",
+      "description": "Izrađen od prozirnog stakla, ovaj ukras je mala bočica s posudom od 15 ml i poklopcem u obliku ruže. Prozirno tijelo omogućuje uvid u unutrašnjost, a poklopac unosi ukrasni element. Svrstava se među ukrase i nudi u četiri varijante: Gold1, Gold2, Silver1 i Silver2. Staklena izvedba daje čist izgled koji može upotpuniti projekte izrade nakita ili ukrasne aranžmane. Kao nabavljena komponenta, bočica se može ugraditi u privjeske, ukrase ili samostalne ukrase, ovisno o vašem dizajnu.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ukrasi",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+      "imageAlt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+          "alt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9819598944974a67a2ae1dc28b0529887.webp",
+          "alt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9908c51bf4ef43dfadae19390c5578159.webp",
+          "alt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H51175e24f2d24b969d07b174bbc1235aw.webp",
+          "alt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8003b9911fab48669e3a5ad8f9c85ef2w.webp",
+          "alt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6ac6d90a626e48dca98e53d4b1f57b6fP.webp",
+          "alt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže - silver2",
+          "label": "silver2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2c549d952b5c4bd18c72a476bf2edbf0t.webp",
+          "alt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže - gold1",
+          "label": "gold1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdbfb5bca248143cabafa4890bdd1056cV.webp",
+          "alt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže - silver1",
+          "label": "silver1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd7daa72c8e22472ab967718860ff5b3ab.webp",
+          "alt": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže - gold2",
+          "label": "gold2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--2"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Prozirna staklena izvedba",
+        "Kapacitet posude 15 ml",
+        "Ukrasni poklopac u obliku ruže",
+        "Dostupno u varijantama Gold1, Gold2, Silver1 i Silver2",
+        "Kategorizirano kao ukras"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Staklo"
+        },
+        {
+          "name": "Kapacitet",
+          "value": "15 ml"
+        },
+        {
+          "name": "Dizajn poklopca",
+          "value": "Ruža"
+        },
+        {
+          "name": "Varijante",
+          "value": "Gold1, Gold2, Silver1, Silver2"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Ukrasi"
+        }
+      ],
+      "applications": [
+        "Izrada nakita",
+        "Ukrasni prikaz",
+        "Ručni radovi"
+      ],
+      "faq": [
+        {
+          "question": "Od kojeg je materijala izrađena bočica?",
+          "answer": "Bočica je izrađena od prozirnog stakla."
+        },
+        {
+          "question": "Koliki je kapacitet bočice?",
+          "answer": "Bočica ima kapacitet od 15 ml."
+        },
+        {
+          "question": "Koje su varijante dostupne?",
+          "answer": "Proizvod je dostupan u varijantama Gold1, Gold2, Silver1 i Silver2."
+        }
+      ],
+      "pricing": {
+        "price": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ukras od staklene bočice svete vode s poklopcem u obliku ruže",
+          "description": "Ovaj ukras je prozirna staklena bočica kapaciteta 15 ml s ukrasnim poklopcem u obliku ruže. Prozirno staklo pokazuje sadržaj, dok poklopac u obliku ruže dodaje detalj. Dostupan je u četiri varijante: Gold1, Gold2, Silver1 i Silver2, što ga čini prikladnim za izradu nakita ili male ukrasne komade.",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8eb4b6568d8c4fe7a66e5181112aec6eG.jpg",
+            "https://sc04.alicdn.com/kf/H9819598944974a67a2ae1dc28b0529887.jpg",
+            "https://sc04.alicdn.com/kf/H9908c51bf4ef43dfadae19390c5578159.jpg",
+            "https://sc04.alicdn.com/kf/H51175e24f2d24b969d07b174bbc1235aw.jpg",
+            "https://sc04.alicdn.com/kf/H8003b9911fab48669e3a5ad8f9c85ef2w.jpg"
+          ],
+          "category": "Ukrasi",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Staklo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kapacitet",
+              "value": "15 ml"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dizajn poklopca",
+              "value": "Ruža"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varijante",
+              "value": "Gold1, Gold2, Silver1, Silver2"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Ukrasi"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Od kojeg je materijala izrađena bočica?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bočica je izrađena od prozirnog stakla."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliki je kapacitet bočice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bočica ima kapacitet od 15 ml."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su varijante dostupne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Proizvod je dostupan u varijantama Gold1, Gold2, Silver1 i Silver2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:15.598Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "8cfe22e8fed0757e3995b088557964a02949e2f462164d4afeb02b0bb16a302a",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:52.481Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceFingerprint": "550be28662a4ac142fab5ba6edd53cec3e62d2e9f884e6daa7d9dcc892d5c56d",
+      "locale": "hr",
+      "slug": "glass-and-crystal-rosary-bracelet-with-pendants-ekmecc",
+      "title": "Krunična narukvica od stakla i kristala s privjescima",
+      "eyebrow": "Krunična narukvica od stakla i kristala s marijanskim privjescima i privjeskom križa",
+      "summary": "Ova krunična narukvica kombinira perle od stakla i kristala s privjescima na temu Djevice Marije, Isusa i križa. Dostupna je u crnoj, plavoj, ružičastoj, crvenoj i bijeloj boji, svaka u standardnoj ili produženoj duljini. Mješavina materijala perli i detalji privjesaka daju narukvici slojevit izgled prikladan za pobožnu upotrebu i darivanje.",
+      "description": "Perle od stakla i kristala izmjenjuju se duž narukvice, hvataju svjetlost i dodaju teksturu zapešću. Privjesci na temu Djevice Marije, Isusa i križa vise kao središnji ukrasi, povezujući narukvicu s katoličkom pobožnom praksom. Raspon boja kreće se od crne i bijele do plave, ružičaste i crvene, a u svakoj su boji dostupne standardna i produžena duljina. Kombinacija stakla i kristala izdvaja narukvicu od kruničnih narukvica od jednog materijala, dok teme privjesaka zadržavaju prepoznatljivo pobožni dizajn. Za kupce na veliko, osam varijanti omogućuje da izložba pokrije i preferencije boja i veličine zapešća bez uvođenja zasebne linije proizvoda.",
+      "catholicContext": "Krunica je katolička molitva usredotočena na razmatranje događaja iz života Isusa Krista i Djevice Marije.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Krunične narukvice",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+      "imageAlt": "Krunična narukvica od stakla i kristala s privjescima",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H313d75507c514582895c3d496b7741f0t.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7e3928109d1848179ad787c411b37ff4u.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H102032a93a764362a2628443eb2639b1j.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H86d98cfcd6274f75968ad6b80fd52c2a8.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H834879437b66461fb0f4005fb7c6df7fP.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha75ec92912204461be7fcad91d2db214T.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima - pink-regular",
+          "label": "pink-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H31f5df1cabb94aa8990eea4cc0bac586O.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima - white-regular",
+          "label": "white-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H281f1552dce3412ba199259d505c6c9bp.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima - black-regular",
+          "label": "black-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Heb633769bc4b43b1bd5679184abdebabv.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima - blue-extended",
+          "label": "blue-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H66e38b7383c74bfbb61920a3bb1b4079l.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima - red-extended",
+          "label": "red-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2d78fd2d7a58454696d0724ec7d8b74f7.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima - pink-extended",
+          "label": "pink-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H557b666a1fb24b76b82880eb86d01f36L.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima - white-extended",
+          "label": "white-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H65f4bf70a2e3491ca1aa2fb4d2edf18c4.webp",
+          "alt": "Krunična narukvica od stakla i kristala s privjescima - black-extended",
+          "label": "black-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--1"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Izrađena od perli od stakla i kristala",
+        "Privjesci na temu Djevice Marije, Isusa i križa",
+        "Dostupna u crnoj, plavoj, ružičastoj, crvenoj i bijeloj boji",
+        "Standardna i produžena duljina dostupne u svakoj boji",
+        "Ukupno osam varijanti prema boji i duljini"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Staklo i kristal"
+        },
+        {
+          "name": "Teme privjesaka",
+          "value": "Djevica Marija, Isus, križ"
+        },
+        {
+          "name": "Boje",
+          "value": "Crna, plava, ružičasta, crvena, bijela"
+        },
+        {
+          "name": "Opcije duljine",
+          "value": "Standardna, produžena"
+        },
+        {
+          "name": "Broj varijanti",
+          "value": "8 (5 boja × 2 duljine)"
+        }
+      ],
+      "applications": [
+        "Pobožno nošenje",
+        "Darivanje s vjerskim motivom",
+        "Izložba za prodaju na veliko",
+        "Asortiman kruničnih narukvica"
+      ],
+      "faq": [
+        {
+          "question": "Koji su materijali korišteni u ovoj kruničnoj narukvici?",
+          "answer": "Narukvica je izrađena od perli od stakla i kristala te uključuje privjeske na temu Djevice Marije, Isusa i križa."
+        },
+        {
+          "question": "Koje su boje i duljine dostupne?",
+          "answer": "Dostupna je u crnoj, plavoj, ružičastoj, crvenoj i bijeloj boji. Svaka boja nudi se u standardnoj i produženoj duljini, što ukupno čini osam varijanti."
+        },
+        {
+          "question": "Jesu li privjesci fiksni ili uklonjivi?",
+          "answer": "Podaci o proizvodu ne navode jesu li privjesci fiksni ili uklonjivi. Za pojedinosti o izradi kontaktirajte nas."
+        }
+      ],
+      "pricing": {
+        "price": "0.88",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Krunična narukvica od stakla i kristala s privjescima",
+          "description": "Ova krunična narukvica kombinira perle od stakla i kristala s privjescima na temu Djevice Marije, Isusa i križa. Dostupna je u crnoj, plavoj, ružičastoj, crvenoj i bijeloj boji, svaka u standardnoj ili produženoj duljini. Mješavina materijala perli i detalji privjesaka daju narukvici slojevit izgled prikladan za pobožnu upotrebu i darivanje.",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcf4caf72028e4b80933660d24986f82aM.png",
+            "https://sc04.alicdn.com/kf/H313d75507c514582895c3d496b7741f0t.png",
+            "https://sc04.alicdn.com/kf/H7e3928109d1848179ad787c411b37ff4u.png",
+            "https://sc04.alicdn.com/kf/H102032a93a764362a2628443eb2639b1j.png",
+            "https://sc04.alicdn.com/kf/H86d98cfcd6274f75968ad6b80fd52c2a8.jpg",
+            "https://sc04.alicdn.com/kf/H834879437b66461fb0f4005fb7c6df7fP.png"
+          ],
+          "category": "Krunične narukvice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Staklo i kristal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Teme privjesaka",
+              "value": "Djevica Marija, Isus, križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Boje",
+              "value": "Crna, plava, ružičasta, crvena, bijela"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcije duljine",
+              "value": "Standardna, produžena"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Broj varijanti",
+              "value": "8 (5 boja × 2 duljine)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.88",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koji su materijali korišteni u ovoj kruničnoj narukvici?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Narukvica je izrađena od perli od stakla i kristala te uključuje privjeske na temu Djevice Marije, Isusa i križa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koje su boje i duljine dostupne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostupna je u crnoj, plavoj, ružičastoj, crvenoj i bijeloj boji. Svaka boja nudi se u standardnoj i produženoj duljini, što ukupno čini osam varijanti."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jesu li privjesci fiksni ili uklonjivi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Podaci o proizvodu ne navode jesu li privjesci fiksni ili uklonjivi. Za pojedinosti o izradi kontaktirajte nas."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:12.121Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "51e092edfc21ec1fc48ff0951f1710a8497d31a809eca3d3dcdef058f4d8c2b2",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:59.034Z",
             "model": "deepseek-v4-flash"
           }
         }

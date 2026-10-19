@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "es",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a8e85eb36a14c03826e1a03d07cf01c288e27ee89a5d63ea92727bb534fde794",
-  "generatedAt": "2026-10-18T17:04:35.293Z",
+  "sourceCatalogHash": "5b9d005dfb248524c6617607ad567067461453285b4bbdc81e15baa4a15c62a1",
+  "generatedAt": "2026-10-19T19:37:11.601Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFNTG7BAOVioqqEY6enmEhC",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,32 +39,33 @@
     "brooch": "Broches",
     "uncategorized": "Sin categorizar"
   },
-  "categoryGlossarySourceHash": "4a86757abd72447c98bb9c8f6706ce10a440e73eb1a0f384ce13d0de0da8aba2",
+  "categoryGlossarySourceHash": "5ea453f4898973f6927766e0e346b2065451c612ec6cbd9e1713f5f7020b6cf2",
   "translationSummary": {
-    "ready": 930,
+    "ready": 940,
     "skipped": 2,
     "skippedProductIds": [
       "AAG2TG7BAOVioqqEY6evaYQW",
       "AAFNTG7BAOVioqqEY6enmEhC"
     ],
-    "reused": 921,
-    "generated": 9,
+    "reused": 930,
+    "generated": 10,
     "generatedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 5,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 1,
+    "retriedBacklog": 2,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -827,11 +828,11 @@
   ],
   "translationRetries": {
     "AAG2TG7BAOVioqqEY6evaYQW": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     },
     "AAFNTG7BAOVioqqEY6enmEhC": {
-      "count": 1,
+      "count": 2,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     }
   },
@@ -218309,6 +218310,2734 @@
             "contentHash": "7e69a8bcacaf3076a45c306a810f9fdb2328ec8e3322fc4acbcf9b36bb6c9437",
             "attempts": 1,
             "updatedAt": "2026-10-18T17:04:35.289Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceFingerprint": "e3ecd2368a3a82ba31d6bf0c1512363bbefba2c16f5900d62dfe4968a4c0f99b",
+      "locale": "es",
+      "slug": "hematite-orthodox-icon-bracelet-e5binb",
+      "title": "Pulsera de icono ortodoxo de hematita",
+      "eyebrow": "Pulsera de cuentas de hematita con medallón de icono de santo de aleación en forma de gota de aceite",
+      "summary": "Las cuentas de hematita se combinan con un engaste redondeado de aleación en forma de gota de aceite que lleva un retrato de santo, lo que da a esta pulsera devocional su aspecto metálico oscuro y su punto focal centrado en el icono. Se ofrece en variantes Black-1 y Black-2 y se encuadra en la categoría de joyería religiosa como una pieza portátil de icono de santo.",
+      "description": "Pequeñas cuentas de hematita forman el hilo de esta pulsera de icono ortodoxo, cuya superficie metálica gris negra contrasta con la forma lisa de gota de aceite del medallón de aleación. Un retrato de santo ocupa la cara del medallón, lo que convierte la imagen en el centro del diseño y no en un detalle secundario.\n\nPresentada en el listado de origen como joyería devocional con retrato de santo, la pulsera se ofrece en dos variantes, Black-1 y Black-2. Quienes elijan entre ellas deben confirmar qué retrato y acabado lleva cada variante antes de hacer el pedido, ya que el listado identifica las variantes solo con esas etiquetas.",
+      "catholicContext": "La piedad popular católica incluye joyas devocionales y medallas que se llevan como recordatorios personales de la fe; estos artículos son objetos devocionales y no son sacramentales a menos que la Iglesia los bendiga.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Pulseras de rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+      "imageAlt": "Pulsera de icono ortodoxo de hematita",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+          "alt": "Pulsera de icono ortodoxo de hematita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0600b17ae79a4bd69eeaa12ebcfefe070.webp",
+          "alt": "Pulsera de icono ortodoxo de hematita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.webp",
+          "alt": "Pulsera de icono ortodoxo de hematita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc5bb635c17214b988110fba3fe8293c1J.webp",
+          "alt": "Pulsera de icono ortodoxo de hematita"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H21fe9a1e791d4959afbb8aa369902b31H.webp",
+          "alt": "Pulsera de icono ortodoxo de hematita"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb5420080172e4cc6ab6a3bd66a82555cG.webp",
+          "alt": "Pulsera de icono ortodoxo de hematita - black-1",
+          "label": "black-1",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4c9f8692907049de9415bc02fafb2c12y.webp",
+          "alt": "Pulsera de icono ortodoxo de hematita - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--2"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Hilo de cuentas de hematita",
+        "Medallón de aleación en forma de gota de aceite",
+        "Diseño de icono con retrato de santo",
+        "Dos variantes: Black-1 y Black-2",
+        "Agrupada en la categoría de pulseras de rosario del listado de origen"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cuentas de hematita con medallón de aleación"
+        },
+        {
+          "name": "Forma del medallón",
+          "value": "Gota de aceite"
+        },
+        {
+          "name": "Diseño",
+          "value": "Retrato de icono de santo ortodoxo"
+        },
+        {
+          "name": "Variantes",
+          "value": "Black-1, Black-2"
+        }
+      ],
+      "applications": [
+        "Uso devocional personal",
+        "Regalo religioso",
+        "Abastecimiento de surtidos de pulseras para tiendas de artículos religiosos"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué materiales se utilizan en la Pulsera de icono ortodoxo de hematita?",
+          "answer": "La pulsera está fabricada con cuentas de hematita y un medallón de aleación en forma de gota de aceite con un retrato de santo, tal como se describe en el listado del producto."
+        },
+        {
+          "question": "¿Qué variantes están disponibles?",
+          "answer": "Se indican dos variantes, Black-1 y Black-2. Los detalles de retrato y acabado de cada variante no se especifican en los datos del producto facilitados, por lo que conviene confirmarlos con nosotros antes de hacer el pedido."
+        },
+        {
+          "question": "¿Esta pulsera es un rosario?",
+          "answer": "Aparece en la categoría de pulseras de rosario, pero se describe como una pulsera de icono ortodoxo y no como un rosario con cuentas y crucifijo. Póngase en contacto con nosotros para obtener detalles concretos sobre su construcción."
+        }
+      ],
+      "pricing": {
+        "price": "0.55",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.32",
+          "max": "0.55"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pulsera de icono ortodoxo de hematita",
+          "description": "Las cuentas de hematita se combinan con un engaste redondeado de aleación en forma de gota de aceite que lleva un retrato de santo, lo que da a esta pulsera devocional su aspecto metálico oscuro y su punto focal centrado en el icono. Se ofrece en variantes Black-1 y Black-2 y se encuadra en la categoría de joyería religiosa como una pieza portátil de icono de santo.",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcc89be8f26a54d01a955b6460329c03da.png",
+            "https://sc04.alicdn.com/kf/H0600b17ae79a4bd69eeaa12ebcfefe070.png",
+            "https://sc04.alicdn.com/kf/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.png",
+            "https://sc04.alicdn.com/kf/Hc5bb635c17214b988110fba3fe8293c1J.png",
+            "https://sc04.alicdn.com/kf/H21fe9a1e791d4959afbb8aa369902b31H.png"
+          ],
+          "category": "Pulseras de rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cuentas de hematita con medallón de aleación"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma del medallón",
+              "value": "Gota de aceite"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Diseño",
+              "value": "Retrato de icono de santo ortodoxo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Black-1, Black-2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.55",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.32",
+              "maxPrice": "0.55",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿Qué materiales se utilizan en la Pulsera de icono ortodoxo de hematita?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La pulsera está fabricada con cuentas de hematita y un medallón de aleación en forma de gota de aceite con un retrato de santo, tal como se describe en el listado del producto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué variantes están disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Se indican dos variantes, Black-1 y Black-2. Los detalles de retrato y acabado de cada variante no se especifican en los datos del producto facilitados, por lo que conviene confirmarlos con nosotros antes de hacer el pedido."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Esta pulsera es un rosario?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Aparece en la categoría de pulseras de rosario, pero se describe como una pulsera de icono ortodoxo y no como un rosario con cuentas y crucifijo. Póngase en contacto con nosotros para obtener detalles concretos sobre su construcción."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:42.229Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "ac3110dac07fb1febf872fccc21b25979e41c1783fca94fed709734dd4e7d591",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:33.056Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceFingerprint": "d4323b8bc0c3a5c5ab42489d5dd6c6379cc9b601eb638c449ca006b7b3b1bbb2",
+      "locale": "es",
+      "slug": "saint-benedict-portrait-charm-bracelet-with-knot-design-evbsed",
+      "title": "Pulsera con dije retrato de San Benito y diseño de nudos",
+      "eyebrow": "Pulsera católica con dije retrato de santo y diseño de nudos concéntricos",
+      "summary": "Pulsera de aleación de zinc con un dije redondo con retrato de San Benito y un diseño de nudos concéntricos. Se ofrece en dos variantes de color, tono dorado y tono plateado, y está clasificada para surtidos de pulseras de rosario. El estilo unisex y el colgante con retrato la convierten en un accesorio devocional para exhibiciones minoristas o uso personal.",
+      "description": "Esta pulsera combina un dije redondo con retrato de San Benito con un diseño de nudos concéntricos en aleación de zinc. El dije con retrato funciona como punto focal visual, mientras que el patrón de nudos aporta textura a la banda. Hay dos opciones de color disponibles: tono dorado y tono plateado. La pulsera es unisex y está clasificada dentro de las pulseras de rosario, por lo que encaja de forma natural en surtidos de joyería devocional o en una colección personal. No se especifican más detalles de construcción.",
+      "catholicContext": "El Catecismo católico menciona las medallas y el Rosario entre las formas de piedad popular en torno a la vida sacramental; esta pulsera incluye un dije con retrato de San Benito, pero no implica bendición ni efecto espiritual alguno.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Pulseras de rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+      "imageAlt": "Pulsera con dije retrato de San Benito y diseño de nudos",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+          "alt": "Pulsera con dije retrato de San Benito y diseño de nudos"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0aa414c838e04a80a5555f716d6a0eafQ.webp",
+          "alt": "Pulsera con dije retrato de San Benito y diseño de nudos"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9a1ab462614dfb941979f715cb8093o.webp",
+          "alt": "Pulsera con dije retrato de San Benito y diseño de nudos"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H799b99b026a54375a2d858a9248810b3o.webp",
+          "alt": "Pulsera con dije retrato de San Benito y diseño de nudos"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haafc857f0fe24a3bac1725643eaf0fa55.webp",
+          "alt": "Pulsera con dije retrato de San Benito y diseño de nudos"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4f57991730c54639ab0e3cf901b5fe5az.webp",
+          "alt": "Pulsera con dije retrato de San Benito y diseño de nudos"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H277d2d5f55c842e0bcbe779174aa271ag.webp",
+          "alt": "Pulsera con dije retrato de San Benito y diseño de nudos - portrait-round-pendant-concentric-knot-bracelet-silver",
+          "label": "portrait-round-pendant-concentric-knot-bracelet-silver",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbc60e136d11e451d864e9931ab324078L.webp",
+          "alt": "Pulsera con dije retrato de San Benito y diseño de nudos - portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "label": "portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Dije redondo con retrato de San Benito",
+        "Diseño de nudos concéntricos integrado en la pulsera",
+        "Fabricada en aleación de zinc",
+        "Disponible en variantes de tono dorado y tono plateado",
+        "Estilo unisex"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Aleación de zinc"
+        },
+        {
+          "name": "Forma del dije",
+          "value": "Retrato redondo"
+        },
+        {
+          "name": "Motivo de diseño",
+          "value": "Nudo concéntrico"
+        },
+        {
+          "name": "Variantes",
+          "value": "Tono dorado, tono plateado"
+        },
+        {
+          "name": "Género",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Surtidos de pulseras de rosario",
+        "Exhibiciones minoristas de joyería devocional",
+        "Uso personal como accesorio católico"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecha la pulsera de San Benito?",
+          "answer": "La pulsera está hecha de aleación de zinc, según los datos del producto."
+        },
+        {
+          "question": "¿Qué opciones de color hay disponibles para esta pulsera?",
+          "answer": "Se ofrece en dos variantes: tono dorado y tono plateado."
+        },
+        {
+          "question": "¿La pulsera tiene algún elemento de diseño específico?",
+          "answer": "Sí, presenta un diseño de nudos concéntricos y un dije redondo con retrato de San Benito."
+        }
+      ],
+      "pricing": {
+        "price": "2.02",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.46",
+          "max": "2.02"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pulsera con dije retrato de San Benito y diseño de nudos",
+          "description": "Pulsera de aleación de zinc con un dije redondo con retrato de San Benito y un diseño de nudos concéntricos. Se ofrece en dos variantes de color, tono dorado y tono plateado, y está clasificada para surtidos de pulseras de rosario. El estilo unisex y el colgante con retrato la convierten en un accesorio devocional para exhibiciones minoristas o uso personal.",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdea22dc4ebaf416d993110b987c1a45eq.jpg",
+            "https://sc04.alicdn.com/kf/H0aa414c838e04a80a5555f716d6a0eafQ.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9a1ab462614dfb941979f715cb8093o.jpg",
+            "https://sc04.alicdn.com/kf/H799b99b026a54375a2d858a9248810b3o.jpg",
+            "https://sc04.alicdn.com/kf/Haafc857f0fe24a3bac1725643eaf0fa55.jpg",
+            "https://sc04.alicdn.com/kf/H4f57991730c54639ab0e3cf901b5fe5az.jpg"
+          ],
+          "category": "Pulseras de rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Aleación de zinc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma del dije",
+              "value": "Retrato redondo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motivo de diseño",
+              "value": "Nudo concéntrico"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Tono dorado, tono plateado"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Género",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.02",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.46",
+              "maxPrice": "2.02",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecha la pulsera de San Benito?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La pulsera está hecha de aleación de zinc, según los datos del producto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué opciones de color hay disponibles para esta pulsera?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Se ofrece en dos variantes: tono dorado y tono plateado."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿La pulsera tiene algún elemento de diseño específico?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, presenta un diseño de nudos concéntricos y un dije redondo con retrato de San Benito."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:39.725Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "697d26bafbff37ccc02d3003fb45d7d82dd2fe87bc60f4bd56812911e4c0fedc",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:36.675Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceFingerprint": "61b2d7e3356a73b18c3dc7963677a4ddad1789a18501cc132b5b183b57051bbe",
+      "locale": "es",
+      "slug": "st-michael-archangel-pendant-necklace-evsz32",
+      "title": "Collar con colgante de San Miguel Arcángel",
+      "eyebrow": "Collar con colgante de San Miguel Arcángel",
+      "summary": "Un collar con colgante de San Miguel Arcángel diseñado para hombres, disponible en acabados dorado, acero o negro y como colgante individual o con collar. La construcción en acero inoxidable es adecuada para el uso diario y para surtidos mayoristas de joyería religiosa.",
+      "description": "Este collar con colgante de San Miguel Arcángel ofrece a los minoristas una opción de joyería devocional para hombres. El colgante representa a San Miguel Arcángel y se ofrece en seis variantes: collar dorado, colgante individual dorado, collar de acero, colgante individual de acero, colgante individual negro y collar negro.\n\nLa construcción en acero inoxidable hace que el colgante sea adecuado para el uso habitual. Los compradores pueden elegir versiones de solo colgante para reemplazo o para combinar con una cadena personalizada, o seleccionar un conjunto con collar listo para exhibición. Los acabados dorado, acero y negro ofrecen looks diferenciados dentro de una misma línea mayorista.",
+      "catholicContext": "El Catecismo católico incluye las medallas entre las devociones populares que rodean la vida sacramental, aunque una medalla de venta al por menor no es en sí misma un sacramental a menos que sea bendecida.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Collares de moda",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+      "imageAlt": "Collar con colgante de San Miguel Arcángel",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H66c3a23db07f4839a58e942ce6594368h.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2f110b1fcd8144b687b778648b449fcdo.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdae2836afbfc45a0966e78005d1b47f0O.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2e19b52179064160bd7704c014bf88f8E.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9fde2232964a8ebcf7193a9ca0b82eq.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H57331c582f9145f6b66fa811285bea32O.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel - black-necklace",
+          "label": "black-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5e978dd19295411cab94d17d5b2c56491.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel - steel-necklace",
+          "label": "steel-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2af800dce72c4466ab33138fc8722fb8G.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel - steel-single-pendant",
+          "label": "steel-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1de99a6362664f3ba3c9e661291d3dd0y.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel - gold-necklace",
+          "label": "gold-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H883797df6113451b9045aab40ff0fd8aw.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel - gold-single-pendant",
+          "label": "gold-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfe57aaddbed64e838e0d5df541fbfc26Q.webp",
+          "alt": "Collar con colgante de San Miguel Arcángel - black-single-pendant",
+          "label": "black-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--5"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Diseño de colgante de San Miguel Arcángel",
+        "Construcción en acero inoxidable",
+        "Estilo de joyería religiosa para hombres",
+        "Disponible solo como colgante o con collar",
+        "Opciones de acabado dorado, acero y negro",
+        "Seis variantes según acabado y configuración"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Acero inoxidable"
+        },
+        {
+          "name": "Diseño",
+          "value": "San Miguel Arcángel"
+        },
+        {
+          "name": "Variantes",
+          "value": "Collar dorado, colgante individual dorado, collar de acero, colgante individual de acero, colgante individual negro, collar negro"
+        },
+        {
+          "name": "Categoría",
+          "value": "Collares de moda"
+        }
+      ],
+      "applications": [
+        "Venta minorista de joyería religiosa para hombres",
+        "Surtidos mayoristas de colgantes devocionales",
+        "Reemplazo de solo colgante o combinación con cadena personalizada",
+        "Selección de regalos para hombres católicos"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecho el colgante de San Miguel Arcángel?",
+          "answer": "El colgante está hecho de acero inoxidable, según las especificaciones del producto."
+        },
+        {
+          "question": "¿Qué variantes están disponibles para este colgante?",
+          "answer": "El colgante viene en seis variantes: collar dorado, colgante individual dorado, collar de acero, colgante individual de acero, colgante individual negro y collar negro."
+        },
+        {
+          "question": "¿El colgante está disponible sin collar?",
+          "answer": "Sí, las variantes de colgante individual dorado, colgante individual de acero y colgante individual negro son opciones de solo colgante. Las variantes de collar incluyen una cadena."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "1.30"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collar con colgante de San Miguel Arcángel",
+          "description": "Un collar con colgante de San Miguel Arcángel diseñado para hombres, disponible en acabados dorado, acero o negro y como colgante individual o con collar. La construcción en acero inoxidable es adecuada para el uso diario y para surtidos mayoristas de joyería religiosa.",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+          "image": [
+            "https://sc04.alicdn.com/kf/H807494b20657480e89258156a7edf1d9C.jpg",
+            "https://sc04.alicdn.com/kf/H66c3a23db07f4839a58e942ce6594368h.jpg",
+            "https://sc04.alicdn.com/kf/H2f110b1fcd8144b687b778648b449fcdo.jpg",
+            "https://sc04.alicdn.com/kf/Hdae2836afbfc45a0966e78005d1b47f0O.jpg",
+            "https://sc04.alicdn.com/kf/H2e19b52179064160bd7704c014bf88f8E.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9fde2232964a8ebcf7193a9ca0b82eq.jpg"
+          ],
+          "category": "Collares de moda",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Acero inoxidable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Diseño",
+              "value": "San Miguel Arcángel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Collar dorado, colgante individual dorado, collar de acero, colgante individual de acero, colgante individual negro, collar negro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Categoría",
+              "value": "Collares de moda"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "1.30",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecho el colgante de San Miguel Arcángel?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El colgante está hecho de acero inoxidable, según las especificaciones del producto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué variantes están disponibles para este colgante?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El colgante viene en seis variantes: collar dorado, colgante individual dorado, collar de acero, colgante individual de acero, colgante individual negro y collar negro."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿El colgante está disponible sin collar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí, las variantes de colgante individual dorado, colgante individual de acero y colgante individual negro son opciones de solo colgante. Las variantes de collar incluyen una cadena."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:47.757Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "83c77331ce8b6ada7789b27f96e81dbc2ef99fcc7f158883226b5c3cca382209",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:40.398Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceFingerprint": "004dd5177f082c66c35b386d00b5975d3aa370d90f91bd88b96b1ae218a35a76",
+      "locale": "es",
+      "slug": "stainless-steel-embossed-key-pendant-necklace-evbfp0",
+      "title": "Collar con colgante de llave en acero inoxidable con relieve",
+      "eyebrow": "collar con colgante de llave y dije en acero inoxidable",
+      "summary": "Un collar con colgante de llave en acero inoxidable con acabado dorado mate o plateado y detalles en relieve en el dije de llave. La gama incluye siete diseños de llave, del YE-21 al YE-27, cada uno disponible en ambos acabados y presentado como joyería vintage unisex.",
+      "description": "El acero inoxidable forma el cuerpo de este collar con colgante de llave, y el dije de llave lleva un patrón en relieve en lugar de una superficie lisa. Cada dije está disponible en dorado mate o plateado, por lo que los compradores pueden pedir cualquiera de los acabados dentro del mismo diseño.\n\nLa gama abarca siete formas de llave, referenciadas del YE-21 al YE-27, lo que ofrece a un surtido mayorista varias opciones de silueta bajo una misma construcción y línea de acabado. El colgante de llave se presenta como joyería vintage unisex, lo que se adapta a la comercialización para ambos géneros. Elija diseños y acabados por línea al realizar un pedido.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accesorios",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+      "imageAlt": "Collar con colgante de llave en acero inoxidable con relieve",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4d5b442a583345bd81f57d77b2663cecz.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb590cbf4af37405fb03f9540c4527e0d5.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1aacdffbdb3d4931a4588dcbc5b80c1fr.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5d3961f4984241d09121b14f932e3a778.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had36ed420ca045519d9587d4e7c5c9a5J.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1662c7049c8645f7aa404b77ca28da50p.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-25-silver",
+          "label": "ye-25-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hde3070a700284384a335a3f35bcd7ca6G.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-25-gold",
+          "label": "ye-25-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1116bc965d3c4b159c656ce0c791d305n.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-24-silver",
+          "label": "ye-24-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc78dab51f8af4691b2773eaa41a54d320.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-24-gold",
+          "label": "ye-24-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hda1e48e16764402a93cf21f2e49fb1ea0.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-27-silver",
+          "label": "ye-27-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc65429c1020e4c35a5e1a1eb3e591b4cY.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-27-gold",
+          "label": "ye-27-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H37248617f2eb40f4ab5a76a106d72d4ak.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-21-silver",
+          "label": "ye-21-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4e05bb7087f144c294f890cd7a046accf.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-21-gold",
+          "label": "ye-21-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H52406ffa885740afb7328c0f159ee7ee9.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-23-silver",
+          "label": "ye-23-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H271e06fa4d66425ba64e09deb580f8308.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-23-gold",
+          "label": "ye-23-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H8c5fe5b785c747d2bf5edc2d26286b5e3.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-22-silver",
+          "label": "ye-22-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H81fb0a50cc72436788963ebec0a6234d8.webp",
+          "alt": "Collar con colgante de llave en acero inoxidable con relieve - ye-22-gold",
+          "label": "ye-22-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--4"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Collar con colgante de llave y dije en acero inoxidable",
+        "Detalles en relieve en el dije de llave",
+        "Acabados dorado mate y plateado disponibles",
+        "Siete diseños de llave: YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27",
+        "Cada diseño disponible en dorado y plateado",
+        "Joyería vintage unisex"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Acero inoxidable"
+        },
+        {
+          "name": "Tipo de colgante",
+          "value": "Dije de llave"
+        },
+        {
+          "name": "Detalle de superficie",
+          "value": "Relieve"
+        },
+        {
+          "name": "Opciones de acabado",
+          "value": "Dorado mate; plateado"
+        },
+        {
+          "name": "Referencias de diseño",
+          "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+        },
+        {
+          "name": "Estructura de variantes",
+          "value": "Cada diseño en dorado y plateado"
+        },
+        {
+          "name": "Usuario objetivo",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Surtido de joyería al por mayor",
+        "Exhibición minorista de collares de estilo vintage",
+        "Comercialización de accesorios unisex",
+        "Selección de colgantes con motivo de llave por diseño y acabado"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecho el collar con colgante de llave?",
+          "answer": "El collar con colgante de llave está hecho de acero inoxidable, con detalles en relieve en el dije de llave."
+        },
+        {
+          "question": "¿Cuántos diseños de llave hay disponibles?",
+          "answer": "Hay siete diseños de llave, referenciados del YE-21 al YE-27."
+        },
+        {
+          "question": "¿Qué acabados puedo pedir?",
+          "answer": "Cada diseño de llave está disponible en dorado mate o plateado, lo que da catorce combinaciones de diseño y acabado en toda la gama."
+        }
+      ],
+      "pricing": {
+        "price": "0.38",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.38",
+          "max": "0.67"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collar con colgante de llave en acero inoxidable con relieve",
+          "description": "Un collar con colgante de llave en acero inoxidable con acabado dorado mate o plateado y detalles en relieve en el dije de llave. La gama incluye siete diseños de llave, del YE-21 al YE-27, cada uno disponible en ambos acabados y presentado como joyería vintage unisex.",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+          "image": [
+            "https://sc04.alicdn.com/kf/H3ed56730450848fea80c873e577ef82aQ.jpg",
+            "https://sc04.alicdn.com/kf/H4d5b442a583345bd81f57d77b2663cecz.jpg",
+            "https://sc04.alicdn.com/kf/Hb590cbf4af37405fb03f9540c4527e0d5.jpg",
+            "https://sc04.alicdn.com/kf/H1aacdffbdb3d4931a4588dcbc5b80c1fr.jpg",
+            "https://sc04.alicdn.com/kf/H5d3961f4984241d09121b14f932e3a778.jpg",
+            "https://sc04.alicdn.com/kf/Had36ed420ca045519d9587d4e7c5c9a5J.jpg"
+          ],
+          "category": "Accesorios",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Acero inoxidable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de colgante",
+              "value": "Dije de llave"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Detalle de superficie",
+              "value": "Relieve"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opciones de acabado",
+              "value": "Dorado mate; plateado"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Referencias de diseño",
+              "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Estructura de variantes",
+              "value": "Cada diseño en dorado y plateado"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Usuario objetivo",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.38",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.38",
+              "maxPrice": "0.67",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecho el collar con colgante de llave?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El collar con colgante de llave está hecho de acero inoxidable, con detalles en relieve en el dije de llave."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Cuántos diseños de llave hay disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hay siete diseños de llave, referenciados del YE-21 al YE-27."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué acabados puedo pedir?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cada diseño de llave está disponible en dorado mate o plateado, lo que da catorce combinaciones de diseño y acabado en toda la gama."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:45.515Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "ffbd6631e78ee464aea6479fdf9911a13b132dc1263338c6c469c5c23b68e95c",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:44.864Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceFingerprint": "9ebab8cd61ba0b008dd94c19be6fa8b017e8c3abca9954b347a88c62d6c573ba",
+      "locale": "es",
+      "slug": "gold-plated-rhinestone-pendant-necklace-60cm-chain-evsfpx",
+      "title": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm",
+      "eyebrow": "Collar con colgante de acero de titanio con opción de cadena de perlas cuadradas",
+      "summary": "Un collar con colgante de acero de titanio disponible en dos estilos de colgante: un colgante de diamante con pedrería engastada o un colgante liso brillante, cada uno con acabado chapado en oro o acero. Los compradores pueden combinar un colgante con una cadena de perlas cuadradas de 3,0 mm en oro o acero, cortada a 60 cm, o pedir los colgantes solos.",
+      "description": "Este collar con colgante se basa en una cadena de perlas cuadradas de 3,0 mm que mide 60 cm, disponible en acabado oro o acero. El colgante viene en cuatro versiones: un colgante de diamante con pedrería engastada o un colgante liso brillante, cada uno con acabado chapado en oro o acero.\n\nLos colgantes se pueden pedir por separado sin cadena, para que los compradores armen sus propias combinaciones o repongan estilos de colgante por separado de las cadenas. Todas las variantes de cadena y colgante comparten el mismo grosor de cadena de perlas cuadradas y la misma longitud de 60 cm, lo que mantiene la talla uniforme en un pedido mixto.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Collares de moda",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+      "imageAlt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He25f1d019a504490b7e3cb4a03ffae0d9.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1dd5ebb1c2444928a08e397ea352d3b1U.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc0d8b010101e4bf6a56d9466dd697e93v.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had5889308e734e07be1262d7c3405982H.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hccee46ae10ab4e5e989244c414b3db3bd.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc7d22e6ceb64ce18fa195b3540f4a92V.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm - gold-diamond-single-pendant",
+          "label": "gold-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H521cbaa0cf1b4225a2ef135bf7fb1721i.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm - steel-diamond-single-pendant",
+          "label": "steel-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbea5891ae5c546af8e7295058a24e880s.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm - gold-glossy-single-pendant",
+          "label": "gold-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf780c965233c4b508e44c0c088dc8771U.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm - steel-glossy-single-pendant",
+          "label": "steel-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf14f96621734d5199f4894118e949d1N.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm - 3-0-60cm-steel-square-pearl-chain",
+          "label": "3-0-60cm-steel-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5572ccb5ab63484eb67a536835a283d5W.webp",
+          "alt": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm - 3-0-60cm-gold-square-pearl-chain",
+          "label": "3-0-60cm-gold-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--5"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Colgante en dos estilos: colgante de diamante con pedrería engastada o colgante liso brillante",
+        "Opciones de acabado del colgante: chapado en oro o acero",
+        "Cadena de perlas cuadradas de 3,0 mm de grosor, en oro o acero",
+        "Longitud de la cadena: 60 cm",
+        "Colgantes disponibles por separado sin cadena"
+      ],
+      "specifications": [
+        {
+          "name": "Estilo de cadena",
+          "value": "Cadena de perlas cuadradas"
+        },
+        {
+          "name": "Grosor de cadena",
+          "value": "3,0 mm"
+        },
+        {
+          "name": "Longitud de cadena",
+          "value": "60 cm"
+        },
+        {
+          "name": "Acabados de cadena",
+          "value": "Oro; acero"
+        },
+        {
+          "name": "Estilos de colgante",
+          "value": "Colgante de diamante con pedrería; colgante liso brillante"
+        },
+        {
+          "name": "Acabados de colgante",
+          "value": "Chapado en oro; acero"
+        },
+        {
+          "name": "Material base",
+          "value": "Acero de titanio"
+        },
+        {
+          "name": "Opciones de unidad",
+          "value": "Colgante con cadena; colgante solo"
+        }
+      ],
+      "applications": [
+        "Venta minorista de joyería de estilo hip hop y streetwear",
+        "Armado de collares DIY y cambio de colgantes"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué longitud y grosor de cadena tiene el collar?",
+          "answer": "La cadena de perlas cuadradas tiene 3,0 mm de grosor y 60 cm de longitud, en acabado oro o acero."
+        },
+        {
+          "question": "¿Puedo pedir colgantes sin la cadena?",
+          "answer": "Sí. Las variantes de colgante se ofrecen por separado, aparte de las opciones de cadena de 3,0 × 60 cm."
+        },
+        {
+          "question": "¿Cuántas variantes de colgante hay?",
+          "answer": "Cuatro: oro con diamante, oro brillante, acero con diamante y acero brillante. Las versiones con diamante tienen pedrería engastada; las versiones brillantes son lisas."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "3.19"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collar con colgante de pedrería chapado en oro, cadena de 60 cm",
+          "description": "Un collar con colgante de acero de titanio disponible en dos estilos de colgante: un colgante de diamante con pedrería engastada o un colgante liso brillante, cada uno con acabado chapado en oro o acero. Los compradores pueden combinar un colgante con una cadena de perlas cuadradas de 3,0 mm en oro o acero, cortada a 60 cm, o pedir los colgantes solos.",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H9f70e950c96544f0aa5c1f38fb162ed1k.jpg",
+            "https://sc04.alicdn.com/kf/He25f1d019a504490b7e3cb4a03ffae0d9.jpg",
+            "https://sc04.alicdn.com/kf/H1dd5ebb1c2444928a08e397ea352d3b1U.jpg",
+            "https://sc04.alicdn.com/kf/Hc0d8b010101e4bf6a56d9466dd697e93v.jpg",
+            "https://sc04.alicdn.com/kf/Had5889308e734e07be1262d7c3405982H.jpg",
+            "https://sc04.alicdn.com/kf/Hccee46ae10ab4e5e989244c414b3db3bd.jpg"
+          ],
+          "category": "Collares de moda",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Estilo de cadena",
+              "value": "Cadena de perlas cuadradas"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Grosor de cadena",
+              "value": "3,0 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Longitud de cadena",
+              "value": "60 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Acabados de cadena",
+              "value": "Oro; acero"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Estilos de colgante",
+              "value": "Colgante de diamante con pedrería; colgante liso brillante"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Acabados de colgante",
+              "value": "Chapado en oro; acero"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material base",
+              "value": "Acero de titanio"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opciones de unidad",
+              "value": "Colgante con cadena; colgante solo"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "3.19",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿Qué longitud y grosor de cadena tiene el collar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La cadena de perlas cuadradas tiene 3,0 mm de grosor y 60 cm de longitud, en acabado oro o acero."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Puedo pedir colgantes sin la cadena?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí. Las variantes de colgante se ofrecen por separado, aparte de las opciones de cadena de 3,0 × 60 cm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Cuántas variantes de colgante hay?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cuatro: oro con diamante, oro brillante, acero con diamante y acero brillante. Las versiones con diamante tienen pedrería engastada; las versiones brillantes son lisas."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:10.973Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "0d75443b15cf5e6001e007c2548faa043ee7555f84d915fa078756c789b47e6c",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:49.393Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceFingerprint": "debee61d7511dba0eb16cae06bdee3ba5705bfe1f6ab199c5a7c0c1baa3196de",
+      "locale": "es",
+      "slug": "cartoon-waterproof-paper-stickers-50-piece-set-evo6x2",
+      "title": "Pegatinas de papel impermeables con diseño de dibujos animados, set de 50 piezas",
+      "eyebrow": "Set de pegatinas y calcomanías de papel con diseño de dibujos animados",
+      "summary": "Un set de 50 pegatinas de estilo dibujos animados en el rango de 4–6 cm, impresas en papel con acabado impermeable. Las calcomanías se pueden pegar en cuadernos, fundas de teléfono, patinetas y páginas de álbum de recortes para la decoración DIY diaria.",
+      "description": "El arte de dibujos animados de trazo suelto da a este set de 50 pegatinas su aspecto divertido, con cada calcomanía midiendo 4–6 cm. La impresión digital traslada la ilustración al papel, y un acabado impermeable ayuda a que la pegatina resista en artículos de uso diario.\n\nEl set es adecuado para pequeños trabajos de decoración más que para piezas de exhibición: cuadernos, fundas de teléfono, patinetas y páginas de álbum de recortes admiten las calcomanías. Los compradores que buscan una surtido listo de pegatinas de dibujos animados para manualidades y decoración del hogar pueden pedir el paquete de 50 piezas tal como se suministra.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Adornos",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+      "imageAlt": "Pegatinas de papel impermeables con diseño de dibujos animados, set de 50 piezas",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+          "alt": "Pegatinas de papel impermeables con diseño de dibujos animados, set de 50 piezas"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf7c10c436fa94667a5b30afbb5471a4d6.webp",
+          "alt": "Pegatinas de papel impermeables con diseño de dibujos animados, set de 50 piezas"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7860c5686e464687ac9bdc3f4125a9e0O.webp",
+          "alt": "Pegatinas de papel impermeables con diseño de dibujos animados, set de 50 piezas"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H60101040415a47df996a49b7fd1718f7F.webp",
+          "alt": "Pegatinas de papel impermeables con diseño de dibujos animados, set de 50 piezas"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H11033a559ecc479488fb3d4a55a59a58M.webp",
+          "alt": "Pegatinas de papel impermeables con diseño de dibujos animados, set de 50 piezas"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Set de 50 pegatinas de estilo dibujos animados",
+        "Cada pegatina mide 4–6 cm",
+        "Impresas en papel con impresión digital",
+        "Acabado impermeable",
+        "Pegatinas adhesivas que se pueden pegar sobre superficies",
+        "Suministrado por la empresa de producción TJMY"
+      ],
+      "specifications": [
+        {
+          "name": "Número de artículo",
+          "value": "T01042877"
+        },
+        {
+          "name": "Tamaño de la pegatina",
+          "value": "4–6 cm"
+        },
+        {
+          "name": "Cantidad",
+          "value": "50 piezas por set"
+        },
+        {
+          "name": "Material",
+          "value": "Papel"
+        },
+        {
+          "name": "Proceso de impresión",
+          "value": "Impresión digital"
+        },
+        {
+          "name": "Estilo",
+          "value": "Dibujos animados"
+        },
+        {
+          "name": "Característica",
+          "value": "Impermeable"
+        },
+        {
+          "name": "Adhesivo",
+          "value": "Se puede pegar"
+        },
+        {
+          "name": "Autorización de PI",
+          "value": "No"
+        },
+        {
+          "name": "Lugar de origen",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Decoración de cuadernos",
+        "Decoración de fundas de teléfono",
+        "Decoración de patinetas",
+        "Proyectos de álbum de recortes y manualidades DIY"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material están hechas estas pegatinas de dibujos animados?",
+          "answer": "Las pegatinas están hechas de papel con acabado impermeable, y la ilustración se aplica mediante impresión digital."
+        },
+        {
+          "question": "¿Qué tamaño tiene cada pegatina del set de 50 piezas?",
+          "answer": "Cada pegatina mide 4–6 cm, y el set contiene 50 piezas."
+        },
+        {
+          "question": "¿Estos diseños de personajes cuentan con licencia oficial?",
+          "answer": "No. La información del producto indica que la PI no está autorizada, por lo que el set no debe considerarse mercancía de personajes con licencia."
+        }
+      ],
+      "pricing": {
+        "price": "0.81",
+        "regularPrice": "0.81",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.59",
+          "max": "0.81"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pegatinas de papel impermeables con diseño de dibujos animados, set de 50 piezas",
+          "description": "Un set de 50 pegatinas de estilo dibujos animados en el rango de 4–6 cm, impresas en papel con acabado impermeable. Las calcomanías se pueden pegar en cuadernos, fundas de teléfono, patinetas y páginas de álbum de recortes para la decoración DIY diaria.",
+          "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb566f6faea1b4fef945db17c0e802b93m.jpg",
+            "https://sc04.alicdn.com/kf/Hf7c10c436fa94667a5b30afbb5471a4d6.jpg",
+            "https://sc04.alicdn.com/kf/H7860c5686e464687ac9bdc3f4125a9e0O.jpg",
+            "https://sc04.alicdn.com/kf/H60101040415a47df996a49b7fd1718f7F.jpg",
+            "https://sc04.alicdn.com/kf/H11033a559ecc479488fb3d4a55a59a58M.jpg"
+          ],
+          "category": "Adornos",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Número de artículo",
+              "value": "T01042877"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tamaño de la pegatina",
+              "value": "4–6 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Cantidad",
+              "value": "50 piezas por set"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Papel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Proceso de impresión",
+              "value": "Impresión digital"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Estilo",
+              "value": "Dibujos animados"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Característica",
+              "value": "Impermeable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Adhesivo",
+              "value": "Se puede pegar"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Autorización de PI",
+              "value": "No"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lugar de origen",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.81",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.59",
+              "maxPrice": "0.81",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material están hechas estas pegatinas de dibujos animados?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Las pegatinas están hechas de papel con acabado impermeable, y la ilustración se aplica mediante impresión digital."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué tamaño tiene cada pegatina del set de 50 piezas?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cada pegatina mide 4–6 cm, y el set contiene 50 piezas."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Estos diseños de personajes cuentan con licencia oficial?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. La información del producto indica que la PI no está autorizada, por lo que el set no debe considerarse mercancía de personajes con licencia."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:04.236Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "813c90c9d5152e3a4c804f3d514aeeff29fa291b009fc5fa81dc90e587433f13",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:52.970Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceFingerprint": "f2aefb0d73a9a01bd533b867af2727fa02f3b2c25751312a6880ad3d1861d5a4",
+      "locale": "es",
+      "slug": "st-benedict-medal-leather-wrap-bracelet-evbksy",
+      "title": "Pulsera envolvente de cuero con medalla de San Benito",
+      "eyebrow": "Pulsera envolvente de cuero con medalla de San Benito",
+      "summary": "Esta pulsera envolvente de cuero presenta una medalla de San Benito en un cordón trenzado con un estilo vintage punk de varias capas. Está disponible en variantes de color negro, azul, marrón y rosa. La pulsera está diseñada para hombres y mujeres y funciona como accesorio devocional o joyería de uso diario.",
+      "description": "Esta pulsera envolvente combina una medalla de San Benito con un cordón de cuero trenzado en un diseño de varias capas. El estilo vintage punk le da un aspecto texturizado e informal que se diferencia de una pulsera de cadena sencilla. Está disponible en talla para hombres y mujeres y en varias variantes de color, para que los compradores puedan elegir un tono que se adapte a su gusto personal o combinar una pequeña selección. La medalla es el punto focal, lo que convierte a la pulsera en un artículo devocional reconocible además de su función como joyería. Como artículo minorista, es una opción distintiva para compradores que buscan un accesorio con medalla de San Benito que no sea una medalla metálica tradicional ni una cadena.",
+      "catholicContext": "El Catecismo católico enumera las medallas entre las formas de piedad popular que rodean la vida sacramental.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Pulseras de rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+      "imageAlt": "Pulsera envolvente de cuero con medalla de San Benito",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6049c460daf040fab829377a8d025c56o.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc816f9cb6e6d4626aae5373d6ad803c33.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haf62351ce68a46808e1252bd3c31a81bh.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H00e3c243f0ad4267b129bc4ebaa9229bo.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd84c633a0f724c918179736ff5a955fcS.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - brown-17",
+          "label": "brown-17",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0107de3307df492fa56319983e266a65i.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - black-18",
+          "label": "black-18",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd6a926baa69e45ac84b04b5d36259673z.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - pink-19",
+          "label": "pink-19",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4479743d0f8c4b03aec710f3f2452c2ak.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - blue-20",
+          "label": "blue-20",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb6871ec81bf647b2b8644145673d1ffdp.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - brown-13",
+          "label": "brown-13",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9a222e84659e415081703bf8d4d3a16e1.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - black-14",
+          "label": "black-14",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H55f5154f8fef4718bd1a40283b0b0b65c.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - pink-15",
+          "label": "pink-15",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He2128143b5054e388e5d967ce7b214fct.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - blue-16",
+          "label": "blue-16",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd5de65cd8e114c95b612870da353ceebt.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - brown-9",
+          "label": "brown-9",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3761cebef3a441fc86d4b691e1707abeW.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - black-10",
+          "label": "black-10",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H09e8833edd7848479613522d0ccd61b23.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - pink-11",
+          "label": "pink-11",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb1a3b63a890f4b51b02d7db63de34784U.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - blue-12",
+          "label": "blue-12",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf48ae25ea7e45cda41f5c0025aaecaeX.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - brown-5",
+          "label": "brown-5",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0e2deeb5496443e89cf009b9919712bq.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - black-6",
+          "label": "black-6",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0d3082c7da5420ab7c8d653c7a1171f1.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - pink-7",
+          "label": "pink-7",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H98a994d323ee41d0897b6f9630efe529F.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - blue-8",
+          "label": "blue-8",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc4a66c3182b04675a1329933a6ad61aev.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - brown-1",
+          "label": "brown-1",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc67dfbc82fbb4a4c945c7e4b7a54fd47w.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd4d51387b1cd4b34b54467bbfdb304eeo.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - pink-3",
+          "label": "pink-3",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf0846d70999048668d432e27d1ac9c09v.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - blue-4",
+          "label": "blue-4",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2b0639166e8e47f0a1805d4e61a61589g.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - brown-25",
+          "label": "brown-25",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0a17355894844d6b9c040694fb58c500a.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - black-26",
+          "label": "black-26",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3736e684bf254a419db856206d2136a9g.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - pink-27",
+          "label": "pink-27",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H03a89d2d2153472db5c3bdbff7b3f5a5p.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - blue-28",
+          "label": "blue-28",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H212ae41e40c74df5a8ee59ee1adbc2d03.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - brown-21",
+          "label": "brown-21",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6a811a0266cd4d39931ee17f2368ad95W.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - black-22",
+          "label": "black-22",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd28dfe41fad645fa988bc6ccbd61f5b6k.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - pink-23",
+          "label": "pink-23",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Ha799b9f03b834e47b9351fc13c347a24K.webp",
+          "alt": "Pulsera envolvente de cuero con medalla de San Benito - blue-24",
+          "label": "blue-24",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--24"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Medalla de San Benito como elemento central",
+        "Confección con cordón de cuero trenzado",
+        "Diseño envolvente de varias capas",
+        "Estilo vintage punk",
+        "Disponible en variantes de color negro, azul, marrón y rosa",
+        "Diseñada para hombres y mujeres"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cuero y cordón (material de la medalla no especificado)"
+        },
+        {
+          "name": "Diseño",
+          "value": "Envolvente trenzado, varias capas"
+        },
+        {
+          "name": "Variantes de color",
+          "value": "Negro, azul, marrón, rosa"
+        },
+        {
+          "name": "Usuario objetivo",
+          "value": "Hombres y mujeres"
+        }
+      ],
+      "applications": [
+        "Uso devocional personal",
+        "Joyería informal de uso diario",
+        "Regalo para un amigo o familiar católico",
+        "Surtido minorista de accesorios religiosos"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecha la pulsera envolvente de cuero con medalla de San Benito?",
+          "answer": "La pulsera utiliza un cordón de cuero trenzado, pero el metal o material de la medalla en sí no se especifica en la información del producto."
+        },
+        {
+          "question": "¿Qué opciones de color están disponibles para esta pulsera?",
+          "answer": "La pulsera está disponible en variantes de color negro, azul, marrón y rosa."
+        },
+        {
+          "question": "¿Esta pulsera está diseñada para hombres o para mujeres?",
+          "answer": "La pulsera está diseñada tanto para hombres como para mujeres."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.47",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pulsera envolvente de cuero con medalla de San Benito",
+          "description": "Esta pulsera envolvente de cuero presenta una medalla de San Benito en un cordón trenzado con un estilo vintage punk de varias capas. Está disponible en variantes de color negro, azul, marrón y rosa. La pulsera está diseñada para hombres y mujeres y funciona como accesorio devocional o joyería de uso diario.",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+          "image": [
+            "https://sc04.alicdn.com/kf/H95f42ec3c8134a3e8b2fa3796e901cb7J.jpg",
+            "https://sc04.alicdn.com/kf/H6049c460daf040fab829377a8d025c56o.jpg",
+            "https://sc04.alicdn.com/kf/Hc816f9cb6e6d4626aae5373d6ad803c33.jpg",
+            "https://sc04.alicdn.com/kf/Haf62351ce68a46808e1252bd3c31a81bh.jpg",
+            "https://sc04.alicdn.com/kf/H00e3c243f0ad4267b129bc4ebaa9229bo.jpg"
+          ],
+          "category": "Pulseras de rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cuero y cordón (material de la medalla no especificado)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Diseño",
+              "value": "Envolvente trenzado, varias capas"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes de color",
+              "value": "Negro, azul, marrón, rosa"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Usuario objetivo",
+              "value": "Hombres y mujeres"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.47",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecha la pulsera envolvente de cuero con medalla de San Benito?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La pulsera utiliza un cordón de cuero trenzado, pero el metal o material de la medalla en sí no se especifica en la información del producto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué opciones de color están disponibles para esta pulsera?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La pulsera está disponible en variantes de color negro, azul, marrón y rosa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Esta pulsera está diseñada para hombres o para mujeres?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La pulsera está diseñada tanto para hombres como para mujeres."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:01.388Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "61797c86f2d744f55ffb2a12c09bbe2b95a8859bc5a9203f842ea0e7dfa0b110",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:58.247Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceFingerprint": "78a6d761e3165f7fa531ba1f696c9948d9f76d21a0fdc5ce9db93dcd0b58c7cb",
+      "locale": "es",
+      "slug": "oval-tee-pendant-zinc-alloy-rosary-charm-enxshy",
+      "title": "Colgante ovalado en T de aleación de zinc, dije de rosario",
+      "eyebrow": "Colgante ovalado en T de aleación de zinc, disponible en varias variantes de tamaño y peso",
+      "summary": "Este colgante ovalado en T es un dije de aleación de zinc disponible en 17 variantes, cada una con su propio peso y dimensiones. Los compradores pueden elegir el tamaño que se adapte a su collar de rosario o ensamblaje de joyería. El colgante es un único componente metálico; no se incluyen cuentas de rosario, cadenas ni crucifijos.",
+      "description": "Para los compradores que ensamblan collares de rosario o pequeñas joyas metálicas, el colgante ovalado en T ofrece un componente compacto de aleación de zinc en una variedad de tamaños. Cada variante está especificada por peso y dimensiones aproximadas, para que pueda combinar un colgante con un tamaño de cuenta o grosor de cadena concretos. Las variantes más ligeras pesan 0,5 g y miden aproximadamente 1 × 1,4, mientras que la más pesada es de 2,2 g y 1,9 × 2,2. Todas son de aleación de zinc. El colgante es una pieza independiente, no un rosario ni un collar terminado. Se puede combinar con otros componentes para construir un rosario o utilizarse como adorno decorativo en diseños de joyería. La forma ovalada en T aporta un aspecto metálico sencillo y retro. Dado que el colgante es un componente, los compradores deben planificar su propio ensamblaje o acabado.",
+      "catholicContext": "El Rosario es una oración católica centrada en la contemplación de los acontecimientos de la vida de Jesucristo y la Virgen María, y sus cuentas físicas, pieza central y crucifijo se describen solo cuando están presentes en los datos del producto.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accesorios",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+      "imageAlt": "Colgante ovalado en T de aleación de zinc, dije de rosario",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha39c0bed9b794c8ba64ee57004b75425k.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha784cb2856944f43a8dd9952a17385acO.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98d04ae4b7bc4fd3846ca16d1cb20b35X.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9ef0ecd2cd6c40efbcf691e3bbbdeb83l.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "label": "st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcd0f301215084f3489dd025bce5f4f2cT.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H947de7c9a70a41799807bce12b6553e1Y.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-13-zinc-alloy-1g-1-5-1-9",
+          "label": "st11-13-zinc-alloy-1g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He04f86f00d7142d286deedc44b34ad1fr.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-14-zinc-alloy-1g-1-2-1-7",
+          "label": "st11-14-zinc-alloy-1g-1-2-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83708f1d99c74d75ab2fb99ce860b405t.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "label": "st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0e1085f7400346c9a1be818a15eeabb10.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-12-zinc-alloy-1g-1-5-2",
+          "label": "st11-12-zinc-alloy-1g-1-5-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2674c81ccabc4e82a86f418146e0c3d7g.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-17-zinc-alloy-0-5g-1-1-4",
+          "label": "st11-17-zinc-alloy-0-5g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H95913d1bca2d4ea8b6af87efb565e7b1q.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "label": "st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1811b409a2ac4bc788500977264d0442e.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-16-zinc-alloy-0-6g-1-1-4",
+          "label": "st11-16-zinc-alloy-0-6g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe9c09207a749fa9a4674758557aadfM.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "label": "st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b66efdd31f947c684c237323be52229L.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "label": "st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H74181d62a35b4b1bb911635bc2dd768eI.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde6d18900b814021afbbde05dd3675383.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "label": "st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H09226ad16a804607a85e8f401544fff62.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "label": "st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H85e7d19e1e0c4f3bad8e67c96676fde4e.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-10-zinc-alloy-1g-1-2-1-5",
+          "label": "st11-10-zinc-alloy-1g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4a5478778b0444af9e783c6fbe06982fD.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "label": "st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He0a68fc3d0e6417690729173dbc4db83x.webp",
+          "alt": "Colgante ovalado en T de aleación de zinc, dije de rosario - st11-8-zinc-alloy-1-3g-1-6-2",
+          "label": "st11-8-zinc-alloy-1-3g-1-6-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Forma de colgante ovalado en T de aleación de zinc",
+        "17 variantes con pesos y dimensiones individuales",
+        "Pesos de 0,5 g a 2,2 g",
+        "Dimensiones de aproximadamente 1 × 1,4 a 1,9 × 2,2",
+        "Adecuado como componente para collares de rosario o joyería",
+        "Solo colgante; no se incluyen otros componentes"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Aleación de zinc"
+        },
+        {
+          "name": "Forma",
+          "value": "Colgante ovalado en T"
+        },
+        {
+          "name": "Número de variantes",
+          "value": "17"
+        },
+        {
+          "name": "Rango de peso",
+          "value": "0,5 g a 2,2 g"
+        },
+        {
+          "name": "Rango de dimensiones",
+          "value": "Aproximadamente 1 × 1,4 a 1,9 × 2,2"
+        }
+      ],
+      "applications": [
+        "Ensamblaje de collares de rosario",
+        "Fabricación de joyas",
+        "Proyectos de manualidades",
+        "Colgante decorativo para collares"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecho el colgante ovalado en T?",
+          "answer": "El colgante ovalado en T está hecho de aleación de zinc."
+        },
+        {
+          "question": "¿Cuántas variantes hay disponibles?",
+          "answer": "Hay 17 variantes, cada una con una combinación diferente de peso y dimensiones."
+        },
+        {
+          "question": "¿Cuáles son los tamaños más pequeño y más grande?",
+          "answer": "La variante más pequeña pesa 0,5 g y mide aproximadamente 1 × 1,4. La más grande pesa 2,2 g y mide aproximadamente 1,9 × 2,2."
+        }
+      ],
+      "pricing": {
+        "price": "0.03",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.11"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Colgante ovalado en T de aleación de zinc, dije de rosario",
+          "description": "Este colgante ovalado en T es un dije de aleación de zinc disponible en 17 variantes, cada una con su propio peso y dimensiones. Los compradores pueden elegir el tamaño que se adapte a su collar de rosario o ensamblaje de joyería. El colgante es un único componente metálico; no se incluyen cuentas de rosario, cadenas ni crucifijos.",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hec22ce1bbe01454f871983e4dd562d4eQ.jpg",
+            "https://sc04.alicdn.com/kf/Ha39c0bed9b794c8ba64ee57004b75425k.jpg",
+            "https://sc04.alicdn.com/kf/Ha784cb2856944f43a8dd9952a17385acO.jpg",
+            "https://sc04.alicdn.com/kf/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.jpg",
+            "https://sc04.alicdn.com/kf/H98d04ae4b7bc4fd3846ca16d1cb20b35X.jpg"
+          ],
+          "category": "Accesorios",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Aleación de zinc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma",
+              "value": "Colgante ovalado en T"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Número de variantes",
+              "value": "17"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Rango de peso",
+              "value": "0,5 g a 2,2 g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Rango de dimensiones",
+              "value": "Aproximadamente 1 × 1,4 a 1,9 × 2,2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.03",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.11",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecho el colgante ovalado en T?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El colgante ovalado en T está hecho de aleación de zinc."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Cuántas variantes hay disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hay 17 variantes, cada una con una combinación diferente de peso y dimensiones."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Cuáles son los tamaños más pequeño y más grande?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La variante más pequeña pesa 0,5 g y mide aproximadamente 1 × 1,4. La más grande pesa 2,2 g y mide aproximadamente 1,9 × 2,2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:03.513Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "b9e99fb8462aa63f529dcf2d60f7b5db2b4935e34976ea48b0de47d484a2cddc",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:37:04.404Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceFingerprint": "69b89b6ca30b4bb6663184455acb490901ed4c3f42782c2b703b9b87836b422a",
+      "locale": "es",
+      "slug": "glass-holy-water-bottle-ornament-with-rose-cover-ek-1tb",
+      "title": "Adorno de botella de agua bendita de vidrio con cubierta de rosa",
+      "eyebrow": "adorno de botella de agua bendita de vidrio",
+      "summary": "Este adorno es una botella de vidrio transparente con capacidad de 15 ml y una cubierta decorativa de rosa. El vidrio transparente deja ver el contenido, mientras que la cubierta de rosa añade detalle. Está disponible en cuatro variantes: Gold1, Gold2, Silver1 y Silver2, lo que lo hace adecuado para la elaboración de joyería o piezas pequeñas de exhibición.",
+      "description": "Fabricado en vidrio transparente, este adorno es una botella pequeña con un recipiente de 15 ml y una cubierta de rosa. El cuerpo transparente permite ver el interior, y la cubierta incorpora un elemento decorativo. Está agrupado en la categoría de adornos y se ofrece en cuatro variantes: Gold1, Gold2, Silver1 y Silver2. La construcción de vidrio aporta un aspecto limpio que puede complementar proyectos de joyería o composiciones decorativas. Como componente de suministro, la botella puede incorporarse en colgantes, dijes o adornos independientes según su diseño.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Adornos",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+      "imageAlt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+          "alt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9819598944974a67a2ae1dc28b0529887.webp",
+          "alt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9908c51bf4ef43dfadae19390c5578159.webp",
+          "alt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H51175e24f2d24b969d07b174bbc1235aw.webp",
+          "alt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8003b9911fab48669e3a5ad8f9c85ef2w.webp",
+          "alt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6ac6d90a626e48dca98e53d4b1f57b6fP.webp",
+          "alt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa - silver2",
+          "label": "silver2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2c549d952b5c4bd18c72a476bf2edbf0t.webp",
+          "alt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa - gold1",
+          "label": "gold1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdbfb5bca248143cabafa4890bdd1056cV.webp",
+          "alt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa - silver1",
+          "label": "silver1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd7daa72c8e22472ab967718860ff5b3ab.webp",
+          "alt": "Adorno de botella de agua bendita de vidrio con cubierta de rosa - gold2",
+          "label": "gold2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--2"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Construcción de vidrio transparente",
+        "Capacidad del recipiente de 15 ml",
+        "Cubierta decorativa de rosa",
+        "Disponible en variantes Gold1, Gold2, Silver1 y Silver2",
+        "Clasificado como adorno"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Vidrio"
+        },
+        {
+          "name": "Capacidad",
+          "value": "15 ml"
+        },
+        {
+          "name": "Diseño de la cubierta",
+          "value": "Rosa"
+        },
+        {
+          "name": "Variantes",
+          "value": "Gold1, Gold2, Silver1, Silver2"
+        },
+        {
+          "name": "Categoría",
+          "value": "Adornos"
+        }
+      ],
+      "applications": [
+        "Elaboración de joyería",
+        "Exhibición ornamental",
+        "Proyectos de manualidades"
+      ],
+      "faq": [
+        {
+          "question": "¿De qué material está hecha la botella?",
+          "answer": "La botella está hecha de vidrio transparente."
+        },
+        {
+          "question": "¿Cuál es la capacidad de la botella?",
+          "answer": "La botella tiene una capacidad de 15 ml."
+        },
+        {
+          "question": "¿Qué variantes están disponibles?",
+          "answer": "El producto está disponible en variantes Gold1, Gold2, Silver1 y Silver2."
+        }
+      ],
+      "pricing": {
+        "price": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Adorno de botella de agua bendita de vidrio con cubierta de rosa",
+          "description": "Este adorno es una botella de vidrio transparente con capacidad de 15 ml y una cubierta decorativa de rosa. El vidrio transparente deja ver el contenido, mientras que la cubierta de rosa añade detalle. Está disponible en cuatro variantes: Gold1, Gold2, Silver1 y Silver2, lo que lo hace adecuado para la elaboración de joyería o piezas pequeñas de exhibición.",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8eb4b6568d8c4fe7a66e5181112aec6eG.jpg",
+            "https://sc04.alicdn.com/kf/H9819598944974a67a2ae1dc28b0529887.jpg",
+            "https://sc04.alicdn.com/kf/H9908c51bf4ef43dfadae19390c5578159.jpg",
+            "https://sc04.alicdn.com/kf/H51175e24f2d24b969d07b174bbc1235aw.jpg",
+            "https://sc04.alicdn.com/kf/H8003b9911fab48669e3a5ad8f9c85ef2w.jpg"
+          ],
+          "category": "Adornos",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Vidrio"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Capacidad",
+              "value": "15 ml"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Diseño de la cubierta",
+              "value": "Rosa"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Gold1, Gold2, Silver1, Silver2"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Categoría",
+              "value": "Adornos"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿De qué material está hecha la botella?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La botella está hecha de vidrio transparente."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Cuál es la capacidad de la botella?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La botella tiene una capacidad de 15 ml."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué variantes están disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El producto está disponible en variantes Gold1, Gold2, Silver1 y Silver2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:15.598Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "8fba8266d56c6b92a8b334da505f85de33eb7ec5f69237e89b7b49aa23b393e5",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:37:07.364Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceFingerprint": "550be28662a4ac142fab5ba6edd53cec3e62d2e9f884e6daa7d9dcc892d5c56d",
+      "locale": "es",
+      "slug": "glass-and-crystal-rosary-bracelet-with-pendants-ekmecc",
+      "title": "Pulsera de rosario de vidrio y cristal con colgantes",
+      "eyebrow": "Pulsera de rosario de vidrio y cristal con colgantes marianos y de cruz",
+      "summary": "Esta pulsera de rosario combina cuentas de vidrio y cristal con colgantes temáticos de la Virgen María, Jesús y la cruz. Se ofrece en negro, azul, rosa, rojo y blanco, cada color en longitud regular o extendida. La mezcla de materiales de las cuentas y los detalles de los colgantes aporta a la pulsera un aspecto en capas adecuado para uso devocional y como regalo.",
+      "description": "Las cuentas de vidrio y cristal se alternan a lo largo de la banda, captando la luz y aportando textura a la muñeca. Los colgantes temáticos de la Virgen María, Jesús y la cruz cuelgan como puntos focales, vinculando la pulsera con la práctica devocional católica. La gama de colores va del negro y el blanco al azul, el rosa y el rojo, con longitudes regular y extendida disponibles en cada color. La combinación de vidrio y cristal distingue la pulsera de las pulseras de rosario de un solo material, mientras que los temas de los colgantes mantienen el diseño reconociblemente devocional. Para compradores mayoristas, las ocho variantes permiten que una exhibición cubra tanto las preferencias de color como las tallas de muñeca sin introducir una línea de producto separada.",
+      "catholicContext": "El Rosario es una oración católica centrada en la contemplación de los acontecimientos de la vida de Jesucristo y de la Virgen María.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Pulseras de rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+      "imageAlt": "Pulsera de rosario de vidrio y cristal con colgantes",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H313d75507c514582895c3d496b7741f0t.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7e3928109d1848179ad787c411b37ff4u.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H102032a93a764362a2628443eb2639b1j.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H86d98cfcd6274f75968ad6b80fd52c2a8.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H834879437b66461fb0f4005fb7c6df7fP.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha75ec92912204461be7fcad91d2db214T.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes - rosa-regular",
+          "label": "rosa-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H31f5df1cabb94aa8990eea4cc0bac586O.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes - blanco-regular",
+          "label": "blanco-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H281f1552dce3412ba199259d505c6c9bp.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes - negro-regular",
+          "label": "negro-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Heb633769bc4b43b1bd5679184abdebabv.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes - azul-extendida",
+          "label": "azul-extendida",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H66e38b7383c74bfbb61920a3bb1b4079l.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes - rojo-extendida",
+          "label": "rojo-extendida",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2d78fd2d7a58454696d0724ec7d8b74f7.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes - rosa-extendida",
+          "label": "rosa-extendida",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H557b666a1fb24b76b82880eb86d01f36L.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes - blanco-extendida",
+          "label": "blanco-extendida",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H65f4bf70a2e3491ca1aa2fb4d2edf18c4.webp",
+          "alt": "Pulsera de rosario de vidrio y cristal con colgantes - negro-extendida",
+          "label": "negro-extendida",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--1"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Fabricada con cuentas de vidrio y cristal",
+        "Colgantes temáticos de la Virgen María, Jesús y la cruz",
+        "Disponible en negro, azul, rosa, rojo y blanco",
+        "Longitudes regular y extendida disponibles en cada color",
+        "Ocho variantes en total según color y longitud"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Vidrio y cristal"
+        },
+        {
+          "name": "Temas de los colgantes",
+          "value": "Virgen María, Jesús, cruz"
+        },
+        {
+          "name": "Colores",
+          "value": "Negro, azul, rosa, rojo, blanco"
+        },
+        {
+          "name": "Opciones de longitud",
+          "value": "Regular, extendida"
+        },
+        {
+          "name": "Cantidad de variantes",
+          "value": "8 (5 colores × 2 longitudes)"
+        }
+      ],
+      "applications": [
+        "Uso devocional",
+        "Obsequio religioso",
+        "Exhibición minorista mayorista",
+        "Surtido de pulseras de rosario"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué materiales se utilizan en esta pulsera de rosario?",
+          "answer": "La pulsera está fabricada con cuentas de vidrio y cristal e incluye colgantes temáticos de la Virgen María, Jesús y la cruz."
+        },
+        {
+          "question": "¿Qué colores y longitudes están disponibles?",
+          "answer": "Se ofrece en negro, azul, rosa, rojo y blanco. Cada color está disponible en longitud regular y extendida, para un total de ocho variantes."
+        },
+        {
+          "question": "¿Los colgantes son fijos o desmontables?",
+          "answer": "Los datos del producto no especifican si los colgantes son fijos o desmontables. Contáctenos para obtener detalles sobre la construcción."
+        }
+      ],
+      "pricing": {
+        "price": "0.88",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pulsera de rosario de vidrio y cristal con colgantes",
+          "description": "Esta pulsera de rosario combina cuentas de vidrio y cristal con colgantes temáticos de la Virgen María, Jesús y la cruz. Se ofrece en negro, azul, rosa, rojo y blanco, cada color en longitud regular o extendida. La mezcla de materiales de las cuentas y los detalles de los colgantes aporta a la pulsera un aspecto en capas adecuado para uso devocional y como regalo.",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcf4caf72028e4b80933660d24986f82aM.png",
+            "https://sc04.alicdn.com/kf/H313d75507c514582895c3d496b7741f0t.png",
+            "https://sc04.alicdn.com/kf/H7e3928109d1848179ad787c411b37ff4u.png",
+            "https://sc04.alicdn.com/kf/H102032a93a764362a2628443eb2639b1j.png",
+            "https://sc04.alicdn.com/kf/H86d98cfcd6274f75968ad6b80fd52c2a8.jpg",
+            "https://sc04.alicdn.com/kf/H834879437b66461fb0f4005fb7c6df7fP.png"
+          ],
+          "category": "Pulseras de rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Vidrio y cristal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Temas de los colgantes",
+              "value": "Virgen María, Jesús, cruz"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Colores",
+              "value": "Negro, azul, rosa, rojo, blanco"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opciones de longitud",
+              "value": "Regular, extendida"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Cantidad de variantes",
+              "value": "8 (5 colores × 2 longitudes)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.88",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿Qué materiales se utilizan en esta pulsera de rosario?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La pulsera está fabricada con cuentas de vidrio y cristal e incluye colgantes temáticos de la Virgen María, Jesús y la cruz."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué colores y longitudes están disponibles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Se ofrece en negro, azul, rosa, rojo y blanco. Cada color está disponible en longitud regular y extendida, para un total de ocho variantes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Los colgantes son fijos o desmontables?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Los datos del producto no especifican si los colgantes son fijos o desmontables. Contáctenos para obtener detalles sobre la construcción."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:12.121Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "200802cb3e4c98041089fb3c3a165c48a7c1bbd5f30e53acc6e95c9113f4c009",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:37:11.598Z",
             "model": "deepseek-v4-flash"
           }
         }

@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "it",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a8e85eb36a14c03826e1a03d07cf01c288e27ee89a5d63ea92727bb534fde794",
-  "generatedAt": "2026-10-18T17:04:41.337Z",
+  "sourceCatalogHash": "5b9d005dfb248524c6617607ad567067461453285b4bbdc81e15baa4a15c62a1",
+  "generatedAt": "2026-10-19T19:37:12.601Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFNTG7BAOVioqqEY6enmEhC",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,32 +39,33 @@
     "brooch": "Spilla",
     "uncategorized": "Non categorizzato"
   },
-  "categoryGlossarySourceHash": "4a86757abd72447c98bb9c8f6706ce10a440e73eb1a0f384ce13d0de0da8aba2",
+  "categoryGlossarySourceHash": "5ea453f4898973f6927766e0e346b2065451c612ec6cbd9e1713f5f7020b6cf2",
   "translationSummary": {
-    "ready": 928,
+    "ready": 938,
     "skipped": 2,
     "skippedProductIds": [
       "AAG2TG7BAOVioqqEY6evaYQW",
       "AAFNTG7BAOVioqqEY6enmEhC"
     ],
-    "reused": 919,
-    "generated": 9,
+    "reused": 928,
+    "generated": 10,
     "generatedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 7,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 1,
+    "retriedBacklog": 2,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -827,11 +828,11 @@
   ],
   "translationRetries": {
     "AAG2TG7BAOVioqqEY6evaYQW": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     },
     "AAFNTG7BAOVioqqEY6enmEhC": {
-      "count": 1,
+      "count": 2,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     }
   },
@@ -217405,6 +217406,2734 @@
             "contentHash": "2213900505abdcd922095d77d4ec703eee85d172c60833e0270926ec2b147237",
             "attempts": 1,
             "updatedAt": "2026-10-18T17:04:41.333Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceFingerprint": "e3ecd2368a3a82ba31d6bf0c1512363bbefba2c16f5900d62dfe4968a4c0f99b",
+      "locale": "it",
+      "slug": "hematite-orthodox-icon-bracelet-e5binb",
+      "title": "Bracciale con icona ortodossa in ematite",
+      "eyebrow": "Bracciale in perline di ematite con medaglia a goccia d'olio in lega e icona di santo",
+      "summary": "Le perline di ematite incontrano una montatura arrotondata a goccia d'olio in lega che porta un ritratto di santo, conferendo a questo bracciale devozionale il suo aspetto metallico scuro e il punto focale centrato sull'icona. È offerto nelle varianti Black-1 e Black-2 e si inserisce nella categoria dei gioielli religiosi come pezzo indossabile con icona di santo.",
+      "description": "Piccole perline di ematite formano il filo di questo bracciale con icona ortodossa, la cui superficie metallica grigio-nera contrasta con la forma liscia a goccia d'olio della medaglia in lega. Un ritratto di santo riempie la faccia della medaglia, rendendo l'immagine il centro del design e non un elemento accessorio.\n\nPresentato nell'annuncio originale come gioiello devozionale con ritratto di santo, il bracciale è offerto in due varianti, Black-1 e Black-2. Gli acquirenti che scelgono tra le due dovrebbero confermare quale ritratto e finitura caratterizzi ciascuna variante prima di ordinare, poiché l'annuncio identifica le varianti solo con queste etichette.",
+      "catholicContext": "La pietà popolare cattolica include gioielli devozionali e medaglie indossati come promemoria personale della fede; tali oggetti sono articoli devozionali e non sacramentali, a meno che non siano benedetti dalla Chiesa.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracciali rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+      "imageAlt": "Bracciale con icona ortodossa in ematite",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+          "alt": "Bracciale con icona ortodossa in ematite"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0600b17ae79a4bd69eeaa12ebcfefe070.webp",
+          "alt": "Bracciale con icona ortodossa in ematite"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.webp",
+          "alt": "Bracciale con icona ortodossa in ematite"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc5bb635c17214b988110fba3fe8293c1J.webp",
+          "alt": "Bracciale con icona ortodossa in ematite"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H21fe9a1e791d4959afbb8aa369902b31H.webp",
+          "alt": "Bracciale con icona ortodossa in ematite"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb5420080172e4cc6ab6a3bd66a82555cG.webp",
+          "alt": "Bracciale con icona ortodossa in ematite - black-1",
+          "label": "black-1",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4c9f8692907049de9415bc02fafb2c12y.webp",
+          "alt": "Bracciale con icona ortodossa in ematite - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--2"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Filo di perline di ematite",
+        "Medaglia in lega a forma di goccia d'olio",
+        "Design con icona e ritratto di santo",
+        "Due varianti: Black-1 e Black-2",
+        "Raggruppato nella categoria bracciali rosario nell'annuncio originale"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Perline di ematite con medaglia in lega"
+        },
+        {
+          "name": "Forma della medaglia",
+          "value": "Goccia d'olio"
+        },
+        {
+          "name": "Design",
+          "value": "Ritratto di icona ortodossa di santo"
+        },
+        {
+          "name": "Varianti",
+          "value": "Black-1, Black-2"
+        }
+      ],
+      "applications": [
+        "Uso devozionale personale",
+        "Regali religiosi",
+        "Approvvigionamento di assortimenti di bracciali per negozi di articoli religiosi"
+      ],
+      "faq": [
+        {
+          "question": "Quali materiali sono utilizzati nel Bracciale con icona ortodossa in ematite?",
+          "answer": "Il bracciale è realizzato con perline di ematite e una medaglia in lega a forma di goccia d'olio con un ritratto di santo, come descritto nell'annuncio del prodotto."
+        },
+        {
+          "question": "Quali varianti sono disponibili?",
+          "answer": "Sono elencate due varianti, Black-1 e Black-2. I dettagli del ritratto e della finitura per ciascuna variante non sono specificati nei dati di prodotto forniti, quindi è necessario confermarli con noi prima di ordinare."
+        },
+        {
+          "question": "Questo bracciale è un rosario?",
+          "answer": "È elencato nella categoria bracciali rosario, ma è descritto come bracciale con icona ortodossa piuttosto che come rosario con grani e crocifisso. Contattaci per dettagli specifici sulla sua costruzione."
+        }
+      ],
+      "pricing": {
+        "price": "0.55",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.32",
+          "max": "0.55"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracciale con icona ortodossa in ematite",
+          "description": "Le perline di ematite incontrano una montatura arrotondata a goccia d'olio in lega che porta un ritratto di santo, conferendo a questo bracciale devozionale il suo aspetto metallico scuro e il punto focale centrato sull'icona. È offerto nelle varianti Black-1 e Black-2 e si inserisce nella categoria dei gioielli religiosi come pezzo indossabile con icona di santo.",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcc89be8f26a54d01a955b6460329c03da.png",
+            "https://sc04.alicdn.com/kf/H0600b17ae79a4bd69eeaa12ebcfefe070.png",
+            "https://sc04.alicdn.com/kf/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.png",
+            "https://sc04.alicdn.com/kf/Hc5bb635c17214b988110fba3fe8293c1J.png",
+            "https://sc04.alicdn.com/kf/H21fe9a1e791d4959afbb8aa369902b31H.png"
+          ],
+          "category": "Bracciali rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Perline di ematite con medaglia in lega"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma della medaglia",
+              "value": "Goccia d'olio"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Ritratto di icona ortodossa di santo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varianti",
+              "value": "Black-1, Black-2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.55",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.32",
+              "maxPrice": "0.55",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quali materiali sono utilizzati nel Bracciale con icona ortodossa in ematite?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il bracciale è realizzato con perline di ematite e una medaglia in lega a forma di goccia d'olio con un ritratto di santo, come descritto nell'annuncio del prodotto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali varianti sono disponibili?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sono elencate due varianti, Black-1 e Black-2. I dettagli del ritratto e della finitura per ciascuna variante non sono specificati nei dati di prodotto forniti, quindi è necessario confermarli con noi prima di ordinare."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Questo bracciale è un rosario?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "È elencato nella categoria bracciali rosario, ma è descritto come bracciale con icona ortodossa piuttosto che come rosario con grani e crocifisso. Contattaci per dettagli specifici sulla sua costruzione."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:42.229Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "3d64dfe3da33a6816933af1a2d155b626546d27e357566728a4bb4ce12511aea",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:29.264Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceFingerprint": "d4323b8bc0c3a5c5ab42489d5dd6c6379cc9b601eb638c449ca006b7b3b1bbb2",
+      "locale": "it",
+      "slug": "saint-benedict-portrait-charm-bracelet-with-knot-design-evbsed",
+      "title": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi",
+      "eyebrow": "Bracciale cattolico con ciondolo ritratto di santo e design a nodi concentrici",
+      "summary": "Un bracciale in lega di zinco con un ciondolo rotondo ritratto di San Benedetto e un design a nodi concentrici. È disponibile in due varianti di colore, tono oro e tono argento, ed è classificato per assortimenti di bracciali rosario. Lo stile unisex e il ciondolo ritratto lo rendono un accessorio devozionale per esposizioni retail o uso personale.",
+      "description": "Questo bracciale abbina un ciondolo rotondo ritratto di San Benedetto a un design a nodi concentrici in lega di zinco. Il ciondolo ritratto funge da punto focale visivo, mentre il motivo a nodi aggiunge texture alla fascia. Sono disponibili due opzioni di colore: tono oro e tono argento. Il bracciale è unisex ed è classificato tra i bracciali rosario, rendendolo adatto per assortimenti di gioielleria devozionale o per collezioni personali. Non sono specificati ulteriori dettagli costruttivi.",
+      "catholicContext": "Il Catechismo cattolico annovera le medaglie e il Rosario tra le forme di pietà popolare che accompagnano la vita sacramentale; questo bracciale presenta un ciondolo ritratto di San Benedetto, ma non è implicita alcuna benedizione o effetto spirituale.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracciali rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+      "imageAlt": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+          "alt": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0aa414c838e04a80a5555f716d6a0eafQ.webp",
+          "alt": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9a1ab462614dfb941979f715cb8093o.webp",
+          "alt": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H799b99b026a54375a2d858a9248810b3o.webp",
+          "alt": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haafc857f0fe24a3bac1725643eaf0fa55.webp",
+          "alt": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4f57991730c54639ab0e3cf901b5fe5az.webp",
+          "alt": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H277d2d5f55c842e0bcbe779174aa271ag.webp",
+          "alt": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi - portrait-round-pendant-concentric-knot-bracelet-silver",
+          "label": "portrait-round-pendant-concentric-knot-bracelet-silver",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbc60e136d11e451d864e9931ab324078L.webp",
+          "alt": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi - portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "label": "portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Ciondolo rotondo ritratto raffigurante San Benedetto",
+        "Design a nodi concentrici integrato nel bracciale",
+        "Realizzato in lega di zinco",
+        "Disponibile nelle varianti tono oro e tono argento",
+        "Stile unisex"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Lega di zinco"
+        },
+        {
+          "name": "Forma del ciondolo",
+          "value": "Ritratto rotondo"
+        },
+        {
+          "name": "Motivo del design",
+          "value": "Nodo concentrico"
+        },
+        {
+          "name": "Varianti",
+          "value": "Tono oro, tono argento"
+        },
+        {
+          "name": "Genere",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Assortimenti di bracciali rosario",
+        "Esposizioni retail di gioielleria devozionale",
+        "Uso personale come accessorio cattolico"
+      ],
+      "faq": [
+        {
+          "question": "Di che materiale è fatto il bracciale di San Benedetto?",
+          "answer": "Il bracciale è realizzato in lega di zinco, come indicato nelle specifiche del prodotto."
+        },
+        {
+          "question": "Quali opzioni di colore sono disponibili per questo bracciale?",
+          "answer": "È disponibile in due varianti: tono oro e tono argento."
+        },
+        {
+          "question": "Il bracciale presenta un elemento di design specifico?",
+          "answer": "Sì, presenta un design a nodi concentrici e un ciondolo rotondo ritratto di San Benedetto."
+        }
+      ],
+      "pricing": {
+        "price": "2.02",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.46",
+          "max": "2.02"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracciale con ciondolo ritratto di San Benedetto e design a nodi",
+          "description": "Un bracciale in lega di zinco con un ciondolo rotondo ritratto di San Benedetto e un design a nodi concentrici. È disponibile in due varianti di colore, tono oro e tono argento, ed è classificato per assortimenti di bracciali rosario. Lo stile unisex e il ciondolo ritratto lo rendono un accessorio devozionale per esposizioni retail o uso personale.",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdea22dc4ebaf416d993110b987c1a45eq.jpg",
+            "https://sc04.alicdn.com/kf/H0aa414c838e04a80a5555f716d6a0eafQ.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9a1ab462614dfb941979f715cb8093o.jpg",
+            "https://sc04.alicdn.com/kf/H799b99b026a54375a2d858a9248810b3o.jpg",
+            "https://sc04.alicdn.com/kf/Haafc857f0fe24a3bac1725643eaf0fa55.jpg",
+            "https://sc04.alicdn.com/kf/H4f57991730c54639ab0e3cf901b5fe5az.jpg"
+          ],
+          "category": "Bracciali rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Lega di zinco"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma del ciondolo",
+              "value": "Ritratto rotondo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motivo del design",
+              "value": "Nodo concentrico"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varianti",
+              "value": "Tono oro, tono argento"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Genere",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.02",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.46",
+              "maxPrice": "2.02",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di che materiale è fatto il bracciale di San Benedetto?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il bracciale è realizzato in lega di zinco, come indicato nelle specifiche del prodotto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali opzioni di colore sono disponibili per questo bracciale?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "È disponibile in due varianti: tono oro e tono argento."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Il bracciale presenta un elemento di design specifico?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, presenta un design a nodi concentrici e un ciondolo rotondo ritratto di San Benedetto."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:39.725Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "34b0550ac96fbcf528d753a638893fd1efe6cf777acb94723aa1abf66d150cf3",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:33.648Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceFingerprint": "61b2d7e3356a73b18c3dc7963677a4ddad1789a18501cc132b5b183b57051bbe",
+      "locale": "it",
+      "slug": "st-michael-archangel-pendant-necklace-evsz32",
+      "title": "Collana con ciondolo di San Michele Arcangelo",
+      "eyebrow": "Collana con ciondolo di San Michele Arcangelo",
+      "summary": "Una collana con ciondolo di San Michele Arcangelo pensata per uomo, disponibile in finitura oro, acciaio o nero e come ciondolo singolo o con collana. La costruzione in acciaio inossidabile è adatta all'uso quotidiano e agli assortimenti all'ingrosso di gioielleria religiosa.",
+      "description": "Questa collana con ciondolo di San Michele Arcangelo offre ai rivenditori un'opzione di gioielleria devozionale per uomo. Il ciondolo raffigura San Michele Arcangelo ed è disponibile in sei varianti: collana oro, ciondolo singolo oro, collana acciaio, ciondolo singolo acciaio, ciondolo singolo nero e collana nera.\n\nLa costruzione in acciaio inossidabile rende il ciondolo adatto all'uso regolare. Gli acquirenti possono scegliere le versioni solo ciondolo per la sostituzione o l'abbinamento con una catena personalizzata, oppure selezionare un set con collana pronto per l'esposizione. Le finiture oro, acciaio e nera offrono look distinti all'interno di un'unica linea all'ingrosso.",
+      "catholicContext": "Il Catechismo cattolico annovera le medaglie tra le devozioni popolari che circondano la vita sacramentale, sebbene una medaglia destinata alla vendita non sia di per sé un sacramentale, a meno che non venga benedetta.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Collane moda",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+      "imageAlt": "Collana con ciondolo di San Michele Arcangelo",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H66c3a23db07f4839a58e942ce6594368h.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2f110b1fcd8144b687b778648b449fcdo.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdae2836afbfc45a0966e78005d1b47f0O.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2e19b52179064160bd7704c014bf88f8E.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9fde2232964a8ebcf7193a9ca0b82eq.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H57331c582f9145f6b66fa811285bea32O.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo - collana nera",
+          "label": "black-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5e978dd19295411cab94d17d5b2c56491.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo - collana acciaio",
+          "label": "steel-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2af800dce72c4466ab33138fc8722fb8G.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo - ciondolo singolo acciaio",
+          "label": "steel-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1de99a6362664f3ba3c9e661291d3dd0y.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo - collana oro",
+          "label": "gold-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H883797df6113451b9045aab40ff0fd8aw.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo - ciondolo singolo oro",
+          "label": "gold-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfe57aaddbed64e838e0d5df541fbfc26Q.webp",
+          "alt": "Collana con ciondolo di San Michele Arcangelo - ciondolo singolo nero",
+          "label": "black-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--5"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Design con ciondolo di San Michele Arcangelo",
+        "Costruzione in acciaio inossidabile",
+        "Stile di gioielleria religiosa per uomo",
+        "Disponibile come solo ciondolo o con collana",
+        "Opzioni di finitura oro, acciaio e nera",
+        "Sei varianti tra finitura e configurazione"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Acciaio inossidabile"
+        },
+        {
+          "name": "Design",
+          "value": "San Michele Arcangelo"
+        },
+        {
+          "name": "Varianti",
+          "value": "Collana oro, ciondolo singolo oro, collana acciaio, ciondolo singolo acciaio, ciondolo singolo nero, collana nera"
+        },
+        {
+          "name": "Categoria",
+          "value": "Collane moda"
+        }
+      ],
+      "applications": [
+        "Vendita al dettaglio di gioielleria religiosa per uomo",
+        "Assortimenti all'ingrosso di ciondoli devozionali",
+        "Sostituzione con solo ciondolo o abbinamento con catena personalizzata",
+        "Selezione di regali per uomini cattolici"
+      ],
+      "faq": [
+        {
+          "question": "Di che materiale è realizzato il ciondolo di San Michele Arcangelo?",
+          "answer": "Il ciondolo è realizzato in acciaio inossidabile, secondo le specifiche del prodotto."
+        },
+        {
+          "question": "Quali varianti sono disponibili per questo ciondolo?",
+          "answer": "Il ciondolo è disponibile in sei varianti: collana oro, ciondolo singolo oro, collana acciaio, ciondolo singolo acciaio, ciondolo singolo nero e collana nera."
+        },
+        {
+          "question": "Il ciondolo è disponibile senza collana?",
+          "answer": "Sì, le varianti ciondolo singolo oro, ciondolo singolo acciaio e ciondolo singolo nero sono opzioni solo ciondolo. Le varianti collana includono una catena."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "1.30"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collana con ciondolo di San Michele Arcangelo",
+          "description": "Una collana con ciondolo di San Michele Arcangelo pensata per uomo, disponibile in finitura oro, acciaio o nero e come ciondolo singolo o con collana. La costruzione in acciaio inossidabile è adatta all'uso quotidiano e agli assortimenti all'ingrosso di gioielleria religiosa.",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+          "image": [
+            "https://sc04.alicdn.com/kf/H807494b20657480e89258156a7edf1d9C.jpg",
+            "https://sc04.alicdn.com/kf/H66c3a23db07f4839a58e942ce6594368h.jpg",
+            "https://sc04.alicdn.com/kf/H2f110b1fcd8144b687b778648b449fcdo.jpg",
+            "https://sc04.alicdn.com/kf/Hdae2836afbfc45a0966e78005d1b47f0O.jpg",
+            "https://sc04.alicdn.com/kf/H2e19b52179064160bd7704c014bf88f8E.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9fde2232964a8ebcf7193a9ca0b82eq.jpg"
+          ],
+          "category": "Collane moda",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Acciaio inossidabile"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "San Michele Arcangelo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varianti",
+              "value": "Collana oro, ciondolo singolo oro, collana acciaio, ciondolo singolo acciaio, ciondolo singolo nero, collana nera"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Categoria",
+              "value": "Collane moda"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "1.30",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di che materiale è realizzato il ciondolo di San Michele Arcangelo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il ciondolo è realizzato in acciaio inossidabile, secondo le specifiche del prodotto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali varianti sono disponibili per questo ciondolo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il ciondolo è disponibile in sei varianti: collana oro, ciondolo singolo oro, collana acciaio, ciondolo singolo acciaio, ciondolo singolo nero e collana nera."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Il ciondolo è disponibile senza collana?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì, le varianti ciondolo singolo oro, ciondolo singolo acciaio e ciondolo singolo nero sono opzioni solo ciondolo. Le varianti collana includono una catena."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:47.757Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "101214b233a89fa262fdd6b98766e923a59a50ddeff54efd6a17b42e7e857b45",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:38.048Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceFingerprint": "004dd5177f082c66c35b386d00b5975d3aa370d90f91bd88b96b1ae218a35a76",
+      "locale": "it",
+      "slug": "stainless-steel-embossed-key-pendant-necklace-evbfp0",
+      "title": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi",
+      "eyebrow": "collana con ciondolo a chiave in acciaio inossidabile",
+      "summary": "Una collana con ciondolo a chiave in acciaio inossidabile rifinita in oro opaco o argento, con dettagli in rilievo su tutto il ciondolo a chiave. La gamma comprende sette modelli di chiave, da YE-21 a YE-27, ciascuno disponibile in entrambe le finiture e proposto come gioiello vintage unisex.",
+      "description": "L'acciaio inossidabile costituisce il corpo di questa collana con ciondolo a chiave, e il ciondolo presenta un motivo in rilievo anziché una superficie liscia. Ogni ciondolo è disponibile in oro opaco o argento, così gli acquirenti possono ordinare l'una o l'altra finitura all'interno dello stesso modello.\n\nLa gamma comprende sette forme di chiave, indicate da YE-21 a YE-27, offrendo a un assortimento all'ingrosso diverse opzioni di silhouette con un'unica costruzione e proposta di finiture. Il ciondolo a chiave è proposto come gioiello vintage unisex, adatto a un merchandising misto. Scegliete modelli e finiture per linea al momento di comporre un ordine.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessori",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+      "imageAlt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4d5b442a583345bd81f57d77b2663cecz.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb590cbf4af37405fb03f9540c4527e0d5.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1aacdffbdb3d4931a4588dcbc5b80c1fr.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5d3961f4984241d09121b14f932e3a778.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had36ed420ca045519d9587d4e7c5c9a5J.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1662c7049c8645f7aa404b77ca28da50p.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-25-silver",
+          "label": "ye-25-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hde3070a700284384a335a3f35bcd7ca6G.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-25-gold",
+          "label": "ye-25-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1116bc965d3c4b159c656ce0c791d305n.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-24-silver",
+          "label": "ye-24-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc78dab51f8af4691b2773eaa41a54d320.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-24-gold",
+          "label": "ye-24-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hda1e48e16764402a93cf21f2e49fb1ea0.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-27-silver",
+          "label": "ye-27-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc65429c1020e4c35a5e1a1eb3e591b4cY.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-27-gold",
+          "label": "ye-27-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H37248617f2eb40f4ab5a76a106d72d4ak.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-21-silver",
+          "label": "ye-21-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4e05bb7087f144c294f890cd7a046accf.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-21-gold",
+          "label": "ye-21-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H52406ffa885740afb7328c0f159ee7ee9.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-23-silver",
+          "label": "ye-23-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H271e06fa4d66425ba64e09deb580f8308.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-23-gold",
+          "label": "ye-23-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H8c5fe5b785c747d2bf5edc2d26286b5e3.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-22-silver",
+          "label": "ye-22-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H81fb0a50cc72436788963ebec0a6234d8.webp",
+          "alt": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi - ye-22-gold",
+          "label": "ye-22-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--4"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Collana con ciondolo a chiave in acciaio inossidabile",
+        "Dettagli in rilievo sul ciondolo a chiave",
+        "Finiture disponibili in oro opaco e argento",
+        "Sette modelli di chiave: YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27",
+        "Ogni modello disponibile in oro e argento",
+        "Gioiello vintage unisex"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Acciaio inossidabile"
+        },
+        {
+          "name": "Tipo di ciondolo",
+          "value": "Ciondolo a chiave"
+        },
+        {
+          "name": "Dettaglio superficiale",
+          "value": "In rilievo"
+        },
+        {
+          "name": "Opzioni di finitura",
+          "value": "Oro opaco; argento"
+        },
+        {
+          "name": "Riferimenti dei modelli",
+          "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+        },
+        {
+          "name": "Struttura delle varianti",
+          "value": "Ogni modello in oro e argento"
+        },
+        {
+          "name": "Destinatario",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Assortimento di gioielli all'ingrosso",
+        "Esposizione al dettaglio di collane in stile vintage",
+        "Merchandising di accessori unisex",
+        "Selezione di ciondoli a motivo chiave per modello e finitura"
+      ],
+      "faq": [
+        {
+          "question": "Di quale materiale è fatta la collana con ciondolo a chiave?",
+          "answer": "La collana con ciondolo a chiave è realizzata in acciaio inossidabile, con dettagli in rilievo sul ciondolo a chiave."
+        },
+        {
+          "question": "Quanti modelli di chiave sono disponibili?",
+          "answer": "Sono disponibili sette modelli di chiave, indicati da YE-21 a YE-27."
+        },
+        {
+          "question": "Quali finiture posso ordinare?",
+          "answer": "Ogni modello di chiave è disponibile in oro opaco o argento, per un totale di quattordici combinazioni modello-finiture nella gamma."
+        }
+      ],
+      "pricing": {
+        "price": "0.38",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.38",
+          "max": "0.67"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collana con ciondolo a chiave in acciaio inossidabile con rilievi",
+          "description": "Una collana con ciondolo a chiave in acciaio inossidabile rifinita in oro opaco o argento, con dettagli in rilievo su tutto il ciondolo a chiave. La gamma comprende sette modelli di chiave, da YE-21 a YE-27, ciascuno disponibile in entrambe le finiture e proposto come gioiello vintage unisex.",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+          "image": [
+            "https://sc04.alicdn.com/kf/H3ed56730450848fea80c873e577ef82aQ.jpg",
+            "https://sc04.alicdn.com/kf/H4d5b442a583345bd81f57d77b2663cecz.jpg",
+            "https://sc04.alicdn.com/kf/Hb590cbf4af37405fb03f9540c4527e0d5.jpg",
+            "https://sc04.alicdn.com/kf/H1aacdffbdb3d4931a4588dcbc5b80c1fr.jpg",
+            "https://sc04.alicdn.com/kf/H5d3961f4984241d09121b14f932e3a778.jpg",
+            "https://sc04.alicdn.com/kf/Had36ed420ca045519d9587d4e7c5c9a5J.jpg"
+          ],
+          "category": "Accessori",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Acciaio inossidabile"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo di ciondolo",
+              "value": "Ciondolo a chiave"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dettaglio superficiale",
+              "value": "In rilievo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opzioni di finitura",
+              "value": "Oro opaco; argento"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Riferimenti dei modelli",
+              "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Struttura delle varianti",
+              "value": "Ogni modello in oro e argento"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Destinatario",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.38",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.38",
+              "maxPrice": "0.67",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di quale materiale è fatta la collana con ciondolo a chiave?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La collana con ciondolo a chiave è realizzata in acciaio inossidabile, con dettagli in rilievo sul ciondolo a chiave."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quanti modelli di chiave sono disponibili?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sono disponibili sette modelli di chiave, indicati da YE-21 a YE-27."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali finiture posso ordinare?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ogni modello di chiave è disponibile in oro opaco o argento, per un totale di quattordici combinazioni modello-finiture nella gamma."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:45.515Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "c7dfd3402355884e27ebf3251d1a967d54962dfb915dda2ae2034c440c26368d",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:43.183Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceFingerprint": "9ebab8cd61ba0b008dd94c19be6fa8b017e8c3abca9954b347a88c62d6c573ba",
+      "locale": "it",
+      "slug": "gold-plated-rhinestone-pendant-necklace-60cm-chain-evsfpx",
+      "title": "Collana con pendente in strass placcato oro, catena 60 cm",
+      "eyebrow": "Collana con pendente in acciaio al titanio con catena a perle quadrata opzionale",
+      "summary": "Una collana con pendente in acciaio al titanio offerta in due stili di pendente: un pendente a diamante impreziosito da strass o un pendente liscio lucido, ciascuno con finitura placcata oro o acciaio. Gli acquirenti possono abbinare un pendente a una catena a perle quadrata da 3,0 mm in oro o acciaio, tagliata a 60 cm, oppure ordinare i pendenti da soli.",
+      "description": "Questa collana con pendente è costruita attorno a una catena a perle quadrata da 3,0 mm che misura 60 cm, disponibile con finitura oro o acciaio. Il pendente è disponibile in quattro versioni: un pendente a diamante impreziosito da strass o un pendente liscio lucido, ciascuno con finitura placcata oro o acciaio.\n\nI pendenti possono essere ordinati singolarmente senza catena, così gli acquirenti possono comporre le proprie combinazioni o riassortire gli stili di pendente separatamente dalle catene. Tutte le varianti di catena e pendente condividono lo stesso spessore della catena a perle quadrata e la lunghezza di 60 cm, il che mantiene dimensioni coerenti in un ordine misto.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Collane moda",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+      "imageAlt": "Collana con pendente in strass placcato oro, catena 60 cm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He25f1d019a504490b7e3cb4a03ffae0d9.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1dd5ebb1c2444928a08e397ea352d3b1U.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc0d8b010101e4bf6a56d9466dd697e93v.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had5889308e734e07be1262d7c3405982H.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hccee46ae10ab4e5e989244c414b3db3bd.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc7d22e6ceb64ce18fa195b3540f4a92V.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm - pendente singolo diamante oro",
+          "label": "pendente singolo diamante oro",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H521cbaa0cf1b4225a2ef135bf7fb1721i.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm - pendente singolo diamante acciaio",
+          "label": "pendente singolo diamante acciaio",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbea5891ae5c546af8e7295058a24e880s.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm - pendente singolo lucido oro",
+          "label": "pendente singolo lucido oro",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf780c965233c4b508e44c0c088dc8771U.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm - pendente singolo lucido acciaio",
+          "label": "pendente singolo lucido acciaio",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf14f96621734d5199f4894118e949d1N.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm - catena a perle quadrata acciaio 3,0-60 cm",
+          "label": "catena a perle quadrata acciaio 3,0-60 cm",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5572ccb5ab63484eb67a536835a283d5W.webp",
+          "alt": "Collana con pendente in strass placcato oro, catena 60 cm - catena a perle quadrata oro 3,0-60 cm",
+          "label": "catena a perle quadrata oro 3,0-60 cm",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--5"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Pendente in due stili: pendente a diamante impreziosito da strass o pendente liscio lucido",
+        "Opzioni di finitura del pendente: placcato oro o acciaio",
+        "Catena a perle quadrata da 3,0 mm, oro o acciaio",
+        "Lunghezza della catena: 60 cm",
+        "Pendenti disponibili singolarmente senza catena"
+      ],
+      "specifications": [
+        {
+          "name": "Stile della catena",
+          "value": "Catena a perle quadrata"
+        },
+        {
+          "name": "Spessore della catena",
+          "value": "3,0 mm"
+        },
+        {
+          "name": "Lunghezza della catena",
+          "value": "60 cm"
+        },
+        {
+          "name": "Finiture della catena",
+          "value": "Oro; acciaio"
+        },
+        {
+          "name": "Stili del pendente",
+          "value": "Pendente a diamante in strass; pendente liscio lucido"
+        },
+        {
+          "name": "Finiture del pendente",
+          "value": "Placcato oro; acciaio"
+        },
+        {
+          "name": "Materiale di base",
+          "value": "Acciaio al titanio"
+        },
+        {
+          "name": "Opzioni unità",
+          "value": "Pendente con catena; pendente singolo"
+        }
+      ],
+      "applications": [
+        "Vendita al dettaglio di gioielli in stile hip hop e streetwear",
+        "Composizione fai-da-te di collane e sostituzione dei pendenti"
+      ],
+      "faq": [
+        {
+          "question": "Quali sono la lunghezza e lo spessore della catena della collana?",
+          "answer": "La catena a perle quadrata ha uno spessore di 3,0 mm ed è lunga 60 cm, con finitura oro o acciaio."
+        },
+        {
+          "question": "Posso ordinare i pendenti senza la catena?",
+          "answer": "Sì. Le varianti di pendente sono elencate singolarmente, separate dalle opzioni di catena da 3,0 × 60 cm."
+        },
+        {
+          "question": "Quante varianti di pendente ci sono?",
+          "answer": "Quattro: diamante oro, lucido oro, diamante acciaio e lucido acciaio. Le versioni diamante sono impreziosite da strass; le versioni lucide sono lisce."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "3.19"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collana con pendente in strass placcato oro, catena 60 cm",
+          "description": "Una collana con pendente in acciaio al titanio offerta in due stili di pendente: un pendente a diamante impreziosito da strass o un pendente liscio lucido, ciascuno con finitura placcata oro o acciaio. Gli acquirenti possono abbinare un pendente a una catena a perle quadrata da 3,0 mm in oro o acciaio, tagliata a 60 cm, oppure ordinare i pendenti da soli.",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H9f70e950c96544f0aa5c1f38fb162ed1k.jpg",
+            "https://sc04.alicdn.com/kf/He25f1d019a504490b7e3cb4a03ffae0d9.jpg",
+            "https://sc04.alicdn.com/kf/H1dd5ebb1c2444928a08e397ea352d3b1U.jpg",
+            "https://sc04.alicdn.com/kf/Hc0d8b010101e4bf6a56d9466dd697e93v.jpg",
+            "https://sc04.alicdn.com/kf/Had5889308e734e07be1262d7c3405982H.jpg",
+            "https://sc04.alicdn.com/kf/Hccee46ae10ab4e5e989244c414b3db3bd.jpg"
+          ],
+          "category": "Collane moda",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Stile della catena",
+              "value": "Catena a perle quadrata"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spessore della catena",
+              "value": "3,0 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lunghezza della catena",
+              "value": "60 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finiture della catena",
+              "value": "Oro; acciaio"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stili del pendente",
+              "value": "Pendente a diamante in strass; pendente liscio lucido"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finiture del pendente",
+              "value": "Placcato oro; acciaio"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale di base",
+              "value": "Acciaio al titanio"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opzioni unità",
+              "value": "Pendente con catena; pendente singolo"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "3.19",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quali sono la lunghezza e lo spessore della catena della collana?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La catena a perle quadrata ha uno spessore di 3,0 mm ed è lunga 60 cm, con finitura oro o acciaio."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Posso ordinare i pendenti senza la catena?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì. Le varianti di pendente sono elencate singolarmente, separate dalle opzioni di catena da 3,0 × 60 cm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quante varianti di pendente ci sono?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Quattro: diamante oro, lucido oro, diamante acciaio e lucido acciaio. Le versioni diamante sono impreziosite da strass; le versioni lucide sono lisce."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:10.973Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "cdf34fa225321a2311800a9e7fbbdfae1578eea068da6f9d6841adb8e815ed0c",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:47.891Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceFingerprint": "debee61d7511dba0eb16cae06bdee3ba5705bfe1f6ab199c5a7c0c1baa3196de",
+      "locale": "it",
+      "slug": "cartoon-waterproof-paper-stickers-50-piece-set-evo6x2",
+      "title": "Adesivi in carta impermeabili a fumetti, set da 50 pezzi",
+      "eyebrow": "Set di adesivi e decalcomanie in carta a fumetti",
+      "summary": "Un set da 50 adesivi in stile fumetto di dimensioni comprese tra 4 e 6 cm, stampati su carta con finitura impermeabile. Le decalcomanie possono essere applicate su quaderni, custodie per telefoni, skateboard e pagine di scrapbook per decorazioni fai-da-te quotidiane.",
+      "description": "Le illustrazioni in stile fumetto dai tratti liberi conferiscono a questo set da 50 adesivi il suo aspetto giocoso, con ogni decalcomania che misura 4–6 cm. La stampa digitale riporta l'illustrazione sulla carta e una finitura impermeabile aiuta l'adesivo a resistere sugli oggetti di uso quotidiano.\n\nIl set è adatto a piccoli lavori decorativi più che a pezzi da esposizione: quaderni, custodie per telefoni, skateboard e pagine di scrapbook accolgono tutti le decalcomanie. Gli acquirenti che cercano un assortimento pronto di adesivi a fumetti per lavori creativi e decorazione domestica possono ordinare la confezione da 50 pezzi così come fornita.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Decorazioni",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+      "imageAlt": "Adesivi in carta impermeabili a fumetti, set da 50 pezzi",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+          "alt": "Adesivi in carta impermeabili a fumetti, set da 50 pezzi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf7c10c436fa94667a5b30afbb5471a4d6.webp",
+          "alt": "Adesivi in carta impermeabili a fumetti, set da 50 pezzi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7860c5686e464687ac9bdc3f4125a9e0O.webp",
+          "alt": "Adesivi in carta impermeabili a fumetti, set da 50 pezzi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H60101040415a47df996a49b7fd1718f7F.webp",
+          "alt": "Adesivi in carta impermeabili a fumetti, set da 50 pezzi"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H11033a559ecc479488fb3d4a55a59a58M.webp",
+          "alt": "Adesivi in carta impermeabili a fumetti, set da 50 pezzi"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Set di 50 adesivi in stile fumetto",
+        "Ogni adesivo misura 4–6 cm",
+        "Stampati su carta con stampa digitale",
+        "Finitura impermeabile",
+        "Adesivi adesivi che possono essere applicati sulle superfici",
+        "Forniti dall'impresa di produzione TJMY"
+      ],
+      "specifications": [
+        {
+          "name": "Numero articolo",
+          "value": "T01042877"
+        },
+        {
+          "name": "Dimensione adesivo",
+          "value": "4–6 cm"
+        },
+        {
+          "name": "Quantità",
+          "value": "50 pezzi per set"
+        },
+        {
+          "name": "Materiale",
+          "value": "Carta"
+        },
+        {
+          "name": "Processo di stampa",
+          "value": "Stampa digitale"
+        },
+        {
+          "name": "Stile",
+          "value": "Fumetto"
+        },
+        {
+          "name": "Caratteristica",
+          "value": "Impermeabile"
+        },
+        {
+          "name": "Adesivo",
+          "value": "Applicabile"
+        },
+        {
+          "name": "Autorizzazione IP",
+          "value": "No"
+        },
+        {
+          "name": "Luogo di origine",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Decorazione di quaderni",
+        "Decorazione di custodie per telefoni",
+        "Decorazione di skateboard",
+        "Progetti di scrapbook e lavori creativi fai-da-te"
+      ],
+      "faq": [
+        {
+          "question": "Di che materiale sono fatti questi adesivi a fumetti?",
+          "answer": "Gli adesivi sono realizzati in carta con finitura impermeabile e l'illustrazione è applicata tramite stampa digitale."
+        },
+        {
+          "question": "Quanto è grande ogni adesivo nel set da 50 pezzi?",
+          "answer": "Ogni adesivo misura 4–6 cm e il set contiene 50 pezzi."
+        },
+        {
+          "question": "Questi adesivi sono disegni di personaggi ufficialmente autorizzati?",
+          "answer": "No. Le informazioni sul prodotto indicano che la proprietà intellettuale non è autorizzata, pertanto il set non deve essere considerato merce ufficiale di personaggi autorizzati."
+        }
+      ],
+      "pricing": {
+        "price": "0.81",
+        "regularPrice": "0.81",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.59",
+          "max": "0.81"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Adesivi in carta impermeabili a fumetti, set da 50 pezzi",
+          "description": "Un set da 50 adesivi in stile fumetto di dimensioni comprese tra 4 e 6 cm, stampati su carta con finitura impermeabile. Le decalcomanie possono essere applicate su quaderni, custodie per telefoni, skateboard e pagine di scrapbook per decorazioni fai-da-te quotidiane.",
+          "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb566f6faea1b4fef945db17c0e802b93m.jpg",
+            "https://sc04.alicdn.com/kf/Hf7c10c436fa94667a5b30afbb5471a4d6.jpg",
+            "https://sc04.alicdn.com/kf/H7860c5686e464687ac9bdc3f4125a9e0O.jpg",
+            "https://sc04.alicdn.com/kf/H60101040415a47df996a49b7fd1718f7F.jpg",
+            "https://sc04.alicdn.com/kf/H11033a559ecc479488fb3d4a55a59a58M.jpg"
+          ],
+          "category": "Decorazioni",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Numero articolo",
+              "value": "T01042877"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dimensione adesivo",
+              "value": "4–6 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Quantità",
+              "value": "50 pezzi per set"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Carta"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Processo di stampa",
+              "value": "Stampa digitale"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stile",
+              "value": "Fumetto"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Caratteristica",
+              "value": "Impermeabile"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Adesivo",
+              "value": "Applicabile"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Autorizzazione IP",
+              "value": "No"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Luogo di origine",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.81",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.59",
+              "maxPrice": "0.81",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di che materiale sono fatti questi adesivi a fumetti?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gli adesivi sono realizzati in carta con finitura impermeabile e l'illustrazione è applicata tramite stampa digitale."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quanto è grande ogni adesivo nel set da 50 pezzi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ogni adesivo misura 4–6 cm e il set contiene 50 pezzi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Questi adesivi sono disegni di personaggi ufficialmente autorizzati?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Le informazioni sul prodotto indicano che la proprietà intellettuale non è autorizzata, pertanto il set non deve essere considerato merce ufficiale di personaggi autorizzati."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:04.236Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "b7f4a8edc9a50bce3a7d9f767306473ef1a40e4ceafb6cf0d743424d1bf357a0",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:51.638Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceFingerprint": "f2aefb0d73a9a01bd533b867af2727fa02f3b2c25751312a6880ad3d1861d5a4",
+      "locale": "it",
+      "slug": "st-benedict-medal-leather-wrap-bracelet-evbksy",
+      "title": "Bracciale avvolgente in pelle con medaglia di San Benedetto",
+      "eyebrow": "Bracciale avvolgente in pelle con medaglia di San Benedetto",
+      "summary": "Questo bracciale avvolgente in pelle presenta una medaglia di San Benedetto su un cordoncino intrecciato con uno stile vintage punk a più strati. È disponibile nelle varianti di colore nero, blu, marrone e rosa. Il bracciale è progettato per uomo e donna e funziona come accessorio devozionale o gioiello quotidiano.",
+      "description": "Questo bracciale avvolgente combina una medaglia di San Benedetto con un cordoncino in pelle intrecciata in un design a più strati. Lo stile vintage punk gli conferisce un aspetto strutturato e casual che si differenzia da un semplice bracciale a catena. È disponibile in taglie per uomo e donna e in diverse varianti di colore, così gli acquirenti possono scegliere un tono adatto al gusto personale o coordinare un piccolo assortimento. La medaglia è l'elemento centrale, rendendo il bracciale un articolo devozionale riconoscibile oltre al suo ruolo di gioiello. Come articolo al dettaglio, è un'opzione distinta per i clienti che cercano un accessorio con medaglia di San Benedetto che non sia una tradizionale medaglia in metallo o una catena.",
+      "catholicContext": "Il Catechismo cattolico elenca le medaglie tra le forme di pietà popolare che circondano la vita sacramentale.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracciali rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+      "imageAlt": "Bracciale avvolgente in pelle con medaglia di San Benedetto",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6049c460daf040fab829377a8d025c56o.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc816f9cb6e6d4626aae5373d6ad803c33.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haf62351ce68a46808e1252bd3c31a81bh.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H00e3c243f0ad4267b129bc4ebaa9229bo.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd84c633a0f724c918179736ff5a955fcS.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - marrone-17",
+          "label": "marrone-17",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0107de3307df492fa56319983e266a65i.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - nero-18",
+          "label": "nero-18",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd6a926baa69e45ac84b04b5d36259673z.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - rosa-19",
+          "label": "rosa-19",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4479743d0f8c4b03aec710f3f2452c2ak.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - blu-20",
+          "label": "blu-20",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb6871ec81bf647b2b8644145673d1ffdp.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - marrone-13",
+          "label": "marrone-13",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9a222e84659e415081703bf8d4d3a16e1.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - nero-14",
+          "label": "nero-14",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H55f5154f8fef4718bd1a40283b0b0b65c.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - rosa-15",
+          "label": "rosa-15",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He2128143b5054e388e5d967ce7b214fct.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - blu-16",
+          "label": "blu-16",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd5de65cd8e114c95b612870da353ceebt.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - marrone-9",
+          "label": "marrone-9",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3761cebef3a441fc86d4b691e1707abeW.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - nero-10",
+          "label": "nero-10",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H09e8833edd7848479613522d0ccd61b23.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - rosa-11",
+          "label": "rosa-11",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb1a3b63a890f4b51b02d7db63de34784U.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - blu-12",
+          "label": "blu-12",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf48ae25ea7e45cda41f5c0025aaecaeX.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - marrone-5",
+          "label": "marrone-5",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0e2deeb5496443e89cf009b9919712bq.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - nero-6",
+          "label": "nero-6",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0d3082c7da5420ab7c8d653c7a1171f1.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - rosa-7",
+          "label": "rosa-7",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H98a994d323ee41d0897b6f9630efe529F.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - blu-8",
+          "label": "blu-8",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc4a66c3182b04675a1329933a6ad61aev.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - marrone-1",
+          "label": "marrone-1",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc67dfbc82fbb4a4c945c7e4b7a54fd47w.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - nero-2",
+          "label": "nero-2",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd4d51387b1cd4b34b54467bbfdb304eeo.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - rosa-3",
+          "label": "rosa-3",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf0846d70999048668d432e27d1ac9c09v.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - blu-4",
+          "label": "blu-4",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2b0639166e8e47f0a1805d4e61a61589g.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - marrone-25",
+          "label": "marrone-25",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0a17355894844d6b9c040694fb58c500a.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - nero-26",
+          "label": "nero-26",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3736e684bf254a419db856206d2136a9g.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - rosa-27",
+          "label": "rosa-27",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H03a89d2d2153472db5c3bdbff7b3f5a5p.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - blu-28",
+          "label": "blu-28",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H212ae41e40c74df5a8ee59ee1adbc2d03.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - marrone-21",
+          "label": "marrone-21",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6a811a0266cd4d39931ee17f2368ad95W.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - nero-22",
+          "label": "nero-22",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd28dfe41fad645fa988bc6ccbd61f5b6k.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - rosa-23",
+          "label": "rosa-23",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Ha799b9f03b834e47b9351fc13c347a24K.webp",
+          "alt": "Bracciale avvolgente in pelle con medaglia di San Benedetto - blu-24",
+          "label": "blu-24",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--24"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Medaglia di San Benedetto come elemento centrale",
+        "Cordoncino in pelle intrecciata",
+        "Design avvolgente a più strati",
+        "Stile vintage punk",
+        "Disponibile nelle varianti di colore nero, blu, marrone e rosa",
+        "Progettato per uomo e donna"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Pelle e cordoncino (materiale della medaglia non specificato)"
+        },
+        {
+          "name": "Design",
+          "value": "Avvolgente intrecciato, a più strati"
+        },
+        {
+          "name": "Varianti di colore",
+          "value": "Nero, blu, marrone, rosa"
+        },
+        {
+          "name": "Destinatario",
+          "value": "Uomo e donna"
+        }
+      ],
+      "applications": [
+        "Uso devozionale personale",
+        "Gioiello casual quotidiano",
+        "Regalo per un amico o familiare cattolico",
+        "Assortimento al dettaglio di accessori religiosi"
+      ],
+      "faq": [
+        {
+          "question": "Di che materiale è fatto il bracciale avvolgente in pelle con medaglia di San Benedetto?",
+          "answer": "Il bracciale utilizza un cordoncino in pelle intrecciata, ma il metallo o il materiale della medaglia stessa non è specificato nelle informazioni sul prodotto."
+        },
+        {
+          "question": "Quali opzioni di colore sono disponibili per questo bracciale?",
+          "answer": "Il bracciale è disponibile nelle varianti di colore nero, blu, marrone e rosa."
+        },
+        {
+          "question": "Questo bracciale è disponibile in taglie per uomo o donna?",
+          "answer": "Il bracciale è progettato per uomo e donna."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.47",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracciale avvolgente in pelle con medaglia di San Benedetto",
+          "description": "Questo bracciale avvolgente in pelle presenta una medaglia di San Benedetto su un cordoncino intrecciato con uno stile vintage punk a più strati. È disponibile nelle varianti di colore nero, blu, marrone e rosa. Il bracciale è progettato per uomo e donna e funziona come accessorio devozionale o gioiello quotidiano.",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+          "image": [
+            "https://sc04.alicdn.com/kf/H95f42ec3c8134a3e8b2fa3796e901cb7J.jpg",
+            "https://sc04.alicdn.com/kf/H6049c460daf040fab829377a8d025c56o.jpg",
+            "https://sc04.alicdn.com/kf/Hc816f9cb6e6d4626aae5373d6ad803c33.jpg",
+            "https://sc04.alicdn.com/kf/Haf62351ce68a46808e1252bd3c31a81bh.jpg",
+            "https://sc04.alicdn.com/kf/H00e3c243f0ad4267b129bc4ebaa9229bo.jpg"
+          ],
+          "category": "Bracciali rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Pelle e cordoncino (materiale della medaglia non specificato)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Avvolgente intrecciato, a più strati"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varianti di colore",
+              "value": "Nero, blu, marrone, rosa"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Destinatario",
+              "value": "Uomo e donna"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.47",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di che materiale è fatto il bracciale avvolgente in pelle con medaglia di San Benedetto?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il bracciale utilizza un cordoncino in pelle intrecciata, ma il metallo o il materiale della medaglia stessa non è specificato nelle informazioni sul prodotto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali opzioni di colore sono disponibili per questo bracciale?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il bracciale è disponibile nelle varianti di colore nero, blu, marrone e rosa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Questo bracciale è disponibile in taglie per uomo o donna?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il bracciale è progettato per uomo e donna."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:01.388Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "88e7a77648f39e581f84d3df0373552a76b40dc6389d9c6d023198b88f249329",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:57.501Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceFingerprint": "78a6d761e3165f7fa531ba1f696c9948d9f76d21a0fdc5ce9db93dcd0b58c7cb",
+      "locale": "it",
+      "slug": "oval-tee-pendant-zinc-alloy-rosary-charm-enxshy",
+      "title": "Ciondolo ovale a T in lega di zinco, charms per rosario",
+      "eyebrow": "Ciondolo ovale a T in lega di zinco, disponibile in diverse varianti di misura e peso",
+      "summary": "Questo ciondolo ovale a T è un charm in lega di zinco disponibile in 17 varianti, ciascuna con peso e dimensioni propri. Gli acquirenti possono scegliere la misura adatta alla propria collana rosario o al proprio assemblaggio di gioielli. Il ciondolo è un singolo componente metallico; perline del rosario, catene e crocifissi non sono inclusi.",
+      "description": "Per gli acquirenti che assemblano collane rosario o piccoli gioielli in metallo, il ciondolo ovale a T offre un componente compatto in lega di zinco in una gamma di misure. Ogni variante è specificata per peso e dimensioni approssimative, così è possibile abbinare un ciondolo a una determinata misura di perlina o di catena. Le varianti più leggere pesano 0,5 g e misurano circa 1 × 1,4, mentre la più pesante è di 2,2 g a 1,9 × 2,2. Tutte sono in lega di zinco. Il ciondolo è un pezzo singolo, non un rosario o una collana finiti. Può essere combinato con altri componenti per realizzare un rosario o utilizzato come pendente decorativo nei design di gioielleria. La forma ovale a T conferisce un aspetto metallico semplice e retrò. Poiché il ciondolo è un componente, gli acquirenti devono prevedere un proprio assemblaggio o finitura.",
+      "catholicContext": "Il Rosario è una preghiera cattolica incentrata sulla contemplazione degli eventi della vita di Gesù Cristo e della Vergine Maria; i suoi grani, la medaglia centrale e il crocifisso sono descritti solo quando presenti nei dati del prodotto.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessori",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+      "imageAlt": "Ciondolo ovale a T in lega di zinco, charms per rosario",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha39c0bed9b794c8ba64ee57004b75425k.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha784cb2856944f43a8dd9952a17385acO.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98d04ae4b7bc4fd3846ca16d1cb20b35X.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9ef0ecd2cd6c40efbcf691e3bbbdeb83l.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "label": "st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcd0f301215084f3489dd025bce5f4f2cT.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H947de7c9a70a41799807bce12b6553e1Y.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-13-zinc-alloy-1g-1-5-1-9",
+          "label": "st11-13-zinc-alloy-1g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He04f86f00d7142d286deedc44b34ad1fr.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-14-zinc-alloy-1g-1-2-1-7",
+          "label": "st11-14-zinc-alloy-1g-1-2-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83708f1d99c74d75ab2fb99ce860b405t.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "label": "st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0e1085f7400346c9a1be818a15eeabb10.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-12-zinc-alloy-1g-1-5-2",
+          "label": "st11-12-zinc-alloy-1g-1-5-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2674c81ccabc4e82a86f418146e0c3d7g.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-17-zinc-alloy-0-5g-1-1-4",
+          "label": "st11-17-zinc-alloy-0-5g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H95913d1bca2d4ea8b6af87efb565e7b1q.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "label": "st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1811b409a2ac4bc788500977264d0442e.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-16-zinc-alloy-0-6g-1-1-4",
+          "label": "st11-16-zinc-alloy-0-6g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe9c09207a749fa9a4674758557aadfM.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "label": "st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b66efdd31f947c684c237323be52229L.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "label": "st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H74181d62a35b4b1bb911635bc2dd768eI.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde6d18900b814021afbbde05dd3675383.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "label": "st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H09226ad16a804607a85e8f401544fff62.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "label": "st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H85e7d19e1e0c4f3bad8e67c96676fde4e.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-10-zinc-alloy-1g-1-2-1-5",
+          "label": "st11-10-zinc-alloy-1g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4a5478778b0444af9e783c6fbe06982fD.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "label": "st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He0a68fc3d0e6417690729173dbc4db83x.webp",
+          "alt": "Ciondolo ovale a T in lega di zinco, charms per rosario - st11-8-zinc-alloy-1-3g-1-6-2",
+          "label": "st11-8-zinc-alloy-1-3g-1-6-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Forma a ciondolo ovale a T in lega di zinco",
+        "17 varianti con pesi e dimensioni individuali",
+        "Pesi da 0,5 g a 2,2 g",
+        "Dimensioni da circa 1 × 1,4 a 1,9 × 2,2",
+        "Adatto come componente per collane rosario o gioielli",
+        "Solo ciondolo; altri componenti non inclusi"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Lega di zinco"
+        },
+        {
+          "name": "Forma",
+          "value": "Ciondolo ovale a T"
+        },
+        {
+          "name": "Numero di varianti",
+          "value": "17"
+        },
+        {
+          "name": "Gamma di peso",
+          "value": "Da 0,5 g a 2,2 g"
+        },
+        {
+          "name": "Gamma di dimensioni",
+          "value": "Da circa 1 × 1,4 a 1,9 × 2,2"
+        }
+      ],
+      "applications": [
+        "Assemblaggio di collane rosario",
+        "Creazione di gioielli",
+        "Progetti creativi",
+        "Ciondolo decorativo per collane"
+      ],
+      "faq": [
+        {
+          "question": "Di che materiale è realizzato il ciondolo ovale a T?",
+          "answer": "Il ciondolo ovale a T è realizzato in lega di zinco."
+        },
+        {
+          "question": "Quante varianti sono disponibili?",
+          "answer": "Sono disponibili 17 varianti, ciascuna con una diversa combinazione di peso e dimensioni."
+        },
+        {
+          "question": "Quali sono le misure più piccola e più grande?",
+          "answer": "La variante più piccola pesa 0,5 g e misura circa 1 × 1,4. La più grande pesa 2,2 g e misura circa 1,9 × 2,2."
+        }
+      ],
+      "pricing": {
+        "price": "0.03",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.11"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ciondolo ovale a T in lega di zinco, charms per rosario",
+          "description": "Questo ciondolo ovale a T è un charm in lega di zinco disponibile in 17 varianti, ciascuna con peso e dimensioni propri. Gli acquirenti possono scegliere la misura adatta alla propria collana rosario o al proprio assemblaggio di gioielli. Il ciondolo è un singolo componente metallico; perline del rosario, catene e crocifissi non sono inclusi.",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hec22ce1bbe01454f871983e4dd562d4eQ.jpg",
+            "https://sc04.alicdn.com/kf/Ha39c0bed9b794c8ba64ee57004b75425k.jpg",
+            "https://sc04.alicdn.com/kf/Ha784cb2856944f43a8dd9952a17385acO.jpg",
+            "https://sc04.alicdn.com/kf/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.jpg",
+            "https://sc04.alicdn.com/kf/H98d04ae4b7bc4fd3846ca16d1cb20b35X.jpg"
+          ],
+          "category": "Accessori",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Lega di zinco"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma",
+              "value": "Ciondolo ovale a T"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Numero di varianti",
+              "value": "17"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Gamma di peso",
+              "value": "Da 0,5 g a 2,2 g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Gamma di dimensioni",
+              "value": "Da circa 1 × 1,4 a 1,9 × 2,2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.03",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.11",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di che materiale è realizzato il ciondolo ovale a T?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il ciondolo ovale a T è realizzato in lega di zinco."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quante varianti sono disponibili?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sono disponibili 17 varianti, ciascuna con una diversa combinazione di peso e dimensioni."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali sono le misure più piccola e più grande?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La variante più piccola pesa 0,5 g e misura circa 1 × 1,4. La più grande pesa 2,2 g e misura circa 1,9 × 2,2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:03.513Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "19e380382bca0d94dd7f5861a0e2bb3736ba53f117363f70da036a12410490f7",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:37:04.217Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceFingerprint": "69b89b6ca30b4bb6663184455acb490901ed4c3f42782c2b703b9b87836b422a",
+      "locale": "it",
+      "slug": "glass-holy-water-bottle-ornament-with-rose-cover-ek-1tb",
+      "title": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa",
+      "eyebrow": "portafortuna in bottiglia di vetro per acqua santa",
+      "summary": "Questo portafortuna è una bottiglia trasparente in vetro con capacità di 15 ml e una copertura decorativa a rosa. Il vetro trasparente mostra il contenuto, mentre la copertura a rosa aggiunge dettaglio. È disponibile in quattro varianti: Gold1, Gold2, Silver1 e Silver2, adatta per la creazione di gioielli o piccoli pezzi da esposizione.",
+      "description": "Realizzato in vetro trasparente, questo portafortuna è una piccola bottiglia con contenitore da 15 ml e una copertura a rosa. Il corpo trasparente lascia vedere l'interno, e la copertura introduce un elemento decorativo. È raggruppato sotto Decorazioni ed è offerto in quattro varianti: Gold1, Gold2, Silver1 e Silver2. La costruzione in vetro conferisce un aspetto pulito che può completare progetti di gioielleria o composizioni decorative. Come componente selezionato, la bottiglia può essere incorporata in pendenti, ciondoli o portafortuna autonomi a seconda del design.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Decorazioni",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+      "imageAlt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+          "alt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9819598944974a67a2ae1dc28b0529887.webp",
+          "alt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9908c51bf4ef43dfadae19390c5578159.webp",
+          "alt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H51175e24f2d24b969d07b174bbc1235aw.webp",
+          "alt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8003b9911fab48669e3a5ad8f9c85ef2w.webp",
+          "alt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6ac6d90a626e48dca98e53d4b1f57b6fP.webp",
+          "alt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa - silver2",
+          "label": "silver2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2c549d952b5c4bd18c72a476bf2edbf0t.webp",
+          "alt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa - gold1",
+          "label": "gold1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdbfb5bca248143cabafa4890bdd1056cV.webp",
+          "alt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa - silver1",
+          "label": "silver1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd7daa72c8e22472ab967718860ff5b3ab.webp",
+          "alt": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa - gold2",
+          "label": "gold2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--2"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Costruzione in vetro trasparente",
+        "Capacità del contenitore: 15 ml",
+        "Copertura decorativa a rosa",
+        "Disponibile nelle varianti Gold1, Gold2, Silver1 e Silver2",
+        "Categorizzato come decorazione"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Vetro"
+        },
+        {
+          "name": "Capacità",
+          "value": "15 ml"
+        },
+        {
+          "name": "Design della copertura",
+          "value": "Rosa"
+        },
+        {
+          "name": "Varianti",
+          "value": "Gold1, Gold2, Silver1, Silver2"
+        },
+        {
+          "name": "Categoria",
+          "value": "Decorazioni"
+        }
+      ],
+      "applications": [
+        "Creazione di gioielli",
+        "Esposizione decorativa",
+        "Progetti artigianali"
+      ],
+      "faq": [
+        {
+          "question": "Di che materiale è fatta la bottiglia?",
+          "answer": "La bottiglia è realizzata in vetro trasparente."
+        },
+        {
+          "question": "Qual è la capacità della bottiglia?",
+          "answer": "La bottiglia ha una capacità di 15 ml."
+        },
+        {
+          "question": "Quali varianti sono disponibili?",
+          "answer": "Il prodotto è disponibile nelle varianti Gold1, Gold2, Silver1 e Silver2."
+        }
+      ],
+      "pricing": {
+        "price": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bottiglia portafortuna in vetro per acqua santa con copertura a rosa",
+          "description": "Questo portafortuna è una bottiglia trasparente in vetro con capacità di 15 ml e una copertura decorativa a rosa. Il vetro trasparente mostra il contenuto, mentre la copertura a rosa aggiunge dettaglio. È disponibile in quattro varianti: Gold1, Gold2, Silver1 e Silver2, adatta per la creazione di gioielli o piccoli pezzi da esposizione.",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8eb4b6568d8c4fe7a66e5181112aec6eG.jpg",
+            "https://sc04.alicdn.com/kf/H9819598944974a67a2ae1dc28b0529887.jpg",
+            "https://sc04.alicdn.com/kf/H9908c51bf4ef43dfadae19390c5578159.jpg",
+            "https://sc04.alicdn.com/kf/H51175e24f2d24b969d07b174bbc1235aw.jpg",
+            "https://sc04.alicdn.com/kf/H8003b9911fab48669e3a5ad8f9c85ef2w.jpg"
+          ],
+          "category": "Decorazioni",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Vetro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Capacità",
+              "value": "15 ml"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design della copertura",
+              "value": "Rosa"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Varianti",
+              "value": "Gold1, Gold2, Silver1, Silver2"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Categoria",
+              "value": "Decorazioni"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Di che materiale è fatta la bottiglia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La bottiglia è realizzata in vetro trasparente."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Qual è la capacità della bottiglia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La bottiglia ha una capacità di 15 ml."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali varianti sono disponibili?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il prodotto è disponibile nelle varianti Gold1, Gold2, Silver1 e Silver2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:15.598Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "270655824742efd5df421f5339951547915d5f73f5232d8913d9acb980c5e30b",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:37:07.664Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceFingerprint": "550be28662a4ac142fab5ba6edd53cec3e62d2e9f884e6daa7d9dcc892d5c56d",
+      "locale": "it",
+      "slug": "glass-and-crystal-rosary-bracelet-with-pendants-ekmecc",
+      "title": "Bracciale rosario in vetro e cristallo con ciondoli",
+      "eyebrow": "Bracciale rosario in vetro e cristallo con ciondoli mariani e a croce",
+      "summary": "Questo bracciale rosario unisce perline in vetro e cristallo a ciondoli ispirati alla Vergine Maria, a Gesù e alla croce. È disponibile in nero, blu, rosa, rosso e bianco, ciascuno in lunghezza regolare o estesa. L'abbinamento dei materiali delle perline e dei dettagli dei ciondoli conferisce al bracciale un aspetto stratificato, adatto all'uso devozionale e come regalo.",
+      "description": "Le perline in vetro e cristallo si alternano lungo il bracciale, catturando la luce e aggiungendo texture al polso. I ciondoli ispirati alla Vergine Maria, a Gesù e alla croce fungono da punto focale, collegando il bracciale alla pratica devozionale cattolica. La gamma cromatica va dal nero e dal bianco al blu, al rosa e al rosso, con lunghezze regolari ed estese disponibili per ogni colore. L'abbinamento di vetro e cristallo distingue il bracciale dai rosari da polso in un unico materiale, mentre i temi dei ciondoli mantengono il design riconoscibilmente devozionale. Per gli acquirenti all'ingrosso, le otto varianti consentono un'esposizione che copre sia le preferenze cromatiche sia le misure del polso senza introdurre una linea di prodotto separata.",
+      "catholicContext": "Il Rosario è una preghiera cattolica incentrata sulla contemplazione dei misteri della vita di Gesù Cristo e della Vergine Maria.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracciali rosario",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+      "imageAlt": "Bracciale rosario in vetro e cristallo con ciondoli",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H313d75507c514582895c3d496b7741f0t.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7e3928109d1848179ad787c411b37ff4u.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H102032a93a764362a2628443eb2639b1j.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H86d98cfcd6274f75968ad6b80fd52c2a8.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H834879437b66461fb0f4005fb7c6df7fP.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha75ec92912204461be7fcad91d2db214T.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli - rosa regolare",
+          "label": "pink-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H31f5df1cabb94aa8990eea4cc0bac586O.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli - bianco regolare",
+          "label": "white-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H281f1552dce3412ba199259d505c6c9bp.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli - nero regolare",
+          "label": "black-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Heb633769bc4b43b1bd5679184abdebabv.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli - blu esteso",
+          "label": "blue-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H66e38b7383c74bfbb61920a3bb1b4079l.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli - rosso esteso",
+          "label": "red-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2d78fd2d7a58454696d0724ec7d8b74f7.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli - rosa esteso",
+          "label": "pink-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H557b666a1fb24b76b82880eb86d01f36L.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli - bianco esteso",
+          "label": "white-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H65f4bf70a2e3491ca1aa2fb4d2edf18c4.webp",
+          "alt": "Bracciale rosario in vetro e cristallo con ciondoli - nero esteso",
+          "label": "black-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--1"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Realizzato con perline in vetro e cristallo",
+        "Ciondoli ispirati alla Vergine Maria, a Gesù e alla croce",
+        "Disponibile in nero, blu, rosa, rosso e bianco",
+        "Lunghezze regolari ed estese offerte per ogni colore",
+        "Otto varianti totali tra colore e lunghezza"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Vetro e cristallo"
+        },
+        {
+          "name": "Temi dei ciondoli",
+          "value": "Vergine Maria, Gesù, croce"
+        },
+        {
+          "name": "Colori",
+          "value": "Nero, blu, rosa, rosso, bianco"
+        },
+        {
+          "name": "Opzioni di lunghezza",
+          "value": "Regolare, estesa"
+        },
+        {
+          "name": "Numero di varianti",
+          "value": "8 (5 colori × 2 lunghezze)"
+        }
+      ],
+      "applications": [
+        "Uso devozionale",
+        "Regalo religioso",
+        "Esposizione per la vendita all'ingrosso",
+        "Assortimento di bracciali rosario"
+      ],
+      "faq": [
+        {
+          "question": "Quali materiali sono utilizzati in questo bracciale rosario?",
+          "answer": "Il bracciale è realizzato con perline in vetro e cristallo e include ciondoli ispirati alla Vergine Maria, a Gesù e alla croce."
+        },
+        {
+          "question": "Quali colori e lunghezze sono disponibili?",
+          "answer": "È disponibile in nero, blu, rosa, rosso e bianco. Ogni colore è offerto in lunghezza regolare ed estesa, per un totale di otto varianti."
+        },
+        {
+          "question": "I ciondoli sono fissi o rimovibili?",
+          "answer": "Le informazioni sul prodotto non specificano se i ciondoli siano fissi o rimovibili. Vi invitiamo a contattarci per i dettagli costruttivi."
+        }
+      ],
+      "pricing": {
+        "price": "0.88",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracciale rosario in vetro e cristallo con ciondoli",
+          "description": "Questo bracciale rosario unisce perline in vetro e cristallo a ciondoli ispirati alla Vergine Maria, a Gesù e alla croce. È disponibile in nero, blu, rosa, rosso e bianco, ciascuno in lunghezza regolare o estesa. L'abbinamento dei materiali delle perline e dei dettagli dei ciondoli conferisce al bracciale un aspetto stratificato, adatto all'uso devozionale e come regalo.",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcf4caf72028e4b80933660d24986f82aM.png",
+            "https://sc04.alicdn.com/kf/H313d75507c514582895c3d496b7741f0t.png",
+            "https://sc04.alicdn.com/kf/H7e3928109d1848179ad787c411b37ff4u.png",
+            "https://sc04.alicdn.com/kf/H102032a93a764362a2628443eb2639b1j.png",
+            "https://sc04.alicdn.com/kf/H86d98cfcd6274f75968ad6b80fd52c2a8.jpg",
+            "https://sc04.alicdn.com/kf/H834879437b66461fb0f4005fb7c6df7fP.png"
+          ],
+          "category": "Bracciali rosario",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Vetro e cristallo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Temi dei ciondoli",
+              "value": "Vergine Maria, Gesù, croce"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Colori",
+              "value": "Nero, blu, rosa, rosso, bianco"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opzioni di lunghezza",
+              "value": "Regolare, estesa"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Numero di varianti",
+              "value": "8 (5 colori × 2 lunghezze)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.88",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quali materiali sono utilizzati in questo bracciale rosario?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il bracciale è realizzato con perline in vetro e cristallo e include ciondoli ispirati alla Vergine Maria, a Gesù e alla croce."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quali colori e lunghezze sono disponibili?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "È disponibile in nero, blu, rosa, rosso e bianco. Ogni colore è offerto in lunghezza regolare ed estesa, per un totale di otto varianti."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "I ciondoli sono fissi o rimovibili?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le informazioni sul prodotto non specificano se i ciondoli siano fissi o rimovibili. Vi invitiamo a contattarci per i dettagli costruttivi."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:12.121Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "7aad445694e2519cc40c6570a406beadfc17be56d84fbcf3a802e2939c1965f5",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:37:12.598Z",
             "model": "deepseek-v4-flash"
           }
         }

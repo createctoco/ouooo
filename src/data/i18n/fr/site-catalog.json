@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "fr",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a8e85eb36a14c03826e1a03d07cf01c288e27ee89a5d63ea92727bb534fde794",
-  "generatedAt": "2026-10-18T17:04:41.962Z",
+  "sourceCatalogHash": "5b9d005dfb248524c6617607ad567067461453285b4bbdc81e15baa4a15c62a1",
+  "generatedAt": "2026-10-19T19:37:11.527Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFNTG7BAOVioqqEY6enmEhC",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,32 +39,33 @@
     "brooch": "Broches",
     "uncategorized": "Non classé"
   },
-  "categoryGlossarySourceHash": "4a86757abd72447c98bb9c8f6706ce10a440e73eb1a0f384ce13d0de0da8aba2",
+  "categoryGlossarySourceHash": "5ea453f4898973f6927766e0e346b2065451c612ec6cbd9e1713f5f7020b6cf2",
   "translationSummary": {
-    "ready": 930,
+    "ready": 940,
     "skipped": 2,
     "skippedProductIds": [
       "AAG2TG7BAOVioqqEY6evaYQW",
       "AAFNTG7BAOVioqqEY6enmEhC"
     ],
-    "reused": 921,
-    "generated": 9,
+    "reused": 930,
+    "generated": 10,
     "generatedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 5,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 1,
+    "retriedBacklog": 2,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -827,11 +828,11 @@
   ],
   "translationRetries": {
     "AAG2TG7BAOVioqqEY6evaYQW": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     },
     "AAFNTG7BAOVioqqEY6enmEhC": {
-      "count": 1,
+      "count": 2,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     }
   },
@@ -218309,6 +218310,2734 @@
             "contentHash": "56b6781e79b4b226dc322b2d65680336315abdcee7f2ca0a6db44ca6ee675a51",
             "attempts": 1,
             "updatedAt": "2026-10-18T17:04:41.958Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceFingerprint": "e3ecd2368a3a82ba31d6bf0c1512363bbefba2c16f5900d62dfe4968a4c0f99b",
+      "locale": "fr",
+      "slug": "hematite-orthodox-icon-bracelet-e5binb",
+      "title": "Bracelet icône orthodoxe en hématite",
+      "eyebrow": "Bracelet en perles d'hématite avec médaillon d'icône de saint en alliage forme goutte d'huile",
+      "summary": "Des perles d'hématite s'associent à un médaillon arrondi en alliage en forme de goutte d'huile portant un portrait de saint, ce qui confère à ce bracelet de dévotion son aspect métallique sombre et son point focal centré sur l'icône. Il est proposé en variantes Black-1 et Black-2 et s'inscrit dans la catégorie des bijoux religieux comme pièce d'icône de saint à porter.",
+      "description": "De petites perles d'hématite composent le brin de ce bracelet icône orthodoxe, leur surface métallique gris-noir contrastant avec la forme lisse en goutte d'huile du médaillon en alliage. Un portrait de saint occupe la face du médaillon, faisant de l'image le centre du design plutôt qu'un simple détail.\n\nPrésenté dans la fiche source comme un bijou de dévotion à portrait de saint, le bracelet est proposé en deux variantes, Black-1 et Black-2. Les acheteurs qui hésitent entre les deux doivent confirmer quel portrait et quelle finition chaque variante comporte avant de commander, car la fiche n'identifie les variantes que par ces libellés.",
+      "catholicContext": "La piété populaire catholique comprend les bijoux de dévotion et les médailles portées comme rappels personnels de la foi ; ces objets sont des articles de dévotion et ne sont pas des sacramentaux, sauf s'ils sont bénis par l'Église.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracelets de chapelet",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+      "imageAlt": "Bracelet icône orthodoxe en hématite",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+          "alt": "Bracelet icône orthodoxe en hématite"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0600b17ae79a4bd69eeaa12ebcfefe070.webp",
+          "alt": "Bracelet icône orthodoxe en hématite"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.webp",
+          "alt": "Bracelet icône orthodoxe en hématite"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc5bb635c17214b988110fba3fe8293c1J.webp",
+          "alt": "Bracelet icône orthodoxe en hématite"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H21fe9a1e791d4959afbb8aa369902b31H.webp",
+          "alt": "Bracelet icône orthodoxe en hématite"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb5420080172e4cc6ab6a3bd66a82555cG.webp",
+          "alt": "Bracelet icône orthodoxe en hématite - black-1",
+          "label": "black-1",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4c9f8692907049de9415bc02fafb2c12y.webp",
+          "alt": "Bracelet icône orthodoxe en hématite - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--2"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Brin en perles d'hématite",
+        "Médaillon en alliage forme goutte d'huile",
+        "Design d'icône à portrait de saint",
+        "Deux variantes : Black-1 et Black-2",
+        "Classé dans les bracelets de chapelet selon les catégories source"
+      ],
+      "specifications": [
+        {
+          "name": "Matière",
+          "value": "Perles d'hématite avec médaillon en alliage"
+        },
+        {
+          "name": "Forme du médaillon",
+          "value": "Goutte d'huile"
+        },
+        {
+          "name": "Design",
+          "value": "Portrait d'icône de saint orthodoxe"
+        },
+        {
+          "name": "Variantes",
+          "value": "Black-1, Black-2"
+        }
+      ],
+      "applications": [
+        "Port personnel de dévotion",
+        "Cadeau religieux",
+        "Approvisionnement en assortiments de bracelets pour les boutiques d'articles religieux"
+      ],
+      "faq": [
+        {
+          "question": "Quelles matières sont utilisées dans le bracelet icône orthodoxe en hématite ?",
+          "answer": "Le bracelet est fabriqué avec des perles d'hématite et un médaillon en alliage en forme de goutte d'huile orné d'un portrait de saint, comme indiqué dans la fiche produit."
+        },
+        {
+          "question": "Quelles variantes sont disponibles ?",
+          "answer": "Deux variantes sont proposées, Black-1 et Black-2. Les détails du portrait et de la finition de chaque variante ne sont pas précisés dans les informations produit fournies ; veuillez les confirmer avec nous avant de commander."
+        },
+        {
+          "question": "Ce bracelet est-il un chapelet ?",
+          "answer": "Il est classé dans la catégorie des bracelets de chapelet, mais il est décrit comme un bracelet icône orthodoxe plutôt que comme un chapelet avec grains et crucifix. Contactez-nous pour obtenir des précisions sur sa construction."
+        }
+      ],
+      "pricing": {
+        "price": "0.55",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.32",
+          "max": "0.55"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracelet icône orthodoxe en hématite",
+          "description": "Des perles d'hématite s'associent à un médaillon arrondi en alliage en forme de goutte d'huile portant un portrait de saint, ce qui confère à ce bracelet de dévotion son aspect métallique sombre et son point focal centré sur l'icône. Il est proposé en variantes Black-1 et Black-2 et s'inscrit dans la catégorie des bijoux religieux comme pièce d'icône de saint à porter.",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcc89be8f26a54d01a955b6460329c03da.png",
+            "https://sc04.alicdn.com/kf/H0600b17ae79a4bd69eeaa12ebcfefe070.png",
+            "https://sc04.alicdn.com/kf/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.png",
+            "https://sc04.alicdn.com/kf/Hc5bb635c17214b988110fba3fe8293c1J.png",
+            "https://sc04.alicdn.com/kf/H21fe9a1e791d4959afbb8aa369902b31H.png"
+          ],
+          "category": "Bracelets de chapelet",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matière",
+              "value": "Perles d'hématite avec médaillon en alliage"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forme du médaillon",
+              "value": "Goutte d'huile"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Portrait d'icône de saint orthodoxe"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Black-1, Black-2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.55",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.32",
+              "maxPrice": "0.55",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quelles matières sont utilisées dans le bracelet icône orthodoxe en hématite ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le bracelet est fabriqué avec des perles d'hématite et un médaillon en alliage en forme de goutte d'huile orné d'un portrait de saint, comme indiqué dans la fiche produit."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelles variantes sont disponibles ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Deux variantes sont proposées, Black-1 et Black-2. Les détails du portrait et de la finition de chaque variante ne sont pas précisés dans les informations produit fournies ; veuillez les confirmer avec nous avant de commander."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce bracelet est-il un chapelet ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il est classé dans la catégorie des bracelets de chapelet, mais il est décrit comme un bracelet icône orthodoxe plutôt que comme un chapelet avec grains et crucifix. Contactez-nous pour obtenir des précisions sur sa construction."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:42.229Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "47e8d9c93a4c83448e4edb0a118a33f94a5539cb277d0be74d0b8fd7c41e98e5",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:30.675Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceFingerprint": "d4323b8bc0c3a5c5ab42489d5dd6c6379cc9b601eb638c449ca006b7b3b1bbb2",
+      "locale": "fr",
+      "slug": "saint-benedict-portrait-charm-bracelet-with-knot-design-evbsed",
+      "title": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds",
+      "eyebrow": "Bracelet à breloque portrait de saint catholique avec motif de nœuds concentriques",
+      "summary": "Un bracelet en alliage de zinc avec une breloque portrait ronde de saint Benoît et un motif de nœuds concentriques. Il est proposé en deux variantes de couleur, ton doré et ton argenté, et est classé pour les assortiments de bracelets de chapelet. Le style unisexe et le pendentif portrait en font un accessoire de dévotion pour les présentoirs de vente au détail ou le port personnel.",
+      "description": "Ce bracelet associe une breloque portrait ronde de saint Benoît à un motif de nœuds concentriques en alliage de zinc. La breloque portrait sert de point focal visuel, tandis que le motif de nœuds ajoute de la texture au bracelet. Deux options de couleur sont disponibles : ton doré et ton argenté. Le bracelet est unisexe et classé dans les bracelets de chapelet, ce qui en fait un choix naturel pour les assortiments de bijoux de dévotion ou la collection personnelle. Aucun autre détail de construction n'est précisé.",
+      "catholicContext": "Le Catéchisme catholique cite les médailles et le Rosaire parmi les formes de piété populaire entourant la vie sacramentelle ; ce bracelet comporte une breloque portrait de saint Benoît, mais aucune bénédiction ni effet spirituel n'est sous-entendu.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracelets de chapelet",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+      "imageAlt": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+          "alt": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0aa414c838e04a80a5555f716d6a0eafQ.webp",
+          "alt": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9a1ab462614dfb941979f715cb8093o.webp",
+          "alt": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H799b99b026a54375a2d858a9248810b3o.webp",
+          "alt": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haafc857f0fe24a3bac1725643eaf0fa55.webp",
+          "alt": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4f57991730c54639ab0e3cf901b5fe5az.webp",
+          "alt": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H277d2d5f55c842e0bcbe779174aa271ag.webp",
+          "alt": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds - portrait-round-pendant-concentric-knot-bracelet-silver",
+          "label": "portrait-round-pendant-concentric-knot-bracelet-silver",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbc60e136d11e451d864e9931ab324078L.webp",
+          "alt": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds - portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "label": "portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Breloque portrait ronde représentant saint Benoît",
+        "Motif de nœuds concentriques intégré au bracelet",
+        "Fabriqué en alliage de zinc",
+        "Disponible en variantes ton doré et ton argenté",
+        "Style unisexe"
+      ],
+      "specifications": [
+        {
+          "name": "Matière",
+          "value": "Alliage de zinc"
+        },
+        {
+          "name": "Forme de la breloque",
+          "value": "Portrait rond"
+        },
+        {
+          "name": "Motif de conception",
+          "value": "Nœuds concentriques"
+        },
+        {
+          "name": "Variantes",
+          "value": "Ton doré, ton argenté"
+        },
+        {
+          "name": "Genre",
+          "value": "Unisexe"
+        }
+      ],
+      "applications": [
+        "Assortiments de bracelets de chapelet",
+        "Présentoirs de bijoux de dévotion",
+        "Port personnel comme accessoire catholique"
+      ],
+      "faq": [
+        {
+          "question": "En quelle matière est fabriqué le bracelet saint Benoît ?",
+          "answer": "Le bracelet est fabriqué en alliage de zinc, comme indiqué dans les caractéristiques du produit."
+        },
+        {
+          "question": "Quelles options de couleur sont disponibles pour ce bracelet ?",
+          "answer": "Il est proposé en deux variantes : ton doré et ton argenté."
+        },
+        {
+          "question": "Le bracelet comporte-t-il un élément de conception spécifique ?",
+          "answer": "Oui, il présente un motif de nœuds concentriques et une breloque portrait ronde de saint Benoît."
+        }
+      ],
+      "pricing": {
+        "price": "2.02",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.46",
+          "max": "2.02"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracelet à breloque portrait de saint Benoît avec motif de nœuds",
+          "description": "Un bracelet en alliage de zinc avec une breloque portrait ronde de saint Benoît et un motif de nœuds concentriques. Il est proposé en deux variantes de couleur, ton doré et ton argenté, et est classé pour les assortiments de bracelets de chapelet. Le style unisexe et le pendentif portrait en font un accessoire de dévotion pour les présentoirs de vente au détail ou le port personnel.",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdea22dc4ebaf416d993110b987c1a45eq.jpg",
+            "https://sc04.alicdn.com/kf/H0aa414c838e04a80a5555f716d6a0eafQ.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9a1ab462614dfb941979f715cb8093o.jpg",
+            "https://sc04.alicdn.com/kf/H799b99b026a54375a2d858a9248810b3o.jpg",
+            "https://sc04.alicdn.com/kf/Haafc857f0fe24a3bac1725643eaf0fa55.jpg",
+            "https://sc04.alicdn.com/kf/H4f57991730c54639ab0e3cf901b5fe5az.jpg"
+          ],
+          "category": "Bracelets de chapelet",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matière",
+              "value": "Alliage de zinc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forme de la breloque",
+              "value": "Portrait rond"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motif de conception",
+              "value": "Nœuds concentriques"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Ton doré, ton argenté"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Genre",
+              "value": "Unisexe"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.02",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.46",
+              "maxPrice": "2.02",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "En quelle matière est fabriqué le bracelet saint Benoît ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le bracelet est fabriqué en alliage de zinc, comme indiqué dans les caractéristiques du produit."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelles options de couleur sont disponibles pour ce bracelet ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il est proposé en deux variantes : ton doré et ton argenté."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Le bracelet comporte-t-il un élément de conception spécifique ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui, il présente un motif de nœuds concentriques et une breloque portrait ronde de saint Benoît."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:39.725Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "36168cf45b950f6a0134293efb39eab9cfb9c4ed449390da84501cd62f9d1008",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:34.606Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceFingerprint": "61b2d7e3356a73b18c3dc7963677a4ddad1789a18501cc132b5b183b57051bbe",
+      "locale": "fr",
+      "slug": "st-michael-archangel-pendant-necklace-evsz32",
+      "title": "Collier Pendentif Saint Michel Archange",
+      "eyebrow": "Collier pendentif Saint Michel Archange",
+      "summary": "Un collier pendentif Saint Michel Archange conçu pour les hommes, disponible en finitions or, acier ou noir et en pendentif seul ou avec collier. Sa fabrication en acier inoxydable convient au port quotidien et aux assortiments de bijoux religieux en gros.",
+      "description": "Ce collier pendentif Saint Michel Archange offre aux détaillants une option de bijou de dévotion pour les hommes. Le pendentif représente saint Michel Archange et est proposé en six variantes : collier or, pendentif seul or, collier acier, pendentif seul acier, pendentif seul noir et collier noir.\n\nSa fabrication en acier inoxydable rend le pendentif adapté au port régulier. Les acheteurs peuvent choisir les versions pendentif seul pour un remplacement ou pour l'associer à une chaîne personnalisée, ou opter pour un ensemble collier prêt à être présenté. Les finitions or, acier et noir offrent des looks distincts au sein d'une même gamme de gros.",
+      "catholicContext": "Le Catéchisme catholique inclut les médailles parmi les dévotions populaires qui entourent la vie sacramentelle, bien qu'une médaille de vente ne soit pas elle-même un sacramental, sauf si elle est bénie.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Colliers de mode",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+      "imageAlt": "Collier Pendentif Saint Michel Archange",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+          "alt": "Collier Pendentif Saint Michel Archange"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H66c3a23db07f4839a58e942ce6594368h.webp",
+          "alt": "Collier Pendentif Saint Michel Archange"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2f110b1fcd8144b687b778648b449fcdo.webp",
+          "alt": "Collier Pendentif Saint Michel Archange"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdae2836afbfc45a0966e78005d1b47f0O.webp",
+          "alt": "Collier Pendentif Saint Michel Archange"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2e19b52179064160bd7704c014bf88f8E.webp",
+          "alt": "Collier Pendentif Saint Michel Archange"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9fde2232964a8ebcf7193a9ca0b82eq.webp",
+          "alt": "Collier Pendentif Saint Michel Archange"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H57331c582f9145f6b66fa811285bea32O.webp",
+          "alt": "Collier Pendentif Saint Michel Archange - collier noir",
+          "label": "black-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5e978dd19295411cab94d17d5b2c56491.webp",
+          "alt": "Collier Pendentif Saint Michel Archange - collier acier",
+          "label": "steel-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2af800dce72c4466ab33138fc8722fb8G.webp",
+          "alt": "Collier Pendentif Saint Michel Archange - pendentif seul acier",
+          "label": "steel-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1de99a6362664f3ba3c9e661291d3dd0y.webp",
+          "alt": "Collier Pendentif Saint Michel Archange - collier or",
+          "label": "gold-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H883797df6113451b9045aab40ff0fd8aw.webp",
+          "alt": "Collier Pendentif Saint Michel Archange - pendentif seul or",
+          "label": "gold-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfe57aaddbed64e838e0d5df541fbfc26Q.webp",
+          "alt": "Collier Pendentif Saint Michel Archange - pendentif seul noir",
+          "label": "black-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--5"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Design pendentif Saint Michel Archange",
+        "Fabrication en acier inoxydable",
+        "Style de bijou religieux pour homme",
+        "Disponible en pendentif seul ou avec collier",
+        "Options de finition or, acier et noir",
+        "Six variantes selon la finition et la configuration"
+      ],
+      "specifications": [
+        {
+          "name": "Matière",
+          "value": "Acier inoxydable"
+        },
+        {
+          "name": "Design",
+          "value": "Saint Michel Archange"
+        },
+        {
+          "name": "Variantes",
+          "value": "Collier or, pendentif seul or, collier acier, pendentif seul acier, pendentif seul noir, collier noir"
+        },
+        {
+          "name": "Catégorie",
+          "value": "Colliers de mode"
+        }
+      ],
+      "applications": [
+        "Vente au détail de bijoux religieux pour homme",
+        "Assortiments de pendentifs de dévotion en gros",
+        "Remplacement par pendentif seul ou association à une chaîne personnalisée",
+        "Sélection de cadeaux pour les hommes catholiques"
+      ],
+      "faq": [
+        {
+          "question": "En quelle matière est fabriqué le pendentif Saint Michel Archange ?",
+          "answer": "Le pendentif est fabriqué en acier inoxydable, selon les spécifications du produit."
+        },
+        {
+          "question": "Quelles variantes sont disponibles pour ce pendentif ?",
+          "answer": "Le pendentif est proposé en six variantes : collier or, pendentif seul or, collier acier, pendentif seul acier, pendentif seul noir et collier noir."
+        },
+        {
+          "question": "Le pendentif est-il disponible sans collier ?",
+          "answer": "Oui, les variantes pendentif seul or, pendentif seul acier et pendentif seul noir sont des options avec pendentif uniquement. Les variantes avec collier comprennent une chaîne."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "1.30"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collier Pendentif Saint Michel Archange",
+          "description": "Un collier pendentif Saint Michel Archange conçu pour les hommes, disponible en finitions or, acier ou noir et en pendentif seul ou avec collier. Sa fabrication en acier inoxydable convient au port quotidien et aux assortiments de bijoux religieux en gros.",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+          "image": [
+            "https://sc04.alicdn.com/kf/H807494b20657480e89258156a7edf1d9C.jpg",
+            "https://sc04.alicdn.com/kf/H66c3a23db07f4839a58e942ce6594368h.jpg",
+            "https://sc04.alicdn.com/kf/H2f110b1fcd8144b687b778648b449fcdo.jpg",
+            "https://sc04.alicdn.com/kf/Hdae2836afbfc45a0966e78005d1b47f0O.jpg",
+            "https://sc04.alicdn.com/kf/H2e19b52179064160bd7704c014bf88f8E.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9fde2232964a8ebcf7193a9ca0b82eq.jpg"
+          ],
+          "category": "Colliers de mode",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matière",
+              "value": "Acier inoxydable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Saint Michel Archange"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Collier or, pendentif seul or, collier acier, pendentif seul acier, pendentif seul noir, collier noir"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Catégorie",
+              "value": "Colliers de mode"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "1.30",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "En quelle matière est fabriqué le pendentif Saint Michel Archange ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le pendentif est fabriqué en acier inoxydable, selon les spécifications du produit."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelles variantes sont disponibles pour ce pendentif ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le pendentif est proposé en six variantes : collier or, pendentif seul or, collier acier, pendentif seul acier, pendentif seul noir et collier noir."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Le pendentif est-il disponible sans collier ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui, les variantes pendentif seul or, pendentif seul acier et pendentif seul noir sont des options avec pendentif uniquement. Les variantes avec collier comprennent une chaîne."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:47.757Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "bf81190434c26ccf23c17f075bf7afae2f6b62f8c1957101dff34cd58bacad99",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:38.728Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceFingerprint": "004dd5177f082c66c35b386d00b5975d3aa370d90f91bd88b96b1ae218a35a76",
+      "locale": "fr",
+      "slug": "stainless-steel-embossed-key-pendant-necklace-evbfp0",
+      "title": "Collier à pendentif clé en acier inoxydable avec motif embossé",
+      "eyebrow": "collier à pendentif clé en acier inoxydable",
+      "summary": "Un collier à pendentif clé en acier inoxydable, finition dorée mate ou argentée, avec un détail embossé sur l'ensemble du pendentif clé. La gamme comprend sept modèles de clés, YE-21 à YE-27, chacun proposé dans les deux finitions et présenté comme un bijou vintage unisexe.",
+      "description": "L'acier inoxydable constitue le corps de ce collier à pendentif clé, et le pendentif clé présente un motif embossé plutôt qu'une surface lisse. Chaque pendentif est disponible en doré mat ou en argenté, ce qui permet aux acheteurs de commander l'une ou l'autre finition dans un même modèle.\n\nLa gamme couvre sept formes de clés, référencées YE-21 à YE-27, offrant à un assortiment de gros plusieurs options de silhouette sous une même construction et une même histoire de finition. Le pendentif clé est stylisé comme un bijou vintage unisexe, ce qui convient à une commercialisation mixte. Choisissez les modèles et les finitions par ligne lors de la constitution d'une commande.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessoires",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+      "imageAlt": "Collier à pendentif clé en acier inoxydable avec motif embossé",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4d5b442a583345bd81f57d77b2663cecz.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb590cbf4af37405fb03f9540c4527e0d5.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1aacdffbdb3d4931a4588dcbc5b80c1fr.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5d3961f4984241d09121b14f932e3a778.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had36ed420ca045519d9587d4e7c5c9a5J.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1662c7049c8645f7aa404b77ca28da50p.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-25-silver",
+          "label": "ye-25-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hde3070a700284384a335a3f35bcd7ca6G.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-25-gold",
+          "label": "ye-25-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1116bc965d3c4b159c656ce0c791d305n.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-24-silver",
+          "label": "ye-24-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc78dab51f8af4691b2773eaa41a54d320.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-24-gold",
+          "label": "ye-24-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hda1e48e16764402a93cf21f2e49fb1ea0.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-27-silver",
+          "label": "ye-27-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc65429c1020e4c35a5e1a1eb3e591b4cY.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-27-gold",
+          "label": "ye-27-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H37248617f2eb40f4ab5a76a106d72d4ak.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-21-silver",
+          "label": "ye-21-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4e05bb7087f144c294f890cd7a046accf.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-21-gold",
+          "label": "ye-21-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H52406ffa885740afb7328c0f159ee7ee9.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-23-silver",
+          "label": "ye-23-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H271e06fa4d66425ba64e09deb580f8308.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-23-gold",
+          "label": "ye-23-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H8c5fe5b785c747d2bf5edc2d26286b5e3.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-22-silver",
+          "label": "ye-22-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H81fb0a50cc72436788963ebec0a6234d8.webp",
+          "alt": "Collier à pendentif clé en acier inoxydable avec motif embossé - ye-22-gold",
+          "label": "ye-22-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--4"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Collier à pendentif clé en acier inoxydable",
+        "Détail embossé sur le pendentif clé",
+        "Finitions dorée mate et argentée disponibles",
+        "Sept modèles de clés : YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27",
+        "Chaque modèle proposé en doré et en argenté",
+        "Bijou vintage unisexe"
+      ],
+      "specifications": [
+        {
+          "name": "Matière",
+          "value": "Acier inoxydable"
+        },
+        {
+          "name": "Type de pendentif",
+          "value": "Pendentif clé"
+        },
+        {
+          "name": "Détail de surface",
+          "value": "Embossé"
+        },
+        {
+          "name": "Options de finition",
+          "value": "Doré mat ; argenté"
+        },
+        {
+          "name": "Références de modèles",
+          "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+        },
+        {
+          "name": "Structure des variantes",
+          "value": "Chaque modèle en doré et en argenté"
+        },
+        {
+          "name": "Porteur cible",
+          "value": "Unisexe"
+        }
+      ],
+      "applications": [
+        "Assortiment de bijoux en gros",
+        "Présentation en magasin de colliers de style vintage",
+        "Commercialisation d'accessoires unisexes",
+        "Sélection de pendentifs à motif clé par modèle et finition"
+      ],
+      "faq": [
+        {
+          "question": "En quelle matière est fabriqué le collier à pendentif clé ?",
+          "answer": "Le collier à pendentif clé est fabriqué en acier inoxydable, avec un détail embossé sur le pendentif clé."
+        },
+        {
+          "question": "Combien de modèles de clés sont disponibles ?",
+          "answer": "Il existe sept modèles de clés, référencés YE-21 à YE-27."
+        },
+        {
+          "question": "Quelles finitions puis-je commander ?",
+          "answer": "Chaque modèle de clé est disponible en doré mat ou en argenté, soit quatorze combinaisons de modèle et de finition dans la gamme."
+        }
+      ],
+      "pricing": {
+        "price": "0.38",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.38",
+          "max": "0.67"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collier à pendentif clé en acier inoxydable avec motif embossé",
+          "description": "Un collier à pendentif clé en acier inoxydable, finition dorée mate ou argentée, avec un détail embossé sur l'ensemble du pendentif clé. La gamme comprend sept modèles de clés, YE-21 à YE-27, chacun proposé dans les deux finitions et présenté comme un bijou vintage unisexe.",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+          "image": [
+            "https://sc04.alicdn.com/kf/H3ed56730450848fea80c873e577ef82aQ.jpg",
+            "https://sc04.alicdn.com/kf/H4d5b442a583345bd81f57d77b2663cecz.jpg",
+            "https://sc04.alicdn.com/kf/Hb590cbf4af37405fb03f9540c4527e0d5.jpg",
+            "https://sc04.alicdn.com/kf/H1aacdffbdb3d4931a4588dcbc5b80c1fr.jpg",
+            "https://sc04.alicdn.com/kf/H5d3961f4984241d09121b14f932e3a778.jpg",
+            "https://sc04.alicdn.com/kf/Had36ed420ca045519d9587d4e7c5c9a5J.jpg"
+          ],
+          "category": "Accessoires",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matière",
+              "value": "Acier inoxydable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Type de pendentif",
+              "value": "Pendentif clé"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Détail de surface",
+              "value": "Embossé"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Options de finition",
+              "value": "Doré mat ; argenté"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Références de modèles",
+              "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Structure des variantes",
+              "value": "Chaque modèle en doré et en argenté"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Porteur cible",
+              "value": "Unisexe"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.38",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.38",
+              "maxPrice": "0.67",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "En quelle matière est fabriqué le collier à pendentif clé ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le collier à pendentif clé est fabriqué en acier inoxydable, avec un détail embossé sur le pendentif clé."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Combien de modèles de clés sont disponibles ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il existe sept modèles de clés, référencés YE-21 à YE-27."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelles finitions puis-je commander ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chaque modèle de clé est disponible en doré mat ou en argenté, soit quatorze combinaisons de modèle et de finition dans la gamme."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:45.515Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "7340a04a8a6cc745aab3c1a43acdfd1768215af709869d26c9e0a82e2ff1d767",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:43.540Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceFingerprint": "9ebab8cd61ba0b008dd94c19be6fa8b017e8c3abca9954b347a88c62d6c573ba",
+      "locale": "fr",
+      "slug": "gold-plated-rhinestone-pendant-necklace-60cm-chain-evsfpx",
+      "title": "Collier pendentif plaqué or avec strass, chaîne 60 cm",
+      "eyebrow": "Collier pendentif en acier titane avec chaîne perle carrée en option",
+      "summary": "Un collier pendentif en acier titane proposé en deux styles de pendentif : un pendentif diamant serti de strass ou un pendentif lisse brillant, chacun en finition plaquée or ou acier. Les acheteurs peuvent associer un pendentif à une chaîne perle carrée de 3,0 mm en or ou en acier, coupée à 60 cm, ou commander les pendentifs seuls.",
+      "description": "Ce collier pendentif est construit autour d'une chaîne perle carrée de 3,0 mm mesurant 60 cm, disponible en finition or ou acier. Le pendentif existe en quatre versions : un pendentif diamant serti de strass ou un pendentif lisse brillant, chacun en finition plaquée or ou acier.\n\nLes pendentifs peuvent être commandés à l'unité sans chaîne, afin que les acheteurs puissent composer leurs propres associations ou réassortir les styles de pendentifs séparément des chaînes. Toutes les variantes de chaînes et de pendentifs partagent le même calibre de chaîne perle carrée et la même longueur de 60 cm, ce qui garantit une cohérence des tailles sur une commande mixte.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Colliers de mode",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+      "imageAlt": "Collier pendentif plaqué or avec strass, chaîne 60 cm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He25f1d019a504490b7e3cb4a03ffae0d9.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1dd5ebb1c2444928a08e397ea352d3b1U.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc0d8b010101e4bf6a56d9466dd697e93v.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had5889308e734e07be1262d7c3405982H.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hccee46ae10ab4e5e989244c414b3db3bd.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc7d22e6ceb64ce18fa195b3540f4a92V.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm - pendentif diamant or seul",
+          "label": "gold-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H521cbaa0cf1b4225a2ef135bf7fb1721i.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm - pendentif diamant acier seul",
+          "label": "steel-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbea5891ae5c546af8e7295058a24e880s.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm - pendentif lisse or seul",
+          "label": "gold-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf780c965233c4b508e44c0c088dc8771U.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm - pendentif lisse acier seul",
+          "label": "steel-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf14f96621734d5199f4894118e949d1N.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm - chaîne perle carrée acier 3,0 mm 60 cm",
+          "label": "3-0-60cm-steel-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5572ccb5ab63484eb67a536835a283d5W.webp",
+          "alt": "Collier pendentif plaqué or avec strass, chaîne 60 cm - chaîne perle carrée or 3,0 mm 60 cm",
+          "label": "3-0-60cm-gold-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--5"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Pendentif en deux styles : pendentif diamant serti de strass ou pendentif lisse brillant",
+        "Finitions du pendentif : plaquée or ou acier",
+        "Chaîne perle carrée de calibre 3,0 mm, or ou acier",
+        "Longueur de chaîne : 60 cm",
+        "Pendentifs disponibles à l'unité sans chaîne"
+      ],
+      "specifications": [
+        {
+          "name": "Style de chaîne",
+          "value": "Chaîne perle carrée"
+        },
+        {
+          "name": "Calibre de chaîne",
+          "value": "3,0 mm"
+        },
+        {
+          "name": "Longueur de chaîne",
+          "value": "60 cm"
+        },
+        {
+          "name": "Finitions de chaîne",
+          "value": "Or ; acier"
+        },
+        {
+          "name": "Styles de pendentif",
+          "value": "Pendentif diamant à strass ; pendentif lisse brillant"
+        },
+        {
+          "name": "Finitions du pendentif",
+          "value": "Plaquée or ; acier"
+        },
+        {
+          "name": "Matériau de base",
+          "value": "Acier titane"
+        },
+        {
+          "name": "Options d'unité",
+          "value": "Pendentif avec chaîne ; pendentif seul"
+        }
+      ],
+      "applications": [
+        "Vente au détail de bijoux de style hip-hop et streetwear",
+        "Assemblage de colliers DIY et échange de pendentifs"
+      ],
+      "faq": [
+        {
+          "question": "Quelle longueur et quel calibre de chaîne le collier utilise-t-il ?",
+          "answer": "La chaîne perle carrée a un calibre de 3,0 mm et une longueur de 60 cm, en finition or ou acier."
+        },
+        {
+          "question": "Puis-je commander des pendentifs sans la chaîne ?",
+          "answer": "Oui. Les variantes de pendentifs sont proposées à l'unité, séparément des options de chaîne 3,0 × 60 cm."
+        },
+        {
+          "question": "Combien y a-t-il de variantes de pendentifs ?",
+          "answer": "Quatre : diamant or, lisse or, diamant acier et lisse acier. Les versions diamant sont serties de strass ; les versions lisses sont unies."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "3.19"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Collier pendentif plaqué or avec strass, chaîne 60 cm",
+          "description": "Un collier pendentif en acier titane proposé en deux styles de pendentif : un pendentif diamant serti de strass ou un pendentif lisse brillant, chacun en finition plaquée or ou acier. Les acheteurs peuvent associer un pendentif à une chaîne perle carrée de 3,0 mm en or ou en acier, coupée à 60 cm, ou commander les pendentifs seuls.",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H9f70e950c96544f0aa5c1f38fb162ed1k.jpg",
+            "https://sc04.alicdn.com/kf/He25f1d019a504490b7e3cb4a03ffae0d9.jpg",
+            "https://sc04.alicdn.com/kf/H1dd5ebb1c2444928a08e397ea352d3b1U.jpg",
+            "https://sc04.alicdn.com/kf/Hc0d8b010101e4bf6a56d9466dd697e93v.jpg",
+            "https://sc04.alicdn.com/kf/Had5889308e734e07be1262d7c3405982H.jpg",
+            "https://sc04.alicdn.com/kf/Hccee46ae10ab4e5e989244c414b3db3bd.jpg"
+          ],
+          "category": "Colliers de mode",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Style de chaîne",
+              "value": "Chaîne perle carrée"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Calibre de chaîne",
+              "value": "3,0 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Longueur de chaîne",
+              "value": "60 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finitions de chaîne",
+              "value": "Or ; acier"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Styles de pendentif",
+              "value": "Pendentif diamant à strass ; pendentif lisse brillant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finitions du pendentif",
+              "value": "Plaquée or ; acier"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Matériau de base",
+              "value": "Acier titane"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Options d'unité",
+              "value": "Pendentif avec chaîne ; pendentif seul"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "3.19",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quelle longueur et quel calibre de chaîne le collier utilise-t-il ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La chaîne perle carrée a un calibre de 3,0 mm et une longueur de 60 cm, en finition or ou acier."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Puis-je commander des pendentifs sans la chaîne ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui. Les variantes de pendentifs sont proposées à l'unité, séparément des options de chaîne 3,0 × 60 cm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Combien y a-t-il de variantes de pendentifs ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Quatre : diamant or, lisse or, diamant acier et lisse acier. Les versions diamant sont serties de strass ; les versions lisses sont unies."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:10.973Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "793c6b8fbd557a2e424fd56caeb13c6cd19be369ded029454704e42584d81ae4",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:48.139Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceFingerprint": "debee61d7511dba0eb16cae06bdee3ba5705bfe1f6ab199c5a7c0c1baa3196de",
+      "locale": "fr",
+      "slug": "cartoon-waterproof-paper-stickers-50-piece-set-evo6x2",
+      "title": "Stickers en papier imperméables de dessin animé, lot de 50 pièces",
+      "eyebrow": "Lot de stickers et décalcomanies en papier de dessin animé",
+      "summary": "Un lot de 50 stickers de style dessin animé mesurant entre 4 et 6 cm, imprimés sur papier avec une finition imperméable. Les décalcomanies peuvent être collées sur des carnets, des coques de téléphone, des planches à roulettes et des pages de scrapbooking pour une décoration DIY au quotidien.",
+      "description": "Des illustrations de dessin animé au trait libre donnent à ce lot de 50 stickers son aspect ludique, chaque décalcomanie mesurant entre 4 et 6 cm. L’impression numérique reproduit l’illustration sur le papier, et une finition imperméable aide le sticker à résister sur les objets du quotidien.\n\nLe lot convient aux petits travaux de décoration plutôt qu’aux pièces d’exposition : carnets, coques de téléphone, planches à roulettes et pages de scrapbooking accueillent tous les décalcomanies. Les acheteurs à la recherche d’un assortiment prêt à l’emploi de stickers de dessin animé pour les loisirs créatifs et la décoration intérieure peuvent commander le pack de 50 pièces tel que fourni.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornements",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+      "imageAlt": "Stickers en papier imperméables de dessin animé, lot de 50 pièces",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+          "alt": "Stickers en papier imperméables de dessin animé, lot de 50 pièces"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf7c10c436fa94667a5b30afbb5471a4d6.webp",
+          "alt": "Stickers en papier imperméables de dessin animé, lot de 50 pièces"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7860c5686e464687ac9bdc3f4125a9e0O.webp",
+          "alt": "Stickers en papier imperméables de dessin animé, lot de 50 pièces"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H60101040415a47df996a49b7fd1718f7F.webp",
+          "alt": "Stickers en papier imperméables de dessin animé, lot de 50 pièces"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H11033a559ecc479488fb3d4a55a59a58M.webp",
+          "alt": "Stickers en papier imperméables de dessin animé, lot de 50 pièces"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Lot de 50 stickers de style dessin animé",
+        "Chaque sticker mesure entre 4 et 6 cm",
+        "Imprimés sur papier par impression numérique",
+        "Finition imperméable",
+        "Stickers adhésifs pouvant être collés sur des surfaces",
+        "Fournis par l’entreprise de production TJMY"
+      ],
+      "specifications": [
+        {
+          "name": "Numéro d’article",
+          "value": "T01042877"
+        },
+        {
+          "name": "Taille du sticker",
+          "value": "4–6 cm"
+        },
+        {
+          "name": "Quantité",
+          "value": "50 pièces par lot"
+        },
+        {
+          "name": "Matériau",
+          "value": "Papier"
+        },
+        {
+          "name": "Procédé d’impression",
+          "value": "Impression numérique"
+        },
+        {
+          "name": "Style",
+          "value": "Dessin animé"
+        },
+        {
+          "name": "Caractéristique",
+          "value": "Imperméable"
+        },
+        {
+          "name": "Adhésif",
+          "value": "Peut être collé"
+        },
+        {
+          "name": "Autorisation de propriété intellectuelle",
+          "value": "Non"
+        },
+        {
+          "name": "Lieu d’origine",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Décoration de carnets",
+        "Décoration de coques de téléphone",
+        "Décoration de planches à roulettes",
+        "Projets de scrapbooking et de loisirs créatifs DIY"
+      ],
+      "faq": [
+        {
+          "question": "En quel matériau ces stickers de dessin animé sont-ils fabriqués ?",
+          "answer": "Les stickers sont fabriqués en papier avec une finition imperméable, et l’illustration est appliquée par impression numérique."
+        },
+        {
+          "question": "Quelle est la taille de chaque sticker du lot de 50 pièces ?",
+          "answer": "Chaque sticker mesure entre 4 et 6 cm, et le lot contient 50 pièces."
+        },
+        {
+          "question": "Ces stickers sont-ils des modèles de personnages officiellement licenciés ?",
+          "answer": "Non. Les informations produit indiquent que la propriété intellectuelle n’est pas autorisée ; le lot ne doit donc pas être considéré comme une marchandise de personnages sous licence."
+        }
+      ],
+      "pricing": {
+        "price": "0.81",
+        "regularPrice": "0.81",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.59",
+          "max": "0.81"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stickers en papier imperméables de dessin animé, lot de 50 pièces",
+          "description": "Un lot de 50 stickers de style dessin animé mesurant entre 4 et 6 cm, imprimés sur papier avec une finition imperméable. Les décalcomanies peuvent être collées sur des carnets, des coques de téléphone, des planches à roulettes et des pages de scrapbooking pour une décoration DIY au quotidien.",
+          "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb566f6faea1b4fef945db17c0e802b93m.jpg",
+            "https://sc04.alicdn.com/kf/Hf7c10c436fa94667a5b30afbb5471a4d6.jpg",
+            "https://sc04.alicdn.com/kf/H7860c5686e464687ac9bdc3f4125a9e0O.jpg",
+            "https://sc04.alicdn.com/kf/H60101040415a47df996a49b7fd1718f7F.jpg",
+            "https://sc04.alicdn.com/kf/H11033a559ecc479488fb3d4a55a59a58M.jpg"
+          ],
+          "category": "Ornements",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Numéro d’article",
+              "value": "T01042877"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Taille du sticker",
+              "value": "4–6 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Quantité",
+              "value": "50 pièces par lot"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Matériau",
+              "value": "Papier"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Procédé d’impression",
+              "value": "Impression numérique"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Dessin animé"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Caractéristique",
+              "value": "Imperméable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Adhésif",
+              "value": "Peut être collé"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Autorisation de propriété intellectuelle",
+              "value": "Non"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lieu d’origine",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.81",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.59",
+              "maxPrice": "0.81",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "En quel matériau ces stickers de dessin animé sont-ils fabriqués ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Les stickers sont fabriqués en papier avec une finition imperméable, et l’illustration est appliquée par impression numérique."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelle est la taille de chaque sticker du lot de 50 pièces ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chaque sticker mesure entre 4 et 6 cm, et le lot contient 50 pièces."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ces stickers sont-ils des modèles de personnages officiellement licenciés ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Non. Les informations produit indiquent que la propriété intellectuelle n’est pas autorisée ; le lot ne doit donc pas être considéré comme une marchandise de personnages sous licence."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:04.236Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "273bbed29e8aed44d7a38ac4c8e2dcfd1dfb3c4240256fa6fdb264e5b280f08c",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:51.767Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceFingerprint": "f2aefb0d73a9a01bd533b867af2727fa02f3b2c25751312a6880ad3d1861d5a4",
+      "locale": "fr",
+      "slug": "st-benedict-medal-leather-wrap-bracelet-evbksy",
+      "title": "Bracelet en cuir enroulé avec médaille de saint Benoît",
+      "eyebrow": "Bracelet en cuir enroulé avec médaille de saint Benoît",
+      "summary": "Ce bracelet en cuir enroulé présente une médaille de saint Benoît sur un cordon tressé, avec un look punk vintage et multicouche. Il est disponible en variantes de couleur noir, bleu, marron et rose. Le bracelet est conçu pour hommes et femmes et sert d'accessoire de dévotion ou de bijou quotidien.",
+      "description": "Ce bracelet enroulé associe une médaille de saint Benoît à un cordon de cuir tressé dans un design multicouche. Le style punk vintage lui donne un aspect texturé et décontracté qui le distingue d'un simple bracelet à chaîne. Il est dimensionné pour hommes et femmes et disponible en plusieurs variantes de couleur, afin que les acheteurs puissent choisir une teinte selon les goûts personnels ou coordonner un petit assortiment. La médaille est l'élément central, ce qui fait du bracelet un article de dévotion reconnaissable, en plus de son rôle de bijou. En tant qu'article de vente, c'est une option distinctive pour les clients à la recherche d'un accessoire avec médaille de saint Benoît qui ne soit ni une médaille métallique traditionnelle ni une chaîne.",
+      "catholicContext": "Le Catéchisme catholique cite les médailles parmi les formes de piété populaire qui entourent la vie sacramentelle.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracelets de chapelet",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+      "imageAlt": "Bracelet en cuir enroulé avec médaille de saint Benoît",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6049c460daf040fab829377a8d025c56o.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc816f9cb6e6d4626aae5373d6ad803c33.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haf62351ce68a46808e1252bd3c31a81bh.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H00e3c243f0ad4267b129bc4ebaa9229bo.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd84c633a0f724c918179736ff5a955fcS.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - brown-17",
+          "label": "brown-17",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0107de3307df492fa56319983e266a65i.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - black-18",
+          "label": "black-18",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd6a926baa69e45ac84b04b5d36259673z.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - pink-19",
+          "label": "pink-19",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4479743d0f8c4b03aec710f3f2452c2ak.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - blue-20",
+          "label": "blue-20",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb6871ec81bf647b2b8644145673d1ffdp.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - brown-13",
+          "label": "brown-13",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9a222e84659e415081703bf8d4d3a16e1.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - black-14",
+          "label": "black-14",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H55f5154f8fef4718bd1a40283b0b0b65c.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - pink-15",
+          "label": "pink-15",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He2128143b5054e388e5d967ce7b214fct.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - blue-16",
+          "label": "blue-16",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd5de65cd8e114c95b612870da353ceebt.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - brown-9",
+          "label": "brown-9",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3761cebef3a441fc86d4b691e1707abeW.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - black-10",
+          "label": "black-10",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H09e8833edd7848479613522d0ccd61b23.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - pink-11",
+          "label": "pink-11",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb1a3b63a890f4b51b02d7db63de34784U.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - blue-12",
+          "label": "blue-12",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf48ae25ea7e45cda41f5c0025aaecaeX.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - brown-5",
+          "label": "brown-5",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0e2deeb5496443e89cf009b9919712bq.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - black-6",
+          "label": "black-6",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0d3082c7da5420ab7c8d653c7a1171f1.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - pink-7",
+          "label": "pink-7",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H98a994d323ee41d0897b6f9630efe529F.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - blue-8",
+          "label": "blue-8",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc4a66c3182b04675a1329933a6ad61aev.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - brown-1",
+          "label": "brown-1",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc67dfbc82fbb4a4c945c7e4b7a54fd47w.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd4d51387b1cd4b34b54467bbfdb304eeo.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - pink-3",
+          "label": "pink-3",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf0846d70999048668d432e27d1ac9c09v.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - blue-4",
+          "label": "blue-4",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2b0639166e8e47f0a1805d4e61a61589g.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - brown-25",
+          "label": "brown-25",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0a17355894844d6b9c040694fb58c500a.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - black-26",
+          "label": "black-26",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3736e684bf254a419db856206d2136a9g.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - pink-27",
+          "label": "pink-27",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H03a89d2d2153472db5c3bdbff7b3f5a5p.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - blue-28",
+          "label": "blue-28",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H212ae41e40c74df5a8ee59ee1adbc2d03.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - brown-21",
+          "label": "brown-21",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6a811a0266cd4d39931ee17f2368ad95W.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - black-22",
+          "label": "black-22",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd28dfe41fad645fa988bc6ccbd61f5b6k.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - pink-23",
+          "label": "pink-23",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Ha799b9f03b834e47b9351fc13c347a24K.webp",
+          "alt": "Bracelet en cuir enroulé avec médaille de saint Benoît - blue-24",
+          "label": "blue-24",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--24"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Médaille de saint Benoît comme élément central",
+        "Cordon de cuir tressé",
+        "Design enroulé multicouche",
+        "Style punk vintage",
+        "Disponible en variantes de couleur noir, bleu, marron et rose",
+        "Conçu pour hommes et femmes"
+      ],
+      "specifications": [
+        {
+          "name": "Matière",
+          "value": "Cuir et cordon (matière de la médaille non précisée)"
+        },
+        {
+          "name": "Design",
+          "value": "Enroulé tressé, multicouche"
+        },
+        {
+          "name": "Variantes de couleur",
+          "value": "Noir, bleu, marron, rose"
+        },
+        {
+          "name": "Porteur cible",
+          "value": "Hommes et femmes"
+        }
+      ],
+      "applications": [
+        "Port personnel de dévotion",
+        "Bijou décontracté du quotidien",
+        "Cadeau pour un ami ou un membre de la famille catholique",
+        "Assortiment de vente d'accessoires religieux"
+      ],
+      "faq": [
+        {
+          "question": "De quelle matière est fait le bracelet en cuir enroulé avec médaille de saint Benoît ?",
+          "answer": "Le bracelet utilise un cordon de cuir tressé, mais le métal ou la matière de la médaille elle-même n'est pas précisé dans les informations produit."
+        },
+        {
+          "question": "Quelles options de couleur sont disponibles pour ce bracelet ?",
+          "answer": "Le bracelet est disponible en variantes de couleur noir, bleu, marron et rose."
+        },
+        {
+          "question": "Ce bracelet est-il dimensionné pour hommes ou pour femmes ?",
+          "answer": "Le bracelet est conçu pour hommes et femmes."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.47",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracelet en cuir enroulé avec médaille de saint Benoît",
+          "description": "Ce bracelet en cuir enroulé présente une médaille de saint Benoît sur un cordon tressé, avec un look punk vintage et multicouche. Il est disponible en variantes de couleur noir, bleu, marron et rose. Le bracelet est conçu pour hommes et femmes et sert d'accessoire de dévotion ou de bijou quotidien.",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+          "image": [
+            "https://sc04.alicdn.com/kf/H95f42ec3c8134a3e8b2fa3796e901cb7J.jpg",
+            "https://sc04.alicdn.com/kf/H6049c460daf040fab829377a8d025c56o.jpg",
+            "https://sc04.alicdn.com/kf/Hc816f9cb6e6d4626aae5373d6ad803c33.jpg",
+            "https://sc04.alicdn.com/kf/Haf62351ce68a46808e1252bd3c31a81bh.jpg",
+            "https://sc04.alicdn.com/kf/H00e3c243f0ad4267b129bc4ebaa9229bo.jpg"
+          ],
+          "category": "Bracelets de chapelet",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matière",
+              "value": "Cuir et cordon (matière de la médaille non précisée)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Enroulé tressé, multicouche"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes de couleur",
+              "value": "Noir, bleu, marron, rose"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Porteur cible",
+              "value": "Hommes et femmes"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.47",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "De quelle matière est fait le bracelet en cuir enroulé avec médaille de saint Benoît ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le bracelet utilise un cordon de cuir tressé, mais le métal ou la matière de la médaille elle-même n'est pas précisé dans les informations produit."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelles options de couleur sont disponibles pour ce bracelet ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le bracelet est disponible en variantes de couleur noir, bleu, marron et rose."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce bracelet est-il dimensionné pour hommes ou pour femmes ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le bracelet est conçu pour hommes et femmes."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:01.388Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "83134ba39faadfacd7f0bce3454d423acaae9373b1415b9f8f1e64f8ebe7bb70",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:36:56.939Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceFingerprint": "78a6d761e3165f7fa531ba1f696c9948d9f76d21a0fdc5ce9db93dcd0b58c7cb",
+      "locale": "fr",
+      "slug": "oval-tee-pendant-zinc-alloy-rosary-charm-enxshy",
+      "title": "Pendentif ovale en T en alliage de zinc, breloque de chapelet",
+      "eyebrow": "Pendentif ovale en T en alliage de zinc, vendu en plusieurs variantes de taille et de poids",
+      "summary": "Ce pendentif ovale en T est une breloque en alliage de zinc disponible en 17 variantes, chacune avec son propre poids et ses propres dimensions. Les acheteurs peuvent choisir la taille adaptée à leur collier de chapelet ou à leur montage de bijoux. Le pendentif est un composant métallique unique ; les perles de chapelet, les chaînes et les crucifix ne sont pas inclus.",
+      "description": "Pour les acheteurs qui assemblent des colliers de chapelet ou de petits bijoux métalliques, le pendentif ovale en T offre un composant compact en alliage de zinc dans une gamme de tailles. Chaque variante est précisée par son poids et ses dimensions approximatives, ce qui vous permet d'assortir un pendentif à une taille de perle ou à un diamètre de chaîne particuliers. Les variantes les plus légères pèsent 0,5 g et mesurent environ 1 × 1,4, tandis que la plus lourde pèse 2,2 g et mesure 1,9 × 2,2. Toutes sont en alliage de zinc. Le pendentif est une pièce autonome, et non un chapelet ou un collier fini. Il peut être combiné avec d'autres composants pour construire un chapelet ou utilisé comme pendentif décoratif dans des créations de bijoux. La forme ovale en T offre un aspect métallique simple et rétro. Comme le pendentif est un composant, les acheteurs doivent prévoir leur propre assemblage ou finition.",
+      "catholicContext": "Le Rosaire est une prière catholique centrée sur la contemplation des événements de la vie de Jésus-Christ et de la Vierge Marie, et ses perles, son centre et son crucifix ne sont décrits que lorsqu'ils figurent dans les caractéristiques du produit.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessoires",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+      "imageAlt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha39c0bed9b794c8ba64ee57004b75425k.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha784cb2856944f43a8dd9952a17385acO.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98d04ae4b7bc4fd3846ca16d1cb20b35X.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9ef0ecd2cd6c40efbcf691e3bbbdeb83l.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "label": "st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcd0f301215084f3489dd025bce5f4f2cT.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H947de7c9a70a41799807bce12b6553e1Y.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-13-zinc-alloy-1g-1-5-1-9",
+          "label": "st11-13-zinc-alloy-1g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He04f86f00d7142d286deedc44b34ad1fr.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-14-zinc-alloy-1g-1-2-1-7",
+          "label": "st11-14-zinc-alloy-1g-1-2-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83708f1d99c74d75ab2fb99ce860b405t.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "label": "st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0e1085f7400346c9a1be818a15eeabb10.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-12-zinc-alloy-1g-1-5-2",
+          "label": "st11-12-zinc-alloy-1g-1-5-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2674c81ccabc4e82a86f418146e0c3d7g.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-17-zinc-alloy-0-5g-1-1-4",
+          "label": "st11-17-zinc-alloy-0-5g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H95913d1bca2d4ea8b6af87efb565e7b1q.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "label": "st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1811b409a2ac4bc788500977264d0442e.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-16-zinc-alloy-0-6g-1-1-4",
+          "label": "st11-16-zinc-alloy-0-6g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe9c09207a749fa9a4674758557aadfM.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "label": "st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b66efdd31f947c684c237323be52229L.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "label": "st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H74181d62a35b4b1bb911635bc2dd768eI.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde6d18900b814021afbbde05dd3675383.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "label": "st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H09226ad16a804607a85e8f401544fff62.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "label": "st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H85e7d19e1e0c4f3bad8e67c96676fde4e.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-10-zinc-alloy-1g-1-2-1-5",
+          "label": "st11-10-zinc-alloy-1g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4a5478778b0444af9e783c6fbe06982fD.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "label": "st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He0a68fc3d0e6417690729173dbc4db83x.webp",
+          "alt": "Pendentif ovale en T en alliage de zinc, breloque de chapelet - st11-8-zinc-alloy-1-3g-1-6-2",
+          "label": "st11-8-zinc-alloy-1-3g-1-6-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Forme de pendentif ovale en T en alliage de zinc",
+        "17 variantes avec des poids et des dimensions individuels",
+        "Poids allant de 0,5 g à 2,2 g",
+        "Dimensions allant d'environ 1 × 1,4 à 1,9 × 2,2",
+        "Adapté comme composant pour colliers de chapelet ou bijoux",
+        "Pendentif uniquement ; les autres composants ne sont pas inclus"
+      ],
+      "specifications": [
+        {
+          "name": "Matière",
+          "value": "Alliage de zinc"
+        },
+        {
+          "name": "Forme",
+          "value": "Pendentif ovale en T"
+        },
+        {
+          "name": "Nombre de variantes",
+          "value": "17"
+        },
+        {
+          "name": "Plage de poids",
+          "value": "0,5 g à 2,2 g"
+        },
+        {
+          "name": "Plage de dimensions",
+          "value": "Environ 1 × 1,4 à 1,9 × 2,2"
+        }
+      ],
+      "applications": [
+        "Assemblage de colliers de chapelet",
+        "Fabrication de bijoux",
+        "Projets artisanaux",
+        "Pendentif décoratif pour colliers"
+      ],
+      "faq": [
+        {
+          "question": "En quelle matière est fabriqué le pendentif ovale en T ?",
+          "answer": "Le pendentif ovale en T est fabriqué en alliage de zinc."
+        },
+        {
+          "question": "Combien de variantes sont disponibles ?",
+          "answer": "Il existe 17 variantes, chacune avec une combinaison de poids et de dimensions différente."
+        },
+        {
+          "question": "Quelles sont les tailles les plus petite et la plus grande ?",
+          "answer": "La plus petite variante pèse 0,5 g et mesure environ 1 × 1,4. La plus grande pèse 2,2 g et mesure environ 1,9 × 2,2."
+        }
+      ],
+      "pricing": {
+        "price": "0.03",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.11"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pendentif ovale en T en alliage de zinc, breloque de chapelet",
+          "description": "Ce pendentif ovale en T est une breloque en alliage de zinc disponible en 17 variantes, chacune avec son propre poids et ses propres dimensions. Les acheteurs peuvent choisir la taille adaptée à leur collier de chapelet ou à leur montage de bijoux. Le pendentif est un composant métallique unique ; les perles de chapelet, les chaînes et les crucifix ne sont pas inclus.",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hec22ce1bbe01454f871983e4dd562d4eQ.jpg",
+            "https://sc04.alicdn.com/kf/Ha39c0bed9b794c8ba64ee57004b75425k.jpg",
+            "https://sc04.alicdn.com/kf/Ha784cb2856944f43a8dd9952a17385acO.jpg",
+            "https://sc04.alicdn.com/kf/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.jpg",
+            "https://sc04.alicdn.com/kf/H98d04ae4b7bc4fd3846ca16d1cb20b35X.jpg"
+          ],
+          "category": "Accessoires",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matière",
+              "value": "Alliage de zinc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forme",
+              "value": "Pendentif ovale en T"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Nombre de variantes",
+              "value": "17"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Plage de poids",
+              "value": "0,5 g à 2,2 g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Plage de dimensions",
+              "value": "Environ 1 × 1,4 à 1,9 × 2,2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.03",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.11",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "En quelle matière est fabriqué le pendentif ovale en T ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le pendentif ovale en T est fabriqué en alliage de zinc."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Combien de variantes sont disponibles ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il existe 17 variantes, chacune avec une combinaison de poids et de dimensions différente."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelles sont les tailles les plus petite et la plus grande ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La plus petite variante pèse 0,5 g et mesure environ 1 × 1,4. La plus grande pèse 2,2 g et mesure environ 1,9 × 2,2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:03.513Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "eba566b566112af110dd7398752819c9035dbe1581a00ba23b127a64bd0628ca",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:37:03.491Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceFingerprint": "69b89b6ca30b4bb6663184455acb490901ed4c3f42782c2b703b9b87836b422a",
+      "locale": "fr",
+      "slug": "glass-holy-water-bottle-ornament-with-rose-cover-ek-1tb",
+      "title": "Ornement de bouteille d'eau bénite en verre avec couvercle rose",
+      "eyebrow": "ornement de bouteille d'eau bénite en verre",
+      "summary": "Cet ornement est une bouteille en verre transparent d'une capacité de 15 ml avec un couvercle rose décoratif. Le verre clair laisse voir le contenu, tandis que le couvercle rose ajoute un détail. Il est disponible en quatre variantes : Gold1, Gold2, Silver1 et Silver2, ce qui le rend adapté à la fabrication de bijoux ou à de petits éléments de présentation.",
+      "description": "Fabriqué en verre transparent, cet ornement est une petite bouteille dotée d'un contenant de 15 ml et d'un couvercle rose. Le corps transparent laisse voir l'intérieur, et le couvercle apporte un élément décoratif. Il est classé parmi les ornements et proposé en quatre variantes : Gold1, Gold2, Silver1 et Silver2. La construction en verre offre un aspect net qui peut compléter des projets de bijouterie ou des compositions décoratives. En tant que composant sourcé, la bouteille peut être intégrée à des pendentifs, des breloques ou des ornements autonomes selon votre design.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornements",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+      "imageAlt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+          "alt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9819598944974a67a2ae1dc28b0529887.webp",
+          "alt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9908c51bf4ef43dfadae19390c5578159.webp",
+          "alt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H51175e24f2d24b969d07b174bbc1235aw.webp",
+          "alt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8003b9911fab48669e3a5ad8f9c85ef2w.webp",
+          "alt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6ac6d90a626e48dca98e53d4b1f57b6fP.webp",
+          "alt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose - silver2",
+          "label": "silver2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2c549d952b5c4bd18c72a476bf2edbf0t.webp",
+          "alt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose - gold1",
+          "label": "gold1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdbfb5bca248143cabafa4890bdd1056cV.webp",
+          "alt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose - silver1",
+          "label": "silver1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd7daa72c8e22472ab967718860ff5b3ab.webp",
+          "alt": "Ornement de bouteille d'eau bénite en verre avec couvercle rose - gold2",
+          "label": "gold2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--2"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Construction en verre transparent",
+        "Capacité de contenant de 15 ml",
+        "Couvercle rose décoratif",
+        "Disponible en variantes Gold1, Gold2, Silver1 et Silver2",
+        "Classé comme ornement"
+      ],
+      "specifications": [
+        {
+          "name": "Matériau",
+          "value": "Verre"
+        },
+        {
+          "name": "Capacité",
+          "value": "15 ml"
+        },
+        {
+          "name": "Design du couvercle",
+          "value": "Rose"
+        },
+        {
+          "name": "Variantes",
+          "value": "Gold1, Gold2, Silver1, Silver2"
+        },
+        {
+          "name": "Catégorie",
+          "value": "Ornements"
+        }
+      ],
+      "applications": [
+        "Fabrication de bijoux",
+        "Présentation ornementale",
+        "Projets artisanaux"
+      ],
+      "faq": [
+        {
+          "question": "En quel matériau la bouteille est-elle fabriquée ?",
+          "answer": "La bouteille est fabriquée en verre transparent."
+        },
+        {
+          "question": "Quelle est la capacité de la bouteille ?",
+          "answer": "La bouteille a une capacité de 15 ml."
+        },
+        {
+          "question": "Quelles variantes sont disponibles ?",
+          "answer": "Le produit est disponible en variantes Gold1, Gold2, Silver1 et Silver2."
+        }
+      ],
+      "pricing": {
+        "price": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ornement de bouteille d'eau bénite en verre avec couvercle rose",
+          "description": "Cet ornement est une bouteille en verre transparent d'une capacité de 15 ml avec un couvercle rose décoratif. Le verre clair laisse voir le contenu, tandis que le couvercle rose ajoute un détail. Il est disponible en quatre variantes : Gold1, Gold2, Silver1 et Silver2, ce qui le rend adapté à la fabrication de bijoux ou à de petits éléments de présentation.",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8eb4b6568d8c4fe7a66e5181112aec6eG.jpg",
+            "https://sc04.alicdn.com/kf/H9819598944974a67a2ae1dc28b0529887.jpg",
+            "https://sc04.alicdn.com/kf/H9908c51bf4ef43dfadae19390c5578159.jpg",
+            "https://sc04.alicdn.com/kf/H51175e24f2d24b969d07b174bbc1235aw.jpg",
+            "https://sc04.alicdn.com/kf/H8003b9911fab48669e3a5ad8f9c85ef2w.jpg"
+          ],
+          "category": "Ornements",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matériau",
+              "value": "Verre"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Capacité",
+              "value": "15 ml"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design du couvercle",
+              "value": "Rose"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variantes",
+              "value": "Gold1, Gold2, Silver1, Silver2"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Catégorie",
+              "value": "Ornements"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "En quel matériau la bouteille est-elle fabriquée ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La bouteille est fabriquée en verre transparent."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelle est la capacité de la bouteille ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La bouteille a une capacité de 15 ml."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelles variantes sont disponibles ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le produit est disponible en variantes Gold1, Gold2, Silver1 et Silver2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:15.598Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "6969d3fb712f705e7d94f9105459bbf6a03c4d0e37c18559577828ecc265e60f",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:37:07.078Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceFingerprint": "550be28662a4ac142fab5ba6edd53cec3e62d2e9f884e6daa7d9dcc892d5c56d",
+      "locale": "fr",
+      "slug": "glass-and-crystal-rosary-bracelet-with-pendants-ekmecc",
+      "title": "Bracelet de chapelet en verre et cristal avec pendentifs",
+      "eyebrow": "Bracelet de chapelet en verre et cristal avec pendentifs mariaux et croix",
+      "summary": "Ce bracelet de chapelet associe des perles en verre et en cristal à des pendentifs sur le thème de la Vierge Marie, de Jésus et de la croix. Il est proposé en noir, bleu, rose, rouge et blanc, chaque coloris en longueur standard ou rallongée. Le mélange des matériaux des perles et les détails des pendentifs donnent au bracelet un aspect à plusieurs niveaux adapté à un usage dévotionnel et cadeau.",
+      "description": "Des perles en verre et en cristal alternent sur le bracelet, captant la lumière et ajoutant de la texture au poignet. Des pendentifs sur le thème de la Vierge Marie, de Jésus et de la croix pendent comme points focaux, reliant le bracelet à la pratique dévotionnelle catholique. La gamme de couleurs va du noir et du blanc au bleu, au rose et au rouge, avec des longueurs standard et rallongées disponibles dans chaque coloris. L'association du verre et du cristal distingue le bracelet des bracelets de chapelet en un seul matériau, tandis que les thèmes des pendentifs maintiennent un design reconnaissablement dévotionnel. Pour les acheteurs en gros, les huit variantes permettent à une présentation de couvrir à la fois les préférences de couleur et les tailles de poignet sans introduire une ligne de produits distincte.",
+      "catholicContext": "Le Rosaire est une prière catholique centrée sur la contemplation des événements de la vie de Jésus-Christ et de la Vierge Marie.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracelets de chapelet",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+      "imageAlt": "Bracelet de chapelet en verre et cristal avec pendentifs",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H313d75507c514582895c3d496b7741f0t.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7e3928109d1848179ad787c411b37ff4u.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H102032a93a764362a2628443eb2639b1j.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H86d98cfcd6274f75968ad6b80fd52c2a8.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H834879437b66461fb0f4005fb7c6df7fP.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha75ec92912204461be7fcad91d2db214T.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs - rose-standard",
+          "label": "rose-standard",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H31f5df1cabb94aa8990eea4cc0bac586O.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs - blanc-standard",
+          "label": "blanc-standard",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H281f1552dce3412ba199259d505c6c9bp.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs - noir-standard",
+          "label": "noir-standard",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Heb633769bc4b43b1bd5679184abdebabv.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs - bleu-rallongé",
+          "label": "bleu-rallongé",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H66e38b7383c74bfbb61920a3bb1b4079l.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs - rouge-rallongé",
+          "label": "rouge-rallongé",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2d78fd2d7a58454696d0724ec7d8b74f7.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs - rose-rallongé",
+          "label": "rose-rallongé",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H557b666a1fb24b76b82880eb86d01f36L.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs - blanc-rallongé",
+          "label": "blanc-rallongé",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H65f4bf70a2e3491ca1aa2fb4d2edf18c4.webp",
+          "alt": "Bracelet de chapelet en verre et cristal avec pendentifs - noir-rallongé",
+          "label": "noir-rallongé",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--1"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Fabriqué avec des perles en verre et en cristal",
+        "Pendentifs sur le thème de la Vierge Marie, de Jésus et de la croix",
+        "Disponible en noir, bleu, rose, rouge et blanc",
+        "Longueurs standard et rallongée proposées dans chaque coloris",
+        "Huit variantes au total selon la couleur et la longueur"
+      ],
+      "specifications": [
+        {
+          "name": "Matière",
+          "value": "Verre et cristal"
+        },
+        {
+          "name": "Thèmes des pendentifs",
+          "value": "Vierge Marie, Jésus, croix"
+        },
+        {
+          "name": "Couleurs",
+          "value": "Noir, bleu, rose, rouge, blanc"
+        },
+        {
+          "name": "Options de longueur",
+          "value": "Standard, rallongée"
+        },
+        {
+          "name": "Nombre de variantes",
+          "value": "8 (5 couleurs × 2 longueurs)"
+        }
+      ],
+      "applications": [
+        "Port dévotionnel",
+        "Cadeau religieux",
+        "Présentation en magasin de gros",
+        "Assortiment de bracelets de chapelet"
+      ],
+      "faq": [
+        {
+          "question": "Quels matériaux sont utilisés dans ce bracelet de chapelet ?",
+          "answer": "Le bracelet est fabriqué avec des perles en verre et en cristal et comprend des pendentifs sur le thème de la Vierge Marie, de Jésus et de la croix."
+        },
+        {
+          "question": "Quelles couleurs et longueurs sont disponibles ?",
+          "answer": "Il est proposé en noir, bleu, rose, rouge et blanc. Chaque coloris est offert en longueur standard et rallongée, pour huit variantes au total."
+        },
+        {
+          "question": "Les pendentifs sont-ils fixes ou amovibles ?",
+          "answer": "Les caractéristiques du produit ne précisent pas si les pendentifs sont fixes ou amovibles. Veuillez nous contacter pour les détails de construction."
+        }
+      ],
+      "pricing": {
+        "price": "0.88",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracelet de chapelet en verre et cristal avec pendentifs",
+          "description": "Ce bracelet de chapelet associe des perles en verre et en cristal à des pendentifs sur le thème de la Vierge Marie, de Jésus et de la croix. Il est proposé en noir, bleu, rose, rouge et blanc, chaque coloris en longueur standard ou rallongée. Le mélange des matériaux des perles et les détails des pendentifs donnent au bracelet un aspect à plusieurs niveaux adapté à un usage dévotionnel et cadeau.",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcf4caf72028e4b80933660d24986f82aM.png",
+            "https://sc04.alicdn.com/kf/H313d75507c514582895c3d496b7741f0t.png",
+            "https://sc04.alicdn.com/kf/H7e3928109d1848179ad787c411b37ff4u.png",
+            "https://sc04.alicdn.com/kf/H102032a93a764362a2628443eb2639b1j.png",
+            "https://sc04.alicdn.com/kf/H86d98cfcd6274f75968ad6b80fd52c2a8.jpg",
+            "https://sc04.alicdn.com/kf/H834879437b66461fb0f4005fb7c6df7fP.png"
+          ],
+          "category": "Bracelets de chapelet",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matière",
+              "value": "Verre et cristal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Thèmes des pendentifs",
+              "value": "Vierge Marie, Jésus, croix"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Couleurs",
+              "value": "Noir, bleu, rose, rouge, blanc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Options de longueur",
+              "value": "Standard, rallongée"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Nombre de variantes",
+              "value": "8 (5 couleurs × 2 longueurs)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.88",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Quels matériaux sont utilisés dans ce bracelet de chapelet ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le bracelet est fabriqué avec des perles en verre et en cristal et comprend des pendentifs sur le thème de la Vierge Marie, de Jésus et de la croix."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelles couleurs et longueurs sont disponibles ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il est proposé en noir, bleu, rose, rouge et blanc. Chaque coloris est offert en longueur standard et rallongée, pour huit variantes au total."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Les pendentifs sont-ils fixes ou amovibles ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Les caractéristiques du produit ne précisent pas si les pendentifs sont fixes ou amovibles. Veuillez nous contacter pour les détails de construction."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:12.121Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "b6fe420e0a1b9c04d9e065846d199b2ffd18590f360e4ba3b1d4eb43af34f525",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:37:11.524Z",
             "model": "deepseek-v4-flash"
           }
         }

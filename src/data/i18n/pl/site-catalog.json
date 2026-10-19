@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "pl",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a8e85eb36a14c03826e1a03d07cf01c288e27ee89a5d63ea92727bb534fde794",
-  "generatedAt": "2026-10-18T17:08:04.071Z",
+  "sourceCatalogHash": "5b9d005dfb248524c6617607ad567067461453285b4bbdc81e15baa4a15c62a1",
+  "generatedAt": "2026-10-19T19:40:07.107Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFNTG7BAOVioqqEY6enmEhC",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,32 +39,33 @@
     "brooch": "Broszka",
     "uncategorized": "Bez kategorii"
   },
-  "categoryGlossarySourceHash": "4a86757abd72447c98bb9c8f6706ce10a440e73eb1a0f384ce13d0de0da8aba2",
+  "categoryGlossarySourceHash": "5ea453f4898973f6927766e0e346b2065451c612ec6cbd9e1713f5f7020b6cf2",
   "translationSummary": {
-    "ready": 926,
+    "ready": 936,
     "skipped": 2,
     "skippedProductIds": [
       "AAG2TG7BAOVioqqEY6evaYQW",
       "AAFNTG7BAOVioqqEY6enmEhC"
     ],
-    "reused": 917,
-    "generated": 9,
+    "reused": 926,
+    "generated": 10,
     "generatedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 9,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 1,
+    "retriedBacklog": 2,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -827,11 +828,11 @@
   ],
   "translationRetries": {
     "AAG2TG7BAOVioqqEY6evaYQW": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     },
     "AAFNTG7BAOVioqqEY6enmEhC": {
-      "count": 1,
+      "count": 2,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     }
   },
@@ -216579,6 +216580,2734 @@
             "contentHash": "465dc9ed5f4b28681751e1274c30dcdbd56d7ad37fd712132fd7f8679fda5571",
             "attempts": 1,
             "updatedAt": "2026-10-18T17:08:04.068Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceFingerprint": "e3ecd2368a3a82ba31d6bf0c1512363bbefba2c16f5900d62dfe4968a4c0f99b",
+      "locale": "pl",
+      "slug": "hematite-orthodox-icon-bracelet-e5binb",
+      "title": "Bransoletka z ikoną prawosławną z hematytu",
+      "eyebrow": "Bransoletka z koralików hematytowych z okrągłym medalionem ze stopu z wizerunkiem świętego w kształcie kropli oleju",
+      "summary": "Koraliki hematytowe łączą się z zaokrągloną oprawą ze stopu w kształcie kropli oleju, która przedstawia portret świętego, nadając tej dewocyjnej bransoletce ciemny, metaliczny wygląd i centralny punkt w postaci ikony. Jest oferowana w wariantach Black-1 i Black-2 i wpisuje się w kategorię biżuterii religijnej jako noszona ikona świętego.",
+      "description": "Drobne koraliki hematytowe tworzą sznur tej bransoletki z ikoną prawosławną, a ich szaroczarna metaliczna powierzchnia kontrastuje z gładkim, owalnym kształtem medalionu ze stopu w formie kropli oleju. Portret świętego wypełnia lico medalionu, dzięki czemu wizerunek jest centrum projektu, a nie dodatkiem.\n\nOpisana w ofercie jako dewocyjna biżuteria z portretem świętego, bransoletka jest oferowana w dwóch wariantach: Black-1 i Black-2. Kupujący, wybierając między nimi, powinni potwierdzić, jaki portret i wykończenie ma każdy wariant przed złożeniem zamówienia, ponieważ oferta identyfikuje warianty wyłącznie tymi oznaczeniami.",
+      "catholicContext": "Katolicka pobożność ludowa obejmuje dewocyjną biżuterię i medaliki noszone jako osobiste przypomnienia o wierze; takie przedmioty są artykułami dewocyjnymi i nie są sakramentaliami, chyba że zostaną pobłogosławione przez Kościół.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bransoletki różańcowe",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+      "imageAlt": "Bransoletka z ikoną prawosławną z hematytu",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+          "alt": "Bransoletka z ikoną prawosławną z hematytu"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0600b17ae79a4bd69eeaa12ebcfefe070.webp",
+          "alt": "Bransoletka z ikoną prawosławną z hematytu"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.webp",
+          "alt": "Bransoletka z ikoną prawosławną z hematytu"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc5bb635c17214b988110fba3fe8293c1J.webp",
+          "alt": "Bransoletka z ikoną prawosławną z hematytu"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H21fe9a1e791d4959afbb8aa369902b31H.webp",
+          "alt": "Bransoletka z ikoną prawosławną z hematytu"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb5420080172e4cc6ab6a3bd66a82555cG.webp",
+          "alt": "Bransoletka z ikoną prawosławną z hematytu – black-1",
+          "label": "black-1",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4c9f8692907049de9415bc02fafb2c12y.webp",
+          "alt": "Bransoletka z ikoną prawosławną z hematytu – black-2",
+          "label": "black-2",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--2"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Sznur koralików hematytowych",
+        "Medalion ze stopu w kształcie kropli oleju",
+        "Projekt z ikoną portretu świętego",
+        "Dwa warianty: Black-1 i Black-2",
+        "W kategoriach źródłowych zgrupowana pod bransoletkami różańcowymi"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Koraliki hematytowe z medalionem ze stopu"
+        },
+        {
+          "name": "Kształt medalionu",
+          "value": "Kropla oleju"
+        },
+        {
+          "name": "Projekt",
+          "value": "Portret świętego prawosławnego (ikona)"
+        },
+        {
+          "name": "Warianty",
+          "value": "Black-1, Black-2"
+        }
+      ],
+      "applications": [
+        "Noszenie dewocyjne osobiste",
+        "Obdarowywanie prezentami religijnymi",
+        "Zaopatrzenie w asortyment bransoletek dla sklepów z artykułami religijnymi"
+      ],
+      "faq": [
+        {
+          "question": "Z jakich materiałów wykonano bransoletkę z ikoną prawosławną z hematytu?",
+          "answer": "Bransoletka jest wykonana z koralików hematytowych i owalnego medalionu ze stopu w kształcie kropli oleju z portretem świętego, zgodnie z opisem w ofercie produktu."
+        },
+        {
+          "question": "Jakie warianty są dostępne?",
+          "answer": "W ofercie wymieniono dwa warianty: Black-1 i Black-2. Szczegóły portretu i wykończenia każdego wariantu nie są określone w dostarczonych danych produktu, dlatego należy je potwierdzić u nas przed złożeniem zamówienia."
+        },
+        {
+          "question": "Czy ta bransoletka jest różańcem?",
+          "answer": "Jest wymieniona w kategorii bransoletek różańcowych, ale opisano ją jako bransoletkę z ikoną prawosławną, a nie różaniec z koralikami i krucyfiksem. W sprawie szczegółów jej budowy prosimy o kontakt."
+        }
+      ],
+      "pricing": {
+        "price": "0.55",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.32",
+          "max": "0.55"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bransoletka z ikoną prawosławną z hematytu",
+          "description": "Koraliki hematytowe łączą się z zaokrągloną oprawą ze stopu w kształcie kropli oleju, która przedstawia portret świętego, nadając tej dewocyjnej bransoletce ciemny, metaliczny wygląd i centralny punkt w postaci ikony. Jest oferowana w wariantach Black-1 i Black-2 i wpisuje się w kategorię biżuterii religijnej jako noszona ikona świętego.",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcc89be8f26a54d01a955b6460329c03da.png",
+            "https://sc04.alicdn.com/kf/H0600b17ae79a4bd69eeaa12ebcfefe070.png",
+            "https://sc04.alicdn.com/kf/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.png",
+            "https://sc04.alicdn.com/kf/Hc5bb635c17214b988110fba3fe8293c1J.png",
+            "https://sc04.alicdn.com/kf/H21fe9a1e791d4959afbb8aa369902b31H.png"
+          ],
+          "category": "Bransoletki różańcowe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Koraliki hematytowe z medalionem ze stopu"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kształt medalionu",
+              "value": "Kropla oleju"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Projekt",
+              "value": "Portret świętego prawosławnego (ikona)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Warianty",
+              "value": "Black-1, Black-2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.55",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.32",
+              "maxPrice": "0.55",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakich materiałów wykonano bransoletkę z ikoną prawosławną z hematytu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bransoletka jest wykonana z koralików hematytowych i owalnego medalionu ze stopu w kształcie kropli oleju z portretem świętego, zgodnie z opisem w ofercie produktu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie warianty są dostępne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "W ofercie wymieniono dwa warianty: Black-1 i Black-2. Szczegóły portretu i wykończenia każdego wariantu nie są określone w dostarczonych danych produktu, dlatego należy je potwierdzić u nas przed złożeniem zamówienia."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy ta bransoletka jest różańcem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jest wymieniona w kategorii bransoletek różańcowych, ale opisano ją jako bransoletkę z ikoną prawosławną, a nie różaniec z koralikami i krucyfiksem. W sprawie szczegółów jej budowy prosimy o kontakt."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:42.229Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "9b3b495b114a96ac76a967aef9ad13df1c86194ba4c50dcb903b123ab0781b40",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:39:14.615Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceFingerprint": "d4323b8bc0c3a5c5ab42489d5dd6c6379cc9b601eb638c449ca006b7b3b1bbb2",
+      "locale": "pl",
+      "slug": "saint-benedict-portrait-charm-bracelet-with-knot-design-evbsed",
+      "title": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów",
+      "eyebrow": "Bransoletka katolicka z wisiorkiem z portretem świętego i koncentrycznym wzorem węzłów",
+      "summary": "Bransoletka ze stopu cynku z okrągłym wisiorkiem z portretem św. Benedykta i koncentrycznym wzorem węzłów. Dostępna w dwóch wariantach kolorystycznych, w tonacji złotej i srebrnej, zaklasyfikowana do asortymentu bransoletek różańcowych. Uniwersalny styl i wisiorek z portretem czynią ją dewocyjnym akcesorium do ekspozycji detalicznych lub do noszenia osobistego.",
+      "description": "Ta bransoletka łączy okrągły wisiorek z portretem św. Benedykta z koncentrycznym wzorem węzłów ze stopu cynku. Wisiorek z portretem stanowi wizualny punkt centralny, a wzór węzłów dodaje faktury obręczy. Dostępne są dwie opcje kolorystyczne: w tonacji złotej i srebrnej. Bransoletka jest uniwersalna i zaklasyfikowana jako bransoletka różańcowa, dzięki czemu naturalnie pasuje do asortymentu biżuterii dewocyjnej lub kolekcji osobistej. Nie podano dalszych szczegółów konstrukcji.",
+      "catholicContext": "Katolicki katechizm wymienia medaliki i różaniec wśród form pobożności ludowej związanych z życiem sakramentalnym; ta bransoletka ma wisiorek z portretem św. Benedykta, ale nie sugeruje się żadnego błogosławieństwa ani skutku duchowego.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bransoletki różańcowe",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+      "imageAlt": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+          "alt": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0aa414c838e04a80a5555f716d6a0eafQ.webp",
+          "alt": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9a1ab462614dfb941979f715cb8093o.webp",
+          "alt": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H799b99b026a54375a2d858a9248810b3o.webp",
+          "alt": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haafc857f0fe24a3bac1725643eaf0fa55.webp",
+          "alt": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4f57991730c54639ab0e3cf901b5fe5az.webp",
+          "alt": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H277d2d5f55c842e0bcbe779174aa271ag.webp",
+          "alt": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów - portrait-round-pendant-concentric-knot-bracelet-silver",
+          "label": "portrait-round-pendant-concentric-knot-bracelet-silver",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbc60e136d11e451d864e9931ab324078L.webp",
+          "alt": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów - portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "label": "portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Okrągły wisiorek z portretem przedstawiającym św. Benedykta",
+        "Koncentryczny wzór węzłów zintegrowany z bransoletką",
+        "Wykonano ze stopu cynku",
+        "Dostępna w wariantach w tonacji złotej i srebrnej",
+        "Uniwersalny styl"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Stop cynku"
+        },
+        {
+          "name": "Kształt wisiorka",
+          "value": "Okrągły portret"
+        },
+        {
+          "name": "Motyw wzoru",
+          "value": "Koncentryczny węzeł"
+        },
+        {
+          "name": "Warianty",
+          "value": "Tonacja złota, tonacja srebrna"
+        },
+        {
+          "name": "Płeć",
+          "value": "Uniwersalna"
+        }
+      ],
+      "applications": [
+        "Asortyment bransoletek różańcowych",
+        "Dewocyjne ekspozycje detaliczne biżuterii",
+        "Noszenie osobiste jako akcesorium katolickie"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonano bransoletkę ze św. Benedyktem?",
+          "answer": "Bransoletka jest wykonana ze stopu cynku, zgodnie z danymi produktu."
+        },
+        {
+          "question": "Jakie opcje kolorystyczne są dostępne dla tej bransoletki?",
+          "answer": "Jest dostępna w dwóch wariantach: w tonacji złotej i srebrnej."
+        },
+        {
+          "question": "Czy bransoletka ma określony element wzorniczy?",
+          "answer": "Tak, ma koncentryczny wzór węzłów i okrągły wisiorek z portretem św. Benedykta."
+        }
+      ],
+      "pricing": {
+        "price": "2.02",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.46",
+          "max": "2.02"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bransoletka z wisiorkiem z portretem św. Benedykta i wzorem węzłów",
+          "description": "Bransoletka ze stopu cynku z okrągłym wisiorkiem z portretem św. Benedykta i koncentrycznym wzorem węzłów. Dostępna w dwóch wariantach kolorystycznych, w tonacji złotej i srebrnej, zaklasyfikowana do asortymentu bransoletek różańcowych. Uniwersalny styl i wisiorek z portretem czynią ją dewocyjnym akcesorium do ekspozycji detalicznych lub do noszenia osobistego.",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdea22dc4ebaf416d993110b987c1a45eq.jpg",
+            "https://sc04.alicdn.com/kf/H0aa414c838e04a80a5555f716d6a0eafQ.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9a1ab462614dfb941979f715cb8093o.jpg",
+            "https://sc04.alicdn.com/kf/H799b99b026a54375a2d858a9248810b3o.jpg",
+            "https://sc04.alicdn.com/kf/Haafc857f0fe24a3bac1725643eaf0fa55.jpg",
+            "https://sc04.alicdn.com/kf/H4f57991730c54639ab0e3cf901b5fe5az.jpg"
+          ],
+          "category": "Bransoletki różańcowe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Stop cynku"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kształt wisiorka",
+              "value": "Okrągły portret"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motyw wzoru",
+              "value": "Koncentryczny węzeł"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Warianty",
+              "value": "Tonacja złota, tonacja srebrna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Płeć",
+              "value": "Uniwersalna"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.02",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.46",
+              "maxPrice": "2.02",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonano bransoletkę ze św. Benedyktem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bransoletka jest wykonana ze stopu cynku, zgodnie z danymi produktu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie opcje kolorystyczne są dostępne dla tej bransoletki?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jest dostępna w dwóch wariantach: w tonacji złotej i srebrnej."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy bransoletka ma określony element wzorniczy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, ma koncentryczny wzór węzłów i okrągły wisiorek z portretem św. Benedykta."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:39.725Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "0b7676578a301d124b782ec0b378958b2341a98d48bec656e4bddf6c18f97b74",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:39:19.713Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceFingerprint": "61b2d7e3356a73b18c3dc7963677a4ddad1789a18501cc132b5b183b57051bbe",
+      "locale": "pl",
+      "slug": "st-michael-archangel-pendant-necklace-evsz32",
+      "title": "Naszyjnik z wisiorkiem Świętego Michała Archanioła",
+      "eyebrow": "Naszyjnik z wisiorkiem Świętego Michała Archanioła",
+      "summary": "Naszyjnik z wisiorkiem Świętego Michała Archanioła zaprojektowany dla mężczyzn, dostępny w wykończeniu złotym, stalowym lub czarnym oraz jako sam wisiorek lub z naszyjnikiem. Konstrukcja ze stali nierdzewnej sprawdza się w codziennym noszeniu i w hurtowych asortymentach biżuterii religijnej.",
+      "description": "Ten naszyjnik z wisiorkiem Świętego Michała Archanioła daje sprzedawcom detalicznym opcję biżuterii dewocyjnej dla mężczyzn. Wisiorek przedstawia Świętego Michała Archanioła i jest oferowany w sześciu wariantach: złoty naszyjnik, złoty pojedynczy wisiorek, stalowy naszyjnik, stalowy pojedynczy wisiorek, czarny pojedynczy wisiorek i czarny naszyjnik.\n\nKonstrukcja ze stali nierdzewnej sprawia, że wisiorek nadaje się do regularnego noszenia. Kupujący mogą wybrać wersje tylko z wisiorkiem do wymiany lub samodzielnego dopasowania łańcuszka albo zestaw z naszyjnikiem gotowy do ekspozycji. Wykończenia złote, stalowe i czarne zapewniają odrębne wyglądy w ramach jednej linii hurtowej.",
+      "catholicContext": "Katechizm Kościoła katolickiego zalicza medaliki do pobożności ludowej otaczającej życie sakramentalne, choć sam medalik detaliczny nie jest sakramentalium, o ile nie został pobłogosławiony.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Naszyjnik modowy",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+      "imageAlt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H66c3a23db07f4839a58e942ce6594368h.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2f110b1fcd8144b687b778648b449fcdo.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdae2836afbfc45a0966e78005d1b47f0O.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2e19b52179064160bd7704c014bf88f8E.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9fde2232964a8ebcf7193a9ca0b82eq.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H57331c582f9145f6b66fa811285bea32O.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła - czarny naszyjnik",
+          "label": "czarny naszyjnik",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5e978dd19295411cab94d17d5b2c56491.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła - stalowy naszyjnik",
+          "label": "stalowy naszyjnik",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2af800dce72c4466ab33138fc8722fb8G.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła - stalowy pojedynczy wisiorek",
+          "label": "stalowy pojedynczy wisiorek",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1de99a6362664f3ba3c9e661291d3dd0y.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła - złoty naszyjnik",
+          "label": "złoty naszyjnik",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H883797df6113451b9045aab40ff0fd8aw.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła - złoty pojedynczy wisiorek",
+          "label": "złoty pojedynczy wisiorek",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfe57aaddbed64e838e0d5df541fbfc26Q.webp",
+          "alt": "Naszyjnik z wisiorkiem Świętego Michała Archanioła - czarny pojedynczy wisiorek",
+          "label": "czarny pojedynczy wisiorek",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--5"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Wzór wisiorka Świętego Michała Archanioła",
+        "Konstrukcja ze stali nierdzewnej",
+        "Męski styl biżuterii religijnej",
+        "Dostępny jako sam wisiorek lub z naszyjnikiem",
+        "Opcje wykończenia złotego, stalowego i czarnego",
+        "Sześć wariantów pod względem wykończenia i konfiguracji"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Stal nierdzewna"
+        },
+        {
+          "name": "Wzór",
+          "value": "Święty Michał Archanioł"
+        },
+        {
+          "name": "Warianty",
+          "value": "Złoty naszyjnik, złoty pojedynczy wisiorek, stalowy naszyjnik, stalowy pojedynczy wisiorek, czarny pojedynczy wisiorek, czarny naszyjnik"
+        },
+        {
+          "name": "Kategoria",
+          "value": "Naszyjnik modowy"
+        }
+      ],
+      "applications": [
+        "Sprzedaż detaliczna męskiej biżuterii religijnej",
+        "Hurtowe asortymenty wisiorków dewocyjnych",
+        "Wymiana samego wisiorka lub samodzielne dopasowanie łańcuszka",
+        "Wybór prezentu dla katolickich mężczyzn"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonany jest wisiorek Świętego Michała Archanioła?",
+          "answer": "Zgodnie ze specyfikacją produktu wisiorek jest wykonany ze stali nierdzewnej."
+        },
+        {
+          "question": "Jakie warianty tego wisiorka są dostępne?",
+          "answer": "Wisiorek jest dostępny w sześciu wariantach: złoty naszyjnik, złoty pojedynczy wisiorek, stalowy naszyjnik, stalowy pojedynczy wisiorek, czarny pojedynczy wisiorek i czarny naszyjnik."
+        },
+        {
+          "question": "Czy wisiorek jest dostępny bez naszyjnika?",
+          "answer": "Tak, warianty złoty pojedynczy wisiorek, stalowy pojedynczy wisiorek i czarny pojedynczy wisiorek to opcje tylko z wisiorkiem. Warianty z naszyjnikiem zawierają łańcuszek."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "1.30"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Naszyjnik z wisiorkiem Świętego Michała Archanioła",
+          "description": "Naszyjnik z wisiorkiem Świętego Michała Archanioła zaprojektowany dla mężczyzn, dostępny w wykończeniu złotym, stalowym lub czarnym oraz jako sam wisiorek lub z naszyjnikiem. Konstrukcja ze stali nierdzewnej sprawdza się w codziennym noszeniu i w hurtowych asortymentach biżuterii religijnej.",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+          "image": [
+            "https://sc04.alicdn.com/kf/H807494b20657480e89258156a7edf1d9C.jpg",
+            "https://sc04.alicdn.com/kf/H66c3a23db07f4839a58e942ce6594368h.jpg",
+            "https://sc04.alicdn.com/kf/H2f110b1fcd8144b687b778648b449fcdo.jpg",
+            "https://sc04.alicdn.com/kf/Hdae2836afbfc45a0966e78005d1b47f0O.jpg",
+            "https://sc04.alicdn.com/kf/H2e19b52179064160bd7704c014bf88f8E.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9fde2232964a8ebcf7193a9ca0b82eq.jpg"
+          ],
+          "category": "Naszyjnik modowy",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Stal nierdzewna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Wzór",
+              "value": "Święty Michał Archanioł"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Warianty",
+              "value": "Złoty naszyjnik, złoty pojedynczy wisiorek, stalowy naszyjnik, stalowy pojedynczy wisiorek, czarny pojedynczy wisiorek, czarny naszyjnik"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategoria",
+              "value": "Naszyjnik modowy"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "1.30",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonany jest wisiorek Świętego Michała Archanioła?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zgodnie ze specyfikacją produktu wisiorek jest wykonany ze stali nierdzewnej."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie warianty tego wisiorka są dostępne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wisiorek jest dostępny w sześciu wariantach: złoty naszyjnik, złoty pojedynczy wisiorek, stalowy naszyjnik, stalowy pojedynczy wisiorek, czarny pojedynczy wisiorek i czarny naszyjnik."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy wisiorek jest dostępny bez naszyjnika?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, warianty złoty pojedynczy wisiorek, stalowy pojedynczy wisiorek i czarny pojedynczy wisiorek to opcje tylko z wisiorkiem. Warianty z naszyjnikiem zawierają łańcuszek."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:47.757Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "a32c9daa8320fdf64de1dc7d390fd878eb0ee10cea65f926dbed745c8b1fe5b1",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:39:25.233Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceFingerprint": "004dd5177f082c66c35b386d00b5975d3aa370d90f91bd88b96b1ae218a35a76",
+      "locale": "pl",
+      "slug": "stainless-steel-embossed-key-pendant-necklace-evbfp0",
+      "title": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem",
+      "eyebrow": "naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej",
+      "summary": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej w matowym złotym lub srebrnym wykończeniu, z tłoczonymi detalami na zawieszce. Kolekcja obejmuje siedem wzorów kluczy, YE-21 do YE-27, z których każdy jest dostępny w obu wykończeniach i prezentowany jako biżuteria unisex w stylu vintage.",
+      "description": "Korpus tego naszyjnika z zawieszką w kształcie klucza wykonano ze stali nierdzewnej, a zawieszka w kształcie klucza ma wytłoczony wzór zamiast gładkiej powierzchni. Każda zawieszka jest dostępna w matowym złotym lub srebrnym wykończeniu, więc kupujący mogą zamówić dowolne wykończenie w ramach tego samego wzoru.\n\nKolekcja obejmuje siedem kształtów kluczy, oznaczonych od YE-21 do YE-27, co daje asortymentowi hurtowemu kilka opcji sylwetki w ramach jednej konstrukcji i historii wykończenia. Zawieszka w kształcie klucza jest stylizowana jako biżuteria unisex w stylu vintage, co sprzyja merchandisingowi dla obu płci. Wybierz wzory i wykończenia dla każdej pozycji podczas budowania zamówienia.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Akcesoria",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+      "imageAlt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4d5b442a583345bd81f57d77b2663cecz.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb590cbf4af37405fb03f9540c4527e0d5.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1aacdffbdb3d4931a4588dcbc5b80c1fr.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5d3961f4984241d09121b14f932e3a778.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had36ed420ca045519d9587d4e7c5c9a5J.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1662c7049c8645f7aa404b77ca28da50p.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-25-silver",
+          "label": "ye-25-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hde3070a700284384a335a3f35bcd7ca6G.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-25-gold",
+          "label": "ye-25-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1116bc965d3c4b159c656ce0c791d305n.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-24-silver",
+          "label": "ye-24-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc78dab51f8af4691b2773eaa41a54d320.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-24-gold",
+          "label": "ye-24-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hda1e48e16764402a93cf21f2e49fb1ea0.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-27-silver",
+          "label": "ye-27-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc65429c1020e4c35a5e1a1eb3e591b4cY.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-27-gold",
+          "label": "ye-27-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H37248617f2eb40f4ab5a76a106d72d4ak.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-21-silver",
+          "label": "ye-21-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4e05bb7087f144c294f890cd7a046accf.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-21-gold",
+          "label": "ye-21-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H52406ffa885740afb7328c0f159ee7ee9.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-23-silver",
+          "label": "ye-23-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H271e06fa4d66425ba64e09deb580f8308.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-23-gold",
+          "label": "ye-23-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H8c5fe5b785c747d2bf5edc2d26286b5e3.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-22-silver",
+          "label": "ye-22-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H81fb0a50cc72436788963ebec0a6234d8.webp",
+          "alt": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem - ye-22-gold",
+          "label": "ye-22-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--4"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej",
+        "Tłoczone detale na zawieszce w kształcie klucza",
+        "Dostępne matowe złote i srebrne wykończenia",
+        "Siedem wzorów kluczy: YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27",
+        "Każdy wzór dostępny w złotym i srebrnym wykończeniu",
+        "Biżuteria unisex w stylu vintage"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Stal nierdzewna"
+        },
+        {
+          "name": "Typ zawieszki",
+          "value": "Zawieszka w kształcie klucza"
+        },
+        {
+          "name": "Detal powierzchni",
+          "value": "Tłoczenie"
+        },
+        {
+          "name": "Opcje wykończenia",
+          "value": "Matowe złoto; srebro"
+        },
+        {
+          "name": "Oznaczenia wzorów",
+          "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+        },
+        {
+          "name": "Struktura wariantów",
+          "value": "Każdy wzór w złotym i srebrnym wykończeniu"
+        },
+        {
+          "name": "Docelowy noszący",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Asortyment biżuterii hurtowej",
+        "Ekspozycja sprzedaży detalicznej naszyjników w stylu vintage",
+        "Merchandising akcesoriów unisex",
+        "Wybór zawieszek z motywem klucza według wzoru i wykończenia"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonano naszyjnik z zawieszką w kształcie klucza?",
+          "answer": "Naszyjnik z zawieszką w kształcie klucza wykonano ze stali nierdzewnej, a zawieszka w kształcie klucza ma tłoczone detale."
+        },
+        {
+          "question": "Ile wzorów kluczy jest dostępnych?",
+          "answer": "Dostępnych jest siedem wzorów kluczy, oznaczonych od YE-21 do YE-27."
+        },
+        {
+          "question": "Jakie wykończenia mogę zamówić?",
+          "answer": "Każdy wzór klucza jest dostępny w matowym złotym lub srebrnym wykończeniu, co daje czternaście kombinacji wzoru i wykończenia w całej kolekcji."
+        }
+      ],
+      "pricing": {
+        "price": "0.38",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.38",
+          "max": "0.67"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej z tłoczeniem",
+          "description": "Naszyjnik z zawieszką w kształcie klucza ze stali nierdzewnej w matowym złotym lub srebrnym wykończeniu, z tłoczonymi detalami na zawieszce. Kolekcja obejmuje siedem wzorów kluczy, YE-21 do YE-27, z których każdy jest dostępny w obu wykończeniach i prezentowany jako biżuteria unisex w stylu vintage.",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+          "image": [
+            "https://sc04.alicdn.com/kf/H3ed56730450848fea80c873e577ef82aQ.jpg",
+            "https://sc04.alicdn.com/kf/H4d5b442a583345bd81f57d77b2663cecz.jpg",
+            "https://sc04.alicdn.com/kf/Hb590cbf4af37405fb03f9540c4527e0d5.jpg",
+            "https://sc04.alicdn.com/kf/H1aacdffbdb3d4931a4588dcbc5b80c1fr.jpg",
+            "https://sc04.alicdn.com/kf/H5d3961f4984241d09121b14f932e3a778.jpg",
+            "https://sc04.alicdn.com/kf/Had36ed420ca045519d9587d4e7c5c9a5J.jpg"
+          ],
+          "category": "Akcesoria",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Stal nierdzewna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Typ zawieszki",
+              "value": "Zawieszka w kształcie klucza"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Detal powierzchni",
+              "value": "Tłoczenie"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcje wykończenia",
+              "value": "Matowe złoto; srebro"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oznaczenia wzorów",
+              "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Struktura wariantów",
+              "value": "Każdy wzór w złotym i srebrnym wykończeniu"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Docelowy noszący",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.38",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.38",
+              "maxPrice": "0.67",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonano naszyjnik z zawieszką w kształcie klucza?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Naszyjnik z zawieszką w kształcie klucza wykonano ze stali nierdzewnej, a zawieszka w kształcie klucza ma tłoczone detale."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ile wzorów kluczy jest dostępnych?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostępnych jest siedem wzorów kluczy, oznaczonych od YE-21 do YE-27."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie wykończenia mogę zamówić?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Każdy wzór klucza jest dostępny w matowym złotym lub srebrnym wykończeniu, co daje czternaście kombinacji wzoru i wykończenia w całej kolekcji."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:45.515Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "da4fe34c4921c200b94edd698cc5a45b029b0a9b3d1164e550c3d35b1c73f2fa",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:39:30.965Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceFingerprint": "9ebab8cd61ba0b008dd94c19be6fa8b017e8c3abca9954b347a88c62d6c573ba",
+      "locale": "pl",
+      "slug": "gold-plated-rhinestone-pendant-necklace-60cm-chain-evsfpx",
+      "title": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm",
+      "eyebrow": "Naszyjnik z zawieszką z tytanowej stali z opcjonalnym kwadratowym łańcuszkiem perłowym",
+      "summary": "Naszyjnik z zawieszką z tytanowej stali dostępny w dwóch stylach zawieszki: zawieszka z cyrkoniami w kształcie diamentu lub gładka, błyszcząca zawieszka, każda w wykończeniu pozłacanym lub stalowym. Kupujący mogą połączyć zawieszkę z kwadratowym łańcuszkiem perłowym o grubości 3,0 mm w kolorze złotym lub stalowym, o długości 60 cm, albo zamówić same zawieszki.",
+      "description": "Ten naszyjnik z zawieszką opiera się na kwadratowym łańcuszku perłowym o grubości 3,0 mm i długości 60 cm, dostępnym w wykończeniu złotym lub stalowym. Zawieszka występuje w czterech wersjach: zawieszka z cyrkoniami w kształcie diamentu lub gładka, błyszcząca zawieszka, każda w wykończeniu pozłacanym lub stalowym.\n\nZawieszki można zamówić pojedynczo, bez łańcuszka, dzięki czemu kupujący mogą tworzyć własne kombinacje lub uzupełniać zapas stylów zawieszek oddzielnie od łańcuszków. Wszystkie warianty łańcuszków i zawieszek mają tę samą grubość kwadratowego łańcuszka perłowego i długość 60 cm, co zapewnia spójność rozmiarów w mieszanym zamówieniu.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Naszyjnik modowy",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+      "imageAlt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He25f1d019a504490b7e3cb4a03ffae0d9.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1dd5ebb1c2444928a08e397ea352d3b1U.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc0d8b010101e4bf6a56d9466dd697e93v.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had5889308e734e07be1262d7c3405982H.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hccee46ae10ab4e5e989244c414b3db3bd.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc7d22e6ceb64ce18fa195b3540f4a92V.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm - gold-diamond-single-pendant",
+          "label": "gold-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H521cbaa0cf1b4225a2ef135bf7fb1721i.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm - steel-diamond-single-pendant",
+          "label": "steel-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbea5891ae5c546af8e7295058a24e880s.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm - gold-glossy-single-pendant",
+          "label": "gold-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf780c965233c4b508e44c0c088dc8771U.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm - steel-glossy-single-pendant",
+          "label": "steel-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf14f96621734d5199f4894118e949d1N.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm - 3-0-60cm-steel-square-pearl-chain",
+          "label": "3-0-60cm-steel-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5572ccb5ab63484eb67a536835a283d5W.webp",
+          "alt": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm - 3-0-60cm-gold-square-pearl-chain",
+          "label": "3-0-60cm-gold-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--5"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Zawieszka w dwóch stylach: z cyrkoniami w kształcie diamentu lub gładka, błyszcząca",
+        "Opcje wykończenia zawieszki: pozłacane lub stalowe",
+        "Kwadratowy łańcuszek perłowy o grubości 3,0 mm, złoty lub stalowy",
+        "Długość łańcuszka: 60 cm",
+        "Zawieszki dostępne pojedynczo, bez łańcuszka"
+      ],
+      "specifications": [
+        {
+          "name": "Styl łańcuszka",
+          "value": "Kwadratowy łańcuszek perłowy"
+        },
+        {
+          "name": "Grubość łańcuszka",
+          "value": "3,0 mm"
+        },
+        {
+          "name": "Długość łańcuszka",
+          "value": "60 cm"
+        },
+        {
+          "name": "Wykończenia łańcuszka",
+          "value": "Złote; stalowe"
+        },
+        {
+          "name": "Style zawieszki",
+          "value": "Zawieszka z cyrkoniami w kształcie diamentu; gładka, błyszcząca zawieszka"
+        },
+        {
+          "name": "Wykończenia zawieszki",
+          "value": "Pozłacane; stalowe"
+        },
+        {
+          "name": "Materiał bazowy",
+          "value": "Tytanowa stal"
+        },
+        {
+          "name": "Opcje jednostkowe",
+          "value": "Zawieszka z łańcuszkiem; zawieszka pojedyncza"
+        }
+      ],
+      "applications": [
+        "Sprzedaż detaliczna biżuterii w stylu hip hop i streetwear",
+        "Samodzielne komponowanie naszyjników i wymiana zawieszek"
+      ],
+      "faq": [
+        {
+          "question": "Jaką długość i grubość ma łańcuszek naszyjnika?",
+          "answer": "Kwadratowy łańcuszek perłowy ma grubość 3,0 mm i długość 60 cm, w wykończeniu złotym lub stalowym."
+        },
+        {
+          "question": "Czy mogę zamówić zawieszki bez łańcuszka?",
+          "answer": "Tak. Warianty zawieszek są wymienione jako pojedyncze, oddzielnie od opcji łańcuszka 3,0 × 60 cm."
+        },
+        {
+          "question": "Ile jest wariantów zawieszek?",
+          "answer": "Cztery: złota diamentowa, złota błyszcząca, stalowa diamentowa i stalowa błyszcząca. Wersje diamentowe są wysadzane cyrkoniami; wersje błyszczące są gładkie."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "3.19"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pozłacany naszyjnik z zawieszką z cyrkoniami, łańcuszek 60 cm",
+          "description": "Naszyjnik z zawieszką z tytanowej stali dostępny w dwóch stylach zawieszki: zawieszka z cyrkoniami w kształcie diamentu lub gładka, błyszcząca zawieszka, każda w wykończeniu pozłacanym lub stalowym. Kupujący mogą połączyć zawieszkę z kwadratowym łańcuszkiem perłowym o grubości 3,0 mm w kolorze złotym lub stalowym, o długości 60 cm, albo zamówić same zawieszki.",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H9f70e950c96544f0aa5c1f38fb162ed1k.jpg",
+            "https://sc04.alicdn.com/kf/He25f1d019a504490b7e3cb4a03ffae0d9.jpg",
+            "https://sc04.alicdn.com/kf/H1dd5ebb1c2444928a08e397ea352d3b1U.jpg",
+            "https://sc04.alicdn.com/kf/Hc0d8b010101e4bf6a56d9466dd697e93v.jpg",
+            "https://sc04.alicdn.com/kf/Had5889308e734e07be1262d7c3405982H.jpg",
+            "https://sc04.alicdn.com/kf/Hccee46ae10ab4e5e989244c414b3db3bd.jpg"
+          ],
+          "category": "Naszyjnik modowy",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Styl łańcuszka",
+              "value": "Kwadratowy łańcuszek perłowy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Grubość łańcuszka",
+              "value": "3,0 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Długość łańcuszka",
+              "value": "60 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Wykończenia łańcuszka",
+              "value": "Złote; stalowe"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style zawieszki",
+              "value": "Zawieszka z cyrkoniami w kształcie diamentu; gładka, błyszcząca zawieszka"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Wykończenia zawieszki",
+              "value": "Pozłacane; stalowe"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał bazowy",
+              "value": "Tytanowa stal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcje jednostkowe",
+              "value": "Zawieszka z łańcuszkiem; zawieszka pojedyncza"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "3.19",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Jaką długość i grubość ma łańcuszek naszyjnika?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kwadratowy łańcuszek perłowy ma grubość 3,0 mm i długość 60 cm, w wykończeniu złotym lub stalowym."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy mogę zamówić zawieszki bez łańcuszka?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Warianty zawieszek są wymienione jako pojedyncze, oddzielnie od opcji łańcuszka 3,0 × 60 cm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ile jest wariantów zawieszek?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cztery: złota diamentowa, złota błyszcząca, stalowa diamentowa i stalowa błyszcząca. Wersje diamentowe są wysadzane cyrkoniami; wersje błyszczące są gładkie."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:10.973Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "228d35bd573d5f0a2a14207bef928093aa942d370ac557d3c87bdde04f3bd0d7",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:39:36.523Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceFingerprint": "debee61d7511dba0eb16cae06bdee3ba5705bfe1f6ab199c5a7c0c1baa3196de",
+      "locale": "pl",
+      "slug": "cartoon-waterproof-paper-stickers-50-piece-set-evo6x2",
+      "title": "Naklejki papierowe w stylu kreskówkowym, wodoodporne, zestaw 50 sztuk",
+      "eyebrow": "Zestaw naklejek i naklejek dekoracyjnych w stylu kreskówkowym",
+      "summary": "Zestaw 50 naklejek w stylu kreskówkowym o wielkości 4–6 cm, wydrukowanych na papierze z wykończeniem wodoodpornym. Naklejki można przyklejać na notesy, etui na telefony, deskorolki i strony do scrapbookingu do codziennego dekorowania DIY.",
+      "description": "Swobodnie rysowane ilustracje kreskówkowe nadają temu zestawowi 50 naklejek zabawny wygląd, a każda naklejka ma 4–6 cm. Druk cyfrowy przenosi ilustrację na papier, a wodoodporne wykończenie pomaga naklejce wytrzymać na codziennych przedmiotach.\n\nZestaw nadaje się do małych prac dekoracyjnych, a nie do elementów wystawowych: notesy, etui na telefony, deskorolki i strony do scrapbookingu przyjmują naklejki. Kupujący poszukujący gotowego asortymentu naklejek kreskówkowych do rękodzieła i dekoracji domu mogą zamówić dostarczany zestaw 50 sztuk.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ozdoby",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+      "imageAlt": "Naklejki papierowe w stylu kreskówkowym, wodoodporne, zestaw 50 sztuk",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+          "alt": "Naklejki papierowe w stylu kreskówkowym, wodoodporne, zestaw 50 sztuk"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf7c10c436fa94667a5b30afbb5471a4d6.webp",
+          "alt": "Naklejki papierowe w stylu kreskówkowym, wodoodporne, zestaw 50 sztuk"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7860c5686e464687ac9bdc3f4125a9e0O.webp",
+          "alt": "Naklejki papierowe w stylu kreskówkowym, wodoodporne, zestaw 50 sztuk"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H60101040415a47df996a49b7fd1718f7F.webp",
+          "alt": "Naklejki papierowe w stylu kreskówkowym, wodoodporne, zestaw 50 sztuk"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H11033a559ecc479488fb3d4a55a59a58M.webp",
+          "alt": "Naklejki papierowe w stylu kreskówkowym, wodoodporne, zestaw 50 sztuk"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Zestaw 50 naklejek w stylu kreskówkowym",
+        "Każda naklejka ma 4–6 cm",
+        "Wydrukowane na papierze metodą druku cyfrowego",
+        "Wodoodporne wykończenie",
+        "Naklejki samoprzylepne, które można przyklejać na powierzchnie",
+        "Dostarczane przez przedsiębiorstwo produkcyjne TJMY"
+      ],
+      "specifications": [
+        {
+          "name": "Numer artykułu",
+          "value": "T01042877"
+        },
+        {
+          "name": "Rozmiar naklejki",
+          "value": "4–6 cm"
+        },
+        {
+          "name": "Ilość",
+          "value": "50 sztuk w zestawie"
+        },
+        {
+          "name": "Materiał",
+          "value": "Papier"
+        },
+        {
+          "name": "Proces drukowania",
+          "value": "Druk cyfrowy"
+        },
+        {
+          "name": "Styl",
+          "value": "Kreskówkowy"
+        },
+        {
+          "name": "Cecha",
+          "value": "Wodoodporność"
+        },
+        {
+          "name": "Przyczepność",
+          "value": "Można przyklejać"
+        },
+        {
+          "name": "Autoryzacja IP",
+          "value": "Nie"
+        },
+        {
+          "name": "Miejsce pochodzenia",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Dekoracja notesów",
+        "Dekoracja etui na telefony",
+        "Dekoracja deskorolek",
+        "Scrapbooking i projekty rękodzieła DIY"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonane są te naklejki kreskówkowe?",
+          "answer": "Naklejki są wykonane z papieru z wodoodpornym wykończeniem, a ilustracje nanoszono metodą druku cyfrowego."
+        },
+        {
+          "question": "Jaki jest rozmiar każdej naklejki w zestawie 50 sztuk?",
+          "answer": "Każda naklejka ma 4–6 cm, a zestaw zawiera 50 sztuk."
+        },
+        {
+          "question": "Czy te naklejki to oficjalnie licencjonowane wzory postaci?",
+          "answer": "Nie. Informacje o produkcie wskazują, że IP nie jest autoryzowane, więc zestawu nie należy traktować jako licencjonowanego towaru z postaciami."
+        }
+      ],
+      "pricing": {
+        "price": "0.81",
+        "regularPrice": "0.81",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.59",
+          "max": "0.81"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Naklejki papierowe w stylu kreskówkowym, wodoodporne, zestaw 50 sztuk",
+          "description": "Zestaw 50 naklejek w stylu kreskówkowym o wielkości 4–6 cm, wydrukowanych na papierze z wykończeniem wodoodpornym. Naklejki można przyklejać na notesy, etui na telefony, deskorolki i strony do scrapbookingu do codziennego dekorowania DIY.",
+          "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb566f6faea1b4fef945db17c0e802b93m.jpg",
+            "https://sc04.alicdn.com/kf/Hf7c10c436fa94667a5b30afbb5471a4d6.jpg",
+            "https://sc04.alicdn.com/kf/H7860c5686e464687ac9bdc3f4125a9e0O.jpg",
+            "https://sc04.alicdn.com/kf/H60101040415a47df996a49b7fd1718f7F.jpg",
+            "https://sc04.alicdn.com/kf/H11033a559ecc479488fb3d4a55a59a58M.jpg"
+          ],
+          "category": "Ozdoby",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Numer artykułu",
+              "value": "T01042877"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Rozmiar naklejki",
+              "value": "4–6 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Ilość",
+              "value": "50 sztuk w zestawie"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Papier"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Proces drukowania",
+              "value": "Druk cyfrowy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Styl",
+              "value": "Kreskówkowy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Cecha",
+              "value": "Wodoodporność"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Przyczepność",
+              "value": "Można przyklejać"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Autoryzacja IP",
+              "value": "Nie"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Miejsce pochodzenia",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.81",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.59",
+              "maxPrice": "0.81",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonane są te naklejki kreskówkowe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Naklejki są wykonane z papieru z wodoodpornym wykończeniem, a ilustracje nanoszono metodą druku cyfrowego."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaki jest rozmiar każdej naklejki w zestawie 50 sztuk?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Każda naklejka ma 4–6 cm, a zestaw zawiera 50 sztuk."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy te naklejki to oficjalnie licencjonowane wzory postaci?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nie. Informacje o produkcie wskazują, że IP nie jest autoryzowane, więc zestawu nie należy traktować jako licencjonowanego towaru z postaciami."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:04.236Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "19a8283d8a58a742de631c7c49f889d8fa923dc22562c3e46ae0757a0788bca6",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:39:41.047Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceFingerprint": "f2aefb0d73a9a01bd533b867af2727fa02f3b2c25751312a6880ad3d1861d5a4",
+      "locale": "pl",
+      "slug": "st-benedict-medal-leather-wrap-bracelet-evbksy",
+      "title": "Bransoletka owijana ze skóry z medalikiem św. Benedykta",
+      "eyebrow": "Bransoletka owijana ze skóry z medalikiem św. Benedykta",
+      "summary": "Ta bransoletka owijana ze skóry ma medalik św. Benedykta na plecionym sznurku i cechuje ją vintage’owy, punkowy, wielowarstwowy wygląd. Dostępna jest w wariantach kolorystycznych: czarnym, niebieskim, brązowym i różowym. Bransoletka jest przeznaczona dla mężczyzn i kobiet i sprawdza się jako dewocyjny dodatek lub codzienna biżuteria.",
+      "description": "Ta bransoletka owijana łączy medalik św. Benedykta z plecionym sznurkiem ze skóry w wielowarstwowym wzorze. Stylistyka vintage punk nadaje jej teksturowany, swobodny wygląd, odmienny od prostej bransoletki łańcuszkowej. Jest dopasowana do mężczyzn i kobiet i dostępna w kilku wariantach kolorystycznych, dzięki czemu kupujący mogą wybrać odcień odpowiadający osobistemu gustowi lub skomponować niewielki asortyment. Medalik jest punktem centralnym, co czyni bransoletkę rozpoznawalnym artykułem dewocyjnym obok jej roli jako biżuterii. Jako produkt detaliczny jest to wyraźna opcja dla klientów szukających dodatku z medalikiem św. Benedykta, który nie jest tradycyjnym metalowym medalikiem ani łańcuszkiem.",
+      "catholicContext": "Katechizm Kościoła Katolickiego wymienia medaliki wśród form pobożności ludowej, które otaczają życie sakramentalne.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bransoletki różańcowe",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+      "imageAlt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6049c460daf040fab829377a8d025c56o.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc816f9cb6e6d4626aae5373d6ad803c33.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haf62351ce68a46808e1252bd3c31a81bh.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H00e3c243f0ad4267b129bc4ebaa9229bo.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd84c633a0f724c918179736ff5a955fcS.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - brown-17",
+          "label": "brown-17",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0107de3307df492fa56319983e266a65i.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - black-18",
+          "label": "black-18",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd6a926baa69e45ac84b04b5d36259673z.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - pink-19",
+          "label": "pink-19",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4479743d0f8c4b03aec710f3f2452c2ak.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - blue-20",
+          "label": "blue-20",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb6871ec81bf647b2b8644145673d1ffdp.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - brown-13",
+          "label": "brown-13",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9a222e84659e415081703bf8d4d3a16e1.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - black-14",
+          "label": "black-14",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H55f5154f8fef4718bd1a40283b0b0b65c.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - pink-15",
+          "label": "pink-15",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He2128143b5054e388e5d967ce7b214fct.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - blue-16",
+          "label": "blue-16",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd5de65cd8e114c95b612870da353ceebt.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - brown-9",
+          "label": "brown-9",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3761cebef3a441fc86d4b691e1707abeW.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - black-10",
+          "label": "black-10",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H09e8833edd7848479613522d0ccd61b23.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - pink-11",
+          "label": "pink-11",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb1a3b63a890f4b51b02d7db63de34784U.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - blue-12",
+          "label": "blue-12",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf48ae25ea7e45cda41f5c0025aaecaeX.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - brown-5",
+          "label": "brown-5",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0e2deeb5496443e89cf009b9919712bq.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - black-6",
+          "label": "black-6",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0d3082c7da5420ab7c8d653c7a1171f1.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - pink-7",
+          "label": "pink-7",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H98a994d323ee41d0897b6f9630efe529F.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - blue-8",
+          "label": "blue-8",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc4a66c3182b04675a1329933a6ad61aev.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - brown-1",
+          "label": "brown-1",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc67dfbc82fbb4a4c945c7e4b7a54fd47w.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd4d51387b1cd4b34b54467bbfdb304eeo.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - pink-3",
+          "label": "pink-3",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf0846d70999048668d432e27d1ac9c09v.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - blue-4",
+          "label": "blue-4",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2b0639166e8e47f0a1805d4e61a61589g.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - brown-25",
+          "label": "brown-25",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0a17355894844d6b9c040694fb58c500a.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - black-26",
+          "label": "black-26",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3736e684bf254a419db856206d2136a9g.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - pink-27",
+          "label": "pink-27",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H03a89d2d2153472db5c3bdbff7b3f5a5p.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - blue-28",
+          "label": "blue-28",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H212ae41e40c74df5a8ee59ee1adbc2d03.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - brown-21",
+          "label": "brown-21",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6a811a0266cd4d39931ee17f2368ad95W.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - black-22",
+          "label": "black-22",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd28dfe41fad645fa988bc6ccbd61f5b6k.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - pink-23",
+          "label": "pink-23",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Ha799b9f03b834e47b9351fc13c347a24K.webp",
+          "alt": "Bransoletka owijana ze skóry z medalikiem św. Benedykta - blue-24",
+          "label": "blue-24",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--24"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Medalik św. Benedykta jako centralny element",
+        "Konstrukcja z plecionego sznurka ze skóry",
+        "Wielowarstwowy wzór owijania",
+        "Stylistyka vintage punk",
+        "Dostępna w wariantach kolorystycznych: czarnym, niebieskim, brązowym i różowym",
+        "Przeznaczona dla mężczyzn i kobiet"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Skóra i sznurek (materiał medalika nieokreślony)"
+        },
+        {
+          "name": "Wzór",
+          "value": "Pleciony, owijany, wielowarstwowy"
+        },
+        {
+          "name": "Warianty kolorystyczne",
+          "value": "Czarny, niebieski, brązowy, różowy"
+        },
+        {
+          "name": "Przeznaczenie",
+          "value": "Mężczyźni i kobiety"
+        }
+      ],
+      "applications": [
+        "Noszenie osobiste dewocyjne",
+        "Codzienna biżuteria casualowa",
+        "Prezent dla katolickiego przyjaciela lub członka rodziny",
+        "Asortyment detaliczny akcesoriów religijnych"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonana jest bransoletka owijana ze skóry z medalikiem św. Benedykta?",
+          "answer": "Bransoletka ma pleciony sznurek ze skóry, ale metal lub materiał samego medalika nie jest określony w informacjach o produkcie."
+        },
+        {
+          "question": "Jakie opcje kolorystyczne są dostępne dla tej bransoletki?",
+          "answer": "Bransoletka jest dostępna w wariantach kolorystycznych: czarnym, niebieskim, brązowym i różowym."
+        },
+        {
+          "question": "Czy ta bransoletka jest dopasowana do mężczyzn czy kobiet?",
+          "answer": "Bransoletka jest przeznaczona zarówno dla mężczyzn, jak i kobiet."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.47",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bransoletka owijana ze skóry z medalikiem św. Benedykta",
+          "description": "Ta bransoletka owijana ze skóry ma medalik św. Benedykta na plecionym sznurku i cechuje ją vintage’owy, punkowy, wielowarstwowy wygląd. Dostępna jest w wariantach kolorystycznych: czarnym, niebieskim, brązowym i różowym. Bransoletka jest przeznaczona dla mężczyzn i kobiet i sprawdza się jako dewocyjny dodatek lub codzienna biżuteria.",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+          "image": [
+            "https://sc04.alicdn.com/kf/H95f42ec3c8134a3e8b2fa3796e901cb7J.jpg",
+            "https://sc04.alicdn.com/kf/H6049c460daf040fab829377a8d025c56o.jpg",
+            "https://sc04.alicdn.com/kf/Hc816f9cb6e6d4626aae5373d6ad803c33.jpg",
+            "https://sc04.alicdn.com/kf/Haf62351ce68a46808e1252bd3c31a81bh.jpg",
+            "https://sc04.alicdn.com/kf/H00e3c243f0ad4267b129bc4ebaa9229bo.jpg"
+          ],
+          "category": "Bransoletki różańcowe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Skóra i sznurek (materiał medalika nieokreślony)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Wzór",
+              "value": "Pleciony, owijany, wielowarstwowy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Warianty kolorystyczne",
+              "value": "Czarny, niebieski, brązowy, różowy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Przeznaczenie",
+              "value": "Mężczyźni i kobiety"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.47",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonana jest bransoletka owijana ze skóry z medalikiem św. Benedykta?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bransoletka ma pleciony sznurek ze skóry, ale metal lub materiał samego medalika nie jest określony w informacjach o produkcie."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie opcje kolorystyczne są dostępne dla tej bransoletki?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bransoletka jest dostępna w wariantach kolorystycznych: czarnym, niebieskim, brązowym i różowym."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy ta bransoletka jest dopasowana do mężczyzn czy kobiet?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bransoletka jest przeznaczona zarówno dla mężczyzn, jak i kobiet."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:01.388Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "869ee34353365632435143c485f3491e37d76b1cb8547425f37183070f552f08",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:39:48.286Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceFingerprint": "78a6d761e3165f7fa531ba1f696c9948d9f76d21a0fdc5ce9db93dcd0b58c7cb",
+      "locale": "pl",
+      "slug": "oval-tee-pendant-zinc-alloy-rosary-charm-enxshy",
+      "title": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy",
+      "eyebrow": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, dostępna w wielu wariantach rozmiaru i wagi",
+      "summary": "Ta owalna zawieszka w kształcie litery T jest wisiorkiem z cynkowo-aluminiowego stopu dostępnym w 17 wariantach, z których każdy ma własną wagę i wymiary. Kupujący mogą wybrać rozmiar pasujący do ich naszyjnika różańcowego lub zestawu biżuterii. Zawieszka jest pojedynczym elementem metalowym; koraliki różańcowe, łańcuszki i krucyfiksy nie są dołączone.",
+      "description": "Dla kupujących zestawiających naszyjniki różańcowe lub niewielką biżuterię metalową owalna zawieszka w kształcie litery T oferuje kompaktowy element z cynkowo-aluminiowego stopu w różnych rozmiarach. Każdy wariant jest określony wagą i przybliżonymi wymiarami, dzięki czemu można dopasować zawieszkę do konkretnego rozmiaru koralika lub grubości łańcuszka. Najlżejsze warianty ważą 0,5 g i mierzą około 1 × 1,4, a najcięższy waży 2,2 g przy 1,9 × 2,2. Wszystkie są z cynkowo-aluminiowego stopu. Zawieszka jest samodzielnym elementem, a nie gotowym różańcem ani naszyjnikiem. Można ją łączyć z innymi elementami, aby zbudować różaniec, lub użyć jako ozdobnego wisiorka w projektach biżuterii. Owalny kształt litery T nadaje prosty, retro wygląd metalu. Ponieważ zawieszka jest elementem, kupujący powinni zaplanować własny montaż lub wykończenie.",
+      "catholicContext": "Różaniec to modlitwa katolicka skupiona na kontemplacji wydarzeń z życia Jezusa Chrystusa i Najświętszej Maryi Panny, a jego fizyczne koraliki, element centralny i krucyfiks są opisane tylko wtedy, gdy występują w danych produktu.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Akcesoria",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+      "imageAlt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha39c0bed9b794c8ba64ee57004b75425k.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha784cb2856944f43a8dd9952a17385acO.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98d04ae4b7bc4fd3846ca16d1cb20b35X.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9ef0ecd2cd6c40efbcf691e3bbbdeb83l.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "label": "st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcd0f301215084f3489dd025bce5f4f2cT.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H947de7c9a70a41799807bce12b6553e1Y.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-13-zinc-alloy-1g-1-5-1-9",
+          "label": "st11-13-zinc-alloy-1g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He04f86f00d7142d286deedc44b34ad1fr.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-14-zinc-alloy-1g-1-2-1-7",
+          "label": "st11-14-zinc-alloy-1g-1-2-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83708f1d99c74d75ab2fb99ce860b405t.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "label": "st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0e1085f7400346c9a1be818a15eeabb10.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-12-zinc-alloy-1g-1-5-2",
+          "label": "st11-12-zinc-alloy-1g-1-5-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2674c81ccabc4e82a86f418146e0c3d7g.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-17-zinc-alloy-0-5g-1-1-4",
+          "label": "st11-17-zinc-alloy-0-5g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H95913d1bca2d4ea8b6af87efb565e7b1q.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "label": "st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1811b409a2ac4bc788500977264d0442e.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-16-zinc-alloy-0-6g-1-1-4",
+          "label": "st11-16-zinc-alloy-0-6g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe9c09207a749fa9a4674758557aadfM.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "label": "st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b66efdd31f947c684c237323be52229L.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "label": "st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H74181d62a35b4b1bb911635bc2dd768eI.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde6d18900b814021afbbde05dd3675383.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "label": "st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H09226ad16a804607a85e8f401544fff62.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "label": "st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H85e7d19e1e0c4f3bad8e67c96676fde4e.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-10-zinc-alloy-1g-1-2-1-5",
+          "label": "st11-10-zinc-alloy-1g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4a5478778b0444af9e783c6fbe06982fD.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "label": "st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He0a68fc3d0e6417690729173dbc4db83x.webp",
+          "alt": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy - st11-8-zinc-alloy-1-3g-1-6-2",
+          "label": "st11-8-zinc-alloy-1-3g-1-6-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Owolny kształt zawieszki w formie litery T z cynkowo-aluminiowego stopu",
+        "17 wariantów o indywidualnej wadze i wymiarach",
+        "Waga od 0,5 g do 2,2 g",
+        "Wymiary od około 1 × 1,4 do 1,9 × 2,2",
+        "Odpowiednia jako element do naszyjników różańcowych lub biżuterii",
+        "Tylko zawieszka; pozostałe elementy nie są dołączone"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Stop cynkowo-aluminiowy"
+        },
+        {
+          "name": "Kształt",
+          "value": "Owolna zawieszka w kształcie litery T"
+        },
+        {
+          "name": "Liczba wariantów",
+          "value": "17"
+        },
+        {
+          "name": "Zakres wagi",
+          "value": "Od 0,5 g do 2,2 g"
+        },
+        {
+          "name": "Zakres wymiarów",
+          "value": "Około 1 × 1,4 do 1,9 × 2,2"
+        }
+      ],
+      "applications": [
+        "Montaż naszyjnika różańcowego",
+        "Tworzenie biżuterii",
+        "Projekty rękodzielnicze",
+        "Ozdobna zawieszka do naszyjników"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonana jest owalna zawieszka w kształcie litery T?",
+          "answer": "Owalna zawieszka w kształcie litery T jest wykonana z cynkowo-aluminiowego stopu."
+        },
+        {
+          "question": "Ile wariantów jest dostępnych?",
+          "answer": "Dostępnych jest 17 wariantów, każdy o innej kombinacji wagi i wymiarów."
+        },
+        {
+          "question": "Jakie są najmniejszy i największy rozmiar?",
+          "answer": "Najmniejszy wariant waży 0,5 g i mierzy około 1 × 1,4. Największy waży 2,2 g i mierzy około 1,9 × 2,2."
+        }
+      ],
+      "pricing": {
+        "price": "0.03",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.11"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Owolna zawieszka w kształcie litery T z cynkowo-aluminiowego stopu, wisiorek różańcowy",
+          "description": "Ta owalna zawieszka w kształcie litery T jest wisiorkiem z cynkowo-aluminiowego stopu dostępnym w 17 wariantach, z których każdy ma własną wagę i wymiary. Kupujący mogą wybrać rozmiar pasujący do ich naszyjnika różańcowego lub zestawu biżuterii. Zawieszka jest pojedynczym elementem metalowym; koraliki różańcowe, łańcuszki i krucyfiksy nie są dołączone.",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hec22ce1bbe01454f871983e4dd562d4eQ.jpg",
+            "https://sc04.alicdn.com/kf/Ha39c0bed9b794c8ba64ee57004b75425k.jpg",
+            "https://sc04.alicdn.com/kf/Ha784cb2856944f43a8dd9952a17385acO.jpg",
+            "https://sc04.alicdn.com/kf/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.jpg",
+            "https://sc04.alicdn.com/kf/H98d04ae4b7bc4fd3846ca16d1cb20b35X.jpg"
+          ],
+          "category": "Akcesoria",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Stop cynkowo-aluminiowy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kształt",
+              "value": "Owolna zawieszka w kształcie litery T"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Liczba wariantów",
+              "value": "17"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Zakres wagi",
+              "value": "Od 0,5 g do 2,2 g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Zakres wymiarów",
+              "value": "Około 1 × 1,4 do 1,9 × 2,2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.03",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.11",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonana jest owalna zawieszka w kształcie litery T?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Owalna zawieszka w kształcie litery T jest wykonana z cynkowo-aluminiowego stopu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ile wariantów jest dostępnych?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostępnych jest 17 wariantów, każdy o innej kombinacji wagi i wymiarów."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie są najmniejszy i największy rozmiar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Najmniejszy wariant waży 0,5 g i mierzy około 1 × 1,4. Największy waży 2,2 g i mierzy około 1,9 × 2,2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:03.513Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "6cddfd3ba6546f1f365a5897af51ecb092b286bc28218ef71e6d740dc312600b",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:39:56.675Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceFingerprint": "69b89b6ca30b4bb6663184455acb490901ed4c3f42782c2b703b9b87836b422a",
+      "locale": "pl",
+      "slug": "glass-holy-water-bottle-ornament-with-rose-cover-ek-1tb",
+      "title": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką",
+      "eyebrow": "szklana ozdoba w formie buteleczki na wodę święconą",
+      "summary": "Ta ozdoba to przezroczysta szklana buteleczka o pojemności 15 ml z dekoracyjną różaną osłonką. Przejrzyste szkło ukazuje zawartość, a różana osłonka dodaje detalu. Dostępna jest w czterech wariantach: Gold1, Gold2, Silver1 i Silver2, dzięki czemu nadaje się do tworzenia biżuterii lub jako mały element dekoracyjny.",
+      "description": "Ta ozdoba wykonana jest z przezroczystego szkła i stanowi małą buteleczkę z pojemnikiem o pojemności 15 ml oraz różaną osłonką. Przejrzysty korpus pozwala zobaczyć wnętrze, a osłonka wnosi element dekoracyjny. Produkt należy do kategorii ozdób i jest oferowany w czterech wariantach: Gold1, Gold2, Silver1 i Silver2. Szklana konstrukcja zapewnia czysty wygląd, który może dopełniać projekty biżuterii lub aranżacje dekoracyjne. Jako pozyskany komponent buteleczka może zostać włączona do zawieszek, charmsów lub samodzielnych ozdób, w zależności od projektu.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ozdoby",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+      "imageAlt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+          "alt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9819598944974a67a2ae1dc28b0529887.webp",
+          "alt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9908c51bf4ef43dfadae19390c5578159.webp",
+          "alt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H51175e24f2d24b969d07b174bbc1235aw.webp",
+          "alt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8003b9911fab48669e3a5ad8f9c85ef2w.webp",
+          "alt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6ac6d90a626e48dca98e53d4b1f57b6fP.webp",
+          "alt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką – silver2",
+          "label": "silver2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2c549d952b5c4bd18c72a476bf2edbf0t.webp",
+          "alt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką – gold1",
+          "label": "gold1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdbfb5bca248143cabafa4890bdd1056cV.webp",
+          "alt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką – silver1",
+          "label": "silver1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd7daa72c8e22472ab967718860ff5b3ab.webp",
+          "alt": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką – gold2",
+          "label": "gold2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--2"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Konstrukcja z przezroczystego szkła",
+        "Pojemność pojemnika 15 ml",
+        "Dekoracyjna różana osłonka",
+        "Dostępna w wariantach Gold1, Gold2, Silver1 i Silver2",
+        "Sklasyfikowana jako ozdoba"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Szkło"
+        },
+        {
+          "name": "Pojemność",
+          "value": "15 ml"
+        },
+        {
+          "name": "Wzór osłonki",
+          "value": "Róża"
+        },
+        {
+          "name": "Warianty",
+          "value": "Gold1, Gold2, Silver1, Silver2"
+        },
+        {
+          "name": "Kategoria",
+          "value": "Ozdoby"
+        }
+      ],
+      "applications": [
+        "Tworzenie biżuterii",
+        "Ekspozycja dekoracyjna",
+        "Projekty rękodzielnicze"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonana jest buteleczka?",
+          "answer": "Buteleczka jest wykonana z przezroczystego szkła."
+        },
+        {
+          "question": "Jaka jest pojemność buteleczki?",
+          "answer": "Buteleczka ma pojemność 15 ml."
+        },
+        {
+          "question": "Jakie warianty są dostępne?",
+          "answer": "Produkt jest dostępny w wariantach Gold1, Gold2, Silver1 i Silver2."
+        }
+      ],
+      "pricing": {
+        "price": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Szklana ozdoba w formie buteleczki na wodę święconą z różaną osłonką",
+          "description": "Ta ozdoba to przezroczysta szklana buteleczka o pojemności 15 ml z dekoracyjną różaną osłonką. Przejrzyste szkło ukazuje zawartość, a różana osłonka dodaje detalu. Dostępna jest w czterech wariantach: Gold1, Gold2, Silver1 i Silver2, dzięki czemu nadaje się do tworzenia biżuterii lub jako mały element dekoracyjny.",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8eb4b6568d8c4fe7a66e5181112aec6eG.jpg",
+            "https://sc04.alicdn.com/kf/H9819598944974a67a2ae1dc28b0529887.jpg",
+            "https://sc04.alicdn.com/kf/H9908c51bf4ef43dfadae19390c5578159.jpg",
+            "https://sc04.alicdn.com/kf/H51175e24f2d24b969d07b174bbc1235aw.jpg",
+            "https://sc04.alicdn.com/kf/H8003b9911fab48669e3a5ad8f9c85ef2w.jpg"
+          ],
+          "category": "Ozdoby",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Szkło"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pojemność",
+              "value": "15 ml"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Wzór osłonki",
+              "value": "Róża"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Warianty",
+              "value": "Gold1, Gold2, Silver1, Silver2"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategoria",
+              "value": "Ozdoby"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonana jest buteleczka?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buteleczka jest wykonana z przezroczystego szkła."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaka jest pojemność buteleczki?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buteleczka ma pojemność 15 ml."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie warianty są dostępne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Produkt jest dostępny w wariantach Gold1, Gold2, Silver1 i Silver2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:15.598Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "abe81fb58d6f1005811719280740550cff386fe30ec20b96893e85bc2c83f85b",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:00.855Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceFingerprint": "550be28662a4ac142fab5ba6edd53cec3e62d2e9f884e6daa7d9dcc892d5c56d",
+      "locale": "pl",
+      "slug": "glass-and-crystal-rosary-bracelet-with-pendants-ekmecc",
+      "title": "Szklana i kryształowa bransoletka różańcowa z wisiorkami",
+      "eyebrow": "Szklana i kryształowa bransoletka różańcowa z wisiorkami maryjnymi i krzyżem",
+      "summary": "Ta bransoletka różańcowa łączy szklane i kryształowe koraliki z wisiorkami o tematyce Najświętszej Maryi Panny, Jezusa i krzyża. Dostępna jest w kolorze czarnym, niebieskim, różowym, czerwonym i białym, każdy w wersji standardowej lub wydłużonej. Połączenie materiałów koralików i detali wisiorków nadaje bransoletce warstwowy wygląd odpowiedni do użytku dewocyjnego i jako prezent.",
+      "description": "Szklane i kryształowe koraliki przeplatają się wzdłuż opaski, odbijając światło i dodając tekstury nadgarstkowi. Wisiorki o tematyce Najświętszej Maryi Panny, Jezusa i krzyża zwisają jako punkty centralne, łącząc bransoletkę z katolicką praktyką dewocyjną. Gama kolorów obejmuje czerń i biel oraz niebieski, różowy i czerwony, a w każdym kolorze dostępne są wersje standardowa i wydłużona. Połączenie szkła i kryształu wyróżnia bransoletkę na tle różańcowych bransoletek z jednego materiału, a tematyka wisiorków zachowuje rozpoznawalnie dewocyjny charakter wzoru. Dla nabywców hurtowych osiem wariantów pozwala ekspozycji pokryć zarówno preferencje kolorystyczne, jak i rozmiary nadgarstków, bez wprowadzania osobnej linii produktów.",
+      "catholicContext": "Różaniec to katolicka modlitwa skupiona na kontemplacji wydarzeń z życia Jezusa Chrystusa i Najświętszej Maryi Panny.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bransoletki różańcowe",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+      "imageAlt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H313d75507c514582895c3d496b7741f0t.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7e3928109d1848179ad787c411b37ff4u.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H102032a93a764362a2628443eb2639b1j.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H86d98cfcd6274f75968ad6b80fd52c2a8.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H834879437b66461fb0f4005fb7c6df7fP.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha75ec92912204461be7fcad91d2db214T.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami - pink-regular",
+          "label": "pink-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H31f5df1cabb94aa8990eea4cc0bac586O.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami - white-regular",
+          "label": "white-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H281f1552dce3412ba199259d505c6c9bp.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami - black-regular",
+          "label": "black-regular",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Heb633769bc4b43b1bd5679184abdebabv.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami - blue-extended",
+          "label": "blue-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H66e38b7383c74bfbb61920a3bb1b4079l.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami - red-extended",
+          "label": "red-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2d78fd2d7a58454696d0724ec7d8b74f7.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami - pink-extended",
+          "label": "pink-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H557b666a1fb24b76b82880eb86d01f36L.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami - white-extended",
+          "label": "white-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H65f4bf70a2e3491ca1aa2fb4d2edf18c4.webp",
+          "alt": "Szklana i kryształowa bransoletka różańcowa z wisiorkami - black-extended",
+          "label": "black-extended",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--1"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Wykonana ze szklanych i kryształowych koralików",
+        "Wisiorki o tematyce Najświętszej Maryi Panny, Jezusa i krzyża",
+        "Dostępna w kolorze czarnym, niebieskim, różowym, czerwonym i białym",
+        "W każdym kolorze oferowane wersje standardowa i wydłużona",
+        "Łącznie osiem wariantów pod względem koloru i długości"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Szkło i kryształ"
+        },
+        {
+          "name": "Tematyka wisiorków",
+          "value": "Najświętsza Maryja Panna, Jezus, krzyż"
+        },
+        {
+          "name": "Kolory",
+          "value": "Czarny, niebieski, różowy, czerwony, biały"
+        },
+        {
+          "name": "Opcje długości",
+          "value": "Standardowa, wydłużona"
+        },
+        {
+          "name": "Liczba wariantów",
+          "value": "8 (5 kolorów × 2 długości)"
+        }
+      ],
+      "applications": [
+        "Noszenie dewocyjne",
+        "Obdarowywanie prezentami religijnymi",
+        "Ekspozycja handlowa w sprzedaży hurtowej",
+        "Asortyment bransoletek różańcowych"
+      ],
+      "faq": [
+        {
+          "question": "Jakie materiały zastosowano w tej bransoletce różańcowej?",
+          "answer": "Bransoletka jest wykonana ze szklanych i kryształowych koralików i zawiera wisiorki o tematyce Najświętszej Maryi Panny, Jezusa i krzyża."
+        },
+        {
+          "question": "Jakie kolory i długości są dostępne?",
+          "answer": "Dostępna jest w kolorze czarnym, niebieskim, różowym, czerwonym i białym. Każdy kolor oferowany jest w wersji standardowej i wydłużonej, co daje łącznie osiem wariantów."
+        },
+        {
+          "question": "Czy wisiorki są stałe, czy odpinane?",
+          "answer": "Dane produktu nie określają, czy wisiorki są stałe, czy odpinane. Prosimy o kontakt w celu uzyskania szczegółów konstrukcji."
+        }
+      ],
+      "pricing": {
+        "price": "0.88",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Szklana i kryształowa bransoletka różańcowa z wisiorkami",
+          "description": "Ta bransoletka różańcowa łączy szklane i kryształowe koraliki z wisiorkami o tematyce Najświętszej Maryi Panny, Jezusa i krzyża. Dostępna jest w kolorze czarnym, niebieskim, różowym, czerwonym i białym, każdy w wersji standardowej lub wydłużonej. Połączenie materiałów koralików i detali wisiorków nadaje bransoletce warstwowy wygląd odpowiedni do użytku dewocyjnego i jako prezent.",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcf4caf72028e4b80933660d24986f82aM.png",
+            "https://sc04.alicdn.com/kf/H313d75507c514582895c3d496b7741f0t.png",
+            "https://sc04.alicdn.com/kf/H7e3928109d1848179ad787c411b37ff4u.png",
+            "https://sc04.alicdn.com/kf/H102032a93a764362a2628443eb2639b1j.png",
+            "https://sc04.alicdn.com/kf/H86d98cfcd6274f75968ad6b80fd52c2a8.jpg",
+            "https://sc04.alicdn.com/kf/H834879437b66461fb0f4005fb7c6df7fP.png"
+          ],
+          "category": "Bransoletki różańcowe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Szkło i kryształ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tematyka wisiorków",
+              "value": "Najświętsza Maryja Panna, Jezus, krzyż"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kolory",
+              "value": "Czarny, niebieski, różowy, czerwony, biały"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opcje długości",
+              "value": "Standardowa, wydłużona"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Liczba wariantów",
+              "value": "8 (5 kolorów × 2 długości)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.88",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Jakie materiały zastosowano w tej bransoletce różańcowej?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bransoletka jest wykonana ze szklanych i kryształowych koralików i zawiera wisiorki o tematyce Najświętszej Maryi Panny, Jezusa i krzyża."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie kolory i długości są dostępne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostępna jest w kolorze czarnym, niebieskim, różowym, czerwonym i białym. Każdy kolor oferowany jest w wersji standardowej i wydłużonej, co daje łącznie osiem wariantów."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy wisiorki są stałe, czy odpinane?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dane produktu nie określają, czy wisiorki są stałe, czy odpinane. Prosimy o kontakt w celu uzyskania szczegółów konstrukcji."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:12.121Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "65202af8b081c87b7f6ffdeecf8bfd2d3bc776e84906ba3304f2d6ac9f8c1d74",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:40:07.105Z",
             "model": "deepseek-v4-flash"
           }
         }

@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "ro",
   "sourceLocale": "en",
-  "sourceCatalogHash": "a8e85eb36a14c03826e1a03d07cf01c288e27ee89a5d63ea92727bb534fde794",
-  "generatedAt": "2026-10-18T17:11:55.430Z",
+  "sourceCatalogHash": "5b9d005dfb248524c6617607ad567067461453285b4bbdc81e15baa4a15c62a1",
+  "generatedAt": "2026-10-19T19:43:46.029Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFNTG7BAOVioqqEY6enmEhC",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,32 +39,33 @@
     "brooch": "Broșă",
     "uncategorized": "Necategorisit"
   },
-  "categoryGlossarySourceHash": "4a86757abd72447c98bb9c8f6706ce10a440e73eb1a0f384ce13d0de0da8aba2",
+  "categoryGlossarySourceHash": "5ea453f4898973f6927766e0e346b2065451c612ec6cbd9e1713f5f7020b6cf2",
   "translationSummary": {
-    "ready": 928,
+    "ready": 938,
     "skipped": 2,
     "skippedProductIds": [
       "AAG2TG7BAOVioqqEY6evaYQW",
       "AAFNTG7BAOVioqqEY6enmEhC"
     ],
-    "reused": 919,
-    "generated": 9,
+    "reused": 928,
+    "generated": 10,
     "generatedProductIds": [
-      "AAFDTG7BAOVioqqEY6eeEsRL",
-      "AAHsTG7BAOVioqqEY6eDmzIY",
-      "AAFoTG7BAOVioqqEY6e8uRBf",
-      "AAG2TG7BAOVioqqEY6enFu4H",
-      "AAHcTG7BAOVioqqEY6eejIuj",
-      "AAHjTG7BAOVioqqEY6enFsja",
-      "AAF1TG7BAOVioqqEY6enZS43",
-      "AAE3TG7BAOVioqqEY6enYkFp",
-      "AAFbTG7BAOVioqqEY6enYFV7"
+      "AAFBTG7BAOVioqqEY6e5BiNb",
+      "AAH8TG7BAOVioqqEY6evBSed",
+      "AAExTG7BAOVioqqEY6evSz32",
+      "AAH-TG7BAOVioqqEY6evBFP0",
+      "AAHgTG7BAOVioqqEY6evSfPx",
+      "AAH4TG7BAOVioqqEY6evo6x2",
+      "AAHzTG7BAOVioqqEY6evBKSY",
+      "AAGiTG7BAOVioqqEY6enXsHY",
+      "AAFZTG7BAOVioqqEY6ek-1tb",
+      "AAGCTG7BAOVioqqEY6ekmECC"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 7,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 1,
+    "retriedBacklog": 2,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -827,11 +828,11 @@
   ],
   "translationRetries": {
     "AAG2TG7BAOVioqqEY6evaYQW": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     },
     "AAFNTG7BAOVioqqEY6enmEhC": {
-      "count": 1,
+      "count": 2,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     }
   },
@@ -217405,6 +217406,2734 @@
             "contentHash": "96229b9e70b6f586d3e707dd94c24702c03ba766b64a8fb2cab1b4030433643d",
             "attempts": 1,
             "updatedAt": "2026-10-18T17:11:55.426Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceId": "AAFBTG7BAOVioqqEY6e5BiNb",
+      "sourceFingerprint": "e3ecd2368a3a82ba31d6bf0c1512363bbefba2c16f5900d62dfe4968a4c0f99b",
+      "locale": "ro",
+      "slug": "hematite-orthodox-icon-bracelet-e5binb",
+      "title": "Brățară cu icoană ortodoxă din hematit",
+      "eyebrow": "Brățară din mărgele de hematit cu medalion rotund din aliaj în formă de picătură de ulei, cu icoană de sfânt",
+      "summary": "Mărgelele de hematit se îmbină cu o montură rotundă din aliaj în formă de picătură de ulei, care poartă un portret de sfânt, conferind acestei brățări devoționale aspectul metalic închis și punctul focal centrat pe icoană. Este oferită în variantele Black-1 și Black-2 și se încadrează în categoria bijuteriilor religioase ca piesă purtabilă cu icoană de sfânt.",
+      "description": "Mărgele mici de hematit formează șirul acestei brățări cu icoană ortodoxă, suprafața lor metalică gri-negru contrastând cu forma netedă de picătură de ulei a medalionului din aliaj. Un portret de sfânt umple fața medalionului, făcând din imagine centrul designului, și nu un element secundar.\n\nPrezentată în listarea sursă ca bijuterie devoțională cu portret de sfânt, brățara este oferită în două variante, Black-1 și Black-2. Cumpărătorii care aleg între ele ar trebui să confirme ce portret și ce finisaj are fiecare variantă înainte de a comanda, deoarece listarea identifică variantele doar prin aceste etichete.",
+      "catholicContext": "Pietatea populară catolică include bijuterii devoționale și medalioane purtate ca memento-uri personale ale credinței; aceste articole sunt obiecte devoționale și nu sunt sacramentale decât dacă sunt binecuvântate de Biserică.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Brățări cu rozariu",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+      "imageAlt": "Brățară cu icoană ortodoxă din hematit",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc89be8f26a54d01a955b6460329c03da.webp",
+          "alt": "Brățară cu icoană ortodoxă din hematit"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0600b17ae79a4bd69eeaa12ebcfefe070.webp",
+          "alt": "Brățară cu icoană ortodoxă din hematit"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.webp",
+          "alt": "Brățară cu icoană ortodoxă din hematit"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc5bb635c17214b988110fba3fe8293c1J.webp",
+          "alt": "Brățară cu icoană ortodoxă din hematit"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H21fe9a1e791d4959afbb8aa369902b31H.webp",
+          "alt": "Brățară cu icoană ortodoxă din hematit"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb5420080172e4cc6ab6a3bd66a82555cG.webp",
+          "alt": "Brățară cu icoană ortodoxă din hematit - black-1",
+          "label": "black-1",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4c9f8692907049de9415bc02fafb2c12y.webp",
+          "alt": "Brățară cu icoană ortodoxă din hematit - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb-V--2"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Șir de mărgele de hematit",
+        "Medalion din aliaj în formă de picătură de ulei",
+        "Design cu icoană-portret de sfânt",
+        "Două variante: Black-1 și Black-2",
+        "Încadrată la brățări cu rozariu în categoriile sursă"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Mărgele de hematit cu medalion din aliaj"
+        },
+        {
+          "name": "Forma medalionului",
+          "value": "Picătură de ulei"
+        },
+        {
+          "name": "Design",
+          "value": "Portret de icoană ortodoxă cu sfânt"
+        },
+        {
+          "name": "Variante",
+          "value": "Black-1, Black-2"
+        }
+      ],
+      "applications": [
+        "Purtare devoțională personală",
+        "Cadouri religioase",
+        "Aprovizionare cu sortimente de brățări pentru magazinele de articole religioase"
+      ],
+      "faq": [
+        {
+          "question": "Ce materiale sunt folosite la brățara cu icoană ortodoxă din hematit?",
+          "answer": "Brățara este realizată din mărgele de hematit și un medalion din aliaj în formă de picătură de ulei, cu portret de sfânt, conform descrierii din listarea produsului."
+        },
+        {
+          "question": "Ce variante sunt disponibile?",
+          "answer": "Sunt listate două variante, Black-1 și Black-2. Detaliile despre portret și finisaj pentru fiecare variantă nu sunt specificate în datele furnizate despre produs, așa că vă rugăm să le confirmați cu noi înainte de comandă."
+        },
+        {
+          "question": "Această brățară este un rozariu?",
+          "answer": "Este listată în categoria brățări cu rozariu, dar este descrisă ca brățară cu icoană ortodoxă, nu ca rozariu cu mărgele și crucifix. Contactați-ne pentru detalii specifice despre construcția ei."
+        }
+      ],
+      "pricing": {
+        "price": "0.55",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.32",
+          "max": "0.55"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Brățară cu icoană ortodoxă din hematit",
+          "description": "Mărgelele de hematit se îmbină cu o montură rotundă din aliaj în formă de picătură de ulei, care poartă un portret de sfânt, conferind acestei brățări devoționale aspectul metalic închis și punctul focal centrat pe icoană. Este oferită în variantele Black-1 și Black-2 și se încadrează în categoria bijuteriilor religioase ca piesă purtabilă cu icoană de sfânt.",
+          "sku": "ALI-AAFBTG7BAOVioqqEY6e5BiNb",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcc89be8f26a54d01a955b6460329c03da.png",
+            "https://sc04.alicdn.com/kf/H0600b17ae79a4bd69eeaa12ebcfefe070.png",
+            "https://sc04.alicdn.com/kf/Hd50b8e4bb18f4c4a9a24a53f7b1063ebA.png",
+            "https://sc04.alicdn.com/kf/Hc5bb635c17214b988110fba3fe8293c1J.png",
+            "https://sc04.alicdn.com/kf/H21fe9a1e791d4959afbb8aa369902b31H.png"
+          ],
+          "category": "Brățări cu rozariu",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Mărgele de hematit cu medalion din aliaj"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma medalionului",
+              "value": "Picătură de ulei"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Portret de icoană ortodoxă cu sfânt"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Black-1, Black-2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.55",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.32",
+              "maxPrice": "0.55",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ce materiale sunt folosite la brățara cu icoană ortodoxă din hematit?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brățara este realizată din mărgele de hematit și un medalion din aliaj în formă de picătură de ulei, cu portret de sfânt, conform descrierii din listarea produsului."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce variante sunt disponibile?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sunt listate două variante, Black-1 și Black-2. Detaliile despre portret și finisaj pentru fiecare variantă nu sunt specificate în datele furnizate despre produs, așa că vă rugăm să le confirmați cu noi înainte de comandă."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Această brățară este un rozariu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Este listată în categoria brățări cu rozariu, dar este descrisă ca brățară cu icoană ortodoxă, nu ca rozariu cu mărgele și crucifix. Contactați-ne pentru detalii specifice despre construcția ei."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:42.229Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "19862021af0d95713cf4dd159c6c27e821dfb2e68799fd4cecc44c84d3d91890",
+            "contentHash": "f656a38a3ed34635ef57384d53dc3086532debec091031c711ac64f10d992de6",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:42:54.719Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceId": "AAH8TG7BAOVioqqEY6evBSed",
+      "sourceFingerprint": "d4323b8bc0c3a5c5ab42489d5dd6c6379cc9b601eb638c449ca006b7b3b1bbb2",
+      "locale": "ro",
+      "slug": "saint-benedict-portrait-charm-bracelet-with-knot-design-evbsed",
+      "title": "Brățară cu farmec portret Sfântul Benedict și design cu noduri",
+      "eyebrow": "Brățară catolică cu farmec portret de sfânt și design cu noduri concentrice",
+      "summary": "O brățară din aliaj de zinc cu un farmec portret rotund al Sfântului Benedict și un design cu noduri concentrice. Este oferită în două variante de culoare, ton auriu și ton argintiu, și este încadrată pentru sortimente de brățări cu rozariu. Stilul unisex și pandantivul cu portret o fac un accesoriu devoțional pentru expunere în comerțul cu amănuntul sau purtare personală.",
+      "description": "Această brățară îmbină un farmec portret rotund al Sfântului Benedict cu un design cu noduri concentrice din aliaj de zinc. Farmecul portret servește drept punct focal vizual, în timp ce modelul cu noduri adaugă textură benzii. Sunt disponibile două opțiuni de culoare: ton auriu și ton argintiu. Brățara este unisex și este clasificată la brățări cu rozariu, ceea ce o face o potrivire naturală pentru sortimente de bijuterii devoționale sau colecție personală. Nu sunt specificate alte detalii de construcție.",
+      "catholicContext": "Catehismul Catolic enumeră medalioanele și Rozariul printre formele de pietate populară din jurul vieții sacramentale; această brățară are un farmec portret al Sfântului Benedict, dar nu se implică nicio binecuvântare sau efect spiritual.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Brățări cu rozariu",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+      "imageAlt": "Brățară cu farmec portret Sfântul Benedict și design cu noduri",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdea22dc4ebaf416d993110b987c1a45eq.webp",
+          "alt": "Brățară cu farmec portret Sfântul Benedict și design cu noduri"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0aa414c838e04a80a5555f716d6a0eafQ.webp",
+          "alt": "Brățară cu farmec portret Sfântul Benedict și design cu noduri"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9a1ab462614dfb941979f715cb8093o.webp",
+          "alt": "Brățară cu farmec portret Sfântul Benedict și design cu noduri"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H799b99b026a54375a2d858a9248810b3o.webp",
+          "alt": "Brățară cu farmec portret Sfântul Benedict și design cu noduri"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haafc857f0fe24a3bac1725643eaf0fa55.webp",
+          "alt": "Brățară cu farmec portret Sfântul Benedict și design cu noduri"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4f57991730c54639ab0e3cf901b5fe5az.webp",
+          "alt": "Brățară cu farmec portret Sfântul Benedict și design cu noduri"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H277d2d5f55c842e0bcbe779174aa271ag.webp",
+          "alt": "Brățară cu farmec portret Sfântul Benedict și design cu noduri - portrait-round-pendant-concentric-knot-bracelet-silver",
+          "label": "portrait-round-pendant-concentric-knot-bracelet-silver",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbc60e136d11e451d864e9931ab324078L.webp",
+          "alt": "Brățară cu farmec portret Sfântul Benedict și design cu noduri - portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "label": "portrait-round-card-pendant-concentric-knot-bracelet-gold",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Farmec portret rotund care îl înfățișează pe Sfântul Benedict",
+        "Design cu noduri concentrice integrat în brățară",
+        "Fabricat din aliaj de zinc",
+        "Disponibil în variantele ton auriu și ton argintiu",
+        "Stil unisex"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Aliaj de zinc"
+        },
+        {
+          "name": "Forma farmecului",
+          "value": "Portret rotund"
+        },
+        {
+          "name": "Motiv de design",
+          "value": "Nod concentric"
+        },
+        {
+          "name": "Variante",
+          "value": "Ton auriu, ton argintiu"
+        },
+        {
+          "name": "Gen",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Sortimente de brățări cu rozariu",
+        "Expuneri în comerțul cu amănuntul de bijuterii devoționale",
+        "Purtare personală ca accesoriu catolic"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material este fabricată brățara Sfântul Benedict?",
+          "answer": "Brățara este fabricată din aliaj de zinc, conform faptelor despre produs."
+        },
+        {
+          "question": "Ce opțiuni de culoare sunt disponibile pentru această brățară?",
+          "answer": "Este disponibilă în două variante: ton auriu și ton argintiu."
+        },
+        {
+          "question": "Brățara are un element de design specific?",
+          "answer": "Da, prezintă un design cu noduri concentrice și un farmec portret rotund al Sfântului Benedict."
+        }
+      ],
+      "pricing": {
+        "price": "2.02",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.46",
+          "max": "2.02"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Brățară cu farmec portret Sfântul Benedict și design cu noduri",
+          "description": "O brățară din aliaj de zinc cu un farmec portret rotund al Sfântului Benedict și un design cu noduri concentrice. Este oferită în două variante de culoare, ton auriu și ton argintiu, și este încadrată pentru sortimente de brățări cu rozariu. Stilul unisex și pandantivul cu portret o fac un accesoriu devoțional pentru expunere în comerțul cu amănuntul sau purtare personală.",
+          "sku": "ALI-AAH8TG7BAOVioqqEY6evBSed",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdea22dc4ebaf416d993110b987c1a45eq.jpg",
+            "https://sc04.alicdn.com/kf/H0aa414c838e04a80a5555f716d6a0eafQ.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9a1ab462614dfb941979f715cb8093o.jpg",
+            "https://sc04.alicdn.com/kf/H799b99b026a54375a2d858a9248810b3o.jpg",
+            "https://sc04.alicdn.com/kf/Haafc857f0fe24a3bac1725643eaf0fa55.jpg",
+            "https://sc04.alicdn.com/kf/H4f57991730c54639ab0e3cf901b5fe5az.jpg"
+          ],
+          "category": "Brățări cu rozariu",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Aliaj de zinc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Forma farmecului",
+              "value": "Portret rotund"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motiv de design",
+              "value": "Nod concentric"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Ton auriu, ton argintiu"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Gen",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.02",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.46",
+              "maxPrice": "2.02",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material este fabricată brățara Sfântul Benedict?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brățara este fabricată din aliaj de zinc, conform faptelor despre produs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce opțiuni de culoare sunt disponibile pentru această brățară?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Este disponibilă în două variante: ton auriu și ton argintiu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Brățara are un element de design specific?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, prezintă un design cu noduri concentrice și un farmec portret rotund al Sfântului Benedict."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:39.725Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "f2ba659e5e7677024d2b2c00783aa9648112d71c983ac000301188eebdbd5ddc",
+            "contentHash": "91ab8d75ef02b4a79b10bb5c4ed5504175ff53f2ca03f51804801ed599be7727",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:42:59.538Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceId": "AAExTG7BAOVioqqEY6evSz32",
+      "sourceFingerprint": "61b2d7e3356a73b18c3dc7963677a4ddad1789a18501cc132b5b183b57051bbe",
+      "locale": "ro",
+      "slug": "st-michael-archangel-pendant-necklace-evsz32",
+      "title": "Colier cu pandantiv Arhanghelul Sfântul Mihail",
+      "eyebrow": "Colier cu pandantiv Arhanghelul Sfântul Mihail",
+      "summary": "Un colier cu pandantiv Arhanghelul Sfântul Mihail conceput pentru bărbați, disponibil în finisaje aurii, oțel sau negru și ca pandantiv simplu sau cu lanț. Construcția din oțel inoxidabil este potrivită pentru purtare zilnică și pentru sortimente angro de bijuterii religioase.",
+      "description": "Acest colier cu pandantiv Arhanghelul Sfântul Mihail oferă comercianților cu amănuntul o opțiune de bijuterie devoțională pentru bărbați. Pandantivul îl înfățișează pe Arhanghelul Sfântul Mihail și este disponibil în șase variante: colier auriu, pandantiv simplu auriu, colier oțel, pandantiv simplu oțel, pandantiv simplu negru și colier negru.\n\nConstrucția din oțel inoxidabil face pandantivul potrivit pentru purtare regulată. Cumpărătorii pot alege versiunile doar cu pandantiv pentru înlocuire sau pentru asortarea cu un lanț personalizat, ori pot selecta un set cu colier pregătit pentru expunere. Finisajele auriu, oțel și negru oferă aspecte distincte în cadrul unei singure linii angro.",
+      "catholicContext": "Catehismul Catolic include medaliile printre devoțiunile populare care înconjoară viața sacramentală, deși o medalie de vânzare cu amănuntul nu este ea însăși un sacramental decât dacă este binecuvântată.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Colier la modă",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+      "imageAlt": "Colier cu pandantiv Arhanghelul Sfântul Mihail",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H807494b20657480e89258156a7edf1d9C.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H66c3a23db07f4839a58e942ce6594368h.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2f110b1fcd8144b687b778648b449fcdo.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdae2836afbfc45a0966e78005d1b47f0O.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2e19b52179064160bd7704c014bf88f8E.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hdd9fde2232964a8ebcf7193a9ca0b82eq.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H57331c582f9145f6b66fa811285bea32O.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail - black-necklace",
+          "label": "black-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5e978dd19295411cab94d17d5b2c56491.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail - steel-necklace",
+          "label": "steel-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2af800dce72c4466ab33138fc8722fb8G.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail - steel-single-pendant",
+          "label": "steel-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1de99a6362664f3ba3c9e661291d3dd0y.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail - gold-necklace",
+          "label": "gold-necklace",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H883797df6113451b9045aab40ff0fd8aw.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail - gold-single-pendant",
+          "label": "gold-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfe57aaddbed64e838e0d5df541fbfc26Q.webp",
+          "alt": "Colier cu pandantiv Arhanghelul Sfântul Mihail - black-single-pendant",
+          "label": "black-single-pendant",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32-V--5"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Design cu pandantiv Arhanghelul Sfântul Mihail",
+        "Construcție din oțel inoxidabil",
+        "Stil de bijuterie religioasă pentru bărbați",
+        "Disponibil doar ca pandantiv sau cu colier",
+        "Opțiuni de finisaj auriu, oțel și negru",
+        "Șase variante în funcție de finisaj și configurație"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Oțel inoxidabil"
+        },
+        {
+          "name": "Design",
+          "value": "Arhanghelul Sfântul Mihail"
+        },
+        {
+          "name": "Variante",
+          "value": "Colier auriu, pandantiv simplu auriu, colier oțel, pandantiv simplu oțel, pandantiv simplu negru, colier negru"
+        },
+        {
+          "name": "Categorie",
+          "value": "Colier la modă"
+        }
+      ],
+      "applications": [
+        "Comerț cu amănuntul de bijuterii religioase pentru bărbați",
+        "Sortimente angro de pandantive devoționale",
+        "Înlocuire doar cu pandantiv sau asortare cu lanț personalizat",
+        "Selecție de cadouri pentru bărbați catolici"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material este realizat pandantivul Arhanghelul Sfântul Mihail?",
+          "answer": "Pandantivul este realizat din oțel inoxidabil, conform specificațiilor produsului."
+        },
+        {
+          "question": "Ce variante sunt disponibile pentru acest pandantiv?",
+          "answer": "Pandantivul este disponibil în șase variante: colier auriu, pandantiv simplu auriu, colier oțel, pandantiv simplu oțel, pandantiv simplu negru și colier negru."
+        },
+        {
+          "question": "Pandantivul este disponibil fără colier?",
+          "answer": "Da, variantele pandantiv simplu auriu, pandantiv simplu oțel și pandantiv simplu negru sunt opțiuni doar cu pandantiv. Variantele cu colier includ un lanț."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "1.30"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Colier cu pandantiv Arhanghelul Sfântul Mihail",
+          "description": "Un colier cu pandantiv Arhanghelul Sfântul Mihail conceput pentru bărbați, disponibil în finisaje aurii, oțel sau negru și ca pandantiv simplu sau cu lanț. Construcția din oțel inoxidabil este potrivită pentru purtare zilnică și pentru sortimente angro de bijuterii religioase.",
+          "sku": "ALI-AAExTG7BAOVioqqEY6evSz32",
+          "image": [
+            "https://sc04.alicdn.com/kf/H807494b20657480e89258156a7edf1d9C.jpg",
+            "https://sc04.alicdn.com/kf/H66c3a23db07f4839a58e942ce6594368h.jpg",
+            "https://sc04.alicdn.com/kf/H2f110b1fcd8144b687b778648b449fcdo.jpg",
+            "https://sc04.alicdn.com/kf/Hdae2836afbfc45a0966e78005d1b47f0O.jpg",
+            "https://sc04.alicdn.com/kf/H2e19b52179064160bd7704c014bf88f8E.jpg",
+            "https://sc04.alicdn.com/kf/Hdd9fde2232964a8ebcf7193a9ca0b82eq.jpg"
+          ],
+          "category": "Colier la modă",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Oțel inoxidabil"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Arhanghelul Sfântul Mihail"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Colier auriu, pandantiv simplu auriu, colier oțel, pandantiv simplu oțel, pandantiv simplu negru, colier negru"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Categorie",
+              "value": "Colier la modă"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "1.30",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material este realizat pandantivul Arhanghelul Sfântul Mihail?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pandantivul este realizat din oțel inoxidabil, conform specificațiilor produsului."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce variante sunt disponibile pentru acest pandantiv?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pandantivul este disponibil în șase variante: colier auriu, pandantiv simplu auriu, colier oțel, pandantiv simplu oțel, pandantiv simplu negru și colier negru."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Pandantivul este disponibil fără colier?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, variantele pandantiv simplu auriu, pandantiv simplu oțel și pandantiv simplu negru sunt opțiuni doar cu pandantiv. Variantele cu colier includ un lanț."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:47.757Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "196ef013e96cf64cb2b3afeea927956f261fceba7ad6b76683a85954ca017283",
+            "contentHash": "c50e4c2b7001ef55f7d06058acf2d6727f2bf0d4eb03b4ba476e4279594015b3",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:43:04.661Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceId": "AAH-TG7BAOVioqqEY6evBFP0",
+      "sourceFingerprint": "004dd5177f082c66c35b386d00b5975d3aa370d90f91bd88b96b1ae218a35a76",
+      "locale": "ro",
+      "slug": "stainless-steel-embossed-key-pendant-necklace-evbfp0",
+      "title": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief",
+      "eyebrow": "colier cu pandantiv cheie din oțel inoxidabil",
+      "summary": "Un colier cu pandantiv cheie din oțel inoxidabil, finisat în auriu mat sau argintiu, cu detalii în relief pe pandantivul cheie. Gama cuprinde șapte modele de chei, YE-21 până la YE-27, fiecare disponibil în ambele finisaje și prezentat ca bijuterie vintage unisex.",
+      "description": "Oțelul inoxidabil formează corpul acestui colier cu pandantiv cheie, iar pandantivul cheie are un model în relief, nu o suprafață simplă. Fiecare pandantiv este disponibil în auriu mat sau argintiu, astfel încât cumpărătorii pot comanda oricare finisaj în cadrul aceluiași model.\n\nGama cuprinde șapte forme de cheie, referite YE-21 până la YE-27, oferind unui sortiment en-gros mai multe opțiuni de siluetă sub aceeași construcție și poveste de finisaj. Pandantivul cheie este stilizat ca bijuterie vintage unisex, ceea ce se potrivește pentru comercializarea mixtă. Alegeți modelele și finisajele pe linie atunci când construiți o comandă.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accesorii",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+      "imageAlt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3ed56730450848fea80c873e577ef82aQ.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4d5b442a583345bd81f57d77b2663cecz.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb590cbf4af37405fb03f9540c4527e0d5.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1aacdffbdb3d4931a4588dcbc5b80c1fr.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5d3961f4984241d09121b14f932e3a778.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had36ed420ca045519d9587d4e7c5c9a5J.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1662c7049c8645f7aa404b77ca28da50p.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-25-silver",
+          "label": "ye-25-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hde3070a700284384a335a3f35bcd7ca6G.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-25-gold",
+          "label": "ye-25-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1116bc965d3c4b159c656ce0c791d305n.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-24-silver",
+          "label": "ye-24-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc78dab51f8af4691b2773eaa41a54d320.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-24-gold",
+          "label": "ye-24-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hda1e48e16764402a93cf21f2e49fb1ea0.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-27-silver",
+          "label": "ye-27-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc65429c1020e4c35a5e1a1eb3e591b4cY.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-27-gold",
+          "label": "ye-27-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H37248617f2eb40f4ab5a76a106d72d4ak.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-21-silver",
+          "label": "ye-21-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4e05bb7087f144c294f890cd7a046accf.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-21-gold",
+          "label": "ye-21-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H52406ffa885740afb7328c0f159ee7ee9.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-23-silver",
+          "label": "ye-23-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H271e06fa4d66425ba64e09deb580f8308.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-23-gold",
+          "label": "ye-23-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H8c5fe5b785c747d2bf5edc2d26286b5e3.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-22-silver",
+          "label": "ye-22-silver",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H81fb0a50cc72436788963ebec0a6234d8.webp",
+          "alt": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief - ye-22-gold",
+          "label": "ye-22-gold",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0-V--4"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Colier cu pandantiv cheie din oțel inoxidabil",
+        "Detalii în relief pe pandantivul cheie",
+        "Finisaje disponibile: auriu mat și argintiu",
+        "Șapte modele de chei: YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27",
+        "Fiecare model disponibil în auriu și argintiu",
+        "Bijuterie vintage unisex"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Oțel inoxidabil"
+        },
+        {
+          "name": "Tip pandantiv",
+          "value": "Pandantiv cheie"
+        },
+        {
+          "name": "Detaliu de suprafață",
+          "value": "În relief"
+        },
+        {
+          "name": "Opțiuni de finisaj",
+          "value": "Auriu mat; argintiu"
+        },
+        {
+          "name": "Referințe modele",
+          "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+        },
+        {
+          "name": "Structura variantelor",
+          "value": "Fiecare model în auriu și argintiu"
+        },
+        {
+          "name": "Utilizator țintă",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Sortiment de bijuterii en-gros",
+        "Prezentare retail pentru coliere în stil vintage",
+        "Comercializare accesorii unisex",
+        "Selecție de pandantive cu motiv cheie după model și finisaj"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material este realizat colierul cu pandantiv cheie?",
+          "answer": "Colierul cu pandantiv cheie este realizat din oțel inoxidabil, cu detalii în relief pe pandantivul cheie."
+        },
+        {
+          "question": "Câte modele de chei sunt disponibile?",
+          "answer": "Există șapte modele de chei, referite YE-21 până la YE-27."
+        },
+        {
+          "question": "Ce finisaje pot comanda?",
+          "answer": "Fiecare model de cheie este disponibil în auriu mat sau argintiu, oferind paisprezece combinații de model și finisaj în cadrul gamei."
+        }
+      ],
+      "pricing": {
+        "price": "0.38",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.38",
+          "max": "0.67"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Colier cu pandantiv cheie din oțel inoxidabil cu detalii în relief",
+          "description": "Un colier cu pandantiv cheie din oțel inoxidabil, finisat în auriu mat sau argintiu, cu detalii în relief pe pandantivul cheie. Gama cuprinde șapte modele de chei, YE-21 până la YE-27, fiecare disponibil în ambele finisaje și prezentat ca bijuterie vintage unisex.",
+          "sku": "ALI-AAH-TG7BAOVioqqEY6evBFP0",
+          "image": [
+            "https://sc04.alicdn.com/kf/H3ed56730450848fea80c873e577ef82aQ.jpg",
+            "https://sc04.alicdn.com/kf/H4d5b442a583345bd81f57d77b2663cecz.jpg",
+            "https://sc04.alicdn.com/kf/Hb590cbf4af37405fb03f9540c4527e0d5.jpg",
+            "https://sc04.alicdn.com/kf/H1aacdffbdb3d4931a4588dcbc5b80c1fr.jpg",
+            "https://sc04.alicdn.com/kf/H5d3961f4984241d09121b14f932e3a778.jpg",
+            "https://sc04.alicdn.com/kf/Had36ed420ca045519d9587d4e7c5c9a5J.jpg"
+          ],
+          "category": "Accesorii",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Oțel inoxidabil"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip pandantiv",
+              "value": "Pandantiv cheie"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Detaliu de suprafață",
+              "value": "În relief"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opțiuni de finisaj",
+              "value": "Auriu mat; argintiu"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Referințe modele",
+              "value": "YE-21, YE-22, YE-23, YE-24, YE-25, YE-26, YE-27"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Structura variantelor",
+              "value": "Fiecare model în auriu și argintiu"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Utilizator țintă",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.38",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.38",
+              "maxPrice": "0.67",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material este realizat colierul cu pandantiv cheie?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Colierul cu pandantiv cheie este realizat din oțel inoxidabil, cu detalii în relief pe pandantivul cheie."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Câte modele de chei sunt disponibile?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Există șapte modele de chei, referite YE-21 până la YE-27."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce finisaje pot comanda?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fiecare model de cheie este disponibil în auriu mat sau argintiu, oferind paisprezece combinații de model și finisaj în cadrul gamei."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:32:45.515Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "63970edc929f378d89acaa7b3b3b0043e8bd79f055e648060908bbee9e0ac2bf",
+            "contentHash": "e9729f3e6eb874d749d4a2c9dcf2224c03a3509210c934f92455764e07322334",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:43:10.107Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceId": "AAHgTG7BAOVioqqEY6evSfPx",
+      "sourceFingerprint": "9ebab8cd61ba0b008dd94c19be6fa8b017e8c3abca9954b347a88c62d6c573ba",
+      "locale": "ro",
+      "slug": "gold-plated-rhinestone-pendant-necklace-60cm-chain-evsfpx",
+      "title": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm",
+      "eyebrow": "Colier cu pandantiv din oțel de titan, cu lanț pătrat cu perle opțional",
+      "summary": "Colier cu pandantiv din oțel de titan, disponibil în două stiluri de pandantiv: un pandantiv cu diamant încrustat cu strasuri sau un pandantiv simplu lucios, fiecare în finisaj placat cu aur sau oțel. Cumpărătorii pot asorta un pandantiv cu un lanț pătrat cu perle de 3,0 mm în aur sau oțel, tăiat la 60 cm, sau pot comanda pandantivele separat.",
+      "description": "Acest colier cu pandantiv se bazează pe un lanț pătrat cu perle de 3,0 mm, cu lungimea de 60 cm, disponibil în finisaj aur sau oțel. Pandantivul este disponibil în patru versiuni: un pandantiv cu diamant încrustat cu strasuri sau un pandantiv simplu lucios, fiecare în finisaj placat cu aur sau oțel.\n\nPandantivele pot fi comandate separat, fără lanț, astfel încât cumpărătorii își pot compune propriile combinații sau pot reînnoi stocul de modele de pandantive separat de lanțuri. Toate variantele de lanț și pandantiv au același diametru al lanțului pătrat cu perle și aceeași lungime de 60 cm, ceea ce menține dimensiunile consecvente într-o comandă mixtă.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Colier la modă",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+      "imageAlt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9f70e950c96544f0aa5c1f38fb162ed1k.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He25f1d019a504490b7e3cb4a03ffae0d9.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1dd5ebb1c2444928a08e397ea352d3b1U.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc0d8b010101e4bf6a56d9466dd697e93v.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Had5889308e734e07be1262d7c3405982H.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hccee46ae10ab4e5e989244c414b3db3bd.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcc7d22e6ceb64ce18fa195b3540f4a92V.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm - gold-diamond-single-pendant",
+          "label": "gold-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H521cbaa0cf1b4225a2ef135bf7fb1721i.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm - steel-diamond-single-pendant",
+          "label": "steel-diamond-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbea5891ae5c546af8e7295058a24e880s.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm - gold-glossy-single-pendant",
+          "label": "gold-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf780c965233c4b508e44c0c088dc8771U.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm - steel-glossy-single-pendant",
+          "label": "steel-glossy-single-pendant",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf14f96621734d5199f4894118e949d1N.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm - 3-0-60cm-steel-square-pearl-chain",
+          "label": "3-0-60cm-steel-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H5572ccb5ab63484eb67a536835a283d5W.webp",
+          "alt": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm - 3-0-60cm-gold-square-pearl-chain",
+          "label": "3-0-60cm-gold-square-pearl-chain",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx-V--5"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Pandantiv în două stiluri: pandantiv cu diamant încrustat cu strasuri sau pandantiv simplu lucios",
+        "Opțiuni de finisaj pentru pandantiv: placat cu aur sau oțel",
+        "Lanț pătrat cu perle de 3,0 mm, în aur sau oțel",
+        "Lungimea lanțului: 60 cm",
+        "Pandantivele sunt disponibile separat, fără lanț"
+      ],
+      "specifications": [
+        {
+          "name": "Stil lanț",
+          "value": "Lanț pătrat cu perle"
+        },
+        {
+          "name": "Diametru lanț",
+          "value": "3,0 mm"
+        },
+        {
+          "name": "Lungime lanț",
+          "value": "60 cm"
+        },
+        {
+          "name": "Finisaje lanț",
+          "value": "Aur; oțel"
+        },
+        {
+          "name": "Stiluri pandantiv",
+          "value": "Pandantiv cu diamant din strasuri; pandantiv simplu lucios"
+        },
+        {
+          "name": "Finisaje pandantiv",
+          "value": "Placat cu aur; oțel"
+        },
+        {
+          "name": "Material de bază",
+          "value": "Oțel de titan"
+        },
+        {
+          "name": "Opțiuni unitare",
+          "value": "Pandantiv cu lanț; pandantiv separat"
+        }
+      ],
+      "applications": [
+        "Comerț cu bijuterii în stil hip hop și streetwear",
+        "Asamblare DIY de coliere și schimbare de pandantive"
+      ],
+      "faq": [
+        {
+          "question": "Ce lungime și diametru are lanțul colierului?",
+          "answer": "Lanțul pătrat cu perle are diametrul de 3,0 mm și lungimea de 60 cm, în finisaj aur sau oțel."
+        },
+        {
+          "question": "Pot comanda pandantive fără lanț?",
+          "answer": "Da. Variantele de pandantiv sunt listate separat, independent de opțiunile de lanț de 3,0 × 60 cm."
+        },
+        {
+          "question": "Câte variante de pandantiv există?",
+          "answer": "Patru: diamant aur, lucios aur, diamant oțel și lucios oțel. Versiunile cu diamant sunt încrustate cu strasuri; versiunile lucioase sunt simple."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "3.19"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Colier cu pandantiv placat cu aur și strasuri, lanț de 60 cm",
+          "description": "Colier cu pandantiv din oțel de titan, disponibil în două stiluri de pandantiv: un pandantiv cu diamant încrustat cu strasuri sau un pandantiv simplu lucios, fiecare în finisaj placat cu aur sau oțel. Cumpărătorii pot asorta un pandantiv cu un lanț pătrat cu perle de 3,0 mm în aur sau oțel, tăiat la 60 cm, sau pot comanda pandantivele separat.",
+          "sku": "ALI-AAHgTG7BAOVioqqEY6evSfPx",
+          "image": [
+            "https://sc04.alicdn.com/kf/H9f70e950c96544f0aa5c1f38fb162ed1k.jpg",
+            "https://sc04.alicdn.com/kf/He25f1d019a504490b7e3cb4a03ffae0d9.jpg",
+            "https://sc04.alicdn.com/kf/H1dd5ebb1c2444928a08e397ea352d3b1U.jpg",
+            "https://sc04.alicdn.com/kf/Hc0d8b010101e4bf6a56d9466dd697e93v.jpg",
+            "https://sc04.alicdn.com/kf/Had5889308e734e07be1262d7c3405982H.jpg",
+            "https://sc04.alicdn.com/kf/Hccee46ae10ab4e5e989244c414b3db3bd.jpg"
+          ],
+          "category": "Colier la modă",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Stil lanț",
+              "value": "Lanț pătrat cu perle"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Diametru lanț",
+              "value": "3,0 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lungime lanț",
+              "value": "60 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finisaje lanț",
+              "value": "Aur; oțel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stiluri pandantiv",
+              "value": "Pandantiv cu diamant din strasuri; pandantiv simplu lucios"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finisaje pandantiv",
+              "value": "Placat cu aur; oțel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material de bază",
+              "value": "Oțel de titan"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opțiuni unitare",
+              "value": "Pandantiv cu lanț; pandantiv separat"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "3.19",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ce lungime și diametru are lanțul colierului?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lanțul pătrat cu perle are diametrul de 3,0 mm și lungimea de 60 cm, în finisaj aur sau oțel."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Pot comanda pandantive fără lanț?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Variantele de pandantiv sunt listate separat, independent de opțiunile de lanț de 3,0 × 60 cm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Câte variante de pandantiv există?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Patru: diamant aur, lucios aur, diamant oțel și lucios oțel. Versiunile cu diamant sunt încrustate cu strasuri; versiunile lucioase sunt simple."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:10.973Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "df21045e6f3f766f94f6599db61de92fdbdaa30d30e4ddcd87b6ba9d8762af45",
+            "contentHash": "efeaa427a11369b5cb980b5c628b8a39b9ff5263352cfd07202ffcc5e9fa0652",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:43:15.363Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceId": "AAH4TG7BAOVioqqEY6evo6x2",
+      "sourceFingerprint": "debee61d7511dba0eb16cae06bdee3ba5705bfe1f6ab199c5a7c0c1baa3196de",
+      "locale": "ro",
+      "slug": "cartoon-waterproof-paper-stickers-50-piece-set-evo6x2",
+      "title": "Stickere decorative din hârtie cu desene animate, rezistente la apă, set de 50 de bucăți",
+      "eyebrow": "Set de stickere decorative din hârtie cu desene animate",
+      "summary": "Set de 50 de stickere cu desene animate, cu dimensiuni între 4 și 6 cm, imprimate pe hârtie cu finisaj rezistent la apă. Autocolantele pot fi aplicate pe caiete, carcase de telefon, skateboard-uri și pagini de scrapbook pentru decorare DIY de zi cu zi.",
+      "description": "Desenele animate cu linii lejere dau acestui set de 50 de stickere aspectul jucăuș, fiecare autocolant având între 4 și 6 cm. Imprimarea digitală transpune ilustrația pe hârtie, iar finisajul rezistent la apă ajută stickerul să reziste pe obiectele de zi cu zi.\n\nSetul este potrivit pentru mici lucrări de decorare, nu pentru piese de expoziție: caietele, carcasele de telefon, skateboard-urile și paginile de scrapbook primesc autocolantele. Cumpărătorii care caută un sortiment gata pregătit de stickere cu desene animate pentru meșteșuguri și decorare casnică pot comanda pachetul de 50 de bucăți exact așa cum este livrat.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornamente",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+      "imageAlt": "Stickere decorative din hârtie cu desene animate, rezistente la apă, set de 50 de bucăți",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+          "alt": "Stickere decorative din hârtie cu desene animate, rezistente la apă, set de 50 de bucăți"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf7c10c436fa94667a5b30afbb5471a4d6.webp",
+          "alt": "Stickere decorative din hârtie cu desene animate, rezistente la apă, set de 50 de bucăți"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7860c5686e464687ac9bdc3f4125a9e0O.webp",
+          "alt": "Stickere decorative din hârtie cu desene animate, rezistente la apă, set de 50 de bucăți"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H60101040415a47df996a49b7fd1718f7F.webp",
+          "alt": "Stickere decorative din hârtie cu desene animate, rezistente la apă, set de 50 de bucăți"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H11033a559ecc479488fb3d4a55a59a58M.webp",
+          "alt": "Stickere decorative din hârtie cu desene animate, rezistente la apă, set de 50 de bucăți"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Set de 50 de stickere cu desene animate",
+        "Fiecare sticker măsoară 4–6 cm",
+        "Imprimate pe hârtie prin imprimare digitală",
+        "Finisaj rezistent la apă",
+        "Stickere adezive care pot fi aplicate pe suprafețe",
+        "Furnizate de întreprinderea de producție TJMY"
+      ],
+      "specifications": [
+        {
+          "name": "Număr articol",
+          "value": "T01042877"
+        },
+        {
+          "name": "Dimensiune sticker",
+          "value": "4–6 cm"
+        },
+        {
+          "name": "Cantitate",
+          "value": "50 de bucăți per set"
+        },
+        {
+          "name": "Material",
+          "value": "Hârtie"
+        },
+        {
+          "name": "Proces de imprimare",
+          "value": "Imprimare digitală"
+        },
+        {
+          "name": "Stil",
+          "value": "Desene animate"
+        },
+        {
+          "name": "Caracteristică",
+          "value": "Rezistent la apă"
+        },
+        {
+          "name": "Adeziv",
+          "value": "Poate fi aplicat"
+        },
+        {
+          "name": "Autorizare IP",
+          "value": "Nu"
+        },
+        {
+          "name": "Loc de origine",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Decorare caiete",
+        "Decorare carcase de telefon",
+        "Decorare skateboard-uri",
+        "Proiecte de scrapbook și meșteșuguri DIY"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material sunt fabricate aceste stickere cu desene animate?",
+          "answer": "Stickerele sunt fabricate din hârtie cu finisaj rezistent la apă, iar ilustrațiile sunt aplicate prin imprimare digitală."
+        },
+        {
+          "question": "Cât de mare este fiecare sticker din setul de 50 de bucăți?",
+          "answer": "Fiecare sticker măsoară 4–6 cm, iar setul conține 50 de bucăți."
+        },
+        {
+          "question": "Aceste stickere au modele de personaje licențiate oficial?",
+          "answer": "Nu. Informațiile despre produs precizează că IP-ul nu este autorizat, așa că setul nu trebuie tratat ca marfă cu personaje licențiate."
+        }
+      ],
+      "pricing": {
+        "price": "0.81",
+        "regularPrice": "0.81",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.59",
+          "max": "0.81"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stickere decorative din hârtie cu desene animate, rezistente la apă, set de 50 de bucăți",
+          "description": "Set de 50 de stickere cu desene animate, cu dimensiuni între 4 și 6 cm, imprimate pe hârtie cu finisaj rezistent la apă. Autocolantele pot fi aplicate pe caiete, carcase de telefon, skateboard-uri și pagini de scrapbook pentru decorare DIY de zi cu zi.",
+          "sku": "ALI-AAH4TG7BAOVioqqEY6evo6x2",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb566f6faea1b4fef945db17c0e802b93m.jpg",
+            "https://sc04.alicdn.com/kf/Hf7c10c436fa94667a5b30afbb5471a4d6.jpg",
+            "https://sc04.alicdn.com/kf/H7860c5686e464687ac9bdc3f4125a9e0O.jpg",
+            "https://sc04.alicdn.com/kf/H60101040415a47df996a49b7fd1718f7F.jpg",
+            "https://sc04.alicdn.com/kf/H11033a559ecc479488fb3d4a55a59a58M.jpg"
+          ],
+          "category": "Ornamente",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Număr articol",
+              "value": "T01042877"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Dimensiune sticker",
+              "value": "4–6 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Cantitate",
+              "value": "50 de bucăți per set"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Hârtie"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Proces de imprimare",
+              "value": "Imprimare digitală"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Desene animate"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Caracteristică",
+              "value": "Rezistent la apă"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Adeziv",
+              "value": "Poate fi aplicat"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Autorizare IP",
+              "value": "Nu"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Loc de origine",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.81",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.59",
+              "maxPrice": "0.81",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material sunt fabricate aceste stickere cu desene animate?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Stickerele sunt fabricate din hârtie cu finisaj rezistent la apă, iar ilustrațiile sunt aplicate prin imprimare digitală."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Cât de mare este fiecare sticker din setul de 50 de bucăți?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fiecare sticker măsoară 4–6 cm, iar setul conține 50 de bucăți."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Aceste stickere au modele de personaje licențiate oficial?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nu. Informațiile despre produs precizează că IP-ul nu este autorizat, așa că setul nu trebuie tratat ca marfă cu personaje licențiate."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:04.236Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "7f20159ffd5b86a1b7eb0a9098b96f4ed8a9819545b273fb53cd31682ae73e54",
+            "contentHash": "9181cd9f70a431c32ac1aa08bee680e23ffae965874bd8e06c334aa0e9e55c30",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:43:20.893Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceId": "AAHzTG7BAOVioqqEY6evBKSY",
+      "sourceFingerprint": "f2aefb0d73a9a01bd533b867af2727fa02f3b2c25751312a6880ad3d1861d5a4",
+      "locale": "ro",
+      "slug": "st-benedict-medal-leather-wrap-bracelet-evbksy",
+      "title": "Brățară din piele cu medalion Sfântul Benedict",
+      "eyebrow": "Brățară din piele cu medalion Sfântul Benedict",
+      "summary": "Această brățară din piele are un medalion Sfântul Benedict pe un cordon împletit, cu un aspect vintage punk, multilayer. Este disponibilă în variantele de culoare negru, albastru, maro și roz. Brățara este concepută pentru bărbați și femei și poate fi purtată ca accesoriu devoțional sau ca bijuterie de zi cu zi.",
+      "description": "Această brățară împletită combină un medalion Sfântul Benedict cu un cordon din piele împletită, într-un design multilayer. Stilul vintage punk îi conferă un aspect texturat, casual, diferit de o brățară simplă cu lanț. Este dimensionată pentru bărbați și femei și este disponibilă în mai multe variante de culoare, astfel încât cumpărătorii pot alege un ton potrivit gustului personal sau pot coordona un mic sortiment. Medalionul este elementul central, făcând brățara un articol devoțional recognoscibil, alături de rolul său de bijuterie. Ca articol de vânzare cu amănuntul, este o opțiune distinctă pentru cumpărătorii care caută un accesoriu cu medalion Sfântul Benedict, care nu este un medalion metalic tradițional sau un lanț.",
+      "catholicContext": "Catehismul Catolic menționează medalioanele printre formele de pietate populară care însoțesc viața sacramentală.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Brățări cu rozariu",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+      "imageAlt": "Brățară din piele cu medalion Sfântul Benedict",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H95f42ec3c8134a3e8b2fa3796e901cb7J.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6049c460daf040fab829377a8d025c56o.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc816f9cb6e6d4626aae5373d6ad803c33.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Haf62351ce68a46808e1252bd3c31a81bh.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H00e3c243f0ad4267b129bc4ebaa9229bo.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd84c633a0f724c918179736ff5a955fcS.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - brown-17",
+          "label": "brown-17",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0107de3307df492fa56319983e266a65i.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - black-18",
+          "label": "black-18",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd6a926baa69e45ac84b04b5d36259673z.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - pink-19",
+          "label": "pink-19",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H4479743d0f8c4b03aec710f3f2452c2ak.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - blue-20",
+          "label": "blue-20",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb6871ec81bf647b2b8644145673d1ffdp.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - brown-13",
+          "label": "brown-13",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9a222e84659e415081703bf8d4d3a16e1.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - black-14",
+          "label": "black-14",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H55f5154f8fef4718bd1a40283b0b0b65c.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - pink-15",
+          "label": "pink-15",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/He2128143b5054e388e5d967ce7b214fct.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - blue-16",
+          "label": "blue-16",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd5de65cd8e114c95b612870da353ceebt.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - brown-9",
+          "label": "brown-9",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3761cebef3a441fc86d4b691e1707abeW.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - black-10",
+          "label": "black-10",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H09e8833edd7848479613522d0ccd61b23.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - pink-11",
+          "label": "pink-11",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb1a3b63a890f4b51b02d7db63de34784U.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - blue-12",
+          "label": "blue-12",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hcf48ae25ea7e45cda41f5c0025aaecaeX.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - brown-5",
+          "label": "brown-5",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0e2deeb5496443e89cf009b9919712bq.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - black-6",
+          "label": "black-6",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb0d3082c7da5420ab7c8d653c7a1171f1.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - pink-7",
+          "label": "pink-7",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H98a994d323ee41d0897b6f9630efe529F.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - blue-8",
+          "label": "blue-8",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc4a66c3182b04675a1329933a6ad61aev.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - brown-1",
+          "label": "brown-1",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc67dfbc82fbb4a4c945c7e4b7a54fd47w.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - black-2",
+          "label": "black-2",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd4d51387b1cd4b34b54467bbfdb304eeo.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - pink-3",
+          "label": "pink-3",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf0846d70999048668d432e27d1ac9c09v.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - blue-4",
+          "label": "blue-4",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H2b0639166e8e47f0a1805d4e61a61589g.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - brown-25",
+          "label": "brown-25",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H0a17355894844d6b9c040694fb58c500a.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - black-26",
+          "label": "black-26",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H3736e684bf254a419db856206d2136a9g.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - pink-27",
+          "label": "pink-27",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H03a89d2d2153472db5c3bdbff7b3f5a5p.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - blue-28",
+          "label": "blue-28",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H212ae41e40c74df5a8ee59ee1adbc2d03.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - brown-21",
+          "label": "brown-21",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H6a811a0266cd4d39931ee17f2368ad95W.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - black-22",
+          "label": "black-22",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd28dfe41fad645fa988bc6ccbd61f5b6k.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - pink-23",
+          "label": "pink-23",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Ha799b9f03b834e47b9351fc13c347a24K.webp",
+          "alt": "Brățară din piele cu medalion Sfântul Benedict - blue-24",
+          "label": "blue-24",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY-V--24"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Medalion Sfântul Benedict ca element central",
+        "Construcție din cordon de piele împletită",
+        "Design multilayer, înfășurat",
+        "Stil vintage punk",
+        "Disponibilă în variantele de culoare negru, albastru, maro și roz",
+        "Concepută pentru bărbați și femei"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Piele și cordon (materialul medalionului nu este specificat)"
+        },
+        {
+          "name": "Design",
+          "value": "Împletit, multilayer"
+        },
+        {
+          "name": "Variante de culoare",
+          "value": "Negru, albastru, maro, roz"
+        },
+        {
+          "name": "Public țintă",
+          "value": "Bărbați și femei"
+        }
+      ],
+      "applications": [
+        "Purtare devoțională personală",
+        "Bijuterie casual de zi cu zi",
+        "Cadou pentru un prieten sau membru al familiei catolic",
+        "Sortiment retail de accesorii religioase"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material este confecționată brățara din piele cu medalion Sfântul Benedict?",
+          "answer": "Brățara folosește un cordon din piele împletită, dar metalul sau materialul medalionului în sine nu este specificat în informațiile despre produs."
+        },
+        {
+          "question": "Ce opțiuni de culoare sunt disponibile pentru această brățară?",
+          "answer": "Brățara este disponibilă în variantele de culoare negru, albastru, maro și roz."
+        },
+        {
+          "question": "Este această brățară dimensionată pentru bărbați sau femei?",
+          "answer": "Brățara este concepută atât pentru bărbați, cât și pentru femei."
+        }
+      ],
+      "pricing": {
+        "price": "0.65",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.47",
+          "max": "0.65"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Brățară din piele cu medalion Sfântul Benedict",
+          "description": "Această brățară din piele are un medalion Sfântul Benedict pe un cordon împletit, cu un aspect vintage punk, multilayer. Este disponibilă în variantele de culoare negru, albastru, maro și roz. Brățara este concepută pentru bărbați și femei și poate fi purtată ca accesoriu devoțional sau ca bijuterie de zi cu zi.",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6evBKSY",
+          "image": [
+            "https://sc04.alicdn.com/kf/H95f42ec3c8134a3e8b2fa3796e901cb7J.jpg",
+            "https://sc04.alicdn.com/kf/H6049c460daf040fab829377a8d025c56o.jpg",
+            "https://sc04.alicdn.com/kf/Hc816f9cb6e6d4626aae5373d6ad803c33.jpg",
+            "https://sc04.alicdn.com/kf/Haf62351ce68a46808e1252bd3c31a81bh.jpg",
+            "https://sc04.alicdn.com/kf/H00e3c243f0ad4267b129bc4ebaa9229bo.jpg"
+          ],
+          "category": "Brățări cu rozariu",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Piele și cordon (materialul medalionului nu este specificat)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Împletit, multilayer"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante de culoare",
+              "value": "Negru, albastru, maro, roz"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Public țintă",
+              "value": "Bărbați și femei"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.65",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.47",
+              "maxPrice": "0.65",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material este confecționată brățara din piele cu medalion Sfântul Benedict?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brățara folosește un cordon din piele împletită, dar metalul sau materialul medalionului în sine nu este specificat în informațiile despre produs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce opțiuni de culoare sunt disponibile pentru această brățară?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brățara este disponibilă în variantele de culoare negru, albastru, maro și roz."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Este această brățară dimensionată pentru bărbați sau femei?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brățara este concepută atât pentru bărbați, cât și pentru femei."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:01.388Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "bba65ffdce5e476ecb7a1d0116cdae4a74845d6dc45bfe65a6d30d46d9868cc5",
+            "contentHash": "037ce55082932ee2134b548158073b00a128c6a8e832d96de7d24991c7f52703",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:43:28.222Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceId": "AAGiTG7BAOVioqqEY6enXsHY",
+      "sourceFingerprint": "78a6d761e3165f7fa531ba1f696c9948d9f76d21a0fdc5ce9db93dcd0b58c7cb",
+      "locale": "ro",
+      "slug": "oval-tee-pendant-zinc-alloy-rosary-charm-enxshy",
+      "title": "Pandantiv oval Tee din aliaj de zinc pentru rozariu",
+      "eyebrow": "Pandantiv oval Tee din aliaj de zinc, disponibil în mai multe variante de mărime și greutate",
+      "summary": "Acest pandantiv oval Tee este un farmec din aliaj de zinc disponibil în 17 variante, fiecare cu propria greutate și dimensiuni. Cumpărătorii pot selecta mărimea potrivită pentru colierul de rozariu sau ansamblul de bijuterii. Pandantivul este o singură componentă metalică; mărgelele de rozariu, lanțurile și crucifixe nu sunt incluse.",
+      "description": "Pentru cumpărătorii care asamblează coliere de rozariu sau bijuterii metalice mici, pandantivul oval Tee oferă o componentă compactă din aliaj de zinc într-o gamă de mărimi. Fiecare variantă este specificată prin greutate și dimensiuni aproximative, astfel încât să potriviți un pandantiv cu o anumită mărime de mărgea sau grosime de lanț. Cele mai ușoare variante cântăresc 0,5 g și măsoară aproximativ 1 × 1,4, în timp ce cea mai grea are 2,2 g la 1,9 × 2,2. Toate sunt din aliaj de zinc. Pandantivul este o piesă de sine stătătoare, nu un rozariu sau colier finit. Poate fi combinat cu alte componente pentru a construi un rozariu sau folosit ca pandantiv decorativ în modele de bijuterii. Forma ovală Tee oferă un aspect metalic simplu, retro. Deoarece pandantivul este o componentă, cumpărătorii ar trebui să își planifice propria asamblare sau finisare.",
+      "catholicContext": "Rozariul este o rugăciune catolică centrată pe contemplarea evenimentelor din viața lui Iisus Hristos și a Fecioarei Maria, iar mărgelele, piesa centrală și crucifixul sunt descrise doar atunci când sunt prezente în faptele produsului.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accesorii",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+      "imageAlt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hec22ce1bbe01454f871983e4dd562d4eQ.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha39c0bed9b794c8ba64ee57004b75425k.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Ha784cb2856944f43a8dd9952a17385acO.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H98d04ae4b7bc4fd3846ca16d1cb20b35X.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9ef0ecd2cd6c40efbcf691e3bbbdeb83l.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "label": "st11-1-zinc-alloy-1-6g-1-5-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hcd0f301215084f3489dd025bce5f4f2cT.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-2-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H947de7c9a70a41799807bce12b6553e1Y.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-13-zinc-alloy-1g-1-5-1-9",
+          "label": "st11-13-zinc-alloy-1g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He04f86f00d7142d286deedc44b34ad1fr.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-14-zinc-alloy-1g-1-2-1-7",
+          "label": "st11-14-zinc-alloy-1g-1-2-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H83708f1d99c74d75ab2fb99ce860b405t.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "label": "st11-11-zinc-alloy-1-3g-1-5-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H0e1085f7400346c9a1be818a15eeabb10.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-12-zinc-alloy-1g-1-5-2",
+          "label": "st11-12-zinc-alloy-1g-1-5-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H2674c81ccabc4e82a86f418146e0c3d7g.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-17-zinc-alloy-0-5g-1-1-4",
+          "label": "st11-17-zinc-alloy-0-5g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H95913d1bca2d4ea8b6af87efb565e7b1q.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "label": "st11-15-zinc-alloy-0-6g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H1811b409a2ac4bc788500977264d0442e.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-16-zinc-alloy-0-6g-1-1-4",
+          "label": "st11-16-zinc-alloy-0-6g-1-1-4",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3fe9c09207a749fa9a4674758557aadfM.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "label": "st11-5-zinc-alloy-2-2g-1-9-2-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H3b66efdd31f947c684c237323be52229L.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "label": "st11-6-zinc-alloy-1-2g-1-3-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H74181d62a35b4b1bb911635bc2dd768eI.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "label": "st11-3-zinc-alloy-1-1g-1-5-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hde6d18900b814021afbbde05dd3675383.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "label": "st11-4-zinc-alloy-1-4g-1-6-2-3",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H09226ad16a804607a85e8f401544fff62.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "label": "st11-9-zinc-alloy-1-2g-1-4-1-7",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H85e7d19e1e0c4f3bad8e67c96676fde4e.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-10-zinc-alloy-1g-1-2-1-5",
+          "label": "st11-10-zinc-alloy-1g-1-2-1-5",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4a5478778b0444af9e783c6fbe06982fD.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "label": "st11-7-zinc-alloy-0-9g-1-6-1-9",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/He0a68fc3d0e6417690729173dbc4db83x.webp",
+          "alt": "Pandantiv oval Tee din aliaj de zinc pentru rozariu - st11-8-zinc-alloy-1-3g-1-6-2",
+          "label": "st11-8-zinc-alloy-1-3g-1-6-2",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY-V--8"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Formă de pandantiv oval Tee din aliaj de zinc",
+        "17 variante cu greutăți și dimensiuni individuale",
+        "Greutăți între 0,5 g și 2,2 g",
+        "Dimensiuni între aproximativ 1 × 1,4 și 1,9 × 2,2",
+        "Potrivit ca componentă pentru coliere de rozariu sau bijuterii",
+        "Doar pandantivul; alte componente nu sunt incluse"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Aliaj de zinc"
+        },
+        {
+          "name": "Formă",
+          "value": "Pandantiv oval Tee"
+        },
+        {
+          "name": "Număr de variante",
+          "value": "17"
+        },
+        {
+          "name": "Interval de greutate",
+          "value": "0,5 g până la 2,2 g"
+        },
+        {
+          "name": "Interval de dimensiuni",
+          "value": "Aproximativ 1 × 1,4 până la 1,9 × 2,2"
+        }
+      ],
+      "applications": [
+        "Asamblarea colierelor de rozariu",
+        "Realizarea de bijuterii",
+        "Proiecte de meșteșugărit",
+        "Pandantiv decorativ pentru coliere"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material este fabricat pandantivul oval Tee?",
+          "answer": "Pandantivul oval Tee este fabricat din aliaj de zinc."
+        },
+        {
+          "question": "Câte variante sunt disponibile?",
+          "answer": "Există 17 variante, fiecare cu o combinație diferită de greutate și dimensiuni."
+        },
+        {
+          "question": "Care sunt cele mai mici și cele mai mari dimensiuni?",
+          "answer": "Cea mai mică variantă cântărește 0,5 g și măsoară aproximativ 1 × 1,4. Cea mai mare cântărește 2,2 g și măsoară aproximativ 1,9 × 2,2."
+        }
+      ],
+      "pricing": {
+        "price": "0.03",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.11"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pandantiv oval Tee din aliaj de zinc pentru rozariu",
+          "description": "Acest pandantiv oval Tee este un farmec din aliaj de zinc disponibil în 17 variante, fiecare cu propria greutate și dimensiuni. Cumpărătorii pot selecta mărimea potrivită pentru colierul de rozariu sau ansamblul de bijuterii. Pandantivul este o singură componentă metalică; mărgelele de rozariu, lanțurile și crucifixe nu sunt incluse.",
+          "sku": "ALI-AAGiTG7BAOVioqqEY6enXsHY",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hec22ce1bbe01454f871983e4dd562d4eQ.jpg",
+            "https://sc04.alicdn.com/kf/Ha39c0bed9b794c8ba64ee57004b75425k.jpg",
+            "https://sc04.alicdn.com/kf/Ha784cb2856944f43a8dd9952a17385acO.jpg",
+            "https://sc04.alicdn.com/kf/Hbe5bd55fc9eb4afaa65e5ea67f3e724eR.jpg",
+            "https://sc04.alicdn.com/kf/H98d04ae4b7bc4fd3846ca16d1cb20b35X.jpg"
+          ],
+          "category": "Accesorii",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Aliaj de zinc"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formă",
+              "value": "Pandantiv oval Tee"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Număr de variante",
+              "value": "17"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Interval de greutate",
+              "value": "0,5 g până la 2,2 g"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Interval de dimensiuni",
+              "value": "Aproximativ 1 × 1,4 până la 1,9 × 2,2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.03",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.11",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material este fabricat pandantivul oval Tee?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pandantivul oval Tee este fabricat din aliaj de zinc."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Câte variante sunt disponibile?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Există 17 variante, fiecare cu o combinație diferită de greutate și dimensiuni."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Care sunt cele mai mici și cele mai mari dimensiuni?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cea mai mică variantă cântărește 0,5 g și măsoară aproximativ 1 × 1,4. Cea mai mare cântărește 2,2 g și măsoară aproximativ 1,9 × 2,2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:03.513Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "002b230ec81b47d624ef71a9718db02946263022b426c44faeec6c31aea392ee",
+            "contentHash": "b50d734bfb676917c97dcedb14262c0956173e4210e67d0b2bc5cab2f530d99d",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:43:35.652Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceId": "AAFZTG7BAOVioqqEY6ek-1tb",
+      "sourceFingerprint": "69b89b6ca30b4bb6663184455acb490901ed4c3f42782c2b703b9b87836b422a",
+      "locale": "ro",
+      "slug": "glass-holy-water-bottle-ornament-with-rose-cover-ek-1tb",
+      "title": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir",
+      "eyebrow": "ornament din sticlă pentru apă sfințită",
+      "summary": "Acest ornament este o sticluță transparentă din sticlă, cu o capacitate de 15 ml și un capac decorativ sub formă de trandafir. Sticla transparentă lasă vizibil conținutul, iar capacul cu trandafir adaugă un detaliu decorativ. Este disponibil în patru variante: Gold1, Gold2, Silver1 și Silver2, fiind potrivit pentru confecționarea bijuteriilor sau pentru mici piese de expunere.",
+      "description": "Realizat din sticlă transparentă, acest ornament este o sticluță mică cu un recipient de 15 ml și un capac sub formă de trandafir. Corpul transparent permite vizualizarea interiorului, iar capacul adaugă un element decorativ. Este încadrat la categoria ornamente și este oferit în patru variante: Gold1, Gold2, Silver1 și Silver2. Construcția din sticlă oferă un aspect curat, care poate completa proiectele de bijuterii sau aranjamentele decorative. Ca componentă achiziționată, sticluța poate fi integrată în pandantive, brelocuri sau ornamente de sine stătătoare, în funcție de designul dumneavoastră.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornamente",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+      "imageAlt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8eb4b6568d8c4fe7a66e5181112aec6eG.webp",
+          "alt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9819598944974a67a2ae1dc28b0529887.webp",
+          "alt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9908c51bf4ef43dfadae19390c5578159.webp",
+          "alt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H51175e24f2d24b969d07b174bbc1235aw.webp",
+          "alt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8003b9911fab48669e3a5ad8f9c85ef2w.webp",
+          "alt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6ac6d90a626e48dca98e53d4b1f57b6fP.webp",
+          "alt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir - argintiu2",
+          "label": "argintiu2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2c549d952b5c4bd18c72a476bf2edbf0t.webp",
+          "alt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir - auriu1",
+          "label": "auriu1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdbfb5bca248143cabafa4890bdd1056cV.webp",
+          "alt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir - argintiu1",
+          "label": "argintiu1",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd7daa72c8e22472ab967718860ff5b3ab.webp",
+          "alt": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir - auriu2",
+          "label": "auriu2",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb-V--2"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Construcție din sticlă transparentă",
+        "Capacitate a recipientului de 15 ml",
+        "Capac decorativ sub formă de trandafir",
+        "Disponibil în variantele Gold1, Gold2, Silver1 și Silver2",
+        "Încadrat la categoria ornamente"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Sticlă"
+        },
+        {
+          "name": "Capacitate",
+          "value": "15 ml"
+        },
+        {
+          "name": "Designul capacului",
+          "value": "Trandafir"
+        },
+        {
+          "name": "Variante",
+          "value": "Gold1, Gold2, Silver1, Silver2"
+        },
+        {
+          "name": "Categorie",
+          "value": "Ornamente"
+        }
+      ],
+      "applications": [
+        "Confecționarea de bijuterii",
+        "Expunere ornamentală",
+        "Proiecte meșteșugărești"
+      ],
+      "faq": [
+        {
+          "question": "Din ce material este confecționată sticluța?",
+          "answer": "Sticluța este confecționată din sticlă transparentă."
+        },
+        {
+          "question": "Care este capacitatea sticluței?",
+          "answer": "Sticluța are o capacitate de 15 ml."
+        },
+        {
+          "question": "Ce variante sunt disponibile?",
+          "answer": "Produsul este disponibil în variantele Gold1, Gold2, Silver1 și Silver2."
+        }
+      ],
+      "pricing": {
+        "price": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ornament din sticlă pentru apă sfințită, cu capac sub formă de trandafir",
+          "description": "Acest ornament este o sticluță transparentă din sticlă, cu o capacitate de 15 ml și un capac decorativ sub formă de trandafir. Sticla transparentă lasă vizibil conținutul, iar capacul cu trandafir adaugă un detaliu decorativ. Este disponibil în patru variante: Gold1, Gold2, Silver1 și Silver2, fiind potrivit pentru confecționarea bijuteriilor sau pentru mici piese de expunere.",
+          "sku": "ALI-AAFZTG7BAOVioqqEY6ek-1tb",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8eb4b6568d8c4fe7a66e5181112aec6eG.jpg",
+            "https://sc04.alicdn.com/kf/H9819598944974a67a2ae1dc28b0529887.jpg",
+            "https://sc04.alicdn.com/kf/H9908c51bf4ef43dfadae19390c5578159.jpg",
+            "https://sc04.alicdn.com/kf/H51175e24f2d24b969d07b174bbc1235aw.jpg",
+            "https://sc04.alicdn.com/kf/H8003b9911fab48669e3a5ad8f9c85ef2w.jpg"
+          ],
+          "category": "Ornamente",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Sticlă"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Capacitate",
+              "value": "15 ml"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Designul capacului",
+              "value": "Trandafir"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Gold1, Gold2, Silver1, Silver2"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Categorie",
+              "value": "Ornamente"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Din ce material este confecționată sticluța?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sticluța este confecționată din sticlă transparentă."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Care este capacitatea sticluței?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sticluța are o capacitate de 15 ml."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce variante sunt disponibile?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Produsul este disponibil în variantele Gold1, Gold2, Silver1 și Silver2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:15.598Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "ceb15fcce8823b7cba44302dd94967f77b670324508529e29113ab21f6730fd7",
+            "contentHash": "a264d4038bfc49344dc1d2507b50bfe88031a2e994cb53010af343ef19d71402",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:43:39.788Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceId": "AAGCTG7BAOVioqqEY6ekmECC",
+      "sourceFingerprint": "550be28662a4ac142fab5ba6edd53cec3e62d2e9f884e6daa7d9dcc892d5c56d",
+      "locale": "ro",
+      "slug": "glass-and-crystal-rosary-bracelet-with-pendants-ekmecc",
+      "title": "Brățară cu rozariu din sticlă și cristal cu pandantive",
+      "eyebrow": "Brățară cu rozariu din sticlă și cristal cu pandantive mariane și cruce",
+      "summary": "Această brățară cu rozariu îmbină mărgele din sticlă și cristal cu pandantive tematice dedicate Fecioarei Maria, lui Isus și crucii. Este disponibilă în negru, albastru, roz, roșu și alb, fiecare în lungime normală sau extinsă. Combinația de materiale pentru mărgele și detaliile pandantivelor conferă brățării un aspect stratificat, potrivit pentru devoțiune și cadouri.",
+      "description": "Mărgelele din sticlă și cristal alternează de-a lungul brățării, captând lumina și adăugând textură la nivelul încheieturii. Pandantivele tematice dedicate Fecioarei Maria, lui Isus și crucii atârnă ca puncte focale, legând brățara de practica devoțională catolică. Gama de culori merge de la negru și alb la albastru, roz și roșu, cu lungimi normale și extinse disponibile pentru fiecare culoare. Combinația de sticlă și cristal diferențiază această brățară de brățările cu rozariu dintr-un singur material, în timp ce temele pandantivelor mențin designul recognoscibil ca devoțional. Pentru cumpărătorii angrosiști, cele opt variante permit unui stand să acopere atât preferințele de culoare, cât și dimensiunile încheieturii, fără a introduce o linie de produs separată.",
+      "catholicContext": "Rozariul este o rugăciune catolică centrată pe contemplarea evenimentelor din viața lui Isus Hristos și a Fecioarei Maria.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Brățări cu rozariu",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+      "imageAlt": "Brățară cu rozariu din sticlă și cristal cu pandantive",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcf4caf72028e4b80933660d24986f82aM.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H313d75507c514582895c3d496b7741f0t.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7e3928109d1848179ad787c411b37ff4u.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H102032a93a764362a2628443eb2639b1j.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H86d98cfcd6274f75968ad6b80fd52c2a8.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H834879437b66461fb0f4005fb7c6df7fP.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha75ec92912204461be7fcad91d2db214T.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive - roz normală",
+          "label": "roz normală",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H31f5df1cabb94aa8990eea4cc0bac586O.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive - alb normală",
+          "label": "alb normală",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H281f1552dce3412ba199259d505c6c9bp.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive - negru normală",
+          "label": "negru normală",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Heb633769bc4b43b1bd5679184abdebabv.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive - albastru extinsă",
+          "label": "albastru extinsă",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H66e38b7383c74bfbb61920a3bb1b4079l.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive - roșu extinsă",
+          "label": "roșu extinsă",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2d78fd2d7a58454696d0724ec7d8b74f7.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive - roz extinsă",
+          "label": "roz extinsă",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H557b666a1fb24b76b82880eb86d01f36L.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive - alb extinsă",
+          "label": "alb extinsă",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H65f4bf70a2e3491ca1aa2fb4d2edf18c4.webp",
+          "alt": "Brățară cu rozariu din sticlă și cristal cu pandantive - negru extinsă",
+          "label": "negru extinsă",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC-V--1"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Realizată din mărgele din sticlă și cristal",
+        "Pandantive tematice dedicate Fecioarei Maria, lui Isus și crucii",
+        "Disponibilă în negru, albastru, roz, roșu și alb",
+        "Lungimi normale și extinse oferite pentru fiecare culoare",
+        "Opt variante în total, după culoare și lungime"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Sticlă și cristal"
+        },
+        {
+          "name": "Teme pandantive",
+          "value": "Fecioara Maria, Isus, cruce"
+        },
+        {
+          "name": "Culori",
+          "value": "Negru, albastru, roz, roșu, alb"
+        },
+        {
+          "name": "Opțiuni de lungime",
+          "value": "Normală, extinsă"
+        },
+        {
+          "name": "Număr de variante",
+          "value": "8 (5 culori × 2 lungimi)"
+        }
+      ],
+      "applications": [
+        "Purtare devoțională",
+        "Oferirea de cadouri religioase",
+        "Prezentare retail angro",
+        "Sortiment de brățări cu rozariu"
+      ],
+      "faq": [
+        {
+          "question": "Ce materiale sunt folosite în această brățară cu rozariu?",
+          "answer": "Brățara este realizată din mărgele din sticlă și cristal și include pandantive tematice dedicate Fecioarei Maria, lui Isus și crucii."
+        },
+        {
+          "question": "Ce culori și lungimi sunt disponibile?",
+          "answer": "Este disponibilă în negru, albastru, roz, roșu și alb. Fiecare culoare este oferită în lungime normală și extinsă, în total opt variante."
+        },
+        {
+          "question": "Pandantivele sunt fixe sau detașabile?",
+          "answer": "Informațiile despre produs nu precizează dacă pandantivele sunt fixe sau detașabile. Vă rugăm să ne contactați pentru detalii despre construcție."
+        }
+      ],
+      "pricing": {
+        "price": "0.88",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Brățară cu rozariu din sticlă și cristal cu pandantive",
+          "description": "Această brățară cu rozariu îmbină mărgele din sticlă și cristal cu pandantive tematice dedicate Fecioarei Maria, lui Isus și crucii. Este disponibilă în negru, albastru, roz, roșu și alb, fiecare în lungime normală sau extinsă. Combinația de materiale pentru mărgele și detaliile pandantivelor conferă brățării un aspect stratificat, potrivit pentru devoțiune și cadouri.",
+          "sku": "ALI-AAGCTG7BAOVioqqEY6ekmECC",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hcf4caf72028e4b80933660d24986f82aM.png",
+            "https://sc04.alicdn.com/kf/H313d75507c514582895c3d496b7741f0t.png",
+            "https://sc04.alicdn.com/kf/H7e3928109d1848179ad787c411b37ff4u.png",
+            "https://sc04.alicdn.com/kf/H102032a93a764362a2628443eb2639b1j.png",
+            "https://sc04.alicdn.com/kf/H86d98cfcd6274f75968ad6b80fd52c2a8.jpg",
+            "https://sc04.alicdn.com/kf/H834879437b66461fb0f4005fb7c6df7fP.png"
+          ],
+          "category": "Brățări cu rozariu",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Sticlă și cristal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Teme pandantive",
+              "value": "Fecioara Maria, Isus, cruce"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Culori",
+              "value": "Negru, albastru, roz, roșu, alb"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Opțiuni de lungime",
+              "value": "Normală, extinsă"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Număr de variante",
+              "value": "8 (5 culori × 2 lungimi)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.88",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ce materiale sunt folosite în această brățară cu rozariu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brățara este realizată din mărgele din sticlă și cristal și include pandantive tematice dedicate Fecioarei Maria, lui Isus și crucii."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ce culori și lungimi sunt disponibile?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Este disponibilă în negru, albastru, roz, roșu și alb. Fiecare culoare este oferită în lungime normală și extinsă, în total opt variante."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Pandantivele sunt fixe sau detașabile?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Informațiile despre produs nu precizează dacă pandantivele sunt fixe sau detașabile. Vă rugăm să ne contactați pentru detalii despre construcție."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "attempts": 0,
+            "updatedAt": "2026-10-19T19:33:12.121Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "d56f18065981c8f6090177e27faae5c296c8f76a1fba5f1f1b4bac47595f7666",
+            "contentHash": "c4947f64a5dee564071db6f2aa051e671b9fc08ebf6314cf83493de758411917",
+            "attempts": 1,
+            "updatedAt": "2026-10-19T19:43:46.025Z",
             "model": "deepseek-v4-flash"
           }
         }
