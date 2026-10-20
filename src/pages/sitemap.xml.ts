@@ -20,6 +20,8 @@ const staticPaths = [
   '/guides/why-5-decade-rosary-is-the-standard',
   '/guides/custom-rosary-packaging',
   '/guides/church-bulk-rosary-orders',
+  '/guides/catholic-scapulars-wholesale-guide',
+  '/guides/cross-crucifix-medal-guide',
   '/faq',
   '/our-story',
   '/payment',
