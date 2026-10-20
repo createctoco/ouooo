@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "sl",
   "sourceLocale": "en",
-  "sourceCatalogHash": "5b9d005dfb248524c6617607ad567067461453285b4bbdc81e15baa4a15c62a1",
-  "generatedAt": "2026-10-19T19:44:47.041Z",
+  "sourceCatalogHash": "b0efbb5213ee1f7566c4570387337cf5c4812b16f50aac907159174ac6861bef",
+  "generatedAt": "2026-10-20T18:21:51.761Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAFBTG7BAOVioqqEY6e5BiNb",
-      "AAH8TG7BAOVioqqEY6evBSed",
-      "AAExTG7BAOVioqqEY6evSz32",
-      "AAH-TG7BAOVioqqEY6evBFP0",
-      "AAHgTG7BAOVioqqEY6evSfPx",
-      "AAH4TG7BAOVioqqEY6evo6x2",
-      "AAHzTG7BAOVioqqEY6evBKSY",
-      "AAGiTG7BAOVioqqEY6enXsHY",
-      "AAFZTG7BAOVioqqEY6ek-1tb",
-      "AAGCTG7BAOVioqqEY6ekmECC"
+      "AAHzTG7BAOVioqqEY6ek_d7w",
+      "AAEITG7BAOVioqqEY6ek_TIx",
+      "AAG6TG7BAOVioqqEY6ekVuHb",
+      "AAG2TG7BAOVioqqEY6ekWfe-",
+      "AAENTG7BAOVioqqEY6ekVvEe",
+      "AAGETG7BAOVioqqEY6ek-h7E",
+      "AAFRTG7BAOVioqqEY6ekdF_W",
+      "AAHfTG7BAOVioqqEY6ekdYc7",
+      "AAHTTG7BAOVioqqEY6eBSoGD",
+      "AAGMTG7BAOVioqqEY6eM2BiM"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -41,26 +41,26 @@
   },
   "categoryGlossarySourceHash": "5ea453f4898973f6927766e0e346b2065451c612ec6cbd9e1713f5f7020b6cf2",
   "translationSummary": {
-    "ready": 935,
+    "ready": 945,
     "skipped": 3,
     "skippedProductIds": [
       "AAG2TG7BAOVioqqEY6evaYQW",
       "AAFNTG7BAOVioqqEY6enmEhC",
       "AAFbTG7BAOVioqqEY6enYFV7"
     ],
-    "reused": 925,
+    "reused": 935,
     "generated": 10,
     "generatedProductIds": [
-      "AAFBTG7BAOVioqqEY6e5BiNb",
-      "AAH8TG7BAOVioqqEY6evBSed",
-      "AAExTG7BAOVioqqEY6evSz32",
-      "AAH-TG7BAOVioqqEY6evBFP0",
-      "AAHgTG7BAOVioqqEY6evSfPx",
-      "AAH4TG7BAOVioqqEY6evo6x2",
-      "AAHzTG7BAOVioqqEY6evBKSY",
-      "AAGiTG7BAOVioqqEY6enXsHY",
-      "AAFZTG7BAOVioqqEY6ek-1tb",
-      "AAGCTG7BAOVioqqEY6ekmECC"
+      "AAHzTG7BAOVioqqEY6ek_d7w",
+      "AAEITG7BAOVioqqEY6ek_TIx",
+      "AAG6TG7BAOVioqqEY6ekVuHb",
+      "AAG2TG7BAOVioqqEY6ekWfe-",
+      "AAENTG7BAOVioqqEY6ekVvEe",
+      "AAGETG7BAOVioqqEY6ek-h7E",
+      "AAFRTG7BAOVioqqEY6ekdF_W",
+      "AAHfTG7BAOVioqqEY6ekdYc7",
+      "AAHTTG7BAOVioqqEY6eBSoGD",
+      "AAGMTG7BAOVioqqEY6eM2BiM"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 9,
@@ -1172,15 +1172,15 @@
   ],
   "translationRetries": {
     "AAG2TG7BAOVioqqEY6evaYQW": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     },
     "AAFNTG7BAOVioqqEY6enmEhC": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     },
     "AAFbTG7BAOVioqqEY6enYFV7": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "0ded46e2356953c296ea535789b47e72bd78ea567ed91f097a24cd03e91fbd49"
     }
   },
@@ -219305,6 +219305,2410 @@
             "contentHash": "328acaa9b7d518d45b0bd720706c58423f9f999a6e80db5cb89ad66559fef36a",
             "attempts": 1,
             "updatedAt": "2026-10-19T19:44:47.038Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHzTG7BAOVioqqEY6ek_d7w",
+      "sourceId": "AAHzTG7BAOVioqqEY6ek_d7w",
+      "sourceFingerprint": "5cee6d1cf8168e2b235da7cb51215f5a90372e3052b9444e7dbfe395723920e6",
+      "locale": "sl",
+      "slug": "retro-solid-wood-cross-wall-pendant-ek_d7w",
+      "title": "Retro viseči križ za steno iz masivnega lesa",
+      "eyebrow": "Retro viseči križ za steno iz masivnega lesa",
+      "summary": "Retro viseči križ iz masivnega lesa, namenjen obešanju kot okras stene v domu. Preprosta oblika križa je na voljo v treh barvnih različicah: Black Coffee, porcelanasto bela in rjava. Gre za okrasni predmet, ne za križ s korpusom, saj korpus ni opisan.",
+      "description": "Ta retro viseči križ se obesi na steno kot okrasni predmet. Kot material je naveden masivni les, kar predmet uvršča med lesene stenske okraske in ne med kovinske ali keramične.\n\nKriž je na voljo v treh različicah: Black Coffee, porcelanasto bela in rjava. Vsaka je preprost križ brez opisanega korpusa, zato naj kupci, ki iščejo prav križ s korpusom, upoštevajo to razliko.\n\nViseči križ je uvrščen med okraske, zato je primeren za razstavljanje kot stenski okras. Navedene niso nobene mere ali teža, zato je treba te podatke potrditi pred večjim naročilom.",
+      "catholicContext": "Preprost križ se razlikuje od križa s korpusom; križ s korpusom prikazuje Kristusa na križu, ta viseči križ pa je opisan le kot križ.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHzTG7BAOVioqqEY6ek_d7w",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H1bbf049146d341a6ad315e3a3300b354F.webp",
+      "imageAlt": "Retro viseči križ za steno iz masivnega lesa",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1bbf049146d341a6ad315e3a3300b354F.webp",
+          "alt": "Retro viseči križ za steno iz masivnega lesa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb3579b6e57d3443c84d7fbdd515f9a47z.webp",
+          "alt": "Retro viseči križ za steno iz masivnega lesa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H531049f15abc48a980786a87de920337H.webp",
+          "alt": "Retro viseči križ za steno iz masivnega lesa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H884be7c162cf410e9d30916b07e29ecai.webp",
+          "alt": "Retro viseči križ za steno iz masivnega lesa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc777a098b03048b6add214e4f5ef8b0fR.webp",
+          "alt": "Retro viseči križ za steno iz masivnega lesa"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdcdb91aabf554c9c8a1e4bfe15950774m.webp",
+          "alt": "Retro viseči križ za steno iz masivnega lesa"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4deb83c3e36e48dfa65ef746b0a5b52cn.webp",
+          "alt": "Retro viseči križ za steno iz masivnega lesa - rjava",
+          "label": "rjava",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6ek_d7w-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha827585d9e4e48109b7901bfa771b1e7Z.webp",
+          "alt": "Retro viseči križ za steno iz masivnega lesa - porcelanasto bela",
+          "label": "porcelanasto bela",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6ek_d7w-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8b76730312254bc1b1ad551517d2eeaeE.webp",
+          "alt": "Retro viseči križ za steno iz masivnega lesa - Black Coffee",
+          "label": "Black Coffee",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6ek_d7w-V--2"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Izdelava iz masivnega lesa",
+        "Retro oblika visečega križa za obešanje na steno",
+        "Preprost križ, ne križ s korpusom",
+        "Tri različice: Black Coffee, porcelanasto bela, rjava",
+        "Uvrščeno med okraske za stensko dekoracijo v domu"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Masivni les"
+        },
+        {
+          "name": "Oblika",
+          "value": "Preprost križ (brez korpusa)"
+        },
+        {
+          "name": "Različice",
+          "value": "Black Coffee, porcelanasto bela, rjava"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Okraski"
+        },
+        {
+          "name": "Namestitev",
+          "value": "Viseči križ za obešanje na steno"
+        }
+      ],
+      "applications": [
+        "Stenska dekoracija v domu",
+        "Maloprodajna predstavitev lesenih okraskov v obliki križa",
+        "Skupna predstavitev z drugimi lesenimi stenskimi visečimi okraski"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je retro viseči križ?",
+          "answer": "V podatkih o izdelku je kot material naveden masivni les."
+        },
+        {
+          "question": "Ali je to križ ali križ s korpusom?",
+          "answer": "Opisan je kot viseči križ. Korpus Kristusa ni naveden, zato ga je treba obravnavati kot preprost križ in ne kot križ s korpusom."
+        },
+        {
+          "question": "Katere barvne različice so na voljo?",
+          "answer": "Viseči križ je na voljo v različicah Black Coffee, porcelanasto bela in rjava."
+        },
+        {
+          "question": "Ali so na voljo mere ali teža?",
+          "answer": "V podatkih o izdelku niso navedene nobene mere ali teža. Pred naročilom nas kontaktirajte za potrditev mer."
+        }
+      ],
+      "pricing": {
+        "price": "0.55",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.55"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Retro viseči križ za steno iz masivnega lesa",
+          "description": "Retro viseči križ iz masivnega lesa, namenjen obešanju kot okras stene v domu. Preprosta oblika križa je na voljo v treh barvnih različicah: Black Coffee, porcelanasto bela in rjava. Gre za okrasni predmet, ne za križ s korpusom, saj korpus ni opisan.",
+          "sku": "ALI-AAHzTG7BAOVioqqEY6ek_d7w",
+          "image": [
+            "https://sc04.alicdn.com/kf/H1bbf049146d341a6ad315e3a3300b354F.jpg",
+            "https://sc04.alicdn.com/kf/Hb3579b6e57d3443c84d7fbdd515f9a47z.jpg",
+            "https://sc04.alicdn.com/kf/H531049f15abc48a980786a87de920337H.jpg",
+            "https://sc04.alicdn.com/kf/H884be7c162cf410e9d30916b07e29ecai.jpg",
+            "https://sc04.alicdn.com/kf/Hc777a098b03048b6add214e4f5ef8b0fR.jpg",
+            "https://sc04.alicdn.com/kf/Hdcdb91aabf554c9c8a1e4bfe15950774m.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Masivni les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Preprost križ (brez korpusa)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Black Coffee, porcelanasto bela, rjava"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Okraski"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Namestitev",
+              "value": "Viseči križ za obešanje na steno"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.55",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.55",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je retro viseči križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "V podatkih o izdelku je kot material naveden masivni les."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je to križ ali križ s korpusom?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Opisan je kot viseči križ. Korpus Kristusa ni naveden, zato ga je treba obravnavati kot preprost križ in ne kot križ s korpusom."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere barvne različice so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Viseči križ je na voljo v različicah Black Coffee, porcelanasto bela in rjava."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali so na voljo mere ali teža?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "V podatkih o izdelku niso navedene nobene mere ali teža. Pred naročilom nas kontaktirajte za potrditev mer."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "066095262163be3bcaa09ea61c82a2a635c662b9ff1d9e44ee1a9d2c8fda8e00",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "066095262163be3bcaa09ea61c82a2a635c662b9ff1d9e44ee1a9d2c8fda8e00",
+            "contentHash": "066095262163be3bcaa09ea61c82a2a635c662b9ff1d9e44ee1a9d2c8fda8e00",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:10:07.303Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "066095262163be3bcaa09ea61c82a2a635c662b9ff1d9e44ee1a9d2c8fda8e00",
+            "contentHash": "419ec3daa1c56d9be31208283275754bcf6c0b00806cc0eb4d957f8e947184ad",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:05.631Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEITG7BAOVioqqEY6ek_TIx",
+      "sourceId": "AAEITG7BAOVioqqEY6ek_TIx",
+      "sourceFingerprint": "ab48733ac7a6d7a534c1b251add2aebe8b4acf483b7cc1691315a83460649d31",
+      "locale": "sl",
+      "slug": "15ml-container-rose-holy-water-bottle-transparent-glass-bottle-ek_tix",
+      "title": "Steklenička za rožno sveto vodo s prostornino 15 ml v prozorni stekleni embalaži",
+      "eyebrow": "Okraski",
+      "summary": "15 ml posodica za rožno sveto vodo, prozorna steklenica, embalaža, posodica za nakit in druge okraske",
+      "description": "15 ml posodica za rožno sveto vodo, prozorna steklenica, embalaža, posodica za nakit in druge okraske",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAEITG7BAOVioqqEY6ek_TIx",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Ha2c99d067fc94d8fa68888095dde09faz.webp",
+      "imageAlt": "15 ml posodica za rožno sveto vodo, prozorna steklenica",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha2c99d067fc94d8fa68888095dde09faz.webp",
+          "alt": "15 ml posodica za rožno sveto vodo, prozorna steklenica"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H31fb5046fc434a39948852178be1ac082.webp",
+          "alt": "15 ml posodica za rožno sveto vodo, prozorna steklenica"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hef2cfe87e87146d08c828cb8b92ea5e5F.webp",
+          "alt": "15 ml posodica za rožno sveto vodo, prozorna steklenica"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9468b6aa249747d8a73af267d1a7ff8dm.webp",
+          "alt": "15 ml posodica za rožno sveto vodo, prozorna steklenica"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H17140e4208b74f50a4b28dd8825f6718G.webp",
+          "alt": "15 ml posodica za rožno sveto vodo, prozorna steklenica"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Material: steklo",
+        "Lastnost: umetniško",
+        "Oblika: krog",
+        "Vrsta izdelka: steklenica",
+        "Tehnika: ročno izdelano",
+        "Slog: verski, angel, križ",
+        "Uporaba: kitajsko novo leto, božič, začetek šolskega leta, prvi april, dan Zemlje, valentinovo, materinski dan, noč čarovnic, zahvalni dan, očetovski dan, novo leto, velika noč",
+        "Kraj izvora: CN;ZHE"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Steklo"
+        },
+        {
+          "name": "Lastnost",
+          "value": "Umetniško"
+        },
+        {
+          "name": "Oblika",
+          "value": "Krog"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Steklenica"
+        },
+        {
+          "name": "Tehnika",
+          "value": "Ročno izdelano"
+        },
+        {
+          "name": "Slog",
+          "value": "Verski, angel, križ"
+        },
+        {
+          "name": "Uporaba",
+          "value": "Kitajsko novo leto, božič, začetek šolskega leta, prvi april, dan Zemlje, valentinovo, materinski dan, noč čarovnic, zahvalni dan, očetovski dan, novo leto, velika noč"
+        },
+        {
+          "name": "Kraj izvora",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.50",
+        "regularPrice": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Steklenička za rožno sveto vodo s prostornino 15 ml v prozorni stekleni embalaži",
+          "description": "15 ml posodica za rožno sveto vodo, prozorna steklenica, embalaža, posodica za nakit in druge okraske",
+          "sku": "ALI-AAEITG7BAOVioqqEY6ek_TIx",
+          "image": [
+            "https://sc04.alicdn.com/kf/Ha2c99d067fc94d8fa68888095dde09faz.jpg",
+            "https://sc04.alicdn.com/kf/H31fb5046fc434a39948852178be1ac082.jpg",
+            "https://sc04.alicdn.com/kf/Hef2cfe87e87146d08c828cb8b92ea5e5F.jpg",
+            "https://sc04.alicdn.com/kf/H9468b6aa249747d8a73af267d1a7ff8dm.jpg",
+            "https://sc04.alicdn.com/kf/H17140e4208b74f50a4b28dd8825f6718G.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Steklo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lastnost",
+              "value": "Umetniško"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Krog"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Steklenica"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnika",
+              "value": "Ročno izdelano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Verski, angel, križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Uporaba",
+              "value": "Kitajsko novo leto, božič, začetek šolskega leta, prvi april, dan Zemlje, valentinovo, materinski dan, noč čarovnic, zahvalni dan, očetovski dan, novo leto, velika noč"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kraj izvora",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4021fdef98109b89a13fefd8bbda411f47336c833c57f2619572103b908268af",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4021fdef98109b89a13fefd8bbda411f47336c833c57f2619572103b908268af",
+            "contentHash": "4021fdef98109b89a13fefd8bbda411f47336c833c57f2619572103b908268af",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:10:32.705Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "4021fdef98109b89a13fefd8bbda411f47336c833c57f2619572103b908268af",
+            "contentHash": "17b019889d457b6345b7d874ac335d442e07c79ca6b36139452c0fa1165db3b2",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:09.054Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAG6TG7BAOVioqqEY6ekVuHb",
+      "sourceId": "AAG6TG7BAOVioqqEY6ekVuHb",
+      "sourceFingerprint": "4fc273eafef6564cd676b02de253483b7691d0639bb0d0001cfb643ac85296b2",
+      "locale": "sl",
+      "slug": "copper-cross-ring-vintage-hollow-lace-style-ekvuhb",
+      "title": "Bakren prstan s križem v vintage stilu s čipkastim vzorcem",
+      "eyebrow": "Bakren prstan s križem v vintage stilu",
+      "summary": "Ta prstan v vintage stilu je izdelan iz bakra in ima motiv križa s čipkastim vzorcem. Na voljo je v ženskih in unisex različicah ter je primeren za verske priložnosti in obdarovanje. Prstan nima glavnega kamna in nosi blagovno znamko OUOOO.",
+      "description": "Glavni material prstana je baker, njegova oblika križa pa je oblikovana v čipkast vzorec. Namenjen je ženskam in unisex nosilcem, v dizajn pa ni vstavljen noben glavni kamen. Stil je vintage, motiv križa pa daje prstanu verski pomen. Prstan je križ in ne razpelo; korpus ni opisan. Namenjen je priložnostim, kot so krst, birma, prvo sveto obhajilo in poročni dogodki, pa tudi splošnemu obdarovanju.",
+      "catholicContext": "Preprost prstan s križem je križ, ne razpelo; razpelo namreč posebej prikazuje Kristusa na križu.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "161",
+          "name": "Prstani",
+          "slug": "rings"
+        }
+      ],
+      "sku": "ALI-AAG6TG7BAOVioqqEY6ekVuHb",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H588faa79b71b47cbb140b7a684ebde16L.webp",
+      "imageAlt": "Bakren prstan s križem v vintage stilu s čipkastim vzorcem",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H588faa79b71b47cbb140b7a684ebde16L.webp",
+          "alt": "Bakren prstan s križem v vintage stilu s čipkastim vzorcem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd00595721997403cafa8ff1c638f1cf4X.webp",
+          "alt": "Bakren prstan s križem v vintage stilu s čipkastim vzorcem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H115a10d3cdb2463894b3e3a685736ebeJ.webp",
+          "alt": "Bakren prstan s križem v vintage stilu s čipkastim vzorcem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He99eb2a2ffb74f44909270391295ac58O.webp",
+          "alt": "Bakren prstan s križem v vintage stilu s čipkastim vzorcem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H14aefa0e5e4c42a8ae67b1d18075c4791.webp",
+          "alt": "Bakren prstan s križem v vintage stilu s čipkastim vzorcem"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6f7c72",
+      "features": [
+        "Glavni material baker",
+        "Oblika križa s čipkastim vzorcem",
+        "Vintage stil",
+        "Brez glavnega kamna",
+        "Namenjeno ženskam in unisex nošenju",
+        "Blagovna znamka: OUOOO"
+      ],
+      "specifications": [
+        {
+          "name": "Glavni material nakita",
+          "value": "Baker"
+        },
+        {
+          "name": "Oblika/vzorec",
+          "value": "Križ"
+        },
+        {
+          "name": "Stil",
+          "value": "Vintage"
+        },
+        {
+          "name": "Glavni kamen",
+          "value": "Brez"
+        },
+        {
+          "name": "Spol",
+          "value": "Ženski, unisex"
+        },
+        {
+          "name": "Vrsta prstanov",
+          "value": "Poroki prstani ali prstani"
+        },
+        {
+          "name": "Verska vrsta",
+          "value": "Katolicizem"
+        },
+        {
+          "name": "Ime blagovne znamke",
+          "value": "OUOOO"
+        },
+        {
+          "name": "Kraj izvora",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Krst",
+        "Birma",
+        "Prvo sveto obhajilo",
+        "Poroka ali obletnica"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je prstan s križem?",
+          "answer": "Glavni material prstana je baker."
+        },
+        {
+          "question": "Je prstan razpelo ali preprost križ?",
+          "answer": "Prstan je opisan kot križ. Korpus ni omenjen, zato gre za preprost križ in ne za razpelo."
+        },
+        {
+          "question": "Za koga je prstan namenjen?",
+          "answer": "Prstan je namenjen ženskam in unisex nošenju."
+        }
+      ],
+      "pricing": {
+        "price": "2.75",
+        "regularPrice": "2.75",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "2.30",
+          "max": "2.75"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bakren prstan s križem v vintage stilu s čipkastim vzorcem",
+          "description": "Ta prstan v vintage stilu je izdelan iz bakra in ima motiv križa s čipkastim vzorcem. Na voljo je v ženskih in unisex različicah ter je primeren za verske priložnosti in obdarovanje. Prstan nima glavnega kamna in nosi blagovno znamko OUOOO.",
+          "sku": "ALI-AAG6TG7BAOVioqqEY6ekVuHb",
+          "image": [
+            "https://sc04.alicdn.com/kf/H588faa79b71b47cbb140b7a684ebde16L.jpg",
+            "https://sc04.alicdn.com/kf/Hd00595721997403cafa8ff1c638f1cf4X.jpg",
+            "https://sc04.alicdn.com/kf/H115a10d3cdb2463894b3e3a685736ebeJ.jpg",
+            "https://sc04.alicdn.com/kf/He99eb2a2ffb74f44909270391295ac58O.jpg",
+            "https://sc04.alicdn.com/kf/H14aefa0e5e4c42a8ae67b1d18075c4791.jpg"
+          ],
+          "category": "Prstani",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni material nakita",
+              "value": "Baker"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika/vzorec",
+              "value": "Križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stil",
+              "value": "Vintage"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni kamen",
+              "value": "Brez"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spol",
+              "value": "Ženski, unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta prstanov",
+              "value": "Poroki prstani ali prstani"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verska vrsta",
+              "value": "Katolicizem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Ime blagovne znamke",
+              "value": "OUOOO"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kraj izvora",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.75",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "2.30",
+              "maxPrice": "2.75",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je prstan s križem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Glavni material prstana je baker."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je prstan razpelo ali preprost križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Prstan je opisan kot križ. Korpus ni omenjen, zato gre za preprost križ in ne za razpelo."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Za koga je prstan namenjen?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Prstan je namenjen ženskam in unisex nošenju."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2f8942f4c96fb1a54fc39ceb7cf8e5795ca0b2c22081eafd05ed8a0043903969",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2f8942f4c96fb1a54fc39ceb7cf8e5795ca0b2c22081eafd05ed8a0043903969",
+            "contentHash": "2f8942f4c96fb1a54fc39ceb7cf8e5795ca0b2c22081eafd05ed8a0043903969",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:10:23.095Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "2f8942f4c96fb1a54fc39ceb7cf8e5795ca0b2c22081eafd05ed8a0043903969",
+            "contentHash": "ee4837c59a983f5fa7ce354d5db45ede74bdf8b93ef3ed1ce807cf7dbbe924ba",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:13.797Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAG2TG7BAOVioqqEY6ekWfe-",
+      "sourceId": "AAG2TG7BAOVioqqEY6ekWfe-",
+      "sourceFingerprint": "f74e8323edfdf5d8276168559a98dfbc521fa5c404692750988acbce6d75fd72",
+      "locale": "sl",
+      "slug": "multi-color-rose-plastic-rosary-with-saint-benedict-cross-ekwfe-",
+      "title": "Večbarvni rožni venec iz plastike s cvetovi vrtnic in križem sv. Benedikta",
+      "eyebrow": "Ročno pleten katoliški rožni venec s 10 mm večbarvnimi plastičnimi kroglicami v obliki vrtnic in križem sv. Benedikta",
+      "summary": "Ta ročno pleteni katoliški rožni venec združuje 10 mm večbarvne plastične kroglice v obliki vrtnic s križem sv. Benedikta iz cinkove zlitine na verižici s kroglicami. Kroglice s cvetličnim vzorcem dajejo vsakemu rožnemu vencu raznoliko barvno kombinacijo, uniseks verski slog pa ustreza naročilom daril in načrtovanju poročnih pozornosti.",
+      "description": "Ko izbirate rožni venec za nadaljnjo prodajo ali obdarovanje, sta material kroglic in zasnova križa tisto, kar izdelek najbolj loči. Ta ročno pleteni katoliški rožni venec uporablja 10 mm plastične kroglice v večbarvnem vzorcu vrtnic, nanizane kot obesek na verižici s kroglicami s križem sv. Benedikta iz cinkove zlitine.\n\nIzdelek je naveden kot uniseks in spada pod katoliški verski tip s cvetlično obliko in vzorcem. Izdelan je v Zhejiangu na Kitajskem in nosi blagovno znamko OUOOO. Kombinacija kroglic v obliki vrtnic in križa sv. Benedikta ohranja zasnovo prepoznavno kot pobožni nakit, hkrati pa daje nizu barvit videz. Za vprašanja o tem rožnem vencu nas kontaktirajte.",
+      "catholicContext": "Rožni venec je katoliška molitev, osredotočena na premišljevanje dogodkov iz življenja Jezusa Kristusa in Device Marije, ki so tradicionalno razvrščeni v veseli, svetli, žalostni in slavni del.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Katoliški rožni venci",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAG2TG7BAOVioqqEY6ekWfe-",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H3fdacceed0b34e89ab7ebcc4208984758.webp",
+      "imageAlt": "Večbarvni rožni venec iz plastike s cvetovi vrtnic in križem sv. Benedikta",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3fdacceed0b34e89ab7ebcc4208984758.webp",
+          "alt": "Večbarvni rožni venec iz plastike s cvetovi vrtnic in križem sv. Benedikta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hddb992ea11414b8e8a8ad85b7c27ec8fC.webp",
+          "alt": "Večbarvni rožni venec iz plastike s cvetovi vrtnic in križem sv. Benedikta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H762d43f3a0064900951c4cc71f68f1b66.webp",
+          "alt": "Večbarvni rožni venec iz plastike s cvetovi vrtnic in križem sv. Benedikta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H36f848fd34f44f0eb436e116cb8956a5s.webp",
+          "alt": "Večbarvni rožni venec iz plastike s cvetovi vrtnic in križem sv. Benedikta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H06d7be0de72249eab236292dcaf4b85cB.webp",
+          "alt": "Večbarvni rožni venec iz plastike s cvetovi vrtnic in križem sv. Benedikta"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He3e15ad992b94361b1c2c91feaf29c031.webp",
+          "alt": "Večbarvni rožni venec iz plastike s cvetovi vrtnic in križem sv. Benedikta"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#9a6b63",
+      "features": [
+        "10 mm večbarvne plastične kroglice z vzorcem cveta vrtnice",
+        "Ročno pletena izdelava na verižici s kroglicami",
+        "Obesek v obliki križa sv. Benedikta iz cinkove zlitine",
+        "Uniseks slog verske ogrlice, naveden za katoliško uporabo",
+        "Primerno za darila in poročne priložnosti"
+      ],
+      "specifications": [
+        {
+          "name": "Glavni material nakita",
+          "value": "Plastika"
+        },
+        {
+          "name": "Vrsta materiala",
+          "value": "Cinkova zlitina"
+        },
+        {
+          "name": "Velikost kroglic",
+          "value": "10 mm"
+        },
+        {
+          "name": "Oblika/vzorec kroglic",
+          "value": "Vrtnica, cvet"
+        },
+        {
+          "name": "Vrsta verižice",
+          "value": "Kroglice"
+        },
+        {
+          "name": "Verski tip",
+          "value": "Katolicizem"
+        },
+        {
+          "name": "Spol",
+          "value": "Uniseks, moški, ženski"
+        },
+        {
+          "name": "Kraj izvora",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Blagovna znamka",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [
+        "Katoliška molitev",
+        "Versko obdarovanje",
+        "Poročne pozornosti ali dodatki",
+        "Veleprodajni izbor rožnih vencev"
+      ],
+      "faq": [
+        {
+          "question": "Iz česa so kroglice na tem rožnem vencu?",
+          "answer": "Kroglice rožnega venca so iz plastike. Vsaka kroglica meri 10 mm in je oblikovana v večbarvnem vzorcu cveta vrtnice."
+        },
+        {
+          "question": "Kakšen križ vključuje rožni venec?",
+          "answer": "Obesek je križ sv. Benedikta iz cinkove zlitine. Podatki o izdelku opisujejo križ, ne križa s korpusom."
+        },
+        {
+          "question": "Ali je ta rožni venec na voljo v drugih barvah ali velikostih kroglic?",
+          "answer": "Priloženi podatki o izdelku opisujejo le 10 mm večbarvne kroglice v obliki vrtnic, zato druge barve ali velikosti kroglic niso potrjene. Za razpoložljive različice nas kontaktirajte."
+        }
+      ],
+      "pricing": {
+        "price": "0.50",
+        "regularPrice": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.38",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Večbarvni rožni venec iz plastike s cvetovi vrtnic in križem sv. Benedikta",
+          "description": "Ta ročno pleteni katoliški rožni venec združuje 10 mm večbarvne plastične kroglice v obliki vrtnic s križem sv. Benedikta iz cinkove zlitine na verižici s kroglicami. Kroglice s cvetličnim vzorcem dajejo vsakemu rožnemu vencu raznoliko barvno kombinacijo, uniseks verski slog pa ustreza naročilom daril in načrtovanju poročnih pozornosti.",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6ekWfe-",
+          "image": [
+            "https://sc04.alicdn.com/kf/H3fdacceed0b34e89ab7ebcc4208984758.jpg",
+            "https://sc04.alicdn.com/kf/Hddb992ea11414b8e8a8ad85b7c27ec8fC.jpg",
+            "https://sc04.alicdn.com/kf/H762d43f3a0064900951c4cc71f68f1b66.jpg",
+            "https://sc04.alicdn.com/kf/H36f848fd34f44f0eb436e116cb8956a5s.jpg",
+            "https://sc04.alicdn.com/kf/H06d7be0de72249eab236292dcaf4b85cB.png",
+            "https://sc04.alicdn.com/kf/He3e15ad992b94361b1c2c91feaf29c031.jpg"
+          ],
+          "category": "Katoliški rožni venci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni material nakita",
+              "value": "Plastika"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta materiala",
+              "value": "Cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Velikost kroglic",
+              "value": "10 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika/vzorec kroglic",
+              "value": "Vrtnica, cvet"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta verižice",
+              "value": "Kroglice"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verski tip",
+              "value": "Katolicizem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spol",
+              "value": "Uniseks, moški, ženski"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kraj izvora",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Blagovna znamka",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.38",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz česa so kroglice na tem rožnem vencu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kroglice rožnega venca so iz plastike. Vsaka kroglica meri 10 mm in je oblikovana v večbarvnem vzorcu cveta vrtnice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kakšen križ vključuje rožni venec?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek je križ sv. Benedikta iz cinkove zlitine. Podatki o izdelku opisujejo križ, ne križa s korpusom."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je ta rožni venec na voljo v drugih barvah ali velikostih kroglic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Priloženi podatki o izdelku opisujejo le 10 mm večbarvne kroglice v obliki vrtnic, zato druge barve ali velikosti kroglic niso potrjene. Za razpoložljive različice nas kontaktirajte."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "17aff2690f5f2d59c3a7224e650695379c2ceb0388d80225022ac8670571aa82",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "17aff2690f5f2d59c3a7224e650695379c2ceb0388d80225022ac8670571aa82",
+            "contentHash": "17aff2690f5f2d59c3a7224e650695379c2ceb0388d80225022ac8670571aa82",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:10:26.987Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "17aff2690f5f2d59c3a7224e650695379c2ceb0388d80225022ac8670571aa82",
+            "contentHash": "19caafab619e6ccc960f1c6e0bf4fa1290aa0b5aff1f6521efeb67c461191d36",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:21.475Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAENTG7BAOVioqqEY6ekVvEe",
+      "sourceId": "AAENTG7BAOVioqqEY6ekVvEe",
+      "sourceFingerprint": "8edd4e53b2fc7c54fb8fbbc21893e521986773974d03fc975ec3471b91a2d7c1",
+      "locale": "sl",
+      "slug": "alloy-heart-brooch-and-cufflink-accessories-ekvvee",
+      "title": "Modna broška in manšetna gumba iz zlitine s srčnim motivom",
+      "eyebrow": "Komplet dodatkov iz zlitine s srčnim motivom: broška, igla in manšetna gumba",
+      "summary": "Zbirka dodatkov iz kovinske zlitine s srčnim okrasjem v štirih različicah: Brown love, White heart, Brown in White. Ponudba zajema broško, manšetne gumbe in okrasne igle za oblačila, kape in pas, tako da lahko kupci izberejo zaključek in motiv, ki ustrezata njihovemu asortimaju.",
+      "description": "Ta linija dodatkov temelji na majhnih kosih nakita iz kovinske zlitine s srčnim okrasjem. Na voljo so štiri različice: Brown love, White heart, Brown in White. Komplet zajema broško, manšetne gumbe in okrasne igle, kar kupcem ponuja več načinov za nabavo ali združevanje kosov.\n\nKosi so oblikovani za okrasje oblačil, okrasje kap in uporabo kot igla za pas. Kupci, ki primerjajo možnosti, naj upoštevajo, da ponudba ne navaja mer, prevlek ali števila posameznih kosov na različico. Za te podrobnosti nas kontaktirajte pred oddajo naročila.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "210",
+          "name": "Broska",
+          "slug": "brooch"
+        }
+      ],
+      "sku": "ALI-AAENTG7BAOVioqqEY6ekVvEe",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H5e8085f0e63f4cd49fe983ee701bbc58J.webp",
+      "imageAlt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5e8085f0e63f4cd49fe983ee701bbc58J.webp",
+          "alt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7335edbb33b04d22bb7ea5ed8d0865c0A.webp",
+          "alt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc2f010fb28cc48b5ba1adf80c00ea1f66.webp",
+          "alt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He6db13b1dd304b69bd0e946bc25ef198V.webp",
+          "alt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H78203174fba94f21bf40c19683ea17e4q.webp",
+          "alt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7537372795074276bdc255cc5eed3064H.webp",
+          "alt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom – rjava",
+          "label": "rjava",
+          "sku": "ALI-AAENTG7BAOVioqqEY6ekVvEe-V-3399503"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Habad4baff76846c38f1ccf372260bd69m.webp",
+          "alt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom – belo srce",
+          "label": "belo-srce",
+          "sku": "ALI-AAENTG7BAOVioqqEY6ekVvEe-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hee5bedd0227a45da8215acb350c60abb6.webp",
+          "alt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom – bela",
+          "label": "bela",
+          "sku": "ALI-AAENTG7BAOVioqqEY6ekVvEe-V-3331185"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H30ae7e91b3ad4d9b86f7d22bd9b44e0aw.webp",
+          "alt": "Modna broška in manšetna gumba iz zlitine s srčnim motivom – rjava ljubezen",
+          "label": "rjava-ljubezen",
+          "sku": "ALI-AAENTG7BAOVioqqEY6ekVvEe-V--3"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Izdelava iz kovinske zlitine",
+        "Srčni motiv pri različicah Brown love in White heart",
+        "Štiri navedene različice: Brown love, White heart, Brown, White",
+        "Zajema broško, manšetne gumbe in okrasne igle",
+        "Namenjeno okrasju oblačil, kap in pasu"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Kovinska zlitina"
+        },
+        {
+          "name": "Različice",
+          "value": "Brown love; White heart; Brown; White"
+        },
+        {
+          "name": "Vrste dodatkov",
+          "value": "Broška, manšetni gumb, okrasna igla"
+        },
+        {
+          "name": "Motiv",
+          "value": "Srce (različici Brown love in White heart)"
+        },
+        {
+          "name": "Glavna uporaba",
+          "value": "Okrasje oblačil, kap in pasu"
+        }
+      ],
+      "applications": [
+        "Dodatek ali okras za zapenjanje oblačil",
+        "Okrasje kap",
+        "Okrasna igla za pas",
+        "Združevanje asortimaja brošk in manšetnih gumbov"
+      ],
+      "faq": [
+        {
+          "question": "Katere različice so na voljo v tej ponudbi dodatkov iz zlitine?",
+          "answer": "Navedene so štiri različice: Brown love, White heart, Brown in White. Imena različic nakazujejo rjave in bele barvne možnosti, s srčnim okrasjem pri različicah Brown love in White heart."
+        },
+        {
+          "question": "Iz česa so izdelani broška in igle?",
+          "answer": "V ponudbi je navedena izdelava iz kovinske zlitine. Sestava zlitine, prevleka in zaključek niso podrobneje določeni, zato te podrobnosti potrdite z nami pred naročilom."
+        },
+        {
+          "question": "Ali se kosi lahko nosijo na kapah in pasu?",
+          "answer": "Da. Podatki o izdelku opisujejo dodatke kot primerne za oblačila, okrasje kap in uporabo kot igla za pas. Mere in mehanizem igle v ponudbi niso navedeni."
+        }
+      ],
+      "pricing": {
+        "price": "0.28",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.20",
+          "max": "0.28"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Modna broška in manšetna gumba iz zlitine s srčnim motivom",
+          "description": "Zbirka dodatkov iz kovinske zlitine s srčnim okrasjem v štirih različicah: Brown love, White heart, Brown in White. Ponudba zajema broško, manšetne gumbe in okrasne igle za oblačila, kape in pas, tako da lahko kupci izberejo zaključek in motiv, ki ustrezata njihovemu asortimaju.",
+          "sku": "ALI-AAENTG7BAOVioqqEY6ekVvEe",
+          "image": [
+            "https://sc04.alicdn.com/kf/H5e8085f0e63f4cd49fe983ee701bbc58J.jpg",
+            "https://sc04.alicdn.com/kf/H7335edbb33b04d22bb7ea5ed8d0865c0A.jpg",
+            "https://sc04.alicdn.com/kf/Hc2f010fb28cc48b5ba1adf80c00ea1f66.jpg",
+            "https://sc04.alicdn.com/kf/He6db13b1dd304b69bd0e946bc25ef198V.jpg",
+            "https://sc04.alicdn.com/kf/H78203174fba94f21bf40c19683ea17e4q.jpg"
+          ],
+          "category": "Broska",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Kovinska zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Brown love; White heart; Brown; White"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrste dodatkov",
+              "value": "Broška, manšetni gumb, okrasna igla"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motiv",
+              "value": "Srce (različici Brown love in White heart)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavna uporaba",
+              "value": "Okrasje oblačil, kap in pasu"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.28",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.20",
+              "maxPrice": "0.28",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Katere različice so na voljo v tej ponudbi dodatkov iz zlitine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedene so štiri različice: Brown love, White heart, Brown in White. Imena različic nakazujejo rjave in bele barvne možnosti, s srčnim okrasjem pri različicah Brown love in White heart."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Iz česa so izdelani broška in igle?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "V ponudbi je navedena izdelava iz kovinske zlitine. Sestava zlitine, prevleka in zaključek niso podrobneje določeni, zato te podrobnosti potrdite z nami pred naročilom."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali se kosi lahko nosijo na kapah in pasu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Podatki o izdelku opisujejo dodatke kot primerne za oblačila, okrasje kap in uporabo kot igla za pas. Mere in mehanizem igle v ponudbi niso navedeni."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ba58d340f923a7c7a2990e1ce5f3e9a0a9b4a9a64eb5d6f71bb7eb0b1adccd54",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ba58d340f923a7c7a2990e1ce5f3e9a0a9b4a9a64eb5d6f71bb7eb0b1adccd54",
+            "contentHash": "ba58d340f923a7c7a2990e1ce5f3e9a0a9b4a9a64eb5d6f71bb7eb0b1adccd54",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:10:52.396Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "ba58d340f923a7c7a2990e1ce5f3e9a0a9b4a9a64eb5d6f71bb7eb0b1adccd54",
+            "contentHash": "9e8a399e86b6a1cfeb134b18ef26f6f9516457d9863375b5c9c52e9df238a238",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:27.514Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGETG7BAOVioqqEY6ek-h7E",
+      "sourceId": "AAGETG7BAOVioqqEY6ek-h7E",
+      "sourceFingerprint": "8c785b61ab1ae35ab129d1d153360a4ff5a7be306c92d5ecc97eede3c65a9765",
+      "locale": "sl",
+      "slug": "glass-holy-water-bottle-mini-rose-tempered-transparent-glass-ek-h7e",
+      "title": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo",
+      "eyebrow": "Okraski",
+      "summary": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo, ročno izdelan okras za nakit",
+      "description": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo, ročno izdelan okras za nakit",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAGETG7BAOVioqqEY6ek-h7E",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H818f095ef8044a7eaa2453c7fe12ff4dD.webp",
+      "imageAlt": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H818f095ef8044a7eaa2453c7fe12ff4dD.webp",
+          "alt": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6358dd52aef64831863acaf13f90ca1eP.webp",
+          "alt": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7b10c9d06ace4a9da15371035669dc4d4.webp",
+          "alt": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H490c7e2cd61c457e8a0968d14c5db8e58.webp",
+          "alt": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdc1133f5cb7647389ce06bd200d7c2f6F.webp",
+          "alt": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8a7b55",
+      "features": [
+        "Material: steklo",
+        "Lastnost: umetniško",
+        "Oblika: krog",
+        "Vrsta izdelka: steklena umetnina",
+        "Tehnika: litje",
+        "Slog: verski, križ, ljudska umetnost, angel",
+        "Uporaba: valentinovo, noč čarovnic, božič, novo leto, očetov dan, kitajsko novo leto, materinski dan, dan Zemlje, začetek šolskega leta, zahvalni dan, velika noč",
+        "Kraj izvora: CN;ZHE"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Steklo"
+        },
+        {
+          "name": "Lastnost",
+          "value": "Umetniško"
+        },
+        {
+          "name": "Oblika",
+          "value": "Krog"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Steklene umetnine"
+        },
+        {
+          "name": "Tehnika",
+          "value": "Litje"
+        },
+        {
+          "name": "Slog",
+          "value": "Verski, križ, ljudska umetnost, angel"
+        },
+        {
+          "name": "Uporaba",
+          "value": "Valentinovo, noč čarovnic, božič, novo leto, očetov dan, kitajsko novo leto, materinski dan, dan Zemlje, začetek šolskega leta, zahvalni dan, velika noč"
+        },
+        {
+          "name": "Kraj izvora",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.50",
+        "regularPrice": "0.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.42",
+          "max": "0.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo",
+          "description": "Steklenička za blagoslovljeno vodo iz stekla, mini vrtnica, kaljeno prozorno steklo, ročno izdelan okras za nakit",
+          "sku": "ALI-AAGETG7BAOVioqqEY6ek-h7E",
+          "image": [
+            "https://sc04.alicdn.com/kf/H818f095ef8044a7eaa2453c7fe12ff4dD.jpg",
+            "https://sc04.alicdn.com/kf/H6358dd52aef64831863acaf13f90ca1eP.jpg",
+            "https://sc04.alicdn.com/kf/H7b10c9d06ace4a9da15371035669dc4d4.jpg",
+            "https://sc04.alicdn.com/kf/H490c7e2cd61c457e8a0968d14c5db8e58.jpg",
+            "https://sc04.alicdn.com/kf/Hdc1133f5cb7647389ce06bd200d7c2f6F.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Steklo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lastnost",
+              "value": "Umetniško"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Krog"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Steklene umetnine"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnika",
+              "value": "Litje"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Verski, križ, ljudska umetnost, angel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Uporaba",
+              "value": "Valentinovo, noč čarovnic, božič, novo leto, očetov dan, kitajsko novo leto, materinski dan, dan Zemlje, začetek šolskega leta, zahvalni dan, velika noč"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kraj izvora",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.42",
+              "maxPrice": "0.50",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "b6509351095f7147c292d997c04ba662f64ec1edcc5ad85b9d008611838cf1a9",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "b6509351095f7147c292d997c04ba662f64ec1edcc5ad85b9d008611838cf1a9",
+            "contentHash": "b6509351095f7147c292d997c04ba662f64ec1edcc5ad85b9d008611838cf1a9",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:10:55.501Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "b6509351095f7147c292d997c04ba662f64ec1edcc5ad85b9d008611838cf1a9",
+            "contentHash": "6a0402dfac33599c5b8e7edcbce20b589a0c0085d9fe135c67350bd70af774b3",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:31.038Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFRTG7BAOVioqqEY6ekdF_W",
+      "sourceId": "AAFRTG7BAOVioqqEY6ekdF_W",
+      "sourceFingerprint": "260dc67268cac0a32254e49b2db2a9f6f2c8117a953697f953cb70dbbef98876",
+      "locale": "sl",
+      "slug": "catholic-cord-rosary-wooden-beads-rosary-celtic-cross-5-decade-ekdf_w",
+      "title": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk",
+      "eyebrow": "Katoliški rožni venci",
+      "summary": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk, molitveni rožni venec iz vrvice, krščanski religiozni rožni venec s keltskim lesenim križem",
+      "description": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk, molitveni rožni venec iz vrvice, krščanski religiozni rožni venec s keltskim lesenim križem",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Katoliški rožni venci",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAFRTG7BAOVioqqEY6ekdF_W",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H594de85d0dab4e7883829aa0a622c03aF.webp",
+      "imageAlt": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H594de85d0dab4e7883829aa0a622c03aF.webp",
+          "alt": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4cba90b7d7174f77aabebad0b7a86017d.webp",
+          "alt": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H03741f0ce7d4422c9209bb22969009d63.webp",
+          "alt": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hfcc186e4ac0945e6b9c4e88ee245fa63S.webp",
+          "alt": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcab3694da3754d4fb6ff298c5db436faB.webp",
+          "alt": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Glavni material nakita: les",
+        "Vrsta materiala: cinkova zlitina",
+        "Spol: uniseks, moški, ženske",
+        "Glavni kamen: brez",
+        "Vrsta nakita: ogrlice",
+        "Vrsta ogrlic: obesne ogrlice",
+        "Priložnost: darilo",
+        "Vrsta verižice: kroglice"
+      ],
+      "specifications": [
+        {
+          "name": "Glavni material nakita",
+          "value": "Les"
+        },
+        {
+          "name": "Vrsta materiala",
+          "value": "Cinkova zlitina"
+        },
+        {
+          "name": "Spol",
+          "value": "Uniseks, moški, ženske"
+        },
+        {
+          "name": "Glavni kamen",
+          "value": "Brez"
+        },
+        {
+          "name": "Vrsta nakita",
+          "value": "Ogrlice"
+        },
+        {
+          "name": "Vrsta ogrlic",
+          "value": "Obesne ogrlice"
+        },
+        {
+          "name": "Priložnost",
+          "value": "Darilo"
+        },
+        {
+          "name": "Vrsta verižice",
+          "value": "Kroglice"
+        },
+        {
+          "name": "Prevleka",
+          "value": "Drugo"
+        },
+        {
+          "name": "Oblika/vzorec",
+          "value": "Cvet"
+        },
+        {
+          "name": "Slog",
+          "value": "Religiozni"
+        },
+        {
+          "name": "Religiozna vrsta",
+          "value": "Katolicizem"
+        },
+        {
+          "name": "Uporaba",
+          "value": "Poroka"
+        },
+        {
+          "name": "Kraj izvora",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Blagovna znamka",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.55",
+        "regularPrice": "0.55",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.45",
+          "max": "0.55"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk",
+          "description": "Katoliški rožni venec iz vrvice, rožni venec iz lesenih kroglic s keltskim križem, 5 desetk, molitveni rožni venec iz vrvice, krščanski religiozni rožni venec s keltskim lesenim križem",
+          "sku": "ALI-AAFRTG7BAOVioqqEY6ekdF_W",
+          "image": [
+            "https://sc04.alicdn.com/kf/H594de85d0dab4e7883829aa0a622c03aF.jpg",
+            "https://sc04.alicdn.com/kf/H4cba90b7d7174f77aabebad0b7a86017d.jpg",
+            "https://sc04.alicdn.com/kf/H03741f0ce7d4422c9209bb22969009d63.jpg",
+            "https://sc04.alicdn.com/kf/Hfcc186e4ac0945e6b9c4e88ee245fa63S.jpg",
+            "https://sc04.alicdn.com/kf/Hcab3694da3754d4fb6ff298c5db436faB.jpg"
+          ],
+          "category": "Katoliški rožni venci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni material nakita",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta materiala",
+              "value": "Cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spol",
+              "value": "Uniseks, moški, ženske"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni kamen",
+              "value": "Brez"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta nakita",
+              "value": "Ogrlice"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta ogrlic",
+              "value": "Obesne ogrlice"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Priložnost",
+              "value": "Darilo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta verižice",
+              "value": "Kroglice"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Prevleka",
+              "value": "Drugo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika/vzorec",
+              "value": "Cvet"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Religiozni"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Religiozna vrsta",
+              "value": "Katolicizem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Uporaba",
+              "value": "Poroka"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kraj izvora",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Blagovna znamka",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.55",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.45",
+              "maxPrice": "0.55",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7fef666a82e0cb482e67ee4e9733859fe0a87223553095e342085ec7fc20e097",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7fef666a82e0cb482e67ee4e9733859fe0a87223553095e342085ec7fc20e097",
+            "contentHash": "7fef666a82e0cb482e67ee4e9733859fe0a87223553095e342085ec7fc20e097",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:10:57.554Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "7fef666a82e0cb482e67ee4e9733859fe0a87223553095e342085ec7fc20e097",
+            "contentHash": "d6188026c1b41e0703cdc725fb8cdafee206a6c43d1c38934973ecfe6c064f81",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:34.319Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHfTG7BAOVioqqEY6ekdYc7",
+      "sourceId": "AAHfTG7BAOVioqqEY6ekdYc7",
+      "sourceFingerprint": "e62bceab0c4982059679738945f6e3d62d9a2b4a6fb8e9d1e42e4439cb9a9d4d",
+      "locale": "sl",
+      "slug": "hematite-and-zinc-alloy-catholic-rosary-necklace-ekdyc7",
+      "title": "Katoliška rožnovenska ogrlica iz hematita in cinkove zlitine",
+      "eyebrow": "Katoliška rožnovenska ogrlica iz hematita in cinkove zlitine",
+      "summary": "Katoliška rožnovenska ogrlica iz hematitnih kroglic in cinkove zlitine s cvetličnim vzorcem in verižico iz kroglic. Uniseks dizajn je naveden za priložnosti daril in porok ter je na voljo za veleprodajno nabavo v kategoriji katoliških rožnih vencev.",
+      "description": "Ta katoliška rožnovenska ogrlica združuje hematit, ki se uporablja kot glavni kamen in material za nakit, s cinkovo zlitino za preostale kovinske dele. Verižica iz kroglic in cvetlični vzorec dajeta izdelku prepoznaven videz v kategoriji verskega nakita. Njena uniseks navedba zajema moško in žensko nošenje, oblika ogrlice pa je namenjena uporabi kot darilo ali na poroki. Kot rožni venec spada v katoliško molitveno tradicijo, osredotočeno na premišljevanje o dogodkih iz življenja Jezusa Kristusa in Device Marije. Kupci, ki nabavljajo rožne vence za nadaljnjo prodajo, lahko kombinacijo hematita in cinkove zlitine preučijo kot ključno materialno razliko.",
+      "catholicContext": "Rožni venec je katoliška molitev, osredotočena na premišljevanje o dogodkih iz življenja Jezusa Kristusa in Device Marije, s sklopi skrivnosti, razvrščenimi na vesele, svetle, žalostne in vesele.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Katoliški rožni venci",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAHfTG7BAOVioqqEY6ekdYc7",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/He61608379f7d49d185f5c3996e69ab3bf.webp",
+      "imageAlt": "Katoliška rožnovenska ogrlica iz hematita in cinkove zlitine",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He61608379f7d49d185f5c3996e69ab3bf.webp",
+          "alt": "Katoliška rožnovenska ogrlica iz hematita in cinkove zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8a8e7af0778748a8b75b8977766b72577.webp",
+          "alt": "Katoliška rožnovenska ogrlica iz hematita in cinkove zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H640b6e7d38324ffc86b511481a6b01667.webp",
+          "alt": "Katoliška rožnovenska ogrlica iz hematita in cinkove zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8b38cda65c7b4a8c85e153ddccfcfec22.webp",
+          "alt": "Katoliška rožnovenska ogrlica iz hematita in cinkove zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H103402149f184a03a5c92ddc99069033F.webp",
+          "alt": "Katoliška rožnovenska ogrlica iz hematita in cinkove zlitine"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Hematit je glavni kamen in material za nakit",
+        "Cinkova zlitina se uporablja kot dodatni material",
+        "Ogrlica z verižico iz kroglic in obeskom",
+        "Cvetlični vzorec",
+        "Uniseks dizajn, naveden za moško in žensko nošenje",
+        "Kategorizirano kot katoliški rožni venec"
+      ],
+      "specifications": [
+        {
+          "name": "Glavni material za nakit",
+          "value": "Hematit"
+        },
+        {
+          "name": "Vrsta materiala",
+          "value": "Cinkova zlitina"
+        },
+        {
+          "name": "Glavni kamen",
+          "value": "Hematit"
+        },
+        {
+          "name": "Vrsta nakita",
+          "value": "Ogrlica, ogrlica z obeskom"
+        },
+        {
+          "name": "Vrsta verižice",
+          "value": "Kroglice"
+        },
+        {
+          "name": "Oblika/vzorec",
+          "value": "Cvet"
+        },
+        {
+          "name": "Spol",
+          "value": "Uniseks, moški, ženski"
+        },
+        {
+          "name": "Priložnost",
+          "value": "Darilo"
+        },
+        {
+          "name": "Uporaba",
+          "value": "Poroka"
+        },
+        {
+          "name": "Verska vrsta",
+          "value": "Katolicizem"
+        },
+        {
+          "name": "Država porekla",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Obdarovanje",
+        "Uporaba na poroki",
+        "Veleprodajni izbor katoliških rožnih vencev",
+        "Prodaja verskega nakita na drobno"
+      ],
+      "faq": [
+        {
+          "question": "Kateri materiali so uporabljeni v tej rožnovenski ogrlici?",
+          "answer": "Rožnovenska ogrlica uporablja hematit kot glavni kamen in material za nakit, cinkova zlitina pa je dodatna vrsta materiala."
+        },
+        {
+          "question": "Ali je ta rožnovenska ogrlica namenjena moškim, ženskam ali obojim?",
+          "answer": "Izdelek je naveden kot uniseks, moški in ženski pa sta vključena v atribute spola."
+        },
+        {
+          "question": "Za katere priložnosti je navedena ta rožnovenska ogrlica?",
+          "answer": "Atributi izdelka navajajo obdarovanje in uporabo na poroki kot priložnosti in uporabo za rožnovensko ogrlico."
+        }
+      ],
+      "pricing": {
+        "price": "0.95",
+        "regularPrice": "0.95",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.80",
+          "max": "0.95"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Katoliška rožnovenska ogrlica iz hematita in cinkove zlitine",
+          "description": "Katoliška rožnovenska ogrlica iz hematitnih kroglic in cinkove zlitine s cvetličnim vzorcem in verižico iz kroglic. Uniseks dizajn je naveden za priložnosti daril in porok ter je na voljo za veleprodajno nabavo v kategoriji katoliških rožnih vencev.",
+          "sku": "ALI-AAHfTG7BAOVioqqEY6ekdYc7",
+          "image": [
+            "https://sc04.alicdn.com/kf/He61608379f7d49d185f5c3996e69ab3bf.jpg",
+            "https://sc04.alicdn.com/kf/H8a8e7af0778748a8b75b8977766b72577.jpg",
+            "https://sc04.alicdn.com/kf/H640b6e7d38324ffc86b511481a6b01667.jpg",
+            "https://sc04.alicdn.com/kf/H8b38cda65c7b4a8c85e153ddccfcfec22.jpg",
+            "https://sc04.alicdn.com/kf/H103402149f184a03a5c92ddc99069033F.jpg"
+          ],
+          "category": "Katoliški rožni venci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni material za nakit",
+              "value": "Hematit"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta materiala",
+              "value": "Cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni kamen",
+              "value": "Hematit"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta nakita",
+              "value": "Ogrlica, ogrlica z obeskom"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta verižice",
+              "value": "Kroglice"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika/vzorec",
+              "value": "Cvet"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spol",
+              "value": "Uniseks, moški, ženski"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Priložnost",
+              "value": "Darilo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Uporaba",
+              "value": "Poroka"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verska vrsta",
+              "value": "Katolicizem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Država porekla",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.95",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.80",
+              "maxPrice": "0.95",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kateri materiali so uporabljeni v tej rožnovenski ogrlici?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rožnovenska ogrlica uporablja hematit kot glavni kamen in material za nakit, cinkova zlitina pa je dodatna vrsta materiala."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je ta rožnovenska ogrlica namenjena moškim, ženskam ali obojim?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Izdelek je naveden kot uniseks, moški in ženski pa sta vključena v atribute spola."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Za katere priložnosti je navedena ta rožnovenska ogrlica?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Atributi izdelka navajajo obdarovanje in uporabo na poroki kot priložnosti in uporabo za rožnovensko ogrlico."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9d81bf31f8a32a7c6cf1107cdec3e8a89e5f8e0b5aaab987546c17914cb64352",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9d81bf31f8a32a7c6cf1107cdec3e8a89e5f8e0b5aaab987546c17914cb64352",
+            "contentHash": "9d81bf31f8a32a7c6cf1107cdec3e8a89e5f8e0b5aaab987546c17914cb64352",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:10:36.742Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "9d81bf31f8a32a7c6cf1107cdec3e8a89e5f8e0b5aaab987546c17914cb64352",
+            "contentHash": "7df0f4c24d7c0cffb8cd275561c9437d35678c2338b3c8aa55303f0ae8b4a95b",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:40.525Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHTTG7BAOVioqqEY6eBSoGD",
+      "sourceId": "AAHTTG7BAOVioqqEY6eBSoGD",
+      "sourceFingerprint": "6dd71f09da31679248061f09c706394b68f3bf46e1ee08960e93b36a2b7de0db",
+      "locale": "sl",
+      "slug": "saint-benedict-medal-stainless-steel-pendant-necklace-ebsogd",
+      "title": "Ogrlica z obeskom medaljona svetega Benedikta iz nerjavečega jekla",
+      "eyebrow": "Ogrlica z obeskom medaljona svetega Benedikta iz nerjavečega jekla s kroglično verižico",
+      "summary": "Obesek z medaljonom svetega Benedikta iz nerjavečega jekla, združen s kroglično verižico. Kos ima motiv križa in verski katoliški slog, na voljo je v posrebreni ali pozlačeni izvedbi ter kot uniseks dizajn, primeren za obdarovanje.",
+      "description": "Obesek z medaljonom svetega Benedikta je v središču te ogrlice, njen verski katoliški slog pa oblikuje motiv križa. Kroglična verižica nadomesti običajno členasto ali vrvno verižico, kar ogrlici okoli vratu daje drugačno linijo in ritem. Glavnino telesa tvori nerjaveče jeklo, na voljo sta posrebrena in pozlačena izvedba. Obesek je uniseks, zato dizajn ni razdeljen na ločene moške in ženske različice. Predstavljen je kot kos, namenjen obdarovanju, in pod blagovno znamko OUOOO nosi številko modela IW-PR-07.",
+      "catholicContext": "Katoliški katekizem uvršča medaljone med oblike ljudske pobožnosti, ki obdajajo zakramentalno življenje Cerkve, pri čemer takšna pobožnost liturgijo dopolnjuje in je ne nadomešča.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Modna ogrlica",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAHTTG7BAOVioqqEY6eBSoGD",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hc510432433b842b38649792f52e5246co.webp",
+      "imageAlt": "Ogrlica z obeskom medaljona svetega Benedikta iz nerjavečega jekla",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc510432433b842b38649792f52e5246co.webp",
+          "alt": "Ogrlica z obeskom medaljona svetega Benedikta iz nerjavečega jekla"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Haf2f09bfd2c7422a80ed177f77e23e49D.webp",
+          "alt": "Ogrlica z obeskom medaljona svetega Benedikta iz nerjavečega jekla"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H15e2fca7e4f048f3932e0ea4467be3a10.webp",
+          "alt": "Ogrlica z obeskom medaljona svetega Benedikta iz nerjavečega jekla"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc7e2f45424474e34a44b97d98b0a0aa58.webp",
+          "alt": "Ogrlica z obeskom medaljona svetega Benedikta iz nerjavečega jekla"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6f7c72",
+      "features": [
+        "Ogrlica z obeskom iz nerjavečega jekla z medaljonom svetega Benedikta",
+        "Kroglična verižica namesto členaste ali vrvne verižice",
+        "Na voljo v posrebreni in pozlačeni izvedbi",
+        "Oblika/vzorec križa v verskem katoliškem slogu",
+        "Uniseks dizajn, primeren za obdarovanje",
+        "Številka modela IW-PR-07"
+      ],
+      "specifications": [
+        {
+          "name": "Glavni material nakita",
+          "value": "Nerjaveče jeklo"
+        },
+        {
+          "name": "Platiranje",
+          "value": "Posrebreno; pozlačeno"
+        },
+        {
+          "name": "Vrsta verižice",
+          "value": "Kroglice"
+        },
+        {
+          "name": "Oblika/vzorec",
+          "value": "Križ"
+        },
+        {
+          "name": "Slog",
+          "value": "Verski"
+        },
+        {
+          "name": "Verska vrsta",
+          "value": "Katolicizem"
+        },
+        {
+          "name": "Spol",
+          "value": "Uniseks"
+        },
+        {
+          "name": "Glavni kamen",
+          "value": "Brez"
+        },
+        {
+          "name": "Številka modela",
+          "value": "IW-PR-07"
+        },
+        {
+          "name": "Blagovna znamka",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [
+        "Obdarovanje",
+        "Osebno pobožno nošenje",
+        "Ponudba verskega nakita v prodajalnah",
+        "Oblikovanje uniseks ogrlic"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je izdelan obesek z medaljonom svetega Benedikta?",
+          "answer": "Ogrlica z obeskom je izdelana iz nerjavečega jekla kot glavnega materiala nakita, na voljo pa je v posrebreni in pozlačeni izvedbi."
+        },
+        {
+          "question": "Kakšno verižico ima ta ogrlica?",
+          "answer": "Ogrlica ima kroglično verižico namesto členaste ali vrvne verižice."
+        },
+        {
+          "question": "Je ogrlica namenjena moškim ali ženskam?",
+          "answer": "Navedena je kot uniseks, zato je isti dizajn namenjen obojim."
+        }
+      ],
+      "pricing": {
+        "price": "1.35",
+        "regularPrice": "1.35",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.20",
+          "max": "1.35"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ogrlica z obeskom medaljona svetega Benedikta iz nerjavečega jekla",
+          "description": "Obesek z medaljonom svetega Benedikta iz nerjavečega jekla, združen s kroglično verižico. Kos ima motiv križa in verski katoliški slog, na voljo je v posrebreni ali pozlačeni izvedbi ter kot uniseks dizajn, primeren za obdarovanje.",
+          "sku": "ALI-AAHTTG7BAOVioqqEY6eBSoGD",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hc510432433b842b38649792f52e5246co.jpg",
+            "https://sc04.alicdn.com/kf/Haf2f09bfd2c7422a80ed177f77e23e49D.jpg",
+            "https://sc04.alicdn.com/kf/H15e2fca7e4f048f3932e0ea4467be3a10.jpg",
+            "https://sc04.alicdn.com/kf/Hc7e2f45424474e34a44b97d98b0a0aa58.jpg"
+          ],
+          "category": "Modna ogrlica",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni material nakita",
+              "value": "Nerjaveče jeklo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Platiranje",
+              "value": "Posrebreno; pozlačeno"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta verižice",
+              "value": "Kroglice"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika/vzorec",
+              "value": "Križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Verski"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verska vrsta",
+              "value": "Katolicizem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spol",
+              "value": "Uniseks"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Glavni kamen",
+              "value": "Brez"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Številka modela",
+              "value": "IW-PR-07"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Blagovna znamka",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.35",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.20",
+              "maxPrice": "1.35",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je izdelan obesek z medaljonom svetega Benedikta?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ogrlica z obeskom je izdelana iz nerjavečega jekla kot glavnega materiala nakita, na voljo pa je v posrebreni in pozlačeni izvedbi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kakšno verižico ima ta ogrlica?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ogrlica ima kroglično verižico namesto členaste ali vrvne verižice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je ogrlica namenjena moškim ali ženskam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedena je kot uniseks, zato je isti dizajn namenjen obojim."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "df5658b5405788831bf5102b320caf843c42d843afb4f48cec06a8a8ec91f56e",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "df5658b5405788831bf5102b320caf843c42d843afb4f48cec06a8a8ec91f56e",
+            "contentHash": "df5658b5405788831bf5102b320caf843c42d843afb4f48cec06a8a8ec91f56e",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:10:45.556Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "df5658b5405788831bf5102b320caf843c42d843afb4f48cec06a8a8ec91f56e",
+            "contentHash": "e34fc3b7c070822ef05a713aba88a89b43253653a750483c154730c48011a1d6",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:46.647Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGMTG7BAOVioqqEY6eM2BiM",
+      "sourceId": "AAGMTG7BAOVioqqEY6eM2BiM",
+      "sourceFingerprint": "2ad05884a70270fc85e374a001c5d2845aa6cc734e07ca39438e7ab877d688bb",
+      "locale": "sl",
+      "slug": "vintage-oval-alloy-charms-with-zircon-stone-em2bim",
+      "title": "Vintage ovalni okraski iz zlitine s cirkonom",
+      "eyebrow": "Vintage ovalni okrasek iz zlitine z oljno kapljico iz smole in cirkonom, jekleno prevlečen",
+      "summary": "Ti vintage okraski ovalne oblike združujejo telo iz zlitine z jekleno prevleko, element oljne kapljice in cirkon. Vsak okrasek je na voljo v črni, beli ali modri barvi, kar izdelovalcem nakita ponuja kompakten okrasni element za nizanje na ogrlice, zapestnice in druge DIY projekte nizanja.",
+      "description": "Telo okraska je ovalno in izrezano v vintage slogu, z jekleno prevleko iz zlitine, detajlom oljne kapljice in vstavljenim cirkonom. Kupci izberejo barvno različico: črna, bela ali modra.\n\nTi okraski so dobavljeni kot posamezni DIY sestavni deli, ne kot dokončan nakit. Namenjeni so nizanju ali pritrjevanju na ogrlice in zapestnice, ovalna oblika pa se prilega ravno ob vrvico ali verižico. Elementa oljne kapljice in cirkona dajeta vsakemu okrasku majhno osrednjo točko brez dodatnega sestavljanja.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodatki",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGMTG7BAOVioqqEY6eM2BiM",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/He20a587aa6674098bebe7587cdfb46b8j.webp",
+      "imageAlt": "Vintage ovalni okraski iz zlitine s cirkonom",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He20a587aa6674098bebe7587cdfb46b8j.webp",
+          "alt": "Vintage ovalni okraski iz zlitine s cirkonom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hbe0b74f47bf449c3abf0fb61aa9d6636y.webp",
+          "alt": "Vintage ovalni okraski iz zlitine s cirkonom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H100e8c0adf2948b9b19c50bb62097323w.webp",
+          "alt": "Vintage ovalni okraski iz zlitine s cirkonom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H29678500aec449cabc9a8284e4d35d49q.webp",
+          "alt": "Vintage ovalni okraski iz zlitine s cirkonom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc8c19ea12ba5417287d8300f11cb3df01.webp",
+          "alt": "Vintage ovalni okraski iz zlitine s cirkonom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H123353982ec54554bd24ed300de2f0edi.webp",
+          "alt": "Vintage ovalni okraski iz zlitine s cirkonom"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H27eb95f5d1c74b6185aeadad774c5494e.webp",
+          "alt": "Vintage ovalni okraski iz zlitine s cirkonom – modra",
+          "label": "modra",
+          "sku": "ALI-AAGMTG7BAOVioqqEY6eM2BiM-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H217178f7e1f44e7caadd373edfaa7cc0k.webp",
+          "alt": "Vintage ovalni okraski iz zlitine s cirkonom – črna",
+          "label": "črna",
+          "sku": "ALI-AAGMTG7BAOVioqqEY6eM2BiM-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H351afdf75eab45cc8c672f47a07cdc85p.webp",
+          "alt": "Vintage ovalni okraski iz zlitine s cirkonom – bela",
+          "label": "bela",
+          "sku": "ALI-AAGMTG7BAOVioqqEY6eM2BiM-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Vintage ovalna oblika okraska",
+        "Telo iz zlitine z jekleno prevleko",
+        "Detajl oljne kapljice s cirkonom",
+        "Na voljo v črni, beli in modri različici",
+        "Dobavljeno kot DIY sestavni del za izdelavo nakita"
+      ],
+      "specifications": [
+        {
+          "name": "Oblika",
+          "value": "Ovalna (vintage slog)"
+        },
+        {
+          "name": "Material",
+          "value": "Zlitina z jekleno prevleko"
+        },
+        {
+          "name": "Okrasni elementi",
+          "value": "Oljna kapljica in cirkon"
+        },
+        {
+          "name": "Barvne različice",
+          "value": "Črna, bela, modra"
+        },
+        {
+          "name": "Predvidena uporaba",
+          "value": "Izdelava ogrlic in zapestnic"
+        }
+      ],
+      "applications": [
+        "Izdelava ogrlic",
+        "Izdelava zapestnic",
+        "DIY sestavljanje nakita",
+        "Okraski za zabavni nakit"
+      ],
+      "faq": [
+        {
+          "question": "Katere barve so na voljo za te ovalne okraske?",
+          "answer": "Okraski so na voljo v treh barvnih različicah: črni, beli in modri."
+        },
+        {
+          "question": "Iz česa je okrasek izdelan?",
+          "answer": "Vsak okrasek ima telo iz zlitine z jekleno prevleko, detajl oljne kapljice in cirkon."
+        },
+        {
+          "question": "Ali so ti okraski dokončan nakit?",
+          "answer": "Ne. To so posamezni DIY sestavni deli, namenjeni nizanju ali pritrjevanju na ogrlice, zapestnice in podobne projekte izdelave nakita."
+        }
+      ],
+      "pricing": {
+        "price": "0.18",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.14",
+          "max": "0.18"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Vintage ovalni okraski iz zlitine s cirkonom",
+          "description": "Ti vintage okraski ovalne oblike združujejo telo iz zlitine z jekleno prevleko, element oljne kapljice in cirkon. Vsak okrasek je na voljo v črni, beli ali modri barvi, kar izdelovalcem nakita ponuja kompakten okrasni element za nizanje na ogrlice, zapestnice in druge DIY projekte nizanja.",
+          "sku": "ALI-AAGMTG7BAOVioqqEY6eM2BiM",
+          "image": [
+            "https://sc04.alicdn.com/kf/He20a587aa6674098bebe7587cdfb46b8j.png",
+            "https://sc04.alicdn.com/kf/Hbe0b74f47bf449c3abf0fb61aa9d6636y.png",
+            "https://sc04.alicdn.com/kf/H100e8c0adf2948b9b19c50bb62097323w.png",
+            "https://sc04.alicdn.com/kf/H29678500aec449cabc9a8284e4d35d49q.png",
+            "https://sc04.alicdn.com/kf/Hc8c19ea12ba5417287d8300f11cb3df01.png",
+            "https://sc04.alicdn.com/kf/H123353982ec54554bd24ed300de2f0edi.png"
+          ],
+          "category": "Dodatki",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Ovalna (vintage slog)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Zlitina z jekleno prevleko"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Okrasni elementi",
+              "value": "Oljna kapljica in cirkon"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barvne različice",
+              "value": "Črna, bela, modra"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Predvidena uporaba",
+              "value": "Izdelava ogrlic in zapestnic"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.18",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.14",
+              "maxPrice": "0.18",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Katere barve so na voljo za te ovalne okraske?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Okraski so na voljo v treh barvnih različicah: črni, beli in modri."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Iz česa je okrasek izdelan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vsak okrasek ima telo iz zlitine z jekleno prevleko, detajl oljne kapljice in cirkon."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali so ti okraski dokončan nakit?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne. To so posamezni DIY sestavni deli, namenjeni nizanju ali pritrjevanju na ogrlice, zapestnice in podobne projekte izdelave nakita."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "6b804a653e7f4bdf9938149c025e92f260b24c47b521f7d0bba0ec2e7e1e06b3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "6b804a653e7f4bdf9938149c025e92f260b24c47b521f7d0bba0ec2e7e1e06b3",
+            "contentHash": "6b804a653e7f4bdf9938149c025e92f260b24c47b521f7d0bba0ec2e7e1e06b3",
+            "attempts": 0,
+            "updatedAt": "2026-10-20T18:11:01.137Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "6b804a653e7f4bdf9938149c025e92f260b24c47b521f7d0bba0ec2e7e1e06b3",
+            "contentHash": "18dae9c97ed4a7b968a1384f6d86a17bb56c546672082ad5228a3c386e9c233f",
+            "attempts": 1,
+            "updatedAt": "2026-10-20T18:21:51.758Z",
             "model": "deepseek-v4-flash"
           }
         }
