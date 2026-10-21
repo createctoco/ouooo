@@ -23,6 +23,7 @@ const staticPaths = [
   '/guides/catholic-scapulars-wholesale-guide',
   '/guides/cross-crucifix-medal-guide',
   '/guides/our-lady-around-the-world',
+  '/guides/brazil-rosary-market-analysis',
   '/faq',
   '/our-story',
   '/payment',
