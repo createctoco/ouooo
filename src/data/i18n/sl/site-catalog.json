@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "sl",
   "sourceLocale": "en",
-  "sourceCatalogHash": "f347d247b742f5376cc2dcfb5653b8073d40179f481004dd460df7df60575793",
-  "generatedAt": "2026-10-22T18:23:37.800Z",
+  "sourceCatalogHash": "f116e6a8af0a0e735e54740fbc6026414e4bc1c5b18229b6ffc02a44a165ff16",
+  "generatedAt": "2026-10-23T18:07:27.237Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAHLTG7BAOVioqqEY6elz-bt",
-      "AAHITG7BAOVioqqEY6elzv7T",
-      "AAHNTG7BAOVioqqEY6el6w8q",
-      "AAEcTG7BAOVioqqEY6el6ytd",
-      "AAGkTG7BAOVioqqEY6el6f0V",
-      "AAEpTG7BAOVioqqEY6elh1Uk",
-      "AAFkTG7BAOVioqqEY6eliXU9",
-      "AAFoTG7BAOVioqqEY6e1CFZR",
-      "AAHvTG7BAOVioqqEY6e1C8Jp",
-      "AAFATG7BAOVioqqEY6elcOFG"
+      "AAFFTG7BAOVioqqEY6elaU_k",
+      "AAHATG7BAOVioqqEY6eldGy3",
+      "AAEKTG7BAOVioqqEY6eldTI6",
+      "AAESTG7BAOVioqqEY6elIetd",
+      "AAGPTG7BAOVioqqEY6elIPTS",
+      "AAG-TG7BAOVioqqEY6elI5Pf",
+      "AAH5TG7BAOVioqqEY6elIOpG",
+      "AAFsTG7BAOVioqqEY6elA3FP",
+      "AAE2TG7BAOVioqqEY6elAElE",
+      "AAEVTG7BAOVioqqEY6elAgtf"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,35 +39,33 @@
     "brooch": "Broska",
     "uncategorized": "Nerazvrščeno"
   },
-  "categoryGlossarySourceHash": "d012c036a9049c04073a08160e6224151423e6c668bfb8ae714fcf09d5c3e1c3",
+  "categoryGlossarySourceHash": "4a86757abd72447c98bb9c8f6706ce10a440e73eb1a0f384ce13d0de0da8aba2",
   "translationSummary": {
-    "ready": 964,
-    "skipped": 3,
+    "ready": 974,
+    "skipped": 1,
     "skippedProductIds": [
-      "AAFNTG7BAOVioqqEY6enmEhC",
-      "AAFbTG7BAOVioqqEY6enYFV7",
       "AAEDTG7BAOVioqqEY6elzmkj"
     ],
-    "reused": 953,
+    "reused": 963,
     "generated": 11,
     "generatedProductIds": [
-      "AAE7TG7BAOVioqqEY6elw0EO",
-      "AAHLTG7BAOVioqqEY6elz-bt",
-      "AAHITG7BAOVioqqEY6elzv7T",
-      "AAHNTG7BAOVioqqEY6el6w8q",
-      "AAEcTG7BAOVioqqEY6el6ytd",
-      "AAGkTG7BAOVioqqEY6el6f0V",
       "AAEpTG7BAOVioqqEY6elh1Uk",
-      "AAFkTG7BAOVioqqEY6eliXU9",
-      "AAFoTG7BAOVioqqEY6e1CFZR",
-      "AAHvTG7BAOVioqqEY6e1C8Jp",
-      "AAFATG7BAOVioqqEY6elcOFG"
+      "AAFFTG7BAOVioqqEY6elaU_k",
+      "AAHATG7BAOVioqqEY6eldGy3",
+      "AAEKTG7BAOVioqqEY6eldTI6",
+      "AAESTG7BAOVioqqEY6elIetd",
+      "AAGPTG7BAOVioqqEY6elIPTS",
+      "AAG-TG7BAOVioqqEY6elI5Pf",
+      "AAH5TG7BAOVioqqEY6elIOpG",
+      "AAFsTG7BAOVioqqEY6elA3FP",
+      "AAE2TG7BAOVioqqEY6elAElE",
+      "AAEVTG7BAOVioqqEY6elAgtf"
     ],
-    "gaveUp": 2,
-    "gaveUpSkipped": 10,
+    "gaveUp": 0,
+    "gaveUpSkipped": 12,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 3,
+    "retriedBacklog": 1,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -630,13 +628,11 @@
   ],
   "translationRetries": {
     "AAEDTG7BAOVioqqEY6elzmkj": {
-      "count": 2,
+      "count": 3,
       "sourceHash": "45d57c81c2c1431487ab9e5aa1a14a66003affe25415a20a47708678b0e16af1"
     }
   },
   "translationGiveUp": {
-    "AAFNTG7BAOVioqqEY6enmEhC": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279",
-    "AAFbTG7BAOVioqqEY6enYFV7": "0ded46e2356953c296ea535789b47e72bd78ea567ed91f097a24cd03e91fbd49",
     "AAGxTG7BAOVioqqEY6e7uzWC": "ea7adc1644caf3e7501ab5e89ec80a6f207c7926d1888414221ce0d9af85aa32",
     "AAEDTG7BAOVioqqEY6erMoEh": "9fc9b69fdcca68e97081a3e260897b155e62a45694adc60f5af0472994011ef7",
     "AAGXTG7BAOVioqqEY6eoRu-2": "2d43165d6f5ed5fc0c7cb38ca6611ace1201c8468e2de4f0eb3391a1457f103d",
@@ -646,7 +642,9 @@
     "AAEmTG7BAOVioqqEY6eNuCc2": "0b5ae93d770f04c916bf2731aebce97a1069c8e45bc089b817b0d0a6ece2f240",
     "AAF4TG7BAOVioqqEY6eDdXYG": "41d2b92da9f766d7aecc115161063665338e49156687c787bd75178b9a80baf8",
     "AAFXTG7BAOVioqqEY6e4IE0u": "e3a1c05ead164427a864c1c42a9cfd6e2b45036f56af8d54e26b28de175e8dee",
-    "AAG2TG7BAOVioqqEY6evaYQW": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
+    "AAG2TG7BAOVioqqEY6evaYQW": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686",
+    "AAFNTG7BAOVioqqEY6enmEhC": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279",
+    "AAFbTG7BAOVioqqEY6enYFV7": "0ded46e2356953c296ea535789b47e72bd78ea567ed91f097a24cd03e91fbd49"
   },
   "products": [
     {
@@ -224491,11 +224489,11 @@
       "sourceFingerprint": "d5a6a7c2d9638813b5ed635136869bbe34e1a97d21ed2329370686f037453bf6",
       "locale": "sl",
       "slug": "wood-crucifix-keychain-with-inri-plaque-elh1uk",
-      "title": "Rožnovenski obesek za ključe iz lesa s ploščico INRI",
-      "eyebrow": "Rožnovenski obesek za ključe iz lesa s ploščico INRI",
-      "summary": "Majhen obesek za ključe iz lesa s križem, ki nosi napis INRI. Leseno telo ohranja obesek dovolj lahek za nošenje na obroču za ključe, oblika pa je primerna za predstavitev kot versko darilo ob priložnostih, kot so božič, rojstni dnevi ali mature.",
-      "description": "Križ je tu v središču: Kristus na križu z napisom INRI nad njim. Les tvori telo obeska in mu daje topel, naraven videz namesto svetle kovinske površine. Zaradi majhne velikosti celoten kos na obroču za ključe ne izstopa.\n\nKer gre za obesek za ključe in ne za samostojen obesek, križ potuje skupaj s ključi, na katere je pritrjen. Kupci, ki iščejo skromno versko darilo, ga lahko podarijo ob božiču, rojstnem dnevu ali maturi; prenosna oblika je primerna tudi za darilo ob vrnitvi v šolo ali materinskem dnevu. Les je opisan kot vzdržljiv in okolju prijazen.",
-      "catholicContext": "Križ prikazuje Kristusa na križu, medtem ko navaden križ tega ne prikazuje; ploščica INRI nad telesom se nanaša na napis, ki je bil postavljen na Jezusov križ.",
+      "title": "Lesen obesek za ključe s križem in napisom INRI",
+      "eyebrow": "Lesen obesek za ključe s križem in napisom INRI",
+      "summary": "Majhen lesen obesek za ključe s križem, ki nosi napis INRI. Leseno ohišje ohranja obesek dovolj lahek za nošenje na obroču za ključe, oblika pa je primerna za predstavitev kot versko darilo ob priložnostih, kot so božič, rojstni dnevi ali mature.",
+      "description": "Križ je osrednji del: Kristus na križu z napisom INRI nad njim. Les tvori ohišje obeska in mu daje topel, naraven videz namesto sijoče kovinske površine. Zaradi majhne velikosti je celoten kos nevsiljiv na obroču za ključe.\n\nKer gre za obesek za ključe in ne za samostojen obesek, križ potuje skupaj s ključi, na katere je pritrjen. Kupci, ki iščejo skromno versko darilo, ga lahko podarijo ob božiču, rojstnem dnevu ali maturi; prenosna oblika je primerna tudi kot darilo ob vrnitvi v šolo ali ob materinskem dnevu. Les je opisan kot trpežen in okolju prijazen.",
+      "catholicContext": "Križ prikazuje Kristusa na križu, medtem ko navaden križ tega ne prikazuje; plošča INRI nad telesom se nanaša na napis, ki je bil postavljen na Jezusov križ.",
       "catholicRelevance": "explicit",
       "categories": [
         {
@@ -224506,27 +224504,27 @@
       ],
       "sku": "ALI-AAEpTG7BAOVioqqEY6elh1Uk",
       "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H1dfa363cfea74768989b750cee557550L.webp",
-      "imageAlt": "Rožnovenski obesek za ključe iz lesa s ploščico INRI",
+      "imageAlt": "Lesen obesek za ključe s križem in napisom INRI",
       "gallery": [
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/07/H1dfa363cfea74768989b750cee557550L.webp",
-          "alt": "Rožnovenski obesek za ključe iz lesa s ploščico INRI"
+          "alt": "Lesen obesek za ključe s križem in napisom INRI"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/07/H0bbfb2f95500427284320c23bef53fc0D.webp",
-          "alt": "Rožnovenski obesek za ključe iz lesa s ploščico INRI"
+          "alt": "Lesen obesek za ključe s križem in napisom INRI"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/07/He871e890bfe14029932dd3138ce0d44ey.webp",
-          "alt": "Rožnovenski obesek za ključe iz lesa s ploščico INRI"
+          "alt": "Lesen obesek za ključe s križem in napisom INRI"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha955a5dc05784d73a8f4531cc6530992U.webp",
-          "alt": "Rožnovenski obesek za ključe iz lesa s ploščico INRI"
+          "alt": "Lesen obesek za ključe s križem in napisom INRI"
         },
         {
           "url": "https://mecrt.com/wp-content/uploads/2026/07/He2dee68346db4e9dbe30021e14e4f8e5M.webp",
-          "alt": "Rožnovenski obesek za ključe iz lesa s ploščico INRI"
+          "alt": "Lesen obesek za ključe s križem in napisom INRI"
         }
       ],
       "variantImages": [],
@@ -224534,8 +224532,8 @@
       "features": [
         "Lesena izdelava z obeskom v obliki križa",
         "Križ vključuje napis INRI",
-        "Majhen, prenosljiv in lahek format obeska za ključe",
-        "Les je opisan kot vzdržljiv in okolju prijazen",
+        "Majhna, prenosna in lahka oblika obeska za ključe",
+        "Les je opisan kot trpežen in okolju prijazen",
         "Primerno kot darilo ob priložnostih, vključno z božičem in rojstnimi dnevi"
       ],
       "specifications": [
@@ -224566,9 +224564,9 @@
       ],
       "applications": [
         "Vsakodnevno nošenje na obroču za ključe",
-        "Darilo za božič",
-        "Darilo za rojstni dan",
-        "Darilo za maturo"
+        "Darilo ob božiču",
+        "Darilo ob rojstnem dnevu",
+        "Darilo ob maturi"
       ],
       "faq": [
         {
@@ -224576,12 +224574,12 @@
           "answer": "To je križ: oblika izdelka prikazuje Jezusa na križu z napisom INRI nad njim."
         },
         {
-          "question": "Iz česa je obesek za ključe?",
-          "answer": "Podatki o izdelku navajajo les kot material, les pa je opisan kot vzdržljiv in okolju prijazen."
+          "question": "Iz česa je obesek za ključe izdelan?",
+          "answer": "V podatkih o izdelku je kot material naveden les, ki je opisan kot trpežen in okolju prijazen."
         },
         {
-          "question": "Za katere priložnosti darila je primeren?",
-          "answer": "Obesek za ključe je predstavljen kot darilni izdelek, navedene priložnosti pa vključujejo božič, rojstne dneve, maturo, materinski dan, očetovski dan in vrnitev v šolo."
+          "question": "Za katere priložnosti daril je primeren?",
+          "answer": "Obesek za ključe je predstavljen kot darilni izdelek, navedene priložnosti pa vključujejo božič, rojstne dneve, mature, materinski dan, očetovski dan in vrnitev v šolo."
         }
       ],
       "pricing": {
@@ -224598,8 +224596,8 @@
         "product": {
           "@context": "https://schema.org",
           "@type": "Product",
-          "name": "Rožnovenski obesek za ključe iz lesa s ploščico INRI",
-          "description": "Majhen obesek za ključe iz lesa s križem, ki nosi napis INRI. Leseno telo ohranja obesek dovolj lahek za nošenje na obroču za ključe, oblika pa je primerna za predstavitev kot versko darilo ob priložnostih, kot so božič, rojstni dnevi ali mature.",
+          "name": "Lesen obesek za ključe s križem in napisom INRI",
+          "description": "Majhen lesen obesek za ključe s križem, ki nosi napis INRI. Leseno ohišje ohranja obesek dovolj lahek za nošenje na obroču za ključe, oblika pa je primerna za predstavitev kot versko darilo ob priložnostih, kot so božič, rojstni dnevi ali mature.",
           "sku": "ALI-AAEpTG7BAOVioqqEY6elh1Uk",
           "image": [
             "https://sc04.alicdn.com/kf/H1dfa363cfea74768989b750cee557550L.jpg",
@@ -224668,18 +224666,18 @@
             },
             {
               "@type": "Question",
-              "name": "Iz česa je obesek za ključe?",
+              "name": "Iz česa je obesek za ključe izdelan?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Podatki o izdelku navajajo les kot material, les pa je opisan kot vzdržljiv in okolju prijazen."
+                "text": "V podatkih o izdelku je kot material naveden les, ki je opisan kot trpežen in okolju prijazen."
               }
             },
             {
               "@type": "Question",
-              "name": "Za katere priložnosti darila je primeren?",
+              "name": "Za katere priložnosti daril je primeren?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Obesek za ključe je predstavljen kot darilni izdelek, navedene priložnosti pa vključujejo božič, rojstne dneve, maturo, materinski dan, očetovski dan in vrnitev v šolo."
+                "text": "Obesek za ključe je predstavljen kot darilni izdelek, navedene priložnosti pa vključujejo božič, rojstne dneve, mature, materinski dan, očetovski dan in vrnitev v šolo."
               }
             }
           ]
@@ -224687,22 +224685,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "71a75e29bddfc2a0b1f1646624e2ea6a45ba5cc00189ff6e21e34d86623a2557",
+        "sourceHash": "3bd7a599ae2315baa1cada111550281ff38e74eaec3c65c47ebb2ffcc06b0811",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "71a75e29bddfc2a0b1f1646624e2ea6a45ba5cc00189ff6e21e34d86623a2557",
-            "contentHash": "71a75e29bddfc2a0b1f1646624e2ea6a45ba5cc00189ff6e21e34d86623a2557",
+            "sourceHash": "3bd7a599ae2315baa1cada111550281ff38e74eaec3c65c47ebb2ffcc06b0811",
+            "contentHash": "3bd7a599ae2315baa1cada111550281ff38e74eaec3c65c47ebb2ffcc06b0811",
             "attempts": 0,
             "updatedAt": "2026-10-22T18:12:59.346Z",
             "model": "deepseek-v4-flash"
           },
           "sl": {
             "status": "ready",
-            "sourceHash": "71a75e29bddfc2a0b1f1646624e2ea6a45ba5cc00189ff6e21e34d86623a2557",
-            "contentHash": "c4dc647654cb1363d3331197fd675f82182fe30b4889cd045c83b86c7b4856d2",
+            "sourceHash": "3bd7a599ae2315baa1cada111550281ff38e74eaec3c65c47ebb2ffcc06b0811",
+            "contentHash": "64f946b3e7e1be8316e5136f5efcd30be9bd65675564c3858437842f277816e7",
             "attempts": 1,
-            "updatedAt": "2026-10-22T18:23:13.602Z",
+            "updatedAt": "2026-10-23T18:06:16.038Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -225734,6 +225732,2510 @@
             "contentHash": "5b26e558d74bc21d1f5dfae35275839e030f1d584b8dbecacf9fd12b68f04fdf",
             "attempts": 1,
             "updatedAt": "2026-10-22T18:23:37.798Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFFTG7BAOVioqqEY6elaU_k",
+      "sourceId": "AAFFTG7BAOVioqqEY6elaU_k",
+      "sourceFingerprint": "722690d2dd137a8bf810fe8d949d73e699552a63c8fb6825c81617364ed864bf",
+      "locale": "sl",
+      "slug": "catholic-rosary-storage-pouches-with-kiss-lock-closures-elau_k",
+      "title": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock",
+      "eyebrow": "Mini torbice z zaponko kiss-lock z verskimi motivi za shranjevanje rožnega venca in nakita",
+      "summary": "Te mini torbice z zaponko kiss-lock nudijo rožnemu vencu in malemu nakitu namensko mesto. Zaskočni okvir ohranja vsebino zaprto. Izberite med 11 različicami s katoliškimi motivi v modri, rjavi in barviti seriji, vključno z Devico milosti in sv. Mihaelom nadangelom. Primerne za individualno shranjevanje, obdarovanje ali prodajni razstavni prostor.",
+      "description": "Za trgovine, ki prodajajo rožne vence ali majhne pobožne predmete, ustrezna torbica rešuje praktično težavo: ohranja kroglice nezapletene in zaščitene med uporabo. Te mini torbice z zaponko kiss-lock se zapirajo s kovinskim okvirjem na zaskok, tako da ostane vsebina zaprta brez zadrge ali vrvice.\n\nTorbice so na voljo v 11 različicah. Modra in rjava serija nosita naslove, kot so Sveta družina, Jezus in Marija, Devica milosti in sv. Jožef. Barvita serija dodaja Križanje Jezusa, Jezusa, Marijo, Devico iz Lourdesa, sv. Antona Padovanskega in sv. Mihaela nadangela. Kompaktna velikost ustreza tudi kovancem, medaljicam in drugim majhnim predmetom.",
+      "catholicContext": "Rožni venec je katoliška molitev, osredotočena na premišljevanje dogodkov iz življenja Jezusa Kristusa in Device Marije, rožnovenske kroglice pa so med oblikami ljudske pobožnosti, ki obdajajo zakramentalno življenje.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "122",
+          "name": "Embalaža za nakit",
+          "slug": "jewelry-packaging"
+        }
+      ],
+      "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H771e2059fefb430e9eb0ef39311a29d9J.webp",
+      "imageAlt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H771e2059fefb430e9eb0ef39311a29d9J.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8d76b563029b41a786296cdc7744d35cF.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H46e156e7688547e9be0e9d00d85219d7J.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H547b8f1a4c784bd7ba8af3d6a9977a40f.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H267d8df96caa4118a42dab8dd1a61a00v.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3d160cab04614c09ad7112976e7e26987.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H22a06345f52f438ca0c890a6ab9bb6d85.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - blue-holy-family",
+          "label": "blue-holy-family",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H176108ae4bd744cca75777f3fad8408aI.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - colorful-crucifixion-of-jesus",
+          "label": "colorful-crucifixion-of-jesus",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H9b84ced8def54f5dae8ba2f93c047a1bg.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - brown-st-joseph",
+          "label": "brown-st-joseph",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Head67775edaf4233afabd99136b4768a2.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - colorful-st-michael-the-archangel",
+          "label": "colorful-st-michael-the-archangel",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H289c28c9bf414d6c88e6419d8b8bc064M.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - colorful-mary",
+          "label": "colorful-mary",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2f9ce96161a24bd5b17b24a5a0d53d2ft.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - colorful-jesus",
+          "label": "colorful-jesus",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H4f925f6ac6584d60988f0ce494ac92e36.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - blue-our-lady-of-grace",
+          "label": "blue-our-lady-of-grace",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H44f8103df81a4a87bbfff38df8678c24k.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - colorful-st-anthony-of-padua",
+          "label": "colorful-st-anthony-of-padua",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/Hb23c63466d1740f2a715e123dd6fcd05h.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - colorful-our-lady-of-lourdes",
+          "label": "colorful-our-lady-of-lourdes",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H7169ef8c6006497c8be63e0e95b176dat.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - blue-jesus-and-mary",
+          "label": "blue-jesus-and-mary",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/06/H966aaa4ad1bf477ab55303b2432ebf876.webp",
+          "alt": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock - brown-holy-family",
+          "label": "brown-holy-family",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k-V--3"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Zaponka kiss-lock ohranja vsebino torbice zaprto",
+        "Mini velikost, primerna za rožne vence, kovance in mali nakit",
+        "11 različic s katoliškimi motivi v modri, rjavi in barviti seriji",
+        "Motivi vključujejo Devico milosti, Sveto družino in sv. Mihaela nadangela",
+        "Primerno za individualno shranjevanje, obdarovanje ali prodajni razstavni prostor"
+      ],
+      "specifications": [
+        {
+          "name": "Vrsta zapiranja",
+          "value": "Zaponka kiss-lock"
+        },
+        {
+          "name": "Različice",
+          "value": "Skupaj 11: Modra-Sveta družina, Modra-Jezus in Marija, Modra-Devica milosti, Rjava-Sveta družina, Rjava-sv. Jožef, Barvita-Križanje Jezusa, Barvita-Jezus, Barvita-Marija, Barvita-Devica iz Lourdesa, Barvita-sv. Anton Padovanski, Barvita-sv. Mihael nadangel"
+        },
+        {
+          "name": "Barvna serija",
+          "value": "Modra, rjava in barvita"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Embalaža za nakit"
+        }
+      ],
+      "applications": [
+        "Shranjevanje rožnovenskih kroglic med uporabo",
+        "Shranjevanje malega nakita ali kovancev",
+        "Pakiranje rožnih vencev za prodajo na drobno",
+        "Podarjanje kot majhna darilna torbica"
+      ],
+      "faq": [
+        {
+          "question": "Koliko različic je na voljo za te torbice za rožni venec?",
+          "answer": "Na voljo je 11 različic: šest modrih in rjavih motivov ter pet barvitih motivov. Modra in rjava serija vključujeta Sveto družino, Jezusa in Marijo, Devico milosti in sv. Jožefa. Barvita serija vključuje Križanje Jezusa, Jezusa, Marijo, Devico iz Lourdesa, sv. Antona Padovanskega in sv. Mihaela nadangela."
+        },
+        {
+          "question": "Kaj ohranja torbico zaprto?",
+          "answer": "Vsaka torbica uporablja zaponko kiss-lock, kovinski okvir, ki se zaskoči in ohrani vsebino zaprto. To ni zadrga ali vrvica."
+        },
+        {
+          "question": "Kaj lahko shranijo te mini torbice?",
+          "answer": "Torbice so po velikosti primerne za rožne vence, kovance, mali nakit in podobne predmete. Uvrščene so pod embalažo za nakit in se pogosto uporabljajo za shranjevanje ali predstavitev rožnovenskih kroglic."
+        }
+      ],
+      "pricing": {
+        "price": "0.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.37",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Shrambne torbice za katoliški rožni venec z zaponko kiss-lock",
+          "description": "Te mini torbice z zaponko kiss-lock nudijo rožnemu vencu in malemu nakitu namensko mesto. Zaskočni okvir ohranja vsebino zaprto. Izberite med 11 različicami s katoliškimi motivi v modri, rjavi in barviti seriji, vključno z Devico milosti in sv. Mihaelom nadangelom. Primerne za individualno shranjevanje, obdarovanje ali prodajni razstavni prostor.",
+          "sku": "ALI-AAFFTG7BAOVioqqEY6elaU_k",
+          "image": [
+            "https://sc04.alicdn.com/kf/H771e2059fefb430e9eb0ef39311a29d9J.jpg",
+            "https://sc04.alicdn.com/kf/H8d76b563029b41a786296cdc7744d35cF.jpg",
+            "https://sc04.alicdn.com/kf/H46e156e7688547e9be0e9d00d85219d7J.jpg",
+            "https://sc04.alicdn.com/kf/H547b8f1a4c784bd7ba8af3d6a9977a40f.jpg",
+            "https://sc04.alicdn.com/kf/H267d8df96caa4118a42dab8dd1a61a00v.jpg",
+            "https://sc04.alicdn.com/kf/H3d160cab04614c09ad7112976e7e26987.jpg"
+          ],
+          "category": "Embalaža za nakit",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta zapiranja",
+              "value": "Zaponka kiss-lock"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Skupaj 11: Modra-Sveta družina, Modra-Jezus in Marija, Modra-Devica milosti, Rjava-Sveta družina, Rjava-sv. Jožef, Barvita-Križanje Jezusa, Barvita-Jezus, Barvita-Marija, Barvita-Devica iz Lourdesa, Barvita-sv. Anton Padovanski, Barvita-sv. Mihael nadangel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barvna serija",
+              "value": "Modra, rjava in barvita"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Embalaža za nakit"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.37",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koliko različic je na voljo za te torbice za rožni venec?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Na voljo je 11 različic: šest modrih in rjavih motivov ter pet barvitih motivov. Modra in rjava serija vključujeta Sveto družino, Jezusa in Marijo, Devico milosti in sv. Jožefa. Barvita serija vključuje Križanje Jezusa, Jezusa, Marijo, Devico iz Lourdesa, sv. Antona Padovanskega in sv. Mihaela nadangela."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kaj ohranja torbico zaprto?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vsaka torbica uporablja zaponko kiss-lock, kovinski okvir, ki se zaskoči in ohrani vsebino zaprto. To ni zadrga ali vrvica."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kaj lahko shranijo te mini torbice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Torbice so po velikosti primerne za rožne vence, kovance, mali nakit in podobne predmete. Uvrščene so pod embalažo za nakit in se pogosto uporabljajo za shranjevanje ali predstavitev rožnovenskih kroglic."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "c804487f03dd8fa79e6a10d1fbf904f530e1b29500b964612e0334b9aade425b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "c804487f03dd8fa79e6a10d1fbf904f530e1b29500b964612e0334b9aade425b",
+            "contentHash": "c804487f03dd8fa79e6a10d1fbf904f530e1b29500b964612e0334b9aade425b",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:07.054Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "c804487f03dd8fa79e6a10d1fbf904f530e1b29500b964612e0334b9aade425b",
+            "contentHash": "b425e5094889425711af9f6a65131517f8fa75ab63975a1aea82731d8effd933",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:06:26.312Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHATG7BAOVioqqEY6eldGy3",
+      "sourceId": "AAHATG7BAOVioqqEY6eldGy3",
+      "sourceFingerprint": "c66879c32f717ba14c2c702117927ecf658ab0361ec0513b60a0f9aa906fe1c4",
+      "locale": "sl",
+      "slug": "catholic-alloy-keychain-and-pendant-assortment-eldgy3",
+      "title": "Komplet katoliških obeskov za ključe in obeskov iz zlitine",
+      "eyebrow": "Komplet katoliških obeskov za ključe in obeskov iz kovinske zlitine z emajlnim vložkom",
+      "summary": "Linija katoliških kovinskih dodatkov iz zlitine, ki zajema obeske za ključe in obeske. Kupci izbirajo med dvostranskimi in enostranskimi oblikami v zlati ali jekleni izvedbi, z različicami brez okrasa, zelenim emajlom, barvnimi diamanti, belimi diamanti, luno in biserom.",
+      "description": "Ta linija katoliškega kovinskega nakita iz zlitine zajema obeske za ključe in obeske v enotnem naboru. Osnovni konstrukcijski izbiri sta dvostranska ali enostranska oblika ter zlata ali jeklena izvedba, vsaka pa je navedena kot poimenovana različica in ne kot posebna specifikacija.\n\nEmajlni detajli se pojavljajo pri več različicah, vključno z zelenim emajlom na dvostranskih zlatih in jeklenih obeskih za ključe. Okrasne različice dodajo barvne diamante, bele diamante, motive lune ali biserno belo izvedbo. Svetlejši zlati odtenki so na voljo z zlatim bleščilom, srebrnim bleščilom in biserno belo, navedena pa je tudi različica z bisernim Judom.\n\nZlati odtenek, svetlo zlata in jeklena barva kupcu omogočajo, da iz enega nabora sestavi usklajeno ponudbo. Oblika je prva odločitev, saj se nekatere različice prodajajo kot obeski za ključe, druge pa kot obeski.",
+      "catholicContext": "Katoliški katekizem uvršča medaljone in rožni venec med oblike ljudske pobožnosti, ki obdajajo zakramentalno življenje; to je le kontekst in ne dokazuje, da je kateri koli posamezni izdelek zakramental ali da je bil blagoslovljen.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "83",
+          "name": " obeski za ključe",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hca32f620c04d41169841eb9671d1c4b5v.webp",
+      "imageAlt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hca32f620c04d41169841eb9671d1c4b5v.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Had3a2cb5ff9841cca4453f1e176f6fc7m.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdd6857503eff4605a005872601278217n.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7d563143f2bd4258abedd81c5b7fbf38N.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8b73b3b1c8864a04ab56deab8578e0f0O.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H57079176fc064b56a0d5d272631dbafab.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4b3831565ced480fa3b87317779810daR.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - enostranski obesek za ključe v jekleni barvi",
+          "label": "enostranski obesek za ključe v jekleni barvi",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6b51f33c17fe4ef49aabc43590999b7ae.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - biserni Juda",
+          "label": "biserni Juda",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hbea31394ecc0485dbc3ad819221cad9db.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - dvostranski obesek za ključe v jekleni barvi",
+          "label": "dvostranski obesek za ključe v jekleni barvi",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H28615e011b1e40fba4e4b43a698cb24fO.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - enostranski zlati",
+          "label": "enostranski zlati",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H73f148f306b34f0e89f37c649743188fA.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - enostranski v jekleni barvi",
+          "label": "enostranski v jekleni barvi",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5ef62446f1ad48aebebe00a39f9a5f99C.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - enostranski zlati obesek za ključe",
+          "label": "enostranski zlati obesek za ključe",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H24a6d91d78bd402287d83167480745c3w.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - svetlo zlati z zlatim bleščilom",
+          "label": "svetlo zlati z zlatim bleščilom",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H590bc53c2b9c4f188d3b5bc15433250bi.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - svetlo zlati biserno beli",
+          "label": "svetlo zlati biserno beli",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha5417e0a6fdb423eafbf5b2e84b84a21I.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - zlati barvni diamanti",
+          "label": "zlati barvni diamanti",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc8dea3692def46b9ac4121e2625812f4h.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - jeklena barva diamant",
+          "label": "jeklena barva diamant",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H41eb2972c06244c48014e60dafbd7ac5Q.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - svetlo zlati srebrno bleščilo 1",
+          "label": "svetlo zlati srebrno bleščilo 1",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H476a75b6b60c4a53bd3bead1f16ce2de5.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - dvostranski jeklene barve zeleni obesek",
+          "label": "dvostranski jeklene barve zeleni obesek",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He6dddfc70813473c80f1dd69a5d0e13aC.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - dvostranski zlati zeleni obesek za ključe",
+          "label": "dvostranski zlati zeleni obesek za ključe",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He0f54531225746d8b83eb6acca9656d5A.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - dvostranski jekleni zeleni obesek za ključe",
+          "label": "dvostranski jekleni zeleni obesek za ključe",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1ec43645aed741ddbc1526a3867f9df7D.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - dvostranski zlati obesek za ključe",
+          "label": "dvostranski zlati obesek za ključe",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd5ceea1a15304307a4b262fbba79b7adG.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - zlata luna",
+          "label": "zlata luna",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He5b6d5a01f454c429eef541f88299c9eX.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - jeklena luna",
+          "label": "jeklena luna",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H358f1adb55d6430d9e2c62428cb27f4ei.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - zlati beli diamanti",
+          "label": "zlati beli diamanti",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H0839e838b86c4e33a6a235602dc39a4fW.webp",
+          "alt": "Komplet katoliških obeskov za ključe in obeskov iz zlitine - jekleni beli diamant",
+          "label": "jekleni beli diamant",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3-V--9"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Na voljo kot obeski za ključe ali obeski",
+        "Možnosti dvostranske in enostranske izdelave",
+        "Zlati odtenek in jeklena barva izvedbe",
+        "Različice z zelenim emajlom pri izbranih obeskih za ključe",
+        "Okrasni dodatki vključujejo barvne diamante, bele diamante, motive lune in biserno belo",
+        "Različici biserni Juda in z bleščilom v svetlejših zlatih odtenkih"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Kovinska zlitina z emajlom in dodatki v slogu diamantov pri izbranih različicah"
+        },
+        {
+          "name": "Oblika",
+          "value": "Obesek za ključe ali obesek"
+        },
+        {
+          "name": "Stranskost izdelave",
+          "value": "Dvostranska ali enostranska"
+        },
+        {
+          "name": "Izvedba",
+          "value": "Zlati odtenek, svetlo zlata ali jeklena barva"
+        },
+        {
+          "name": "Barva emajla",
+          "value": "Zelena pri izbranih različicah"
+        },
+        {
+          "name": "Možnosti okrasa",
+          "value": "Barvni diamanti, beli diamanti, motiv lune, biserno bela, zlato bleščilo, srebrno bleščilo, biserni Juda"
+        }
+      ],
+      "applications": [
+        "Maloprodajna ponudba obeskov za ključe za razstavo",
+        "Izbor obeskov za katoliško darilno trgovino",
+        "Dobava dodatkov za pobožni nakit"
+      ],
+      "faq": [
+        {
+          "question": "Katere izvedbe in oblike so navedene v tem naboru?",
+          "answer": "Nabor navaja zlati odtenek, svetlo zlato in jekleno barvo. Nekatere različice so obeski za ključe, vključno z več dvostranskimi in enostranskimi možnostmi, druge, kot sta dvostranski jeklene barve z zelenim in različice z barvnimi diamanti, pa so obeski."
+        },
+        {
+          "question": "Na kaj se nanaša zelena v imenih različic?",
+          "answer": "Zelene različice so slogi z emajlnim vložkom. Zeleni emajl se pojavi pri dvostranskem zlatem obesku za ključe, dvostranskem zlatem z zelenim obesku za ključe in dvostranskem jeklenem obesku za ključe z zelenim."
+        },
+        {
+          "question": "Katere možnosti okrasa so na voljo poleg emajla?",
+          "answer": "Izbrane različice imajo barvne diamante, bele diamante, motiv lune, biserno belo, zlato bleščilo, srebrno bleščilo ali biserno izvedbo Juda."
+        }
+      ],
+      "pricing": {
+        "price": "0.20",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.20",
+          "max": "0.38"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Komplet katoliških obeskov za ključe in obeskov iz zlitine",
+          "description": "Linija katoliških kovinskih dodatkov iz zlitine, ki zajema obeske za ključe in obeske. Kupci izbirajo med dvostranskimi in enostranskimi oblikami v zlati ali jekleni izvedbi, z različicami brez okrasa, zelenim emajlom, barvnimi diamanti, belimi diamanti, luno in biserom.",
+          "sku": "ALI-AAHATG7BAOVioqqEY6eldGy3",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hca32f620c04d41169841eb9671d1c4b5v.jpg",
+            "https://sc04.alicdn.com/kf/Had3a2cb5ff9841cca4453f1e176f6fc7m.jpg",
+            "https://sc04.alicdn.com/kf/Hdd6857503eff4605a005872601278217n.jpg",
+            "https://sc04.alicdn.com/kf/H7d563143f2bd4258abedd81c5b7fbf38N.jpg",
+            "https://sc04.alicdn.com/kf/H8b73b3b1c8864a04ab56deab8578e0f0O.jpg",
+            "https://sc04.alicdn.com/kf/H57079176fc064b56a0d5d272631dbafab.jpg"
+          ],
+          "category": " obeski za ključe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Kovinska zlitina z emajlom in dodatki v slogu diamantov pri izbranih različicah"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Obesek za ključe ali obesek"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stranskost izdelave",
+              "value": "Dvostranska ali enostranska"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Izvedba",
+              "value": "Zlati odtenek, svetlo zlata ali jeklena barva"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barva emajla",
+              "value": "Zelena pri izbranih različicah"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Možnosti okrasa",
+              "value": "Barvni diamanti, beli diamanti, motiv lune, biserno bela, zlato bleščilo, srebrno bleščilo, biserni Juda"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.20",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.20",
+              "maxPrice": "0.38",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Katere izvedbe in oblike so navedene v tem naboru?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nabor navaja zlati odtenek, svetlo zlato in jekleno barvo. Nekatere različice so obeski za ključe, vključno z več dvostranskimi in enostranskimi možnostmi, druge, kot sta dvostranski jeklene barve z zelenim in različice z barvnimi diamanti, pa so obeski."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Na kaj se nanaša zelena v imenih različic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zelene različice so slogi z emajlnim vložkom. Zeleni emajl se pojavi pri dvostranskem zlatem obesku za ključe, dvostranskem zlatem z zelenim obesku za ključe in dvostranskem jeklenem obesku za ključe z zelenim."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere možnosti okrasa so na voljo poleg emajla?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Izbrane različice imajo barvne diamante, bele diamante, motiv lune, biserno belo, zlato bleščilo, srebrno bleščilo ali biserno izvedbo Juda."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "5a38f5624fe554717a180b7f362b11807513471c3144898c801d079f68a551d1",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "5a38f5624fe554717a180b7f362b11807513471c3144898c801d079f68a551d1",
+            "contentHash": "5a38f5624fe554717a180b7f362b11807513471c3144898c801d079f68a551d1",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:00.673Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "5a38f5624fe554717a180b7f362b11807513471c3144898c801d079f68a551d1",
+            "contentHash": "ae2dafa888d7549409e75e5f60345f8ddc60758db6e93a7b083d13af4e96e709",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:06:38.705Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEKTG7BAOVioqqEY6eldTI6",
+      "sourceId": "AAEKTG7BAOVioqqEY6eldTI6",
+      "sourceFingerprint": "5e98854b5ff44ffb357e472025ae27e40d44be31b100509b09713227f57861d6",
+      "locale": "sl",
+      "slug": "zinc-alloy-rhinestone-pendant-charm-necklace-eldti6",
+      "title": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki",
+      "eyebrow": "modna ogrlica z obeskom iz cinkove zlitine s kristalčki",
+      "summary": "Ogrlica z obeskom, okrašenim s kristalčki, izdelana na osnovi iz cinkove zlitine, na voljo v zaključkih KC gold in steel. Vsak zaključek je na voljo kot ogrlica ali kot samostojen obesek, tako da lahko kupci naročijo dokončane kose in posamezne obeske iz iste linije dizajna.",
+      "description": "Vidna konstrukcija je obesek iz cinkove zlitine, okrašen s kristalčki, priložena pa je ogrlica v enakem zaključku. Kupci izbirajo med zaključkoma KC gold in steel, vsak zaključek pa je na voljo kot celotna ogrlica ali kot samostojen obesek.\n\nTa dvodelna struktura različic ustreza mešanim naročilom. Trgovina lahko dokončane ogrlice namesti za razstavo skupaj s posameznimi obeski za stranke, ki že imajo verižico, ali obeske hrani kot nadomestne dele. Unisex slog ohranja dizajn odprt za širok krog strank namesto za eno samo spolno usmerjeno predstavitev.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Modna ogrlica",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAEKTG7BAOVioqqEY6eldTI6",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H020c51e740ea427fb8b9830e1092bcaaY.webp",
+      "imageAlt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H020c51e740ea427fb8b9830e1092bcaaY.webp",
+          "alt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc4ebeeacc3e0487992d349dcba9584795.webp",
+          "alt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H0bf959fab2894f6eb73b632ad4492a8df.webp",
+          "alt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hadc655728341408494efc941a9f3f7fet.webp",
+          "alt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H79c6e06f73fc4991947083fdef2ef56fM.webp",
+          "alt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hbc8b2052eb024714b6a636d3ac9f436eS.webp",
+          "alt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki – kc-gold-necklace",
+          "label": "kc-gold-necklace",
+          "sku": "ALI-AAEKTG7BAOVioqqEY6eldTI6-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H26a95ac47c814aefb4393e787416639a0.webp",
+          "alt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki – steel-pendant",
+          "label": "steel-pendant",
+          "sku": "ALI-AAEKTG7BAOVioqqEY6eldTI6-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1d361de5701d4e10b3cb1b3319dd67233.webp",
+          "alt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki – steel-necklace",
+          "label": "steel-necklace",
+          "sku": "ALI-AAEKTG7BAOVioqqEY6eldTI6-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H26c9ca03a7ec46c7845e7e240c027b8dg.webp",
+          "alt": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki – kc-gold-pendant",
+          "label": "kc-gold-pendant",
+          "sku": "ALI-AAEKTG7BAOVioqqEY6eldTI6-V--3"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Obesek iz cinkove zlitine s kristalčki",
+        "Dva zaključka: KC gold in steel",
+        "Vsak zaključek na voljo kot ogrlica ali kot samostojen obesek",
+        "Unisex dizajn",
+        "Uvrščeno med modne ogrlice"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cinkova zlitina s kristalčki"
+        },
+        {
+          "name": "Zaključki",
+          "value": "KC gold; steel"
+        },
+        {
+          "name": "Različice",
+          "value": "ogrlica KC gold; obesek KC gold; ogrlica steel; obesek steel"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Modna ogrlica"
+        },
+        {
+          "name": "Slog",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Razstava dokončanih ogrlic za prodajo na drobno",
+        "Zaloga samostojnih obeskov za kombiniranje z verižicami",
+        "Sestavljanje nakita za DIY",
+        "Dobava nadomestnih obeskov"
+      ],
+      "faq": [
+        {
+          "question": "V katerih zaključkih je na voljo ta ogrlica z obeskom?",
+          "answer": "Navedena sta dva zaključka: KC gold in steel. Vsak je na voljo kot dokončana ogrlica ali kot samostojen obesek."
+        },
+        {
+          "question": "Je obesek na voljo brez ogrlice?",
+          "answer": "Da. Različici samo z obeskom sta navedeni ločeno kot obesek KC gold in obesek steel, poleg obeh različic z ogrlico."
+        },
+        {
+          "question": "Iz česa je izdelan obesek?",
+          "answer": "Obesek je iz cinkove zlitine s kristalčki. Za verižico ali okove niso navedene nobene druge podrobnosti o materialu."
+        }
+      ],
+      "pricing": {
+        "price": "0.06",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.06",
+          "max": "0.17"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Modna ogrlica z obeskom iz cinkove zlitine s kristalčki",
+          "description": "Ogrlica z obeskom, okrašenim s kristalčki, izdelana na osnovi iz cinkove zlitine, na voljo v zaključkih KC gold in steel. Vsak zaključek je na voljo kot ogrlica ali kot samostojen obesek, tako da lahko kupci naročijo dokončane kose in posamezne obeske iz iste linije dizajna.",
+          "sku": "ALI-AAEKTG7BAOVioqqEY6eldTI6",
+          "image": [
+            "https://sc04.alicdn.com/kf/H020c51e740ea427fb8b9830e1092bcaaY.jpg",
+            "https://sc04.alicdn.com/kf/Hc4ebeeacc3e0487992d349dcba9584795.jpg",
+            "https://sc04.alicdn.com/kf/H0bf959fab2894f6eb73b632ad4492a8df.jpg",
+            "https://sc04.alicdn.com/kf/Hadc655728341408494efc941a9f3f7fet.jpg",
+            "https://sc04.alicdn.com/kf/H79c6e06f73fc4991947083fdef2ef56fM.jpg"
+          ],
+          "category": "Modna ogrlica",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cinkova zlitina s kristalčki"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Zaključki",
+              "value": "KC gold; steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "ogrlica KC gold; obesek KC gold; ogrlica steel; obesek steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Modna ogrlica"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.06",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.06",
+              "maxPrice": "0.17",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "V katerih zaključkih je na voljo ta ogrlica z obeskom?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedena sta dva zaključka: KC gold in steel. Vsak je na voljo kot dokončana ogrlica ali kot samostojen obesek."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je obesek na voljo brez ogrlice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Različici samo z obeskom sta navedeni ločeno kot obesek KC gold in obesek steel, poleg obeh različic z ogrlico."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Iz česa je izdelan obesek?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek je iz cinkove zlitine s kristalčki. Za verižico ali okove niso navedene nobene druge podrobnosti o materialu."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "dd95d9f79424c3c2e464146ceff29cfc1e25de6dc1c0c857824e5ba7394bfe46",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "dd95d9f79424c3c2e464146ceff29cfc1e25de6dc1c0c857824e5ba7394bfe46",
+            "contentHash": "dd95d9f79424c3c2e464146ceff29cfc1e25de6dc1c0c857824e5ba7394bfe46",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:09.965Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "dd95d9f79424c3c2e464146ceff29cfc1e25de6dc1c0c857824e5ba7394bfe46",
+            "contentHash": "5ccbb04e7422b4e02a9d08b215e59b043046bff743573bf73321e53a505334c1",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:06:45.001Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAESTG7BAOVioqqEY6elIetd",
+      "sourceId": "AAESTG7BAOVioqqEY6elIetd",
+      "sourceFingerprint": "4b0d84d5a30dbb5b8c2593bbcd4c8ae18602cbd8da589bc344c04a97bf6c1f7c",
+      "locale": "sl",
+      "slug": "colorful-square-wood-number-and-letter-beads-elietd",
+      "title": "Barvne kvadratne lesene perlice s številkami in črkami",
+      "eyebrow": "kvadratne lesene perlice s številkami in črkami za ročno izdelavo nakita",
+      "summary": "Kvadratne lesene perlice s potiskanimi barvnimi številkami in črkami, na voljo v velikostih 8 mm in 10 mm. Tri različice – mešanica abecede, samo črke in mešana površina – so primerne za nizanje zapestnic in izdelavo nakita.",
+      "description": "Kvadratne površine dajejo tem lesenim perlicam raven, ploščicam podoben profil, potiskane številke in črke pa so na barvni podlagi. Ker so površine ravne in ne zaobljene, so znaki jasno berljivi, ko so perlice nanizane druga ob drugi.\n\nPerlice so na voljo v velikostih 8 mm in 10 mm. Kupci izbirajo med tremi različicami: kvadratna barvna mešanica abecede, kvadratne barvne črke in kvadratna barvna mešana površina. Komplet je namenjen nizanju zapestnic in izdelavi nakita.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodatki",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAESTG7BAOVioqqEY6elIetd",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H9ede16f22afe46b98c4a642fe68b4119g.webp",
+      "imageAlt": "Barvne kvadratne lesene perlice s številkami in črkami",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9ede16f22afe46b98c4a642fe68b4119g.webp",
+          "alt": "Barvne kvadratne lesene perlice s številkami in črkami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8b30a7623e0340799085e174049955afC.webp",
+          "alt": "Barvne kvadratne lesene perlice s številkami in črkami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc6cd47a6cd6b489db76435461d4075d2m.webp",
+          "alt": "Barvne kvadratne lesene perlice s številkami in črkami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H48e1a860126a447f8dd8ee5ad71d740dI.webp",
+          "alt": "Barvne kvadratne lesene perlice s številkami in črkami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb284032f93bc4dcc81508b29e6c62798N.webp",
+          "alt": "Barvne kvadratne lesene perlice s številkami in črkami"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H979cd34fdce54092a03d1435b15351b1w.webp",
+          "alt": "Barvne kvadratne lesene perlice s številkami in črkami - kvadratne barvne črke",
+          "label": "kvadratne barvne črke",
+          "sku": "ALI-AAESTG7BAOVioqqEY6elIetd-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He72d5c39e1304dffb089b9aecbaa018be.webp",
+          "alt": "Barvne kvadratne lesene perlice s številkami in črkami - kvadratna barvna mešana površina",
+          "label": "kvadratna barvna mešana površina",
+          "sku": "ALI-AAESTG7BAOVioqqEY6elIetd-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H0ecd87f8e68f407483641f90bda4dea3f.webp",
+          "alt": "Barvne kvadratne lesene perlice s številkami in črkami - kvadratna barvna mešanica abecede",
+          "label": "kvadratna barvna mešanica abecede",
+          "sku": "ALI-AAESTG7BAOVioqqEY6elIetd-V--3"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Kvadratne lesene perlice z ravnimi potiskanimi površinami",
+        "Znaki s številkami in črkami v barvnih izvedbah",
+        "Na voljo v velikostih 8 mm in 10 mm",
+        "Tri različice: mešanica abecede, črke in mešana površina",
+        "Dobavljeno za ročno izdelavo zapestnic in nakita"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Les"
+        },
+        {
+          "name": "Oblika",
+          "value": "Kvadratna"
+        },
+        {
+          "name": "Velikosti",
+          "value": "8 mm in 10 mm"
+        },
+        {
+          "name": "Vrste znakov",
+          "value": "Številke in črke"
+        },
+        {
+          "name": "Različice",
+          "value": "Kvadratna barvna mešanica abecede; kvadratne barvne črke; kvadratna barvna mešana površina"
+        }
+      ],
+      "applications": [
+        "Nizanje zapestnic za ročno izdelavo",
+        "Izdelava nakita",
+        "Perlice z imeni in začetnicami po meri",
+        "Mešani ustvarjalni projekti s perlicami"
+      ],
+      "faq": [
+        {
+          "question": "V katerih velikostih so na voljo te kvadratne lesene perlice?",
+          "answer": "Kvadratne lesene perlice s številkami in črkami so na voljo v velikostih 8 mm in 10 mm."
+        },
+        {
+          "question": "Kakšna je razlika med tremi različicami?",
+          "answer": "Različice so kvadratna barvna mešanica abecede, kvadratne barvne črke in kvadratna barvna mešana površina. Mešanica abecede združuje črke in številke, različica s črkami je osredotočena na črke, različica z mešano površino pa je izbor."
+        },
+        {
+          "question": "Za kaj se uporabljajo te lesene perlice?",
+          "answer": "Namenjene so nizanju zapestnic za ročno izdelavo in izdelavi nakita, vključno s perlicami z imeni in začetnicami."
+        }
+      ],
+      "pricing": {
+        "price": "3.19",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "3.19",
+          "max": "9.29"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Barvne kvadratne lesene perlice s številkami in črkami",
+          "description": "Kvadratne lesene perlice s potiskanimi barvnimi številkami in črkami, na voljo v velikostih 8 mm in 10 mm. Tri različice – mešanica abecede, samo črke in mešana površina – so primerne za nizanje zapestnic in izdelavo nakita.",
+          "sku": "ALI-AAESTG7BAOVioqqEY6elIetd",
+          "image": [
+            "https://sc04.alicdn.com/kf/H9ede16f22afe46b98c4a642fe68b4119g.jpg",
+            "https://sc04.alicdn.com/kf/H8b30a7623e0340799085e174049955afC.jpg",
+            "https://sc04.alicdn.com/kf/Hc6cd47a6cd6b489db76435461d4075d2m.jpg",
+            "https://sc04.alicdn.com/kf/H48e1a860126a447f8dd8ee5ad71d740dI.jpg",
+            "https://sc04.alicdn.com/kf/Hb284032f93bc4dcc81508b29e6c62798N.jpg"
+          ],
+          "category": "Dodatki",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Kvadratna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Velikosti",
+              "value": "8 mm in 10 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrste znakov",
+              "value": "Številke in črke"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Kvadratna barvna mešanica abecede; kvadratne barvne črke; kvadratna barvna mešana površina"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "3.19",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "3.19",
+              "maxPrice": "9.29",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "V katerih velikostih so na voljo te kvadratne lesene perlice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kvadratne lesene perlice s številkami in črkami so na voljo v velikostih 8 mm in 10 mm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kakšna je razlika med tremi različicami?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Različice so kvadratna barvna mešanica abecede, kvadratne barvne črke in kvadratna barvna mešana površina. Mešanica abecede združuje črke in številke, različica s črkami je osredotočena na črke, različica z mešano površino pa je izbor."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Za kaj se uporabljajo te lesene perlice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Namenjene so nizanju zapestnic za ročno izdelavo in izdelavi nakita, vključno s perlicami z imeni in začetnicami."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "ce1c4a35ae5704cf55458cb7b272e505f8935926388d60a6b911c114b479bbd4",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "ce1c4a35ae5704cf55458cb7b272e505f8935926388d60a6b911c114b479bbd4",
+            "contentHash": "ce1c4a35ae5704cf55458cb7b272e505f8935926388d60a6b911c114b479bbd4",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:18.935Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "ce1c4a35ae5704cf55458cb7b272e505f8935926388d60a6b911c114b479bbd4",
+            "contentHash": "cdeafd0879d43f32bea6970d32b49c3b3a73d4b54adc3cedbadaecc7d79df45f",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:06:51.419Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGPTG7BAOVioqqEY6elIPTS",
+      "sourceId": "AAGPTG7BAOVioqqEY6elIPTS",
+      "sourceFingerprint": "ccfb7557de27bd6964801f9934ac7db9bbac031cafdacd67fa8bed58c2adf589",
+      "locale": "sl",
+      "slug": "16mm-wood-sports-ball-beads-for-diy-bracelets-elipts",
+      "title": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice",
+      "eyebrow": "Lesene kroglice v obliki športnih žog za izdelavo nakita",
+      "summary": "Te ohlapne okrogle kroglice so izdelane iz lesa in oblikovane kot športne žoge velikosti 16 mm, kar ustreza nizanju zapestnic in drugim projektom izdelave nakita. Kupci lahko izbirajo med slogi košarke, nogometa, ragbija, tenisa, bele softball žoge ali rumene softball žoge ter jih nato kombinirajo z vrvico, elastiko ali kovinskimi dodatki.",
+      "description": "Les tem kroglicam v obliki športnih žog daje lahkotno, mat telo, ki dobro sprejema barvo in tiskane podrobnosti, zaradi česar slogi košarke, nogometa, ragbija in softballa dobijo svoje oznake. Vsaka kroglica je okrogla s premerom 16 mm, zato sta luknja in zunanja oblika v celotni ponudbi enotni.\n\nKomplet zajema šest slogov: košarko, nogomet, ragbi, tenis, belo softball žogo in rumeno softball žogo. Ker je oblika žoge tisto, kar razlikuje različice, lahko mešano naročilo pokrije več športov v enem projektu zapestnice ali obeska za ključe. Kroglice so dobavljene ohlapne, pripravljene za nizanje in ne vnaprej sestavljene.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodatki",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAGPTG7BAOVioqqEY6elIPTS",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hb3a82d51c2a34f8fa93e7537aaffa181s.webp",
+      "imageAlt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb3a82d51c2a34f8fa93e7537aaffa181s.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd74aa13695d041bdbd462f96c684b12bD.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9dc9b1dc1f5748498058309f9bd333eaW.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H765d76ca80794c258e6cb445df02aba8c.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H99fd11a1798642ea9d783793c542132fu.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc946a8a619274212a634f2cc3c574aa0w.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice - white-softball-beads",
+          "label": "white-softball-beads",
+          "sku": "ALI-AAGPTG7BAOVioqqEY6elIPTS-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf98eb0ed00714ed282a701a8f623a02fR.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice - yellow-softball-beads",
+          "label": "yellow-softball-beads",
+          "sku": "ALI-AAGPTG7BAOVioqqEY6elIPTS-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He845dc4bb6544bf580e1036ce2b2dcaed.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice - basketball-beads",
+          "label": "basketball-beads",
+          "sku": "ALI-AAGPTG7BAOVioqqEY6elIPTS-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4307de3afff44ee38c3842a89ff18aaeC.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice - football-beads",
+          "label": "football-beads",
+          "sku": "ALI-AAGPTG7BAOVioqqEY6elIPTS-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1a8243d12d3845c7a4072f0a011451dc9.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice - rugby-beads",
+          "label": "rugby-beads",
+          "sku": "ALI-AAGPTG7BAOVioqqEY6elIPTS-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H43cd7b45231849289e8cd485f5baad70p.webp",
+          "alt": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice - tennis-ball",
+          "label": "tennis-ball",
+          "sku": "ALI-AAGPTG7BAOVioqqEY6elIPTS-V--2"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Izdelane iz lesa v okrogli obliki žoge",
+        "Velikost kroglice 16 mm",
+        "Šest različic: košarka, nogomet, ragbi, tenis, bela softball žoga in rumena softball žoga",
+        "Oznake športnih žog razlikujejo posamezno različico",
+        "Dobavljene kot ohlapne kroglice za izdelavo nakita"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Les"
+        },
+        {
+          "name": "Oblika",
+          "value": "Okrogla športna žoga"
+        },
+        {
+          "name": "Velikost",
+          "value": "16 mm"
+        },
+        {
+          "name": "Različice",
+          "value": "Košarka, nogomet, ragbi, tenis, bela softball žoga, rumena softball žoga"
+        },
+        {
+          "name": "Format",
+          "value": "Ohlapne kroglice"
+        }
+      ],
+      "applications": [
+        "DIY zapestnice",
+        "Izdelava nakita",
+        "Obeski za ključe s športno tematiko",
+        "Projekti nizanja z vrvico in elastiko"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala so te kroglice v obliki športnih žog?",
+          "answer": "Kroglice so lesene, izdelane v okrogli obliki športne žoge z oznakami, značilnimi za posamezno različico."
+        },
+        {
+          "question": "Kateri slogi športnih žog so na voljo?",
+          "answer": "Na voljo je šest različic: košarka, nogomet, ragbi, tenis, bela softball žoga in rumena softball žoga."
+        },
+        {
+          "question": "Kakšna je velikost kroglic?",
+          "answer": "Kroglice so okrogle s premerom 16 mm, kar ustreza nizanju zapestnic in podobnim projektom izdelave nakita."
+        }
+      ],
+      "pricing": {
+        "price": "0.05",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.03",
+          "max": "0.05"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "16 mm lesene kroglice v obliki športnih žog za DIY zapestnice",
+          "description": "Te ohlapne okrogle kroglice so izdelane iz lesa in oblikovane kot športne žoge velikosti 16 mm, kar ustreza nizanju zapestnic in drugim projektom izdelave nakita. Kupci lahko izbirajo med slogi košarke, nogometa, ragbija, tenisa, bele softball žoge ali rumene softball žoge ter jih nato kombinirajo z vrvico, elastiko ali kovinskimi dodatki.",
+          "sku": "ALI-AAGPTG7BAOVioqqEY6elIPTS",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb3a82d51c2a34f8fa93e7537aaffa181s.jpg",
+            "https://sc04.alicdn.com/kf/Hd74aa13695d041bdbd462f96c684b12bD.jpg",
+            "https://sc04.alicdn.com/kf/H9dc9b1dc1f5748498058309f9bd333eaW.jpg",
+            "https://sc04.alicdn.com/kf/H765d76ca80794c258e6cb445df02aba8c.jpg",
+            "https://sc04.alicdn.com/kf/H99fd11a1798642ea9d783793c542132fu.jpg"
+          ],
+          "category": "Dodatki",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Okrogla športna žoga"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Velikost",
+              "value": "16 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Košarka, nogomet, ragbi, tenis, bela softball žoga, rumena softball žoga"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Format",
+              "value": "Ohlapne kroglice"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.05",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.03",
+              "maxPrice": "0.05",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala so te kroglice v obliki športnih žog?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kroglice so lesene, izdelane v okrogli obliki športne žoge z oznakami, značilnimi za posamezno različico."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kateri slogi športnih žog so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Na voljo je šest različic: košarka, nogomet, ragbi, tenis, bela softball žoga in rumena softball žoga."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kakšna je velikost kroglic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kroglice so okrogle s premerom 16 mm, kar ustreza nizanju zapestnic in podobnim projektom izdelave nakita."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f8cefc051769be3fa6508aa428b082e35ff756792c490914bbdc81c0e015fbfb",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f8cefc051769be3fa6508aa428b082e35ff756792c490914bbdc81c0e015fbfb",
+            "contentHash": "f8cefc051769be3fa6508aa428b082e35ff756792c490914bbdc81c0e015fbfb",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:16.611Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "f8cefc051769be3fa6508aa428b082e35ff756792c490914bbdc81c0e015fbfb",
+            "contentHash": "c310b020d42dd14adb26fc02dcbf12091f725472cea07521c293ca1a9598251b",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:06:58.707Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAG-TG7BAOVioqqEY6elI5Pf",
+      "sourceId": "AAG-TG7BAOVioqqEY6elI5Pf",
+      "sourceFingerprint": "e243c7f9f0549848ac7231115154b34c48693592a3218131b55dd3b9b6b6f7e3",
+      "locale": "sl",
+      "slug": "plastic-pocket-prayer-cross-eli5pf",
+      "title": "Plastični žepni molitveni križ",
+      "eyebrow": "plastični žepni molitveni križ",
+      "summary": "Ta plastični žepni molitveni križ meri 4 x 6 cm v temni različici in je na voljo tudi v domoljubni različici. Kompaktna velikost ustreza žepom, torbicam in torbam. Križ je žepni predmet za pobožnost in ne križev križ, saj v podatkih o izdelku ni navedenega korpusa.",
+      "description": "Plastični žepni molitveni križ je na voljo v temni različici velikosti 4 x 6 cm, na seznamu pa je tudi domoljubna različica. Oba sta žepna križa, namenjena nošenju v torbi, torbici ali žepu.\n\nKer je izdelek opisan kot križ, ga ne smemo zamenjati s križevim križem; v podatkih o izdelku ni navedenega korpusa Kristusa. Ponudba vključuje le dve navedeni različici, zato pred naročilom preverite podrobnosti o zaključku in barvi.\n\nVeleprodajne količine, cene in embalaža v podatkih o izdelku niso navedene. Stopite v stik z nami glede vaših potreb po različici in količini.",
+      "catholicContext": "Preprost križ se razlikuje od križevega križa; ta izdelek je opisan kot križ in v podatkih o izdelku ni navedenega korpusa Kristusa.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG-TG7BAOVioqqEY6elI5Pf",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H186ec1490c7e4ae19a5db285fcaf062eW.webp",
+      "imageAlt": "Plastični žepni molitveni križ",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H186ec1490c7e4ae19a5db285fcaf062eW.webp",
+          "alt": "Plastični žepni molitveni križ"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9dbd950507d642fc9eae7b114c1772ebT.webp",
+          "alt": "Plastični žepni molitveni križ"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H073f0ec705c6414ab8c9f6fe0a21239c4.webp",
+          "alt": "Plastični žepni molitveni križ"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hde5d5a3896f9456397e086fa42ae2bb0a.webp",
+          "alt": "Plastični žepni molitveni križ"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H540e94c9f35d4cdd8f99285a6f64d764Q.webp",
+          "alt": "Plastični žepni molitveni križ"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf42476e41483468fa3e258dfd1cbea1bS.webp",
+          "alt": "Plastični žepni molitveni križ – 4-6cm-dark",
+          "label": "4-6cm-dark",
+          "sku": "ALI-AAG-TG7BAOVioqqEY6elI5Pf-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc6c33deade2843aeaccd478ba080c826G.webp",
+          "alt": "Plastični žepni molitveni križ – domoljubni",
+          "label": "domoljubni",
+          "sku": "ALI-AAG-TG7BAOVioqqEY6elI5Pf-V--2"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Plastična izdelava",
+        "Velikost 4 x 6 cm v temni različici",
+        "Na voljo v temni in domoljubni različici",
+        "Žepni križ za nošenje v torbi ali torbici",
+        "Preprost dizajn križa, ni opisan kot križev križ"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Plastika"
+        },
+        {
+          "name": "Velikost temne različice",
+          "value": "4 x 6 cm"
+        },
+        {
+          "name": "Različice",
+          "value": "Temna; domoljubna"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Križ (korpus ni naveden)"
+        }
+      ],
+      "applications": [
+        "Spominek za žep ali torbico",
+        "Dodatek za torbo",
+        "Majhno darilo za pobožnost"
+      ],
+      "faq": [
+        {
+          "question": "Kakšna je velikost plastičnega žepnega molitvenega križa?",
+          "answer": "Temna različica meri 4 x 6 cm. Za domoljubno različico mere niso navedene."
+        },
+        {
+          "question": "Katere različice so na voljo?",
+          "answer": "Na voljo sta dve različici: temna in domoljubna."
+        },
+        {
+          "question": "Ali je to križev križ?",
+          "answer": "Ne. Izdelek je opisan kot križ in v podatkih o izdelku ni navedeno, da je prisoten korpus Kristusa."
+        }
+      ],
+      "pricing": {
+        "price": "2.18",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.58",
+          "max": "2.18"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Plastični žepni molitveni križ",
+          "description": "Ta plastični žepni molitveni križ meri 4 x 6 cm v temni različici in je na voljo tudi v domoljubni različici. Kompaktna velikost ustreza žepom, torbicam in torbam. Križ je žepni predmet za pobožnost in ne križev križ, saj v podatkih o izdelku ni navedenega korpusa.",
+          "sku": "ALI-AAG-TG7BAOVioqqEY6elI5Pf",
+          "image": [
+            "https://sc04.alicdn.com/kf/H186ec1490c7e4ae19a5db285fcaf062eW.jpg",
+            "https://sc04.alicdn.com/kf/H9dbd950507d642fc9eae7b114c1772ebT.jpg",
+            "https://sc04.alicdn.com/kf/H073f0ec705c6414ab8c9f6fe0a21239c4.jpg",
+            "https://sc04.alicdn.com/kf/Hde5d5a3896f9456397e086fa42ae2bb0a.jpg",
+            "https://sc04.alicdn.com/kf/H540e94c9f35d4cdd8f99285a6f64d764Q.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Plastika"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Velikost temne različice",
+              "value": "4 x 6 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Temna; domoljubna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Križ (korpus ni naveden)"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.18",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.58",
+              "maxPrice": "2.18",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kakšna je velikost plastičnega žepnega molitvenega križa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Temna različica meri 4 x 6 cm. Za domoljubno različico mere niso navedene."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere različice so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Na voljo sta dve različici: temna in domoljubna."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je to križev križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne. Izdelek je opisan kot križ in v podatkih o izdelku ni navedeno, da je prisoten korpus Kristusa."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "023edc2fae9b2f25cd71a23174c8167a4295170b6ec929452dfc07f59c4c7f79",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "023edc2fae9b2f25cd71a23174c8167a4295170b6ec929452dfc07f59c4c7f79",
+            "contentHash": "023edc2fae9b2f25cd71a23174c8167a4295170b6ec929452dfc07f59c4c7f79",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:13.736Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "023edc2fae9b2f25cd71a23174c8167a4295170b6ec929452dfc07f59c4c7f79",
+            "contentHash": "acfa27c2b9b72ea9cccb288c575e72779aa3591a7c0cb65a00c193d2ffc82360",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:07:04.328Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH5TG7BAOVioqqEY6elIOpG",
+      "sourceId": "AAH5TG7BAOVioqqEY6elIOpG",
+      "sourceFingerprint": "7102e015aae72938b4dd50ad354dee7fa9123af4a3246153e7b803f3ffbf8304",
+      "locale": "sl",
+      "slug": "zinc-alloy-cross-and-prayer-hands-keychain-eliopg",
+      "title": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami",
+      "eyebrow": "Obesek za ključe iz cinkove zlitine s križem in obeskom sklenjenih rok",
+      "summary": "Obesek za ključe iz cinkove zlitine, ki združuje preprost križ in obesek sklenjenih rok. Kupci lahko obesek za ključe naročijo kot posamezni mešani model ali kot komplet z organza vrečko in etiketo, kar ustreza pultnim razstavam, majhnim darilom ob slovesu in spominskim pozornostim.",
+      "description": "Ta obesek za ključe združuje dve prepoznavni obliki iz cinkove zlitine: preprost križ in par sklenjenih rok. Križ je goli križ in ne razpelo, zato figura telesa ni del zasnove. Oba elementa sta skupaj na enem obesku za ključe, zato je format majhen in ga je enostavno razdeliti.\n\nNaročila so na voljo v dveh različicah. Ena je obesek za ključe sam kot posamezni mešani model; druga združuje obesek za ključe z organza vrečko in etiketo za predstavitev. Izdelek je kategoriziran kot obesek za ključe, zato je njegova vsakodnevna vloga držanje ključev ali pritrditev na torbo ali vrvico za ključe.",
+      "catholicContext": "Preprost križ je krščanski simbol, ki se razlikuje od razpela, ki prikazuje Kristusovo telo; motiv sklenjenih rok je pogosta pobožna podoba.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "83",
+          "name": " obeski za ključe",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAH5TG7BAOVioqqEY6elIOpG",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hb5c1411c53e44b23b3a3aee893b138f7Q.webp",
+      "imageAlt": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb5c1411c53e44b23b3a3aee893b138f7Q.webp",
+          "alt": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd47f8f3200e6418881ae2017e9098f4c4.webp",
+          "alt": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H322c81aa412c44c782b7f4786d53faeaE.webp",
+          "alt": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H319e9541a24f459593b97f32840bc5b0j.webp",
+          "alt": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7f6c7135da7b465888dd8ac26a1aab21P.webp",
+          "alt": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hbb2bb54c981842cc9d7028f9e2d56088r.webp",
+          "alt": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami – posamezni mešani model",
+          "label": "posamezni mešani model",
+          "sku": "ALI-AAH5TG7BAOVioqqEY6elIOpG-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha75a05c93ba949778a1ac4ae1724ff2cP.webp",
+          "alt": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami – komplet s posameznim obeskom za ključe, organza vrečko in etiketo",
+          "label": "komplet s posameznim obeskom za ključe, organza vrečko in etiketo",
+          "sku": "ALI-AAH5TG7BAOVioqqEY6elIOpG-V--2"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Izdelava iz cinkove zlitine",
+        "Zasnova preprostega križa brez figure telesa",
+        "Obesek sklenjenih rok na istem obesku za ključe",
+        "Na voljo kot posamezni mešani model",
+        "Na voljo kot komplet z organza vrečko in etiketo"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cinkova zlitina"
+        },
+        {
+          "name": "Zasnova",
+          "value": "Preprost križ s sklenjenimi rokami"
+        },
+        {
+          "name": "Različica",
+          "value": "Posamezni mešani model"
+        },
+        {
+          "name": "Različica",
+          "value": "Komplet s posameznim obeskom za ključe, organza vrečko in etiketo"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Obeski za ključe"
+        }
+      ],
+      "applications": [
+        "Vsakodnevno držanje ključev",
+        "Pritrditev na torbo ali vrvico za ključe",
+        "Majhno darilo ob slovesu ali spominska pozornost",
+        "Predstavljena pozornost s kompletom z organza vrečko in etiketo"
+      ],
+      "faq": [
+        {
+          "question": "Kaj vsebuje različica kompleta?",
+          "answer": "Različica kompleta vsebuje en obesek za ključe, organza vrečko in etiketo. Druga različica je posamezni mešani model, ki je obesek za ključe sam."
+        },
+        {
+          "question": "Ali je križ razpelo?",
+          "answer": "Ne. Izdelek je opisan kot obesek za ključe s križem in figura telesa ni del navedene zasnove."
+        },
+        {
+          "question": "Iz katerega materiala je obesek za ključe?",
+          "answer": "Obesek za ključe je iz cinkove zlitine."
+        }
+      ],
+      "pricing": {
+        "price": "0.53",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.53",
+          "max": "0.74"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Rožnovenski obesek za ključe iz cinkove zlitine s križem in sklenjenimi rokami",
+          "description": "Obesek za ključe iz cinkove zlitine, ki združuje preprost križ in obesek sklenjenih rok. Kupci lahko obesek za ključe naročijo kot posamezni mešani model ali kot komplet z organza vrečko in etiketo, kar ustreza pultnim razstavam, majhnim darilom ob slovesu in spominskim pozornostim.",
+          "sku": "ALI-AAH5TG7BAOVioqqEY6elIOpG",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb5c1411c53e44b23b3a3aee893b138f7Q.jpg",
+            "https://sc04.alicdn.com/kf/Hd47f8f3200e6418881ae2017e9098f4c4.jpg",
+            "https://sc04.alicdn.com/kf/H322c81aa412c44c782b7f4786d53faeaE.jpg",
+            "https://sc04.alicdn.com/kf/H319e9541a24f459593b97f32840bc5b0j.jpg",
+            "https://sc04.alicdn.com/kf/H7f6c7135da7b465888dd8ac26a1aab21P.jpg"
+          ],
+          "category": " obeski za ključe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Zasnova",
+              "value": "Preprost križ s sklenjenimi rokami"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različica",
+              "value": "Posamezni mešani model"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različica",
+              "value": "Komplet s posameznim obeskom za ključe, organza vrečko in etiketo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Obeski za ključe"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.53",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.53",
+              "maxPrice": "0.74",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kaj vsebuje različica kompleta?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Različica kompleta vsebuje en obesek za ključe, organza vrečko in etiketo. Druga različica je posamezni mešani model, ki je obesek za ključe sam."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je križ razpelo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne. Izdelek je opisan kot obesek za ključe s križem in figura telesa ni del navedene zasnove."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je obesek za ključe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek za ključe je iz cinkove zlitine."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "82c835077c5d30af4f513ebd50d97ca54f63e5afb9450b858466981805bd2a95",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "82c835077c5d30af4f513ebd50d97ca54f63e5afb9450b858466981805bd2a95",
+            "contentHash": "82c835077c5d30af4f513ebd50d97ca54f63e5afb9450b858466981805bd2a95",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:17.737Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "82c835077c5d30af4f513ebd50d97ca54f63e5afb9450b858466981805bd2a95",
+            "contentHash": "6bf692ba1d4754aeaab8aa24353603682eead2fcdb2b3706f1cea1c9cdbe773c",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:07:11.338Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFsTG7BAOVioqqEY6elA3FP",
+      "sourceId": "AAFsTG7BAOVioqqEY6elA3FP",
+      "sourceFingerprint": "8d737dcd7c8b76bfdd08dae9b59b5495791a9802abff59cd090c1e94eaab0625",
+      "locale": "sl",
+      "slug": "wholesale-zinc-alloy-pendant-necklace-jewelry-accessory-retro-hi-ela3fp",
+      "title": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip",
+      "eyebrow": "Modna ogrlica",
+      "summary": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip hop trendi unisex",
+      "description": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip hop trendi unisex",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Modna ogrlica",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H94b26a47a1d344a398732cb5045b344bV.webp",
+      "imageAlt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H94b26a47a1d344a398732cb5045b344bV.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8e5618b72977408483908044b1bfbc60z.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H03ed25f3d8604c5a9dec18b6521bd82bZ.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcb6c47b8a99248848592413e0b9337e8y.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He1174cd1069c46ae89df84bf8a5ab6bfs.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H23d609c6c0eb4e7a8b2444130b86d702v.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H557978f355934573ba73223698c49283X.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - gold-blue",
+          "label": "gold-blue",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H788e4dab8bc34f0ca9031dd74063d3deC.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - gold-red",
+          "label": "gold-red",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3d9e84a65dc54ef59f102896089c7b31S.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - steel-blue",
+          "label": "steel-blue",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha1a166b458cb4357b63fd6ae6af940e4O.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - steel-red",
+          "label": "steel-red",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H74dfb9ddc2334603abd325f8f24f515fR.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - gold-blue-a",
+          "label": "gold-blue-a",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Had1cd1be90494319a5ceee4391aa0ad3i.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - gold-red-a",
+          "label": "gold-red-a",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcb6847a206e141a992902912d46caf086.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - steel-blue-a",
+          "label": "steel-blue-a",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hefd42d1691ee42bb8b895691233aaf71H.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - steel-red-a",
+          "label": "steel-red-a",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H77edece3716e46a4bd481102fb4f5d37T.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-h",
+          "label": "silver-h",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H819a056408474b428bb9ea31dbb3b982q.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-g-1",
+          "label": "silver-g-1",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He41e0992f99943818af94fca06d8f767j.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - gold",
+          "label": "gold",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H21024fc6e0bd4cc7ae740a7369326ca7S.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-h-1",
+          "label": "silver-h-1",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha574fdd7f1ec4ea79ee6a27405a2be5f8.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - black",
+          "label": "black",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V-3327837"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H234805112d6f4ec2aa7181a6e545efa3h.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - gold-1",
+          "label": "gold-1",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1d1c4309f9fe435b844c939d30b8438d7.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver",
+          "label": "silver",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V-3460547"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3be1058094284dd592a7fdd2492a0ed49.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - black-1",
+          "label": "black-1",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H231b6ca7072846eea48cbfb7a0c7379a2.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-c-1",
+          "label": "silver-c-1",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha3cc29b8dcfd451fa588dd491cc4ad2e5.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-c",
+          "label": "silver-c",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2ea6823f5eb142139d8b5d560e185d62s.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-e",
+          "label": "silver-e",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd6af16abedb3458e891a326e16a2f6e1C.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-d-1",
+          "label": "silver-d-1",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3087d622e7944c94b27b35db380596abT.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-f",
+          "label": "silver-f",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hbe7354bf2b6944f8aff64a249227c5d6a.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-e-1",
+          "label": "silver-e-1",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf06a5e940c5240e49f333f9f7a65d5b8q.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-g",
+          "label": "silver-g",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H03a137702cc04661b604d34debb55cfbM.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-f-1",
+          "label": "silver-f-1",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H60c5e360b7df49cd81214abd0b16f5000.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-2",
+          "label": "silver-2",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--31"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc376c28626e04489baf678fa0e833babb.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-1",
+          "label": "silver-1",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--30"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5ba0e9c33ad54f2093034ba875f9a6e5e.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-5",
+          "label": "silver-5",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--33"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H373af3662baa43a1afe163c2e9185179J.webp",
+          "alt": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip - silver-3",
+          "label": "silver-3",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP-V--32"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Različica: Black-1, Gold + blue a, Gold + red, Gold + red a, Gold blue, Gold-1, Silver c, Silver c-1, Silver d-1, Silver e, Silver e-1, Silver f, Silver f-1, Silver g, Silver g-1, Silver h, Silver h-1, Silver-1, Silver-2, Silver-3, Silver-5, Steel + Blue, Steel + Blue A, Steel + Red, Steel + Red A, Black, Gold, Silver"
+      ],
+      "specifications": [
+        {
+          "name": "Različica",
+          "value": "Black-1, Gold + blue a, Gold + red, Gold + red a, Gold blue, Gold-1, Silver c, Silver c-1, Silver d-1, Silver e, Silver e-1, Silver f, Silver f-1, Silver g, Silver g-1, Silver h, Silver h-1, Silver-1, Silver-2, Silver-3, Silver-5, Steel + Blue, Steel + Blue A, Steel + Red, Steel + Red A, Black, Gold, Silver"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "0.17",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.17",
+          "max": "0.63"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip",
+          "description": "Veleprodaja ogrlica z obeskom iz cinkove zlitine, nakitni dodatek, retro hip hop trendi unisex",
+          "sku": "ALI-AAFsTG7BAOVioqqEY6elA3FP",
+          "image": [
+            "https://sc04.alicdn.com/kf/H94b26a47a1d344a398732cb5045b344bV.png",
+            "https://sc04.alicdn.com/kf/H8e5618b72977408483908044b1bfbc60z.png",
+            "https://sc04.alicdn.com/kf/H03ed25f3d8604c5a9dec18b6521bd82bZ.jpg",
+            "https://sc04.alicdn.com/kf/Hcb6c47b8a99248848592413e0b9337e8y.jpg",
+            "https://sc04.alicdn.com/kf/He1174cd1069c46ae89df84bf8a5ab6bfs.jpg",
+            "https://sc04.alicdn.com/kf/H23d609c6c0eb4e7a8b2444130b86d702v.jpg"
+          ],
+          "category": "Modna ogrlica",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Različica",
+              "value": "Black-1, Gold + blue a, Gold + red, Gold + red a, Gold blue, Gold-1, Silver c, Silver c-1, Silver d-1, Silver e, Silver e-1, Silver f, Silver f-1, Silver g, Silver g-1, Silver h, Silver h-1, Silver-1, Silver-2, Silver-3, Silver-5, Steel + Blue, Steel + Blue A, Steel + Red, Steel + Red A, Black, Gold, Silver"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.17",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.17",
+              "maxPrice": "0.63",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3a39eaf2fbf026e16e6ef9380278f8be68c51e5b77f610ac51f4fb560b3897bb",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3a39eaf2fbf026e16e6ef9380278f8be68c51e5b77f610ac51f4fb560b3897bb",
+            "contentHash": "3a39eaf2fbf026e16e6ef9380278f8be68c51e5b77f610ac51f4fb560b3897bb",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:45.353Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "3a39eaf2fbf026e16e6ef9380278f8be68c51e5b77f610ac51f4fb560b3897bb",
+            "contentHash": "8c320744d7baec5e1c75371eac3183ba4513efaf3dc8b88ae121fdc4b210bb16",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:07:17.053Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAE2TG7BAOVioqqEY6elAElE",
+      "sourceId": "AAE2TG7BAOVioqqEY6elAElE",
+      "sourceFingerprint": "28549f099c55ce97e725e91296538c239e2c8ad7d904f5739199bfd8bea16f12",
+      "locale": "sl",
+      "slug": "zinc-alloy-keychain-pendant-25-mm-or-30-mm-elaele",
+      "title": "Obesek za ključe iz cinkove zlitine, 25 mm ali 30 mm",
+      "eyebrow": "Dodatek – obesek za ključe iz cinkove zlitine v velikostih 25 mm in 30 mm",
+      "summary": "Preprost obesek za ključe iz cinkove zlitine, na voljo v dveh velikostih: 25 mm in 30 mm. Obesek je sestavni del za sestavljanje obročkov za ključe in ne dokončan okrasni obesek. Kupci, ki izbirajo med različicama, primerjajo le velikost, saj sta navedena material in oblika enaka.",
+      "description": "Ta dodatek za ključe je obesek iz cinkove zlitine, na voljo v različici 25 mm in različici 30 mm. Obe sta navedeni pod istim izdelkom, zato se izbira med njima nanaša na premer obeska in ne na spremembo kovine.\n\nKer se obesek prodaja samostojno, je primeren za kupce, ki obročke, verižice ali navojne obročke nabavljajo ločeno in želijo v sestav dodati kovinski obesek. Cinkova zlitina zagotavlja, da je sestavni del iz lite osnovne kovine in ne iz plemenite kovine. V podatkih o izdelku niso navedeni zaključna obdelava, prevleka ali način pritrditve, zato te podrobnosti pred odločitvijo o programu preverite na vzorcu.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "83",
+          "name": " obeski za ključe",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAE2TG7BAOVioqqEY6elAElE",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H74851d555c514a42bf5a1bf5df3c04b1Q.webp",
+      "imageAlt": "Obesek za ključe iz cinkove zlitine, 25 mm ali 30 mm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H74851d555c514a42bf5a1bf5df3c04b1Q.webp",
+          "alt": "Obesek za ključe iz cinkove zlitine, 25 mm ali 30 mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4ee8929c94324f6398b682bc9caac6940.webp",
+          "alt": "Obesek za ključe iz cinkove zlitine, 25 mm ali 30 mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H207ab798cdd6496ebc79f360fd1b2a98j.webp",
+          "alt": "Obesek za ključe iz cinkove zlitine, 25 mm ali 30 mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb139289f05db4820a30a5eb8816714cdm.webp",
+          "alt": "Obesek za ključe iz cinkove zlitine, 25 mm ali 30 mm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H82304cb80fb74ca184a3a5654d4ac598d.webp",
+          "alt": "Obesek za ključe iz cinkove zlitine, 25 mm ali 30 mm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H74851d555c514a42bf5a1bf5df3c04b1Q.webp",
+          "alt": "Obesek za ključe iz cinkove zlitine, 25 mm ali 30 mm – obesek 30 mm",
+          "label": "30mm-pendant",
+          "sku": "ALI-AAE2TG7BAOVioqqEY6elAElE-V--2"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Iz cinkove zlitine",
+        "Dva premera obeska: 25 mm in 30 mm",
+        "Prodaja kot sestavni del dodatka za ključe",
+        "Dobava prek neposrednih veleprodajnih kanalov iz tovarne",
+        "Velikost je edina navedena razlika med različicama"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cinkova zlitina"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Dodatek – obesek za ključe"
+        },
+        {
+          "name": "Različica",
+          "value": "25MM-Pendant"
+        },
+        {
+          "name": "Različica",
+          "value": "30MM-Pendant"
+        },
+        {
+          "name": "Premer obeska",
+          "value": "25 mm ali 30 mm"
+        }
+      ],
+      "applications": [
+        "Sestavljanje obročkov za ključe",
+        "Kovinski dodatki za okraske na torbicah ali prtljagi",
+        "Maloprodajni programi ključev",
+        "Dobava sestavnih delov za ročna dela in dodatke"
+      ],
+      "faq": [
+        {
+          "question": "Kakšna je razlika med obeskoma 25 mm in 30 mm?",
+          "answer": "Navedena razlika je velikost obeska: ena različica meri 25 mm, druga pa 30 mm. Oba sta opisana kot obeska za ključe iz cinkove zlitine, v podatkih o izdelku pa ni navedenih drugih razlik."
+        },
+        {
+          "question": "Ali je obroček za ključe priložen z obročkom ali verižico?",
+          "answer": "Podatki o izdelku ga opredeljujejo kot dodatek – obesek iz cinkove zlitine. Ne potrjujejo, ali so priloženi obroček, verižica ali spojka, zato to pred naročilom preverite pri nas."
+        },
+        {
+          "question": "Ali je za cinkovo zlitino določena zaključna obdelava ali prevleka?",
+          "answer": "Za nobeno velikost nista navedeni zaključna obdelava ali prevleka. Razpoložljivi podatki zajemajo le material in premer, zato zahtevajte aktualne podrobnosti o zaključni obdelavi, če je videz površine pomemben za vašo ponudbo."
+        }
+      ],
+      "pricing": {
+        "price": "0.73",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.73",
+          "max": "0.92"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Obesek za ključe iz cinkove zlitine, 25 mm ali 30 mm",
+          "description": "Preprost obesek za ključe iz cinkove zlitine, na voljo v dveh velikostih: 25 mm in 30 mm. Obesek je sestavni del za sestavljanje obročkov za ključe in ne dokončan okrasni obesek. Kupci, ki izbirajo med različicama, primerjajo le velikost, saj sta navedena material in oblika enaka.",
+          "sku": "ALI-AAE2TG7BAOVioqqEY6elAElE",
+          "image": [
+            "https://sc04.alicdn.com/kf/H74851d555c514a42bf5a1bf5df3c04b1Q.jpg",
+            "https://sc04.alicdn.com/kf/H4ee8929c94324f6398b682bc9caac6940.jpg",
+            "https://sc04.alicdn.com/kf/H207ab798cdd6496ebc79f360fd1b2a98j.png",
+            "https://sc04.alicdn.com/kf/Hb139289f05db4820a30a5eb8816714cdm.jpg",
+            "https://sc04.alicdn.com/kf/H82304cb80fb74ca184a3a5654d4ac598d.jpg"
+          ],
+          "category": " obeski za ključe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Dodatek – obesek za ključe"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različica",
+              "value": "25MM-Pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različica",
+              "value": "30MM-Pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Premer obeska",
+              "value": "25 mm ali 30 mm"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.73",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.73",
+              "maxPrice": "0.92",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kakšna je razlika med obeskoma 25 mm in 30 mm?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedena razlika je velikost obeska: ena različica meri 25 mm, druga pa 30 mm. Oba sta opisana kot obeska za ključe iz cinkove zlitine, v podatkih o izdelku pa ni navedenih drugih razlik."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je obroček za ključe priložen z obročkom ali verižico?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Podatki o izdelku ga opredeljujejo kot dodatek – obesek iz cinkove zlitine. Ne potrjujejo, ali so priloženi obroček, verižica ali spojka, zato to pred naročilom preverite pri nas."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je za cinkovo zlitino določena zaključna obdelava ali prevleka?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Za nobeno velikost nista navedeni zaključna obdelava ali prevleka. Razpoložljivi podatki zajemajo le material in premer, zato zahtevajte aktualne podrobnosti o zaključni obdelavi, če je videz površine pomemben za vašo ponudbo."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f31c3f19cdef5cb9e7fb0d31e2a6816d1ccf07be4edc5c99478e3bc3003a559b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f31c3f19cdef5cb9e7fb0d31e2a6816d1ccf07be4edc5c99478e3bc3003a559b",
+            "contentHash": "f31c3f19cdef5cb9e7fb0d31e2a6816d1ccf07be4edc5c99478e3bc3003a559b",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:22.211Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "f31c3f19cdef5cb9e7fb0d31e2a6816d1ccf07be4edc5c99478e3bc3003a559b",
+            "contentHash": "5d6f6da5699668a9f675e202b3d8d1b400eeee278404dec78ffac39affbb3eb8",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:07:24.498Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEVTG7BAOVioqqEY6elAgtf",
+      "sourceId": "AAEVTG7BAOVioqqEY6elAgtf",
+      "sourceFingerprint": "c89f9daef287064e1dcd806ff08e8b88efb43ae1ca9061ec2a20e2d43ee46a2e",
+      "locale": "sl",
+      "slug": "wholesale-zinc-alloy-angel-keychain-religious-fashion-accessory-elagtf",
+      "title": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek",
+      "eyebrow": "Obeski za ključe",
+      "summary": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek ročno izdelano darilo",
+      "description": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek ročno izdelano darilo",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "83",
+          "name": " obeski za ključe",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAEVTG7BAOVioqqEY6elAgtf",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/He4172fcc14484401b2db8401569c1c79L.webp",
+      "imageAlt": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He4172fcc14484401b2db8401569c1c79L.webp",
+          "alt": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1fc36d0cbbd8410aa4afd3088d335066s.webp",
+          "alt": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4c2ec4bfc9404aedb4f6f34a175cde22G.webp",
+          "alt": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H56d0729e1477401a835cf9e848cb0421f.webp",
+          "alt": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H61b13747943048338b37738d3693f29eE.webp",
+          "alt": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#9a6b63",
+      "features": [
+        "Slog: RELIGION",
+        "Material: cinkova zlitina",
+        "Značilnost: ročno izdelano",
+        "Oblika: nepravilna",
+        "Vrsta kovine: cinkova zlitina",
+        "Uporaba: valentinovo",
+        "Tisk: visoki tisk",
+        "Kraj izvora: CN;ZHE"
+      ],
+      "specifications": [
+        {
+          "name": "Slog",
+          "value": "RELIGION"
+        },
+        {
+          "name": "Material",
+          "value": "cinkova zlitina"
+        },
+        {
+          "name": "Značilnost",
+          "value": "ročno izdelano"
+        },
+        {
+          "name": "Oblika",
+          "value": "nepravilna"
+        },
+        {
+          "name": "Vrsta kovine",
+          "value": "cinkova zlitina"
+        },
+        {
+          "name": "Uporaba",
+          "value": "valentinovo"
+        },
+        {
+          "name": "Tisk",
+          "value": "visoki tisk"
+        },
+        {
+          "name": "Kraj izvora",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "cinkova zlitina"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "1.05",
+        "regularPrice": "1.05",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.76",
+          "max": "1.05"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek",
+          "description": "Veleprodaja cinkove zlitine obesek za ključe angel verski modni dodatek ročno izdelano darilo",
+          "sku": "ALI-AAEVTG7BAOVioqqEY6elAgtf",
+          "image": [
+            "https://sc04.alicdn.com/kf/He4172fcc14484401b2db8401569c1c79L.jpg",
+            "https://sc04.alicdn.com/kf/H1fc36d0cbbd8410aa4afd3088d335066s.jpg",
+            "https://sc04.alicdn.com/kf/H4c2ec4bfc9404aedb4f6f34a175cde22G.jpg",
+            "https://sc04.alicdn.com/kf/H56d0729e1477401a835cf9e848cb0421f.jpg",
+            "https://sc04.alicdn.com/kf/H61b13747943048338b37738d3693f29eE.jpg"
+          ],
+          "category": " obeski za ključe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "RELIGION"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Značilnost",
+              "value": "ročno izdelano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "nepravilna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta kovine",
+              "value": "cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Uporaba",
+              "value": "valentinovo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tisk",
+              "value": "visoki tisk"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kraj izvora",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "cinkova zlitina"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.05",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.76",
+              "maxPrice": "1.05",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "134aa2ec80090dc5b2242612563088ffa55faf5b4b432b21b42bfdea17079da4",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "134aa2ec80090dc5b2242612563088ffa55faf5b4b432b21b42bfdea17079da4",
+            "contentHash": "134aa2ec80090dc5b2242612563088ffa55faf5b4b432b21b42bfdea17079da4",
+            "attempts": 0,
+            "updatedAt": "2026-10-23T18:00:46.150Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "134aa2ec80090dc5b2242612563088ffa55faf5b4b432b21b42bfdea17079da4",
+            "contentHash": "0dd1788cd045ef183593cadb355e69022fe565d7c2f8c8c1bbec5969bcfe45b9",
+            "attempts": 1,
+            "updatedAt": "2026-10-23T18:07:27.234Z",
             "model": "deepseek-v4-flash"
           }
         }
