@@ -21,7 +21,7 @@ on:
       - .github/workflows/cloudflare-deploy.yml
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: cloudflare-production
@@ -83,6 +83,35 @@ jobs:
           OUOOO_SESSION_KV_ID: ${{ secrets.CLOUDFLARE_SESSION_KV_ID }}
           OUOOO_MANAGE_ROUTES: '0'
         run: npm run deploy:locales
+      # The deploy translates new page copy in the runner. Without committing
+      # the result back, every later deploy re-translates the same strings and
+      # pays for them again (the committed files had not changed since August).
+      # GITHUB_TOKEN pushes do not trigger workflows, and [skip ci] is a second
+      # guard so a translation-only commit never starts another full build.
+      - name: Persist localized site copy
+        shell: bash
+        run: |
+          if [ -z "$(git status --porcelain src/data/i18n/*/site-copy.json)" ]; then
+            echo "No site-copy translation changes to persist."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/i18n/*/site-copy.json
+          git commit -m "Persist localized site copy [skip ci]"
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "Persisted site-copy translations."
+              exit 0
+            fi
+            echo "main advanced; rebasing before retry $attempt/5."
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; exit 1; }
+            sleep $((attempt * 5))
+          done
+          echo "Unable to persist site-copy translations." >&2
+          exit 1
+
       - name: Purge Cloudflare cache
         continue-on-error: true
         env:
