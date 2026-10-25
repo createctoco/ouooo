@@ -1,22 +1,22 @@
 {
   "schemaVersion": 3,
   "locale": "en",
-  "generatedAt": "2026-10-24T17:04:25.900Z",
+  "generatedAt": "2026-10-25T17:18:43.831Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAHLTG7BAOVioqqEY6eqwgvQ",
-      "AAF0TG7BAOVioqqEY6eqwBJ0",
-      "AAFTTG7BAOVioqqEY6eqwxpI",
-      "AAGlTG7BAOVioqqEY6eqwS2J",
-      "AAEbTG7BAOVioqqEY6eqwWNJ",
-      "AAHqTG7BAOVioqqEY6eqt-ee",
-      "AAHoTG7BAOVioqqEY6eqt1Sv",
-      "AAEOTG7BAOVioqqEY6eqt3az",
-      "AAFBTG7BAOVioqqEY6eqtCo1",
-      "AAGLTG7BAOVioqqEY6eqtfWz"
+      "AAEsTG7BAOVioqqEY6es7VM8",
+      "AAGmTG7BAOVioqqEY6es7duu",
+      "AAHvTG7BAOVioqqEY6eqtIcG",
+      "AAEUTG7BAOVioqqEY6eqtHHB",
+      "AAGyTG7BAOVioqqEY6eqtQPM",
+      "AAGsTG7BAOVioqqEY6eqtRG4",
+      "AAG2TG7BAOVioqqEY6eq44yZ",
+      "AAHDTG7BAOVioqqEY6eqYPq7",
+      "AAGOTG7BAOVioqqEY6eqYfyD",
+      "AAGwTG7BAOVioqqEY6eq4pGP"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -25,9 +25,9 @@
     ]
   },
   "enrichmentSummary": {
-    "generated": 9,
-    "reused": 987,
-    "source_fallback": 4
+    "generated": 10,
+    "reused": 997,
+    "source_fallback": 3
   },
   "products": [
     {
@@ -227505,6 +227505,2532 @@
             "contentHash": "e627ebe7e5b06f6d8ae64e3d7002975d2c3adc808949c30bd67b637ae3e21896",
             "attempts": 0,
             "updatedAt": "2026-10-24T17:04:06.200Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEsTG7BAOVioqqEY6es7VM8",
+      "sourceId": "AAEsTG7BAOVioqqEY6es7VM8",
+      "sourceFingerprint": "3eceea0460dfb825aceedaef3cdb8ac35ec507da3ae3050ee7a6639dafd5faab",
+      "locale": "en",
+      "slug": "double-sided-cross-and-virgin-mary-keychain-es7vm8",
+      "title": "Double-Sided Cross and Virgin Mary Keychain",
+      "eyebrow": "Double-sided zinc alloy cross and Virgin Mary charm keychain",
+      "summary": "A zinc alloy keychain built around a double-sided design: a cross on one side and a Virgin Mary charm. The alloy is cast and finished with embossed printing, and the keyring is made to be reused rather than treated as disposable.",
+      "description": "This keychain centers on a double-sided layout, with a cross and a Virgin Mary charm sharing one accessory. The body is cast zinc alloy, finished with embossed printing that gives the motif a raised surface rather than a flat print. A circular pattern shapes the overall profile. Buyers comparing religious keychains will note the two-sided format and the cast construction as the main distinctions. The alloy is described as durable and reusable, so the keyring is intended for everyday carrying rather than a single event.",
+      "catholicContext": "The keychain pairs a cross with a Virgin Mary charm, two common devotional motifs in Catholic religious articles; the cross here is not described as a crucifix.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "83",
+          "name": "Keychains",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAEsTG7BAOVioqqEY6es7VM8",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/Hd7e4c43e7cf946ea8cadff58dce6e9a6H.webp",
+      "imageAlt": "Double-Sided Cross and Virgin Mary Keychain",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd7e4c43e7cf946ea8cadff58dce6e9a6H.webp",
+          "alt": "Double-Sided Cross and Virgin Mary Keychain"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc20c5a656004414795125f7c827c803dj.webp",
+          "alt": "Double-Sided Cross and Virgin Mary Keychain"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H56b2f72c1ce546ba9e49240405ab04e5k.webp",
+          "alt": "Double-Sided Cross and Virgin Mary Keychain"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7cc68f8d59d7435bbb8e84f8f4b6d806z.webp",
+          "alt": "Double-Sided Cross and Virgin Mary Keychain"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6f7c72",
+      "features": [
+        "Double-sided design with a cross on one side and a Virgin Mary charm",
+        "Cast zinc alloy body",
+        "Embossed printing on the surface",
+        "Circular pattern profile",
+        "Described by the maker as durable and reusable"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Zinc alloy"
+        },
+        {
+          "name": "Technique",
+          "value": "Cast"
+        },
+        {
+          "name": "Printing",
+          "value": "Embossed printing"
+        },
+        {
+          "name": "Pattern",
+          "value": "Circle"
+        },
+        {
+          "name": "Design",
+          "value": "Double-sided; cross and Virgin Mary charm"
+        },
+        {
+          "name": "Brand Name",
+          "value": "OUOOO"
+        },
+        {
+          "name": "Place of Origin",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Category",
+          "value": "Keychains"
+        }
+      ],
+      "applications": [
+        "Everyday key organization",
+        "Religious gift giving",
+        "Retail keychain assortment",
+        "Personal bag or lanyard accessory"
+      ],
+      "faq": [
+        {
+          "question": "Is the cross on this keychain a crucifix?",
+          "answer": "No. The product facts describe a cross and a Virgin Mary charm on a double-sided keychain. No corpus of Christ is specified, so the cross is not a crucifix."
+        },
+        {
+          "question": "What metal is the keychain made from?",
+          "answer": "The keychain is cast zinc alloy, with embossed printing applied to the surface."
+        },
+        {
+          "question": "Does the keychain have a design on both sides?",
+          "answer": "Yes. The keychain is described as double-sided, with a cross and a Virgin Mary charm as the two motifs."
+        }
+      ],
+      "pricing": {
+        "price": "0.45",
+        "regularPrice": "0.45",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.33",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Double-Sided Cross and Virgin Mary Keychain",
+          "description": "Zinc alloy keychain with a double-sided design pairing a cross and a Virgin Mary charm. Cast alloy construction with embossed printing, reusable and durable.",
+          "sku": "ALI-AAEsTG7BAOVioqqEY6es7VM8",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hd7e4c43e7cf946ea8cadff58dce6e9a6H.jpg",
+            "https://sc04.alicdn.com/kf/Hc20c5a656004414795125f7c827c803dj.jpg",
+            "https://sc04.alicdn.com/kf/H56b2f72c1ce546ba9e49240405ab04e5k.jpg",
+            "https://sc04.alicdn.com/kf/H7cc68f8d59d7435bbb8e84f8f4b6d806z.jpg"
+          ],
+          "category": "Keychains",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Zinc alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technique",
+              "value": "Cast"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Printing",
+              "value": "Embossed printing"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Pattern",
+              "value": "Circle"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Double-sided; cross and Virgin Mary charm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Brand Name",
+              "value": "OUOOO"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of Origin",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Keychains"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.45",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.33",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is the cross on this keychain a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The product facts describe a cross and a Virgin Mary charm on a double-sided keychain. No corpus of Christ is specified, so the cross is not a crucifix."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What metal is the keychain made from?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The keychain is cast zinc alloy, with embossed printing applied to the surface."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the keychain have a design on both sides?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The keychain is described as double-sided, with a cross and a Virgin Mary charm as the two motifs."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "0a0221397d240638581633ee9f5c6a88498c7e8f355ff6079c209cf29d2a1376",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "0a0221397d240638581633ee9f5c6a88498c7e8f355ff6079c209cf29d2a1376",
+            "contentHash": "0a0221397d240638581633ee9f5c6a88498c7e8f355ff6079c209cf29d2a1376",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:00.485Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGmTG7BAOVioqqEY6es7duu",
+      "sourceId": "AAGmTG7BAOVioqqEY6es7duu",
+      "sourceFingerprint": "6e235dc6a4bf388cdb4d8a0b774f90c34ea8f0ea06ca543ee2c645cf81291089",
+      "locale": "en",
+      "slug": "metal-alloy-pu-leather-cross-charm-bracelet-es7duu",
+      "title": "Metal Alloy PU Leather Cross Charm Bracelet",
+      "eyebrow": "Cross charm bracelet",
+      "summary": "This cross charm bracelet combines a metal alloy cross with a PU leather band, offered in coffee and black. It suits men and women seeking a simple religious wristband for daily wear or as a modest gift.",
+      "description": "For buyers looking for a straightforward religious wristband, this cross charm bracelet pairs a metal alloy cross with a PU leather band. The design is available in coffee and black, giving two neutral options that work across different ages and styles. The bracelet is intended for men and women and is categorized as a rosary bracelet. The cross is a plain cross, not a crucifix, so it carries a clear Christian identity without depicting the corpus. As a fashion jewelry accessory, it can be worn regularly or given as a small devotional token.",
+      "catholicContext": "A cross is a basic Christian symbol; this bracelet's cross charm is a visible expression of faith.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGmTG7BAOVioqqEY6es7duu",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/10/H7cd759a9e0894b2ab2ee20ed80a74c101.webp",
+      "imageAlt": "Metal Alloy PU Leather Cross Charm Bracelet",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7cd759a9e0894b2ab2ee20ed80a74c101.webp",
+          "alt": "Metal Alloy PU Leather Cross Charm Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1ee5b37597ee47efa3af1e77f9b3eb872.webp",
+          "alt": "Metal Alloy PU Leather Cross Charm Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd744efbcfef54980b331ac877adffc49m.webp",
+          "alt": "Metal Alloy PU Leather Cross Charm Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7788099427374db3b82ca89bee199a33I.webp",
+          "alt": "Metal Alloy PU Leather Cross Charm Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H289611e52bf743c4ab130fbbb6f77e9fU.webp",
+          "alt": "Metal Alloy PU Leather Cross Charm Bracelet"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hc7575e261f7b470bbfe7f704d51e8f9bj.webp",
+          "alt": "Metal Alloy PU Leather Cross Charm Bracelet - qnw1054-coffee-color",
+          "label": "qnw1054-coffee-color",
+          "sku": "ALI-AAGmTG7BAOVioqqEY6es7duu-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H1ebf1589a3414ff38210e9e5edd9fe4dO.webp",
+          "alt": "Metal Alloy PU Leather Cross Charm Bracelet - coffee-color",
+          "label": "coffee-color",
+          "sku": "ALI-AAGmTG7BAOVioqqEY6es7duu-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H87a10c04bc6848c9bddd2f43875a0629y.webp",
+          "alt": "Metal Alloy PU Leather Cross Charm Bracelet - black",
+          "label": "black",
+          "sku": "ALI-AAGmTG7BAOVioqqEY6es7duu-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Metal alloy cross charm",
+        "PU leather band",
+        "Available in coffee and black",
+        "Suitable for men and women",
+        "Categorized as a rosary bracelet"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Metal alloy and PU leather"
+        },
+        {
+          "name": "Color options",
+          "value": "Coffee, Black"
+        },
+        {
+          "name": "Target",
+          "value": "Men, Women"
+        },
+        {
+          "name": "Category",
+          "value": "Rosary bracelets"
+        }
+      ],
+      "applications": [
+        "Everyday religious wear",
+        "Gift for a Christian friend or family member",
+        "Personal devotional use",
+        "Wholesale religious jewelry assortment"
+      ],
+      "faq": [
+        {
+          "question": "What materials is the bracelet made of?",
+          "answer": "The bracelet features a metal alloy cross charm and a PU leather band."
+        },
+        {
+          "question": "What color options are available?",
+          "answer": "The bracelet is available in coffee and black."
+        },
+        {
+          "question": "Is this bracelet suitable for both men and women?",
+          "answer": "Yes, the cross charm bracelet is designed for men and women."
+        }
+      ],
+      "pricing": {
+        "price": "0.49",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.36",
+          "max": "0.49"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Metal Alloy PU Leather Cross Charm Bracelet",
+          "description": "Cross charm bracelet in metal alloy and PU leather, available in coffee and black. A religious wristband for men and women, suitable for everyday wear or gifting.",
+          "sku": "ALI-AAGmTG7BAOVioqqEY6es7duu",
+          "image": [
+            "https://sc04.alicdn.com/kf/H7cd759a9e0894b2ab2ee20ed80a74c101.jpg",
+            "https://sc04.alicdn.com/kf/H1ee5b37597ee47efa3af1e77f9b3eb872.jpg",
+            "https://sc04.alicdn.com/kf/Hd744efbcfef54980b331ac877adffc49m.jpg",
+            "https://sc04.alicdn.com/kf/H7788099427374db3b82ca89bee199a33I.jpg",
+            "https://sc04.alicdn.com/kf/H289611e52bf743c4ab130fbbb6f77e9fU.jpg"
+          ],
+          "category": "Rosary bracelets",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Metal alloy and PU leather"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Color options",
+              "value": "Coffee, Black"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Target",
+              "value": "Men, Women"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Rosary bracelets"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.49",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.36",
+              "maxPrice": "0.49",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What materials is the bracelet made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The bracelet features a metal alloy cross charm and a PU leather band."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What color options are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The bracelet is available in coffee and black."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this bracelet suitable for both men and women?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the cross charm bracelet is designed for men and women."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f5858a862411ad97139379639d7fa25353e7dc2f907e02f4b7b196716b22a49b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f5858a862411ad97139379639d7fa25353e7dc2f907e02f4b7b196716b22a49b",
+            "contentHash": "f5858a862411ad97139379639d7fa25353e7dc2f907e02f4b7b196716b22a49b",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:03.519Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHvTG7BAOVioqqEY6eqtIcG",
+      "sourceId": "AAHvTG7BAOVioqqEY6eqtIcG",
+      "sourceFingerprint": "3cd60b6547972b6691be9c63fab2c9cf37dec8913630889fa748fcfd4abb3d96",
+      "locale": "en",
+      "slug": "mirror-polished-stainless-steel-cross-pendant-charm-eqticg",
+      "title": "Mirror-Polished Stainless Steel Cross Pendant Charm",
+      "eyebrow": "Mirror-polished stainless steel cross pendant charm",
+      "summary": "This stainless steel cross pendant charm has a mirror-polished finish and comes in two sizes: 14x21mm and 17x32mm. Color options include rose gold, steel color, black, and gold. The charms are designed for DIY jewelry findings and assembly.",
+      "description": "The defining feature of this cross pendant charm is its mirror-polished stainless steel surface, which gives the piece a bright, reflective appearance. It is offered in four color variants—rose gold, steel color, black, and gold—and two dimensions, 14x21mm and 17x32mm, so buyers can match size and finish to different jewelry designs.\n\nBecause these are findings rather than finished jewelry, they are intended for assembly into pendants, necklaces, or other pieces. The stainless steel construction provides durability, while the mirror polish adds visual appeal. The range of colors allows for coordinated or contrasting designs within a jewelry line.",
+      "catholicContext": "A cross pendant may serve as a personal expression of Christian faith; it is a cross, not a crucifix, since no corpus is described.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessories",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAHvTG7BAOVioqqEY6eqtIcG",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H4b1ea7c8341f4a7188793e8bd7f3ae03b.webp",
+      "imageAlt": "Mirror-Polished Stainless Steel Cross Pendant Charm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4b1ea7c8341f4a7188793e8bd7f3ae03b.webp",
+          "alt": "Mirror-Polished Stainless Steel Cross Pendant Charm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd67ad657904e47e28cd19e15bee47751W.webp",
+          "alt": "Mirror-Polished Stainless Steel Cross Pendant Charm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5e914379b50a4c1c90444fdd9c0611e2m.webp",
+          "alt": "Mirror-Polished Stainless Steel Cross Pendant Charm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hbd966175dba444db8c153bc4207b602dS.webp",
+          "alt": "Mirror-Polished Stainless Steel Cross Pendant Charm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd308b74ac7f34b28ab907a50b1da4449T.webp",
+          "alt": "Mirror-Polished Stainless Steel Cross Pendant Charm"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc6f33979d2264528a38d1854ade222a8T.webp",
+          "alt": "Mirror-Polished Stainless Steel Cross Pendant Charm - rose-gold",
+          "label": "rose-gold",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6eqtIcG-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H36026229507d44319e917035679bb0b2t.webp",
+          "alt": "Mirror-Polished Stainless Steel Cross Pendant Charm - steel-color",
+          "label": "steel-color",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6eqtIcG-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9955d431ee3b4b61b1d35ced655801abD.webp",
+          "alt": "Mirror-Polished Stainless Steel Cross Pendant Charm - black",
+          "label": "black",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6eqtIcG-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha94dd1fee9484069949ad3d80974bffa9.webp",
+          "alt": "Mirror-Polished Stainless Steel Cross Pendant Charm - gold",
+          "label": "gold",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6eqtIcG-V--3"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Mirror-polished stainless steel construction",
+        "Two sizes available: 14x21mm and 17x32mm",
+        "Four color options: rose gold, steel color, black, and gold",
+        "Designed as DIY jewelry findings",
+        "Cross shape without a corpus"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Finish",
+          "value": "Mirror polished"
+        },
+        {
+          "name": "Sizes",
+          "value": "14x21mm, 17x32mm"
+        },
+        {
+          "name": "Colors",
+          "value": "Rose Gold, Steel Color, Black, Gold"
+        },
+        {
+          "name": "Shape",
+          "value": "Cross"
+        }
+      ],
+      "applications": [
+        "DIY necklace pendants",
+        "Bracelet charms",
+        "Keychain charms",
+        "Jewelry repair and customization"
+      ],
+      "faq": [
+        {
+          "question": "What sizes are available for these cross charms?",
+          "answer": "The cross charms are available in two sizes: 14x21mm and 17x32mm."
+        },
+        {
+          "question": "What colors do the cross charms come in?",
+          "answer": "The charms are offered in rose gold, steel color, black, and gold."
+        },
+        {
+          "question": "Are the charms finished with a mirror polish?",
+          "answer": "Yes, the stainless steel cross charms have a mirror-polished finish."
+        }
+      ],
+      "pricing": {
+        "price": "0.54",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.54",
+          "max": "0.74"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Mirror-Polished Stainless Steel Cross Pendant Charm",
+          "description": "Mirror-polished stainless steel cross pendant charm in 14x21mm and 17x32mm sizes. Available in rose gold, steel color, black, and gold for DIY jewelry making.",
+          "sku": "ALI-AAHvTG7BAOVioqqEY6eqtIcG",
+          "image": [
+            "https://sc04.alicdn.com/kf/H4b1ea7c8341f4a7188793e8bd7f3ae03b.jpg",
+            "https://sc04.alicdn.com/kf/Hd67ad657904e47e28cd19e15bee47751W.jpg",
+            "https://sc04.alicdn.com/kf/H5e914379b50a4c1c90444fdd9c0611e2m.jpg",
+            "https://sc04.alicdn.com/kf/Hbd966175dba444db8c153bc4207b602dS.jpg",
+            "https://sc04.alicdn.com/kf/Hd308b74ac7f34b28ab907a50b1da4449T.jpg"
+          ],
+          "category": "Accessories",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finish",
+              "value": "Mirror polished"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Sizes",
+              "value": "14x21mm, 17x32mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Colors",
+              "value": "Rose Gold, Steel Color, Black, Gold"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Shape",
+              "value": "Cross"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.54",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.54",
+              "maxPrice": "0.74",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What sizes are available for these cross charms?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cross charms are available in two sizes: 14x21mm and 17x32mm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What colors do the cross charms come in?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The charms are offered in rose gold, steel color, black, and gold."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are the charms finished with a mirror polish?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the stainless steel cross charms have a mirror-polished finish."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7d59b3c03cdb426ede426ea66c1603c6dba4c32d0887598fd218c1d4d1cd7502",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7d59b3c03cdb426ede426ea66c1603c6dba4c32d0887598fd218c1d4d1cd7502",
+            "contentHash": "7d59b3c03cdb426ede426ea66c1603c6dba4c32d0887598fd218c1d4d1cd7502",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:18.377Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEUTG7BAOVioqqEY6eqtHHB",
+      "sourceId": "AAEUTG7BAOVioqqEY6eqtHHB",
+      "sourceFingerprint": "9004aa764a760b3c42abb890ae4abd37acd53b2f5f1427d7245b9d374b7c4f32",
+      "locale": "en",
+      "slug": "18k-gold-plated-stainless-steel-zodiac-pendants-eqthhb",
+      "title": "18K Gold Plated Stainless Steel Zodiac Pendants",
+      "eyebrow": "18K gold plated stainless steel zodiac pendant",
+      "summary": "These zodiac pendants pair stainless steel with 18K gold plating in a unisex design sized for necklace making. Each pendant represents one of the twelve star signs, from Aquarius and Aries to Capricorn, Pisces and Virgo, giving jewelry makers a full set of signs to work with.",
+      "description": "A zodiac pendant lets a necklace carry a single, readable sign rather than a busy charm cluster. The stainless steel base carries 18K gold plating, giving the pieces a warm gold finish, and the unisex styling suits pendants strung on either fine or heavier chains. The series covers all twelve signs: Aquarius, Aries, Cancer, Capricorn, Gemini, Leo, Libra, Pisces, Sagittarius, Scorpio, Taurus and Virgo. They are supplied as DIY jewelry accessories for necklace assembly, so buyers can order by individual sign or stock the complete zodiac as a set.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "209",
+          "name": "Fashion Necklace",
+          "slug": "fashion-necklace"
+        }
+      ],
+      "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H47f321fec33b41e988091ab8e89776d95.webp",
+      "imageAlt": "18K Gold Plated Stainless Steel Zodiac Pendants",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H47f321fec33b41e988091ab8e89776d95.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc7f381d7d7534b2dbaf7fe33d8cc95131.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H93e7672598ce4e22935acb147d5e2df7K.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2c9124eda7134649ad5efae4223616e9u.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H16462a3c44624f7483156f3224118387U.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5eda137ee7974a469b710669a9366016l.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - aries",
+          "label": "aries",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H48b842d2815d44a6ad9de0781142b9ac9.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - cancer",
+          "label": "cancer",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H296afa95bbe440a181f10b4c454f3a94U.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - aquarius",
+          "label": "aquarius",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf1e896d97e774e49a9c44eae0b33b643X.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - virgo",
+          "label": "virgo",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8510e96a6e3a4de9a88cb5459b2abc85G.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - scorpio",
+          "label": "scorpio",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H98a9e6df5ca847d1ac5b5b1a67d0c178Z.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - taurus",
+          "label": "taurus",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H279df639000c4cda988f3b79029df3b0n.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - pisces",
+          "label": "pisces",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He2060405d9b1469ca5b94729114ffcb4o.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - sagittarius",
+          "label": "sagittarius",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2ef7e1419d48499d8dec000bdf227033v.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - leo",
+          "label": "leo",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H0645c4f7e4f340febd07d9ef38ea12183.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - libra",
+          "label": "libra",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H65f4d3208b6e4d1b9aca398eb35f1edcA.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - capricorn",
+          "label": "capricorn",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He0becfd564fa43229e723bc5feab4a59k.webp",
+          "alt": "18K Gold Plated Stainless Steel Zodiac Pendants - gemini",
+          "label": "gemini",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB-V--5"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Stainless steel base with 18K gold plating",
+        "Twelve variants covering all zodiac signs",
+        "Unisex pendant design",
+        "Categorized as fashion necklace jewelry",
+        "Offered as a DIY jewelry accessory for necklace making"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel with 18K gold plating"
+        },
+        {
+          "name": "Variants",
+          "value": "Aquarius, Aries, Cancer, Capricorn, Gemini, Leo, Libra, Pisces, Sagittarius, Scorpio, Taurus, Virgo"
+        },
+        {
+          "name": "Design",
+          "value": "Unisex zodiac pendant"
+        },
+        {
+          "name": "Category",
+          "value": "Fashion necklace"
+        },
+        {
+          "name": "Intended use",
+          "value": "DIY jewelry accessory"
+        }
+      ],
+      "applications": [
+        "Assembling zodiac-themed necklaces",
+        "Jewelry-making workshops and kits",
+        "Building sign-specific pendant assortments",
+        "Pairing pendants with chains for personal jewelry projects"
+      ],
+      "faq": [
+        {
+          "question": "Which zodiac signs are available?",
+          "answer": "All twelve are available: Aquarius, Aries, Cancer, Capricorn, Gemini, Leo, Libra, Pisces, Sagittarius, Scorpio, Taurus and Virgo."
+        },
+        {
+          "question": "What is the pendant made of?",
+          "answer": "The pendants use a stainless steel base with 18K gold plating."
+        },
+        {
+          "question": "Are the pendants marketed to a specific gender?",
+          "answer": "No. The pendants are described as unisex, so the same design is intended for any wearer."
+        }
+      ],
+      "pricing": {
+        "price": "0.81",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.81",
+          "max": "0.85"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "18K Gold Plated Stainless Steel Zodiac Pendants",
+          "description": "18K gold plated stainless steel zodiac pendants in 12 star sign variants, from Aries to Pisces, offered as unisex DIY jewelry-making accessories.",
+          "sku": "ALI-AAEUTG7BAOVioqqEY6eqtHHB",
+          "image": [
+            "https://sc04.alicdn.com/kf/H47f321fec33b41e988091ab8e89776d95.jpg",
+            "https://sc04.alicdn.com/kf/Hc7f381d7d7534b2dbaf7fe33d8cc95131.jpg",
+            "https://sc04.alicdn.com/kf/H93e7672598ce4e22935acb147d5e2df7K.jpg",
+            "https://sc04.alicdn.com/kf/H2c9124eda7134649ad5efae4223616e9u.jpg",
+            "https://sc04.alicdn.com/kf/H16462a3c44624f7483156f3224118387U.jpg"
+          ],
+          "category": "Fashion Necklace",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel with 18K gold plating"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Aquarius, Aries, Cancer, Capricorn, Gemini, Leo, Libra, Pisces, Sagittarius, Scorpio, Taurus, Virgo"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Unisex zodiac pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Fashion necklace"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Intended use",
+              "value": "DIY jewelry accessory"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.81",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.81",
+              "maxPrice": "0.85",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Which zodiac signs are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "All twelve are available: Aquarius, Aries, Cancer, Capricorn, Gemini, Leo, Libra, Pisces, Sagittarius, Scorpio, Taurus and Virgo."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the pendant made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendants use a stainless steel base with 18K gold plating."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are the pendants marketed to a specific gender?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The pendants are described as unisex, so the same design is intended for any wearer."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3412ad1fc667e6ab727ace6a826b379604b60e594bbda71b486730b73a28af98",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3412ad1fc667e6ab727ace6a826b379604b60e594bbda71b486730b73a28af98",
+            "contentHash": "3412ad1fc667e6ab727ace6a826b379604b60e594bbda71b486730b73a28af98",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:13.883Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGyTG7BAOVioqqEY6eqtQPM",
+      "sourceId": "AAGyTG7BAOVioqqEY6eqtQPM",
+      "sourceFingerprint": "c7cf2d7d1b85b21e5175445235e5bad1d4ca5df2f6c9a57c8bd5b439a8e0d1a7",
+      "locale": "en",
+      "slug": "pine-wood-cross-tabletop-decoration-eqtqpm",
+      "title": "Pine Wood Cross Tabletop Decoration",
+      "eyebrow": "Handmade pine wood tabletop cross decoration",
+      "summary": "A handmade pine wood cross decoration sized for tabletop display in a home, Easter arrangement or office setting. The plain cross comes in three color variants: burgundy, brown and black. Use it as a standalone ornament or as part of a seasonal display.",
+      "description": "This decorative cross is made from pine wood and shaped as a plain cross rather than a crucifix. It is handmade and intended for tabletop placement, so it sits on a desk, shelf, mantel or Easter table arrangement.\n\nBuyers can choose from three variants: burgundy, brown and black. Each variant follows the same pine wood cross form, letting a single order cover different color schemes for home and office settings.",
+      "catholicContext": "A cross is a Christian symbol; a plain cross is distinct from a crucifix, which depicts Christ on the cross.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAGyTG7BAOVioqqEY6eqtQPM",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H040fe706068d4b24bf478af2c2ba9715c.webp",
+      "imageAlt": "Pine Wood Cross Tabletop Decoration",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H040fe706068d4b24bf478af2c2ba9715c.webp",
+          "alt": "Pine Wood Cross Tabletop Decoration"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H496eb74581504cd9bdbb5da46baba7e1v.webp",
+          "alt": "Pine Wood Cross Tabletop Decoration"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2a401875e27946b7a32274095a3a8c07H.webp",
+          "alt": "Pine Wood Cross Tabletop Decoration"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc69b512f30c74d659b49db848442787fH.webp",
+          "alt": "Pine Wood Cross Tabletop Decoration"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H21ffa5c976e244d09ce668b499a03f996.webp",
+          "alt": "Pine Wood Cross Tabletop Decoration"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H52b543695ee14bacb44fe5f47a61c181G.webp",
+          "alt": "Pine Wood Cross Tabletop Decoration"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd48c26d8387a4f15b10113ebdaa4b5512.webp",
+          "alt": "Pine Wood Cross Tabletop Decoration - black",
+          "label": "black",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eqtQPM-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdd79f77e00514b6d928e1da49ddfb2dcB.webp",
+          "alt": "Pine Wood Cross Tabletop Decoration - burgundy",
+          "label": "burgundy",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eqtQPM-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2ac219491d474cdba2e6bad4186f680d0.webp",
+          "alt": "Pine Wood Cross Tabletop Decoration - brown",
+          "label": "brown",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eqtQPM-V--2"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Made from pine wood",
+        "Plain cross shape without a corpus",
+        "Handmade construction",
+        "Designed for tabletop display",
+        "Available in burgundy, brown and black variants"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Pine wood"
+        },
+        {
+          "name": "Product form",
+          "value": "Plain cross (no corpus)"
+        },
+        {
+          "name": "Construction",
+          "value": "Handmade"
+        },
+        {
+          "name": "Placement",
+          "value": "Tabletop"
+        },
+        {
+          "name": "Color variants",
+          "value": "Burgundy, brown, black"
+        },
+        {
+          "name": "Category",
+          "value": "Ornaments"
+        }
+      ],
+      "applications": [
+        "Tabletop decoration at home",
+        "Easter table display",
+        "Office desk or shelf display",
+        "Seasonal ornament arrangement"
+      ],
+      "faq": [
+        {
+          "question": "What material is the cross decoration made from?",
+          "answer": "The cross decoration is made from pine wood and is described as handmade."
+        },
+        {
+          "question": "Which color variants are available?",
+          "answer": "The cross decoration comes in burgundy, brown and black."
+        },
+        {
+          "question": "Is this a crucifix or a plain cross?",
+          "answer": "It is a plain cross decoration; the product facts do not describe a corpus of Christ on the cross."
+        },
+        {
+          "question": "Where can the cross decoration be placed?",
+          "answer": "It is intended for tabletop use, such as on a home table, office desk or shelf, or within an Easter display."
+        }
+      ],
+      "pricing": {
+        "price": "0.27",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.20",
+          "max": "0.27"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pine Wood Cross Tabletop Decoration",
+          "description": "Handmade pine wood cross decoration for tabletops, home or office display, available in burgundy, brown and black variants. A plain decorative cross, not a crucifix.",
+          "sku": "ALI-AAGyTG7BAOVioqqEY6eqtQPM",
+          "image": [
+            "https://sc04.alicdn.com/kf/H040fe706068d4b24bf478af2c2ba9715c.jpg",
+            "https://sc04.alicdn.com/kf/H496eb74581504cd9bdbb5da46baba7e1v.jpg",
+            "https://sc04.alicdn.com/kf/H2a401875e27946b7a32274095a3a8c07H.jpg",
+            "https://sc04.alicdn.com/kf/Hc69b512f30c74d659b49db848442787fH.jpg",
+            "https://sc04.alicdn.com/kf/H21ffa5c976e244d09ce668b499a03f996.jpg",
+            "https://sc04.alicdn.com/kf/H52b543695ee14bacb44fe5f47a61c181G.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Pine wood"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product form",
+              "value": "Plain cross (no corpus)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Construction",
+              "value": "Handmade"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Placement",
+              "value": "Tabletop"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Color variants",
+              "value": "Burgundy, brown, black"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Ornaments"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.27",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.20",
+              "maxPrice": "0.27",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the cross decoration made from?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cross decoration is made from pine wood and is described as handmade."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which color variants are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cross decoration comes in burgundy, brown and black."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this a crucifix or a plain cross?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is a plain cross decoration; the product facts do not describe a corpus of Christ on the cross."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Where can the cross decoration be placed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is intended for tabletop use, such as on a home table, office desk or shelf, or within an Easter display."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "59152d8a23aae5973d80ce20322c38bbc4a9f6e8e8c26f9e43c03dd6eb87cc7d",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "59152d8a23aae5973d80ce20322c38bbc4a9f6e8e8c26f9e43c03dd6eb87cc7d",
+            "contentHash": "59152d8a23aae5973d80ce20322c38bbc4a9f6e8e8c26f9e43c03dd6eb87cc7d",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:17.213Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGsTG7BAOVioqqEY6eqtRG4",
+      "sourceId": "AAGsTG7BAOVioqqEY6eqtRG4",
+      "sourceFingerprint": "e29dc205038a2cdd575ecd0d5a5ab96a9995cdd2986d4e92ccf5f5d7cf9ac158",
+      "locale": "en",
+      "slug": "wholesale-plastic-statue-liberty-figurine-home-office-decoration-eqtrg4",
+      "title": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration",
+      "eyebrow": "Ornaments",
+      "summary": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration Shelf Decor Craft Gift",
+      "description": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration Shelf Decor Craft Gift",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAGsTG7BAOVioqqEY6eqtRG4",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H3c242d0be0864463a646ec00f839995cO.webp",
+      "imageAlt": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3c242d0be0864463a646ec00f839995cO.webp",
+          "alt": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6921b32c5bf044d3bab909a4afe340081.webp",
+          "alt": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf7dd00702d1d4fbd80b43074a30d38aeq.webp",
+          "alt": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5097c020853c4d419387ca92ed21460d3.webp",
+          "alt": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf19b00ef7dd24612b9b388eb9c319bb6U.webp",
+          "alt": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8160db2ce9a245e79182f6d78306c0ccx.webp",
+          "alt": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration - free-muse-green-sweep-gold",
+          "label": "free-muse-green-sweep-gold",
+          "sku": "ALI-AAGsTG7BAOVioqqEY6eqtRG4-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hfc9b2cd4594244f587064368ff9130eeQ.webp",
+          "alt": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration - free-muse-green",
+          "label": "free-muse-green",
+          "sku": "ALI-AAGsTG7BAOVioqqEY6eqtRG4-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc0ef5458f9ef4537abce332347e49ca2E.webp",
+          "alt": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration - free-muse-white",
+          "label": "free-muse-white",
+          "sku": "ALI-AAGsTG7BAOVioqqEY6eqtRG4-V--3"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Variant: Free Muse Green, Free Muse Green Sweep Gold, Free Muse White"
+      ],
+      "specifications": [
+        {
+          "name": "Variant",
+          "value": "Free Muse Green, Free Muse Green Sweep Gold, Free Muse White"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "9.33",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "6.74",
+          "max": "9.33"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration",
+          "description": "Wholesale Plastic Statue Liberty Figurine Home Office Decoration Shelf Decor Craft Gift",
+          "sku": "ALI-AAGsTG7BAOVioqqEY6eqtRG4",
+          "image": [
+            "https://sc04.alicdn.com/kf/H3c242d0be0864463a646ec00f839995cO.jpg",
+            "https://sc04.alicdn.com/kf/H6921b32c5bf044d3bab909a4afe340081.png",
+            "https://sc04.alicdn.com/kf/Hf7dd00702d1d4fbd80b43074a30d38aeq.jpg",
+            "https://sc04.alicdn.com/kf/H5097c020853c4d419387ca92ed21460d3.jpg",
+            "https://sc04.alicdn.com/kf/Hf19b00ef7dd24612b9b388eb9c319bb6U.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Free Muse Green, Free Muse Green Sweep Gold, Free Muse White"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "9.33",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "6.74",
+              "maxPrice": "9.33",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "e62b454809c962a91eeefed096e98b8454219929a3dc84e625cd55572b775655",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "e62b454809c962a91eeefed096e98b8454219929a3dc84e625cd55572b775655",
+            "contentHash": "e62b454809c962a91eeefed096e98b8454219929a3dc84e625cd55572b775655",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:42.894Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAG2TG7BAOVioqqEY6eq44yZ",
+      "sourceId": "AAG2TG7BAOVioqqEY6eq44yZ",
+      "sourceFingerprint": "b3ce3ebcb64d1d6c521accefaf65a84f8e1693ccc35785c68118081e2b11dd86",
+      "locale": "en",
+      "slug": "glass-virgin-mary-figurine-for-church-or-desktop-eq44yz",
+      "title": "Glass Virgin Mary Figurine for Church or Desktop",
+      "eyebrow": "Glass Virgin Mary figurine for desktop or church display",
+      "summary": "This glass Virgin Mary figurine is made for church or desktop display. Buyers can choose from eleven color variants, ranging from gold-and-blue combinations to white and brown finishes, some with diamond accents or a halo detail.",
+      "description": "A glass Virgin Mary figurine gives churches, schools, and gift buyers a compact Marian figure for a desktop, shelf, or display surface. The piece is listed in the Ornaments category and is available in eleven named color variants.\n\nFinishes include KC gold with blue, white, or brown, plus white-and-blue and white-and-brown combinations. Several variants add diamond accents, and three include a halo detail. Exact dimensions and weight are not stated in the product information, so buyers should confirm them before ordering.",
+      "catholicContext": "Marian figures depict the Virgin Mary, whom Catholic tradition honors under the title Our Lady.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H6d5893efac74413fa2804d886b0ec678V.webp",
+      "imageAlt": "Glass Virgin Mary Figurine for Church or Desktop",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6d5893efac74413fa2804d886b0ec678V.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hee35b75ae6f74f7eaa62b0564398ac25D.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf56030bde5c94f429efd3194ade4c9c3Z.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2f41a44c46af41e8b0ad6e17240d226f2.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf5a643d6dffc43cfa6fbb03142c6b1a54.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1fcdb7cfdce746b78d0e3fe7b762ec83J.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Haea4d2f49a404f4990e6099f148a5e19q.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - kc-gold-blue",
+          "label": "kc-gold-blue",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1f4525ca51d54ffc80b2d968a6d1e8c85.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - kc-gold-brown-white-diamond-halo",
+          "label": "kc-gold-brown-white-diamond-halo",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3d07cf131eb44cefb36929cb5c4038b4Y.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - kc-gold-white-blue-diamond-halo",
+          "label": "kc-gold-white-blue-diamond-halo",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7dcc72bf96e2492d84f02822b5a4b24ch.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - kc-gold-and-white-diamonds",
+          "label": "kc-gold-and-white-diamonds",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1a9dd22ac90c4c4a965867d582aff5949.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - kc-gold-white-diamond-halo",
+          "label": "kc-gold-white-diamond-halo",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdefddb0b38134769aa81f617515d1b7cO.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - kc-gold-brown-blue-diamond-halo",
+          "label": "kc-gold-brown-blue-diamond-halo",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc75d79d9c23e4c848d60ad5168b2f291B.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - kc-gold-white-blue-diamond",
+          "label": "kc-gold-white-blue-diamond",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd7eba47fcdf54cea9ca6793f1f37a586o.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - white-k-brown-white-diamond",
+          "label": "white-k-brown-white-diamond",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1fc0dd72185b466fbbfe107c4faaba002.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - kc-gold-brown-blue-diamond",
+          "label": "kc-gold-brown-blue-diamond",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He7fc23369ba541048c555ad6b2b3906f9.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - white-k-blue",
+          "label": "white-k-blue",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H646726958b3d4561b2fbbedbe2ca653aQ.webp",
+          "alt": "Glass Virgin Mary Figurine for Church or Desktop - white-k-blue-diamond",
+          "label": "white-k-blue-diamond",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ-V--7"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Glass Virgin Mary figurine",
+        "Listed in the Ornaments category",
+        "Eleven named color variants",
+        "Finishes include KC gold, white, blue, and brown",
+        "Some variants have diamond accents",
+        "Three variants include a halo detail"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Glass"
+        },
+        {
+          "name": "Subject",
+          "value": "Virgin Mary"
+        },
+        {
+          "name": "Product category",
+          "value": "Ornaments"
+        },
+        {
+          "name": "Number of variants",
+          "value": "11"
+        },
+        {
+          "name": "Color options",
+          "value": "KC gold blue; KC gold white blue diamond; KC gold white blue diamond halo; White k blue; White k blue diamond; White k brown white diamond; KC gold and white diamonds; KC gold brown blue diamond; KC gold brown blue diamond halo; KC gold brown white diamond halo; KC gold white diamond halo"
+        }
+      ],
+      "applications": [
+        "Church desktop or shelf display",
+        "Religious gift retail display",
+        "Home decor"
+      ],
+      "faq": [
+        {
+          "question": "What material is the Virgin Mary figurine made of?",
+          "answer": "The figurine is listed as glass."
+        },
+        {
+          "question": "How many color variants are available?",
+          "answer": "Eleven variants are listed, combining KC gold, white, blue, and brown finishes, with some adding diamond accents or a halo detail."
+        },
+        {
+          "question": "Are dimensions or weight provided?",
+          "answer": "No dimensions or weight are stated in the product information. Contact us to confirm these details before ordering."
+        }
+      ],
+      "pricing": {
+        "price": "1.32",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.95",
+          "max": "1.32"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Glass Virgin Mary Figurine for Church or Desktop",
+          "description": "Glass Virgin Mary figurine for church or desktop display, offered in eleven color variants including gold, blue, white, brown and diamond-accented finishes.",
+          "sku": "ALI-AAG2TG7BAOVioqqEY6eq44yZ",
+          "image": [
+            "https://sc04.alicdn.com/kf/H6d5893efac74413fa2804d886b0ec678V.jpg",
+            "https://sc04.alicdn.com/kf/Hee35b75ae6f74f7eaa62b0564398ac25D.jpg",
+            "https://sc04.alicdn.com/kf/Hf56030bde5c94f429efd3194ade4c9c3Z.jpg",
+            "https://sc04.alicdn.com/kf/H2f41a44c46af41e8b0ad6e17240d226f2.jpg",
+            "https://sc04.alicdn.com/kf/Hf5a643d6dffc43cfa6fbb03142c6b1a54.jpg",
+            "https://sc04.alicdn.com/kf/H1fcdb7cfdce746b78d0e3fe7b762ec83J.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Glass"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Subject",
+              "value": "Virgin Mary"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product category",
+              "value": "Ornaments"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Number of variants",
+              "value": "11"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Color options",
+              "value": "KC gold blue; KC gold white blue diamond; KC gold white blue diamond halo; White k blue; White k blue diamond; White k brown white diamond; KC gold and white diamonds; KC gold brown blue diamond; KC gold brown blue diamond halo; KC gold brown white diamond halo; KC gold white diamond halo"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.32",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.95",
+              "maxPrice": "1.32",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the Virgin Mary figurine made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The figurine is listed as glass."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many color variants are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Eleven variants are listed, combining KC gold, white, blue, and brown finishes, with some adding diamond accents or a halo detail."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are dimensions or weight provided?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No dimensions or weight are stated in the product information. Contact us to confirm these details before ordering."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7249783c328d8dbc7bd3cc08c6457ebc2d56448a834a7c6c90dd90b082cc6f6c",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7249783c328d8dbc7bd3cc08c6457ebc2d56448a834a7c6c90dd90b082cc6f6c",
+            "contentHash": "7249783c328d8dbc7bd3cc08c6457ebc2d56448a834a7c6c90dd90b082cc6f6c",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:22.193Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHDTG7BAOVioqqEY6eqYPq7",
+      "sourceId": "AAHDTG7BAOVioqqEY6eqYPq7",
+      "sourceFingerprint": "b8dd7a5c4fc0d2160b7a4340d88c50b3e949c9683dde737f5d42553e5b545cd3",
+      "locale": "en",
+      "slug": "natural-stone-cross-pendant-charm-no-hole-eqypq7",
+      "title": "Natural Stone Cross Pendant Charm No Hole",
+      "eyebrow": "Natural and synthetic stone cross pendant charm without hole for DIY jewelry",
+      "summary": "For buyers sourcing cross pendants for jewelry making, this no-hole stone charm comes in 39 variants. Options include natural stones such as redstone, amethyst, tiger's eye, and several jades, plus synthetic and optimized stones. Because the charm has no through-hole, plan a setting or wire-wrap method for assembly.",
+      "description": "This cross pendant is a no-hole charm intended for DIY jewelry assembly. It is available in 39 stone variants, each listed with a natural, synthetic, or optimized designation. Natural options include redstone, obsidian, redstone, amethyst, tiger's eye, and multiple jade types; synthetic and optimized stones expand the color range. Buyers should note that the cross is plain and does not include a corpus. The absence of a drill hole means the pendant is suited to wire wrapping, bezel settings, or adhesive mounting rather than direct stringing. Random color mixing is available as variant 01.",
+      "catholicContext": "A plain cross pendant is a form of religious jewelry; it is not a crucifix unless the corpus of Christ is present.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessories",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H7eec8f81517c4570a5f6172d198c1107S.webp",
+      "imageAlt": "Natural Stone Cross Pendant Charm No Hole",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7eec8f81517c4570a5f6172d198c1107S.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H36036a4f408748c0942684c859599c9e4.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5bdaa99878a146e7903428ceebe8d249X.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H12e99602e12a40558d4df629ef09b158R.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd6b6fbc1edf54051b12c2a613f3a5079C.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb5e53ebe2b174f988ef1a584d21ee419G.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 39-huangsong-stone-natural",
+          "label": "39-huangsong-stone-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--39"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc81c1eea66734c99b7404ed1c5517821V.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 26-lvdongling-natural",
+          "label": "26-lvdongling-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--26"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H77e022257f7849cf8cbcc7abc5fd63aft.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 25-purple-jade-optimized",
+          "label": "25-purple-jade-optimized",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H195ff84298f84a58b22a36a2964f6b17h.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 24-olive-jade-natural",
+          "label": "24-olive-jade-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8bc6ffa476814cccadfc36c8585aba6aG.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 23-imported-chlorite-natural",
+          "label": "23-imported-chlorite-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3dce6dec08364f8993fa87dbc9e57488m.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 30-domestic-flower-green-natural",
+          "label": "30-domestic-flower-green-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--30"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2e700f59d8ab4afca403d785063c197df.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 29-black-line-red-pattern-natural",
+          "label": "29-black-line-red-pattern-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--29"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H75ee3179037340eda0ba792eeed7b513e.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 28-ivory-jade-natural",
+          "label": "28-ivory-jade-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--28"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hacf14aacdc4943e8ab2f2d852e6c30589.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 27-auspicious-jade-natural",
+          "label": "27-auspicious-jade-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--27"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd70748254a9149e6804f0e45b7b88ed2G.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 34-southern-jade-natural",
+          "label": "34-southern-jade-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--34"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6a663b30da5146beb257a828fa34726ec.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 33-sesame-red-natural",
+          "label": "33-sesame-red-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--33"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2cbe693656474d4d868efe15868d17739.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 32-days-mountain-blue-natural",
+          "label": "32-days-mountain-blue-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--32"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7e3913e47764409e8d5eac37e7cd3fabj.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 31-black-flash-natural",
+          "label": "31-black-flash-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--31"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3a0951cb54a84a00b048f8c099cdf9cbZ.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 38-leopard-print-natural",
+          "label": "38-leopard-print-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--38"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5e913e49e72d424eaade78a191981c39B.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 37-amethyst-natural",
+          "label": "37-amethyst-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--37"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8bc2fb57570648c78376266ba89aa3034.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 36-powder-crystal-natural",
+          "label": "36-powder-crystal-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--36"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha7f0798f35cb4202aeab8d434c9a9839d.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 35-tigers-eye-stone-natural",
+          "label": "35-tigers-eye-stone-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--35"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H50a48d6c6e8d49e0adfd253006f3b22aN.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 10-elongated-stone-natural",
+          "label": "10-elongated-stone-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9e579b2dc0a54078a66d655ab50d05a0J.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 09-spot-natural",
+          "label": "09-spot-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha09f96aabe2640f68e7960472334ef91Z.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 08-blue-dot-natural",
+          "label": "08-blue-dot-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc4e6353c78bc474da8015c7a9b3b7678p.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 07-green-gold-optimized",
+          "label": "07-green-gold-optimized",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H072e8969328d43d9bc31daab6a58cbf9G.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 14-yellowstone-natural",
+          "label": "14-yellowstone-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3b62aa3df3894da2ab9c102d8651dbe1x.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 13-black-pine-synthetic",
+          "label": "13-black-pine-synthetic",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb6e5588289a4433db138550bb07acc47s.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 12-protein-synthetic",
+          "label": "12-protein-synthetic",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H59a909ae0a984810a4064b2136bfc414V.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 11-zi-dongling-natural",
+          "label": "11-zi-dongling-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb3a7349d93b24dc6b14682fa65e93516K.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 18-white-pine-synthetic",
+          "label": "18-white-pine-synthetic",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2a4d59acab1a46b28c1b76c25e6a2def3.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 17-green-pine-synthetic",
+          "label": "17-green-pine-synthetic",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3b6cc55a1d5e4974ad0c616a1ef7e612Y.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 16-white-crystal-natural",
+          "label": "16-white-crystal-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H45175e9991aa4c45aa5e3476cb9f53a1z.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 15-blue-dot-natural",
+          "label": "15-blue-dot-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb3c7dfa33a0d4b3e80a94cccf6a27b96e.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 22-peacock-synthetic",
+          "label": "22-peacock-synthetic",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2290fda254d440458f13bb84a0676138R.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 21-korean-pine-synthetic",
+          "label": "21-korean-pine-synthetic",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3e1127bdc6db44f691be571d82e984beD.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 20-red-green-treasure-optimized",
+          "label": "20-red-green-treasure-optimized",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H42c7b0f1e36a477ebc9821395ef0874fp.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 19-purple-mica-optimized",
+          "label": "19-purple-mica-optimized",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1b6f36a1ebdf4ce5ae8308773cf12da28.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 02-red-network-natural",
+          "label": "02-red-network-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H82c55b4b02154f39a15b049fe41c5616W.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 01-random-color-mixing",
+          "label": "01-random-color-mixing",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8cbec58d3fb3424fb4c119c50d1ac249o.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 06-lansong-synthetic",
+          "label": "06-lansong-synthetic",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd85c0f7742034abda029d0ed1643a915g.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 05-redstone-natural",
+          "label": "05-redstone-natural",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H24cd9831635249ffb2bf841ae63feeb8e.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 04-obsidian-synthetic",
+          "label": "04-obsidian-synthetic",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H97eea544f8e648ca9eaac75cead51149L.webp",
+          "alt": "Natural Stone Cross Pendant Charm No Hole - 03-watermelon-red-synthetic",
+          "label": "03-watermelon-red-synthetic",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7-V--3"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Cross-shaped pendant without a through-hole",
+        "39 stone variants, including natural, synthetic, and optimized options",
+        "Natural stones include redstone, amethyst, tiger's eye, and jade",
+        "Plain cross design without a corpus",
+        "Random color mixing available as variant 01"
+      ],
+      "specifications": [
+        {
+          "name": "Product type",
+          "value": "Cross pendant charm"
+        },
+        {
+          "name": "Hole",
+          "value": "No hole"
+        },
+        {
+          "name": "Variants",
+          "value": "39 stone options plus random color mixing"
+        },
+        {
+          "name": "Stone types",
+          "value": "Natural, synthetic, and optimized"
+        },
+        {
+          "name": "Design",
+          "value": "Plain cross, no corpus"
+        }
+      ],
+      "applications": [
+        "DIY jewelry making",
+        "Wire-wrapped pendant assembly",
+        "Beaded necklace or bracelet focal piece with a setting",
+        "Craft and jewelry-design projects"
+      ],
+      "faq": [
+        {
+          "question": "Does this cross pendant have a hole for stringing?",
+          "answer": "No. The pendant is a no-hole charm, so it requires wire wrapping, a bezel setting, or another mounting method for assembly."
+        },
+        {
+          "question": "What is the difference between the natural and synthetic variants?",
+          "answer": "The variant list identifies each stone as natural, synthetic, or optimized. Natural stones are listed with their stone names, while synthetic and optimized options are labeled as such."
+        },
+        {
+          "question": "Is this a crucifix?",
+          "answer": "No. The product is a plain cross pendant; a crucifix would include a corpus of Christ, which is not part of this design."
+        }
+      ],
+      "pricing": {
+        "price": "0.31",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.31",
+          "max": "0.45"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Natural Stone Cross Pendant Charm No Hole",
+          "description": "Stone cross pendant without hole for DIY jewelry making. Choose from 39 natural and synthetic stone variants, including obsidian, amethyst, tiger's eye, and jade.",
+          "sku": "ALI-AAHDTG7BAOVioqqEY6eqYPq7",
+          "image": [
+            "https://sc04.alicdn.com/kf/H7eec8f81517c4570a5f6172d198c1107S.jpg",
+            "https://sc04.alicdn.com/kf/H36036a4f408748c0942684c859599c9e4.jpg",
+            "https://sc04.alicdn.com/kf/H5bdaa99878a146e7903428ceebe8d249X.jpg",
+            "https://sc04.alicdn.com/kf/H12e99602e12a40558d4df629ef09b158R.jpg",
+            "https://sc04.alicdn.com/kf/Hd6b6fbc1edf54051b12c2a613f3a5079C.jpg"
+          ],
+          "category": "Accessories",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Product type",
+              "value": "Cross pendant charm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Hole",
+              "value": "No hole"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "39 stone options plus random color mixing"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Stone types",
+              "value": "Natural, synthetic, and optimized"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Plain cross, no corpus"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.31",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.31",
+              "maxPrice": "0.45",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Does this cross pendant have a hole for stringing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The pendant is a no-hole charm, so it requires wire wrapping, a bezel setting, or another mounting method for assembly."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the difference between the natural and synthetic variants?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The variant list identifies each stone as natural, synthetic, or optimized. Natural stones are listed with their stone names, while synthetic and optimized options are labeled as such."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The product is a plain cross pendant; a crucifix would include a corpus of Christ, which is not part of this design."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "50f1ed66378df5266c738f6f5e054611d389ada46b077b86670a2132341a9afc",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "50f1ed66378df5266c738f6f5e054611d389ada46b077b86670a2132341a9afc",
+            "contentHash": "50f1ed66378df5266c738f6f5e054611d389ada46b077b86670a2132341a9afc",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:26.645Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGOTG7BAOVioqqEY6eqYfyD",
+      "sourceId": "AAGOTG7BAOVioqqEY6eqYfyD",
+      "sourceFingerprint": "fc9ff789a26f2c7c6bbb93aaa47c6a0b6f988792416a2640498e9c1bd14e45c6",
+      "locale": "en",
+      "slug": "30cm-hand-painted-wooden-nutcracker-soldier-figurines-eqyfyd",
+      "title": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines",
+      "eyebrow": "Hand-painted wooden nutcracker soldier figurine, 30 cm",
+      "summary": "Four vintage-style nutcracker soldiers, each 30cm tall and hand-painted in wood. The range covers a sword soldier, a spearman, a drum soldier and a trumpeter, so the figures can stand alone or be grouped as a Christmas display.",
+      "description": "Each nutcracker soldier stands 30cm tall, with painted detail applied by hand across the uniform, face and accessories. The four figures differ by what they carry: a vintage sword soldier, a retro spearman, a retro drum soldier and a vintage trumpeter. That variation gives buyers a set with a shared look but a different silhouette in each piece.\n\nThe figures are described as vintage in style, with painted finishes rather than bare timber. Choose one variant for a single focal piece or combine the four for a fuller Christmas arrangement.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAGOTG7BAOVioqqEY6eqYfyD",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hfe60001a155d474ebd28c3b58fb3f70dN.webp",
+      "imageAlt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hfe60001a155d474ebd28c3b58fb3f70dN.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H34a93841895d479ea1c2ebb93b611af0a.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc482fb3373d94898b500e524180a649ah.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8d2b56f817e7472cb23bdb085e6ca42dR.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6f863826b36649ffb0a599b15e259fd9e.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hfcd9996fe122486cb0e641dce3e75ed4T.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha46897977b624d6e87080f495e21ca9f8.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines - 1401a-vintage-sword-soldier-30cm",
+          "label": "1401a-vintage-sword-soldier-30cm",
+          "sku": "ALI-AAGOTG7BAOVioqqEY6eqYfyD-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H249badb32bfc4ade922102042957796cJ.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines - 1401b-retro-spearman-30cm",
+          "label": "1401b-retro-spearman-30cm",
+          "sku": "ALI-AAGOTG7BAOVioqqEY6eqYfyD-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H84735615a86e44bcb49a0ea0cd6bb65c1.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines - 1401d-vintage-trumpeter-30cm",
+          "label": "1401d-vintage-trumpeter-30cm",
+          "sku": "ALI-AAGOTG7BAOVioqqEY6eqYfyD-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd61393c536ea4150827bdef0584308075.webp",
+          "alt": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines - 1401c-retro-drum-soldier-30cm",
+          "label": "1401c-retro-drum-soldier-30cm",
+          "sku": "ALI-AAGOTG7BAOVioqqEY6eqYfyD-V--2"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Hand-painted wooden nutcracker soldier figurine",
+        "Each figure stands 30cm tall",
+        "Four variants: sword soldier, spearman, drum soldier, trumpeter",
+        "Vintage-style painted finish",
+        "Listed under Christmas ornaments and home decoration"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Wood"
+        },
+        {
+          "name": "Height",
+          "value": "30cm"
+        },
+        {
+          "name": "Finish",
+          "value": "Hand-painted"
+        },
+        {
+          "name": "Style",
+          "value": "Vintage"
+        },
+        {
+          "name": "Variants",
+          "value": "1401A Vintage Sword Soldier, 1401B Retro Spearman, 1401C Retro Drum Soldier, 1401D Vintage Trumpeter"
+        }
+      ],
+      "applications": [
+        "Christmas home decoration",
+        "Holiday figurine display or grouping",
+        "Seasonal retail ornament assortment"
+      ],
+      "faq": [
+        {
+          "question": "What are the four nutcracker soldier variants?",
+          "answer": "The range has four 30cm variants: 1401A Vintage Sword Soldier, 1401B Retro Spearman, 1401C Retro Drum Soldier and 1401D Vintage Trumpeter."
+        },
+        {
+          "question": "How tall is each nutcracker soldier figurine?",
+          "answer": "Each figurine in the range stands 30cm tall."
+        },
+        {
+          "question": "Are the figurines painted?",
+          "answer": "Yes. The nutcracker soldiers are described as handmade and hand-painted, with a vintage-style finish rather than bare wood."
+        }
+      ],
+      "pricing": {
+        "price": "5.60",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "4.05",
+          "max": "5.60"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "30cm Hand-Painted Wooden Nutcracker Soldier Figurines",
+          "description": "Hand-painted wooden nutcracker soldier figurines standing 30cm tall, in four vintage-style variants: Sword Soldier, Spearman, Drum Soldier and Trumpeter.",
+          "sku": "ALI-AAGOTG7BAOVioqqEY6eqYfyD",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hfe60001a155d474ebd28c3b58fb3f70dN.jpg",
+            "https://sc04.alicdn.com/kf/H34a93841895d479ea1c2ebb93b611af0a.jpg",
+            "https://sc04.alicdn.com/kf/Hc482fb3373d94898b500e524180a649ah.jpg",
+            "https://sc04.alicdn.com/kf/H8d2b56f817e7472cb23bdb085e6ca42dR.jpg",
+            "https://sc04.alicdn.com/kf/H6f863826b36649ffb0a599b15e259fd9e.jpg",
+            "https://sc04.alicdn.com/kf/Hfcd9996fe122486cb0e641dce3e75ed4T.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Wood"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Height",
+              "value": "30cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finish",
+              "value": "Hand-painted"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Vintage"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "1401A Vintage Sword Soldier, 1401B Retro Spearman, 1401C Retro Drum Soldier, 1401D Vintage Trumpeter"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "5.60",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "4.05",
+              "maxPrice": "5.60",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What are the four nutcracker soldier variants?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The range has four 30cm variants: 1401A Vintage Sword Soldier, 1401B Retro Spearman, 1401C Retro Drum Soldier and 1401D Vintage Trumpeter."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How tall is each nutcracker soldier figurine?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Each figurine in the range stands 30cm tall."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are the figurines painted?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The nutcracker soldiers are described as handmade and hand-painted, with a vintage-style finish rather than bare wood."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3878cd77f339c535341c49e767d9e2b23527d1c9aad221d441bbcf2fc2af1631",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3878cd77f339c535341c49e767d9e2b23527d1c9aad221d441bbcf2fc2af1631",
+            "contentHash": "3878cd77f339c535341c49e767d9e2b23527d1c9aad221d441bbcf2fc2af1631",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:26.749Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAGwTG7BAOVioqqEY6eq4pGP",
+      "sourceId": "AAGwTG7BAOVioqqEY6eq4pGP",
+      "sourceFingerprint": "d71484d0e04c2cab686e2b92b781d6b18c85a53127183d6964ae03d9f002a0f5",
+      "locale": "en",
+      "slug": "zinc-alloy-peace-dove-brooch-pin-eq4pgp",
+      "title": "Zinc Alloy Peace Dove Brooch Pin",
+      "eyebrow": "Zinc alloy peace dove brooch pin",
+      "summary": "This unisex brooch pin is cast in zinc alloy and shaped as a peace dove. It has no main stone, so the dove silhouette carries the design on its own. The pin works as a small gift or as an accessory for weddings, parties, and anniversaries.",
+      "description": "The peace dove brooch pin is a zinc alloy accessory with a dove motif and no main stone. Because the design relies on the metal shape rather than added stones, the dove outline stays clear at a small scale.\n\nIt is listed as unisex, so the same pin can be offered in a single style across men's and women's assortments. Buyers commonly place brooch pins like this one in gift, wedding, party, and anniversary selections.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "210",
+          "name": "Brooch",
+          "slug": "brooch"
+        }
+      ],
+      "sku": "ALI-AAGwTG7BAOVioqqEY6eq4pGP",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H10be4044a29a4075aaf9d8f01c643270c.webp",
+      "imageAlt": "Zinc Alloy Peace Dove Brooch Pin",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H10be4044a29a4075aaf9d8f01c643270c.webp",
+          "alt": "Zinc Alloy Peace Dove Brooch Pin"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hce8d993ea886438c89d00acfb17b88e9w.webp",
+          "alt": "Zinc Alloy Peace Dove Brooch Pin"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hda8c21081d594fb887d42df3e3db6457l.webp",
+          "alt": "Zinc Alloy Peace Dove Brooch Pin"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H53def7aa57a244a298c08f2740d3c5b2E.webp",
+          "alt": "Zinc Alloy Peace Dove Brooch Pin"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H514973a5bc7747c5b4b0e6d7820d5501Y.webp",
+          "alt": "Zinc Alloy Peace Dove Brooch Pin"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8db50215c74c4b289e8a127edd51a1d45.webp",
+          "alt": "Zinc Alloy Peace Dove Brooch Pin"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8a7b55",
+      "features": [
+        "Peace dove motif brooch pin",
+        "Cast in zinc alloy",
+        "No main stone",
+        "Listed as unisex",
+        "Suitable for gift, wedding, party, and anniversary use"
+      ],
+      "specifications": [
+        {
+          "name": "Jewelry Main Material",
+          "value": "Alloy"
+        },
+        {
+          "name": "Material Type",
+          "value": "Zinc Alloy"
+        },
+        {
+          "name": "Brooches Type",
+          "value": "Brooch Pins"
+        },
+        {
+          "name": "Gender",
+          "value": "Women's, Men's, Unisex"
+        },
+        {
+          "name": "Main Stone",
+          "value": "None"
+        },
+        {
+          "name": "Occasion",
+          "value": "Engagement, Gift, Wedding, Anniversary, Party"
+        },
+        {
+          "name": "Place of Origin",
+          "value": "CN;ZHE"
+        },
+        {
+          "name": "Brand Name",
+          "value": "OUOOO"
+        }
+      ],
+      "applications": [
+        "Gift giving",
+        "Wedding accessories",
+        "Party wear",
+        "Anniversary gifts"
+      ],
+      "faq": [
+        {
+          "question": "What material is the peace dove brooch pin made from?",
+          "answer": "The brooch pin is made from zinc alloy, listed under alloy as the main jewelry material. It has no main stone."
+        },
+        {
+          "question": "Is the brooch pin unisex?",
+          "answer": "Yes. The gender listing covers women's, men's, and unisex, so the pin is presented as a unisex accessory."
+        },
+        {
+          "question": "What occasions is the brooch pin listed for?",
+          "answer": "The listed occasions are engagement, gift, wedding, anniversary, and party."
+        }
+      ],
+      "pricing": {
+        "price": "0.33",
+        "regularPrice": "0.33",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.24",
+          "max": "0.33"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Zinc Alloy Peace Dove Brooch Pin",
+          "description": "Unisex zinc alloy peace dove brooch pin with a dove motif, no main stone, and no additional embellishment. Suitable for gifts, weddings, parties, and anniversaries.",
+          "sku": "ALI-AAGwTG7BAOVioqqEY6eq4pGP",
+          "image": [
+            "https://sc04.alicdn.com/kf/H10be4044a29a4075aaf9d8f01c643270c.jpg",
+            "https://sc04.alicdn.com/kf/Hce8d993ea886438c89d00acfb17b88e9w.jpg",
+            "https://sc04.alicdn.com/kf/Hda8c21081d594fb887d42df3e3db6457l.jpg",
+            "https://sc04.alicdn.com/kf/H53def7aa57a244a298c08f2740d3c5b2E.jpg",
+            "https://sc04.alicdn.com/kf/H514973a5bc7747c5b4b0e6d7820d5501Y.jpg",
+            "https://sc04.alicdn.com/kf/H8db50215c74c4b289e8a127edd51a1d45.jpg"
+          ],
+          "category": "Brooch",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Jewelry Main Material",
+              "value": "Alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material Type",
+              "value": "Zinc Alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Brooches Type",
+              "value": "Brooch Pins"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Gender",
+              "value": "Women's, Men's, Unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Main Stone",
+              "value": "None"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Occasion",
+              "value": "Engagement, Gift, Wedding, Anniversary, Party"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of Origin",
+              "value": "CN;ZHE"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Brand Name",
+              "value": "OUOOO"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.33",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.24",
+              "maxPrice": "0.33",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the peace dove brooch pin made from?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The brooch pin is made from zinc alloy, listed under alloy as the main jewelry material. It has no main stone."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the brooch pin unisex?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The gender listing covers women's, men's, and unisex, so the pin is presented as a unisex accessory."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What occasions is the brooch pin listed for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The listed occasions are engagement, gift, wedding, anniversary, and party."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2b3f61f4e11412b0b457670e5822261bbee3b19f85b3cda62529728d1c559971",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2b3f61f4e11412b0b457670e5822261bbee3b19f85b3cda62529728d1c559971",
+            "contentHash": "2b3f61f4e11412b0b457670e5822261bbee3b19f85b3cda62529728d1c559971",
+            "attempts": 0,
+            "updatedAt": "2026-10-25T17:18:28.619Z",
             "model": "deepseek-v4-flash"
           }
         }
