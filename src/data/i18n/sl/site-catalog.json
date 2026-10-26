@@ -2,23 +2,23 @@
   "schemaVersion": 3,
   "locale": "sl",
   "sourceLocale": "en",
-  "sourceCatalogHash": "0f85ae38671ddc58e21792899252579ce5ff3af7c0461a36546c74065b66ffd0",
-  "generatedAt": "2026-10-25T17:26:10.761Z",
+  "sourceCatalogHash": "9bcc0fc8ac06bec8f45e045028075952d99a830686b9a5676f3fa4619dc6216a",
+  "generatedAt": "2026-10-26T19:45:26.253Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-09T15:58:16.918Z",
     "modifiedAfter": null,
     "changedProductIds": [
-      "AAEsTG7BAOVioqqEY6es7VM8",
-      "AAGmTG7BAOVioqqEY6es7duu",
-      "AAHvTG7BAOVioqqEY6eqtIcG",
-      "AAEUTG7BAOVioqqEY6eqtHHB",
-      "AAGyTG7BAOVioqqEY6eqtQPM",
-      "AAGsTG7BAOVioqqEY6eqtRG4",
-      "AAG2TG7BAOVioqqEY6eq44yZ",
-      "AAHDTG7BAOVioqqEY6eqYPq7",
-      "AAGOTG7BAOVioqqEY6eqYfyD",
-      "AAGwTG7BAOVioqqEY6eq4pGP"
+      "AAFQTG7BAOVioqqEY6eqRyE6",
+      "AAHZTG7BAOVioqqEY6eqRe_3",
+      "AAH3TG7BAOVioqqEY6eqQq_Y",
+      "AAHMTG7BAOVioqqEY6eqRZy9",
+      "AAEwTG7BAOVioqqEY6eqRUl0",
+      "AAHITG7BAOVioqqEY6eqguG3",
+      "AAHLTG7BAOVioqqEY6eqgknS",
+      "AAHkTG7BAOVioqqEY6eqBw4h",
+      "AAEiTG7BAOVioqqEY6eqB5tS",
+      "AAFLTG7BAOVioqqEY6eqo3EJ"
     ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
@@ -39,29 +39,30 @@
     "brooch": "Broska",
     "uncategorized": "Nerazvrščeno"
   },
-  "categoryGlossarySourceHash": "4a86757abd72447c98bb9c8f6706ce10a440e73eb1a0f384ce13d0de0da8aba2",
+  "categoryGlossarySourceHash": "69c58b580fac55644532e4210a9b02c21cf7feb641cc8250cf5b4673088ed847",
   "translationSummary": {
-    "ready": 993,
-    "skipped": 2,
+    "ready": 1003,
+    "skipped": 1,
     "skippedProductIds": [
-      "AAEDTG7BAOVioqqEY6elzmkj",
       "AAHDTG7BAOVioqqEY6eqYPq7"
     ],
-    "reused": 984,
-    "generated": 9,
+    "reused": 992,
+    "generated": 11,
     "generatedProductIds": [
       "AAEsTG7BAOVioqqEY6es7VM8",
-      "AAGmTG7BAOVioqqEY6es7duu",
-      "AAHvTG7BAOVioqqEY6eqtIcG",
-      "AAEUTG7BAOVioqqEY6eqtHHB",
-      "AAGyTG7BAOVioqqEY6eqtQPM",
-      "AAGsTG7BAOVioqqEY6eqtRG4",
-      "AAG2TG7BAOVioqqEY6eq44yZ",
-      "AAGOTG7BAOVioqqEY6eqYfyD",
-      "AAGwTG7BAOVioqqEY6eq4pGP"
+      "AAFQTG7BAOVioqqEY6eqRyE6",
+      "AAHZTG7BAOVioqqEY6eqRe_3",
+      "AAH3TG7BAOVioqqEY6eqQq_Y",
+      "AAHMTG7BAOVioqqEY6eqRZy9",
+      "AAEwTG7BAOVioqqEY6eqRUl0",
+      "AAHITG7BAOVioqqEY6eqguG3",
+      "AAHLTG7BAOVioqqEY6eqgknS",
+      "AAHkTG7BAOVioqqEY6eqBw4h",
+      "AAEiTG7BAOVioqqEY6eqB5tS",
+      "AAFLTG7BAOVioqqEY6eqo3EJ"
     ],
-    "gaveUp": 1,
-    "gaveUpSkipped": 12,
+    "gaveUp": 0,
+    "gaveUpSkipped": 13,
     "dropped": 0,
     "droppedProductIds": [],
     "retriedBacklog": 1,
@@ -511,12 +512,11 @@
   ],
   "translationRetries": {
     "AAHDTG7BAOVioqqEY6eqYPq7": {
-      "count": 1,
+      "count": 2,
       "sourceHash": "50f1ed66378df5266c738f6f5e054611d389ada46b077b86670a2132341a9afc"
     }
   },
   "translationGiveUp": {
-    "AAEDTG7BAOVioqqEY6elzmkj": "45d57c81c2c1431487ab9e5aa1a14a66003affe25415a20a47708678b0e16af1",
     "AAGxTG7BAOVioqqEY6e7uzWC": "ea7adc1644caf3e7501ab5e89ec80a6f207c7926d1888414221ce0d9af85aa32",
     "AAEDTG7BAOVioqqEY6erMoEh": "9fc9b69fdcca68e97081a3e260897b155e62a45694adc60f5af0472994011ef7",
     "AAGXTG7BAOVioqqEY6eoRu-2": "2d43165d6f5ed5fc0c7cb38ca6611ace1201c8468e2de4f0eb3391a1457f103d",
@@ -528,7 +528,8 @@
     "AAFXTG7BAOVioqqEY6e4IE0u": "e3a1c05ead164427a864c1c42a9cfd6e2b45036f56af8d54e26b28de175e8dee",
     "AAG2TG7BAOVioqqEY6evaYQW": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686",
     "AAFNTG7BAOVioqqEY6enmEhC": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279",
-    "AAFbTG7BAOVioqqEY6enYFV7": "0ded46e2356953c296ea535789b47e72bd78ea567ed91f097a24cd03e91fbd49"
+    "AAFbTG7BAOVioqqEY6enYFV7": "0ded46e2356953c296ea535789b47e72bd78ea567ed91f097a24cd03e91fbd49",
+    "AAEDTG7BAOVioqqEY6elzmkj": "45d57c81c2c1431487ab9e5aa1a14a66003affe25415a20a47708678b0e16af1"
   },
   "products": [
     {
@@ -230427,9 +230428,9 @@
       "slug": "double-sided-cross-and-virgin-mary-keychain-es7vm8",
       "title": "Dvostranski obesek za ključe s križem in Devico Marijo",
       "eyebrow": "Dvostranski obesek za ključe iz cinkove zlitine s križem in obeskom Device Marije",
-      "summary": "Obesek za ključe iz cinkove zlitine z dvostransko zasnovo: križ na eni strani in obešek Device Marije. Zlitina je ulita in dodelana s tehniko reliefnega tiska, obroč za ključe pa je namenjen večkratni uporabi in ne enkratni uporabi.",
-      "description": "Ta obesek za ključe temelji na dvostranski postavitvi, pri kateri si križ in obešek Device Marije delita en dodatek. Ohišje je ulito iz cinkove zlitine in dodelano z reliefnim tiskom, ki motivu daje dvignjeno površino namesto ploskega odtisa. Celotno obliko določa krožni vzorec. Kupci, ki primerjajo verske obeske za ključe, bodo kot glavni razlikovalni lastnosti prepoznali dvostransko obliko in ulito konstrukcijo. Zlitina je opisana kot trajna in večkrat uporabljiva, zato je obesek za ključe namenjen vsakodnevnemu nošenju in ne enkratnemu dogodku.",
-      "catholicContext": "Obesek za ključe združuje križ in obešek Device Marije, dva pogosta pobožna motiva v katoliških verskih predmetih; križ tukaj ni opisan kot razpelo.",
+      "summary": "Obesek za ključe iz cinkove zlitine z dvostranskim dizajnom: križ na eni strani in obesk Device Marije. Zlitina je ulita in obdelana s tiskanjem v reliefu, obroček za ključe pa je narejen za večkratno uporabo in ne kot izdelek za enkratno uporabo.",
+      "description": "Ta obesek za ključe temelji na dvostranski postavitvi, kjer si križ in obesk Device Marije delita en dodatak. Telo je iz ulite cinkove zlitine, obdelano s tiskanjem v reliefu, ki motivu daje dvignjeno površino namesto ploskega tiska. Krožni vzorec oblikuje celoten profil. Kupci, ki primerjajo verske obeske za ključe, bodo kot glavni razlikovalni lastnosti opazili dvostransko obliko in ulito konstrukcijo. Zlitina je opisana kot trpežna in večkrat uporabna, zato je obesek za ključe namenjen vsakodnevnemu nošenju in ne enkratnemu dogodku.",
+      "catholicContext": "Obesek za ključe združuje križ z obesk Device Marije, dvema pogostima pobožnima motivoma katoliških verskih predmetov; križ tukaj ni opisan kot razpelo.",
       "catholicRelevance": "explicit",
       "categories": [
         {
@@ -230462,11 +230463,11 @@
       "variantImages": [],
       "accent": "#6f7c72",
       "features": [
-        "Dvostranska zasnova s križem na eni strani in obeskom Device Marije",
-        "Ohišje iz ulite cinkove zlitine",
-        "Reliefni tisk na površini",
+        "Dvostranski dizajn s križem na eni strani in obesk Device Marije",
+        "Telo iz ulite cinkove zlitine",
+        "Tiskanje v reliefu na površini",
         "Krožni profil vzorca",
-        "Proizvajalec ga opisuje kot trajnega in večkrat uporabljivega"
+        "Proizvajalec ga opisuje kot trpežnega in večkrat uporabnega"
       ],
       "specifications": [
         {
@@ -230479,22 +230480,22 @@
         },
         {
           "name": "Tisk",
-          "value": "Reliefni tisk"
+          "value": "Tiskanje v reliefu"
         },
         {
           "name": "Vzorec",
           "value": "Krog"
         },
         {
-          "name": "Zasnova",
-          "value": "Dvostranska; križ in obešek Device Marije"
+          "name": "Dizajn",
+          "value": "Dvostranski; križ in obesk Device Marije"
         },
         {
           "name": "Blagovna znamka",
           "value": "OUOOO"
         },
         {
-          "name": "Kraj izvora",
+          "name": "Država porekla",
           "value": "CN;ZHE"
         },
         {
@@ -230504,22 +230505,22 @@
       ],
       "applications": [
         "Vsakodnevno organiziranje ključev",
-        "Podarjanje verskih daril",
-        "Ponudba obeskov za ključe v prodaji na drobno",
-        "Osebni dodatek za torbo ali vrvico"
+        "Verska darila",
+        "Ponudba obeskov za ključe v trgovini",
+        "Osebni dodatek za torbico ali trak"
       ],
       "faq": [
         {
           "question": "Ali je križ na tem obesku za ključe razpelo?",
-          "answer": "Ne. Podatki o izdelku opisujejo križ in obešek Device Marije na dvostranskem obesku za ključe. Kristusovo telo ni navedeno, zato križ ni razpelo."
+          "answer": "Ne. Podatki o izdelku opisujejo križ in obesk Device Marije na dvostranskem obesku za ključe. Kristusovo telo ni navedeno, zato križ ni razpelo."
         },
         {
           "question": "Iz katere kovine je obesek za ključe?",
-          "answer": "Obesek za ključe je iz ulite cinkove zlitine, na površini pa je reliefni tisk."
+          "answer": "Obesek za ključe je iz ulite cinkove zlitine, na površino pa je naneseno tiskanje v reliefu."
         },
         {
-          "question": "Ali ima obesek za ključe vzorec na obeh straneh?",
-          "answer": "Da. Obesek za ključe je opisan kot dvostranski, z dvema motivoma: križem in obeskom Device Marije."
+          "question": "Ali ima obesek za ključe dizajn na obeh straneh?",
+          "answer": "Da. Obesek za ključe je opisan kot dvostranski, z dvema motivoma: križem in obesk Device Marije."
         }
       ],
       "pricing": {
@@ -230537,7 +230538,7 @@
           "@context": "https://schema.org",
           "@type": "Product",
           "name": "Dvostranski obesek za ključe s križem in Devico Marijo",
-          "description": "Obesek za ključe iz cinkove zlitine z dvostransko zasnovo: križ na eni strani in obešek Device Marije. Zlitina je ulita in dodelana s tehniko reliefnega tiska, obroč za ključe pa je namenjen večkratni uporabi in ne enkratni uporabi.",
+          "description": "Obesek za ključe iz cinkove zlitine z dvostranskim dizajnom: križ na eni strani in obesk Device Marije. Zlitina je ulita in obdelana s tiskanjem v reliefu, obroček za ključe pa je narejen za večkratno uporabo in ne kot izdelek za enkratno uporabo.",
           "sku": "ALI-AAEsTG7BAOVioqqEY6es7VM8",
           "image": [
             "https://sc04.alicdn.com/kf/Hd7e4c43e7cf946ea8cadff58dce6e9a6H.jpg",
@@ -230560,7 +230561,7 @@
             {
               "@type": "PropertyValue",
               "name": "Tisk",
-              "value": "Reliefni tisk"
+              "value": "Tiskanje v reliefu"
             },
             {
               "@type": "PropertyValue",
@@ -230569,8 +230570,8 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Zasnova",
-              "value": "Dvostranska; križ in obešek Device Marije"
+              "name": "Dizajn",
+              "value": "Dvostranski; križ in obesk Device Marije"
             },
             {
               "@type": "PropertyValue",
@@ -230579,7 +230580,7 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Kraj izvora",
+              "name": "Država porekla",
               "value": "CN;ZHE"
             },
             {
@@ -230610,7 +230611,7 @@
               "name": "Ali je križ na tem obesku za ključe razpelo?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ne. Podatki o izdelku opisujejo križ in obešek Device Marije na dvostranskem obesku za ključe. Kristusovo telo ni navedeno, zato križ ni razpelo."
+                "text": "Ne. Podatki o izdelku opisujejo križ in obesk Device Marije na dvostranskem obesku za ključe. Kristusovo telo ni navedeno, zato križ ni razpelo."
               }
             },
             {
@@ -230618,15 +230619,15 @@
               "name": "Iz katere kovine je obesek za ključe?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Obesek za ključe je iz ulite cinkove zlitine, na površini pa je reliefni tisk."
+                "text": "Obesek za ključe je iz ulite cinkove zlitine, na površino pa je naneseno tiskanje v reliefu."
               }
             },
             {
               "@type": "Question",
-              "name": "Ali ima obesek za ključe vzorec na obeh straneh?",
+              "name": "Ali ima obesek za ključe dizajn na obeh straneh?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Da. Obesek za ključe je opisan kot dvostranski, z dvema motivoma: križem in obeskom Device Marije."
+                "text": "Da. Obesek za ključe je opisan kot dvostranski, z dvema motivoma: križem in obesk Device Marije."
               }
             }
           ]
@@ -230634,22 +230635,22 @@
       },
       "localization": {
         "sourceLocale": "en",
-        "sourceHash": "0a0221397d240638581633ee9f5c6a88498c7e8f355ff6079c209cf29d2a1376",
+        "sourceHash": "94612f2f8616dd01b76eac08ee7193a5ecbc6ac2f710f0cfaa5760ca079edb15",
         "translations": {
           "en": {
             "status": "source",
-            "sourceHash": "0a0221397d240638581633ee9f5c6a88498c7e8f355ff6079c209cf29d2a1376",
-            "contentHash": "0a0221397d240638581633ee9f5c6a88498c7e8f355ff6079c209cf29d2a1376",
+            "sourceHash": "94612f2f8616dd01b76eac08ee7193a5ecbc6ac2f710f0cfaa5760ca079edb15",
+            "contentHash": "94612f2f8616dd01b76eac08ee7193a5ecbc6ac2f710f0cfaa5760ca079edb15",
             "attempts": 0,
             "updatedAt": "2026-10-25T17:18:00.485Z",
             "model": "deepseek-v4-flash"
           },
           "sl": {
             "status": "ready",
-            "sourceHash": "0a0221397d240638581633ee9f5c6a88498c7e8f355ff6079c209cf29d2a1376",
-            "contentHash": "683fda756bb8a74419368bed9c0deb8e6e79433c1234a8bcef1f719bfe820669",
+            "sourceHash": "94612f2f8616dd01b76eac08ee7193a5ecbc6ac2f710f0cfaa5760ca079edb15",
+            "contentHash": "2813120745c7e01d67b1e8efc6df2fdad0894ec64510121cb85602ebd68d110b",
             "attempts": 1,
-            "updatedAt": "2026-10-25T17:24:07.827Z",
+            "updatedAt": "2026-10-26T19:44:12.787Z",
             "model": "deepseek-v4-flash"
           }
         }
@@ -232572,6 +232573,2670 @@
             "contentHash": "f4342697062079d99c57fbe832a68701e1f01e9819c6ec05021458e839451c74",
             "attempts": 1,
             "updatedAt": "2026-10-25T17:26:10.757Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFQTG7BAOVioqqEY6eqRyE6",
+      "sourceId": "AAFQTG7BAOVioqqEY6eqRyE6",
+      "sourceFingerprint": "6bd7a6b7127029d32aa360dca42bd577f19633a8362d04a0219577f492a2024c",
+      "locale": "sl",
+      "slug": "wooden-gingerbread-man-nutcracker-puppet-ornament-35-cm-eqrye6",
+      "title": "Lesen okrasek lutka orehovec v obliki medenjaka, 35 cm",
+      "eyebrow": "Izrezljan lesen okrasek lutka orehovec v obliki medenjaka, 35 cm",
+      "summary": "Kupci, ki sestavljajo paleto božičnih okraskov, lahko dodajo figuro, ki se razlikuje od steklenih in tkaninskih okraskov. Ta 35 cm visok medenjak v slogu lutke orehovca je izrezljan iz lesa in ročno izdelan, zato lahko služi kot osrednji kos na polici, visi kot velik okrasek ali se prodaja kot praznična darilna figura.",
+      "description": "Leseni okraski ustrezajo kupcem, ki želijo dekoracijo z vidno težo materiala namesto lahkega okraska. Ta medenjak v slogu lutke orehovca je izrezljan in ročno izdelan ter v božični ponudbi izstopa s 35 cm. V eni figuri združuje dva znana praznična motiva.\n\nFigura je uvrščena med okraske in dekoracijo za dom, zato jo je mogoče ponuditi na drevesu, v oknu ali kot samostoječi kos na polici. Izrezljana lesena konstrukcija in ročno dokončana površina dajeta vsakemu kosu naravno raznolikost v teksturi lesa in podrobnostih površine.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFQTG7BAOVioqqEY6eqRyE6",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H750c9ade9800475b8c419377613e36bfD.webp",
+      "imageAlt": "Lesen okrasek lutka orehovec v obliki medenjaka, 35 cm",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H750c9ade9800475b8c419377613e36bfD.webp",
+          "alt": "Lesen okrasek lutka orehovec v obliki medenjaka, 35 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb49f9e0e6ddf42bdb2480b54f057e39a7.webp",
+          "alt": "Lesen okrasek lutka orehovec v obliki medenjaka, 35 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Haf210f3266704e4bad7022e853c0dfc0Y.webp",
+          "alt": "Lesen okrasek lutka orehovec v obliki medenjaka, 35 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He749727625dd4bfb831251786e49c60aF.webp",
+          "alt": "Lesen okrasek lutka orehovec v obliki medenjaka, 35 cm"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H590b2cdb8ed24e7bbd4f5a61f56710431.webp",
+          "alt": "Lesen okrasek lutka orehovec v obliki medenjaka, 35 cm"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Izrezljano iz lesa",
+        "Ročno izdelana konstrukcija",
+        "Figura medenjaka v slogu lutke orehovca",
+        "35 cm visoko",
+        "Uvrščeno kot okrasek figura za dekoracijo doma"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Les"
+        },
+        {
+          "name": "Višina",
+          "value": "35 cm"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Okrasek figura"
+        },
+        {
+          "name": "Tehnika",
+          "value": "Izrezljano"
+        },
+        {
+          "name": "Značilnost",
+          "value": "Ročno izdelano"
+        },
+        {
+          "name": "Tema",
+          "value": "Božič in dekoracija doma"
+        }
+      ],
+      "applications": [
+        "Okraski za božično drevo in praznične postavitve",
+        "Trgovinske palete okraskov in daril",
+        "Dekoracija domačih polic, kaminov in oken",
+        "Praznični spominki in poslovna darila"
+      ],
+      "faq": [
+        {
+          "question": "Kako visok je leseni medenjak v slogu lutke orehovca?",
+          "answer": "Figura je visoka 35 cm, zato je velik okrasek ali majhna stoječa dekoracija."
+        },
+        {
+          "question": "Je okrasek ročno izdelan?",
+          "answer": "Da. Izdelek je naveden kot ročno izdelan in izrezljan iz lesa."
+        },
+        {
+          "question": "Ali ga je mogoče uporabiti izven božičnega časa?",
+          "answer": "Navedena dejstva o izdelku kot glavno temo navajajo božič, z uporabo za praznično dekoracijo in darila. Druge sezonske uporabe za ta izdelek niso potrjene."
+        }
+      ],
+      "pricing": {
+        "price": "9.85",
+        "regularPrice": "9.85",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "7.12",
+          "max": "9.85"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Lesen okrasek lutka orehovec v obliki medenjaka, 35 cm",
+          "description": "Kupci, ki sestavljajo paleto božičnih okraskov, lahko dodajo figuro, ki se razlikuje od steklenih in tkaninskih okraskov. Ta 35 cm visok medenjak v slogu lutke orehovca je izrezljan iz lesa in ročno izdelan, zato lahko služi kot osrednji kos na polici, visi kot velik okrasek ali se prodaja kot praznična darilna figura.",
+          "sku": "ALI-AAFQTG7BAOVioqqEY6eqRyE6",
+          "image": [
+            "https://sc04.alicdn.com/kf/H750c9ade9800475b8c419377613e36bfD.jpg",
+            "https://sc04.alicdn.com/kf/Hb49f9e0e6ddf42bdb2480b54f057e39a7.jpg",
+            "https://sc04.alicdn.com/kf/Haf210f3266704e4bad7022e853c0dfc0Y.jpg",
+            "https://sc04.alicdn.com/kf/He749727625dd4bfb831251786e49c60aF.jpg",
+            "https://sc04.alicdn.com/kf/H590b2cdb8ed24e7bbd4f5a61f56710431.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Višina",
+              "value": "35 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Okrasek figura"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnika",
+              "value": "Izrezljano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Značilnost",
+              "value": "Ročno izdelano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tema",
+              "value": "Božič in dekoracija doma"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "9.85",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "7.12",
+              "maxPrice": "9.85",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kako visok je leseni medenjak v slogu lutke orehovca?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Figura je visoka 35 cm, zato je velik okrasek ali majhna stoječa dekoracija."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je okrasek ročno izdelan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Izdelek je naveden kot ročno izdelan in izrezljan iz lesa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali ga je mogoče uporabiti izven božičnega časa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedena dejstva o izdelku kot glavno temo navajajo božič, z uporabo za praznično dekoracijo in darila. Druge sezonske uporabe za ta izdelek niso potrjene."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "af0bb4cc51bc6658e5a34bf440638ce38dd94a718f9b12ed472cc4a893fe8a01",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "af0bb4cc51bc6658e5a34bf440638ce38dd94a718f9b12ed472cc4a893fe8a01",
+            "contentHash": "af0bb4cc51bc6658e5a34bf440638ce38dd94a718f9b12ed472cc4a893fe8a01",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:37:30.665Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "af0bb4cc51bc6658e5a34bf440638ce38dd94a718f9b12ed472cc4a893fe8a01",
+            "contentHash": "870f9d907e2556738e16dbacf193229cd0e4f0cfddcd2aa5984e17c89289e00d",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:44:19.373Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHZTG7BAOVioqqEY6eqRe_3",
+      "sourceId": "AAHZTG7BAOVioqqEY6eqRe_3",
+      "sourceFingerprint": "4958268639e1ff711511721218fe7e4c4f71676c927557bf6099eeee575461ff",
+      "locale": "sl",
+      "slug": "13-cm-wooden-nutcracker-hanging-ornaments-eqre_3",
+      "title": "13 cm leseni obeski za ključe z orehovcem",
+      "eyebrow": "Lesen vojak orehovec božični viseči okras z glasbenim bobnom",
+      "summary": "Ti 13 cm viseči okraski so leseni vojaki orehovci, vsak v paru z glasbenim bobnom za božično razstavo. Kupci izbirajo med barvnima različicama belo-zlato in rdeče-belo, vsaka različica pa je pakirana kot komplet petih kosov, kar daje usklajen videz na drevesu, girlandi ali v maloprodajni razstavi okraskov.",
+      "description": "Les je viden material pri teh okraskih vojakov orehovcev, razrezanih v 13 cm visečo obliko. Vsaka figura ima glasbeni boben, kompaktna velikost pa ustreza vejam, girlandam in razstavam v majhnih prostorih, ne da bi jih prenatrpala.\n\nPaleta je na voljo v dveh barvnih različicah: belo-zlati in rdeče-beli. Obe sta dobavljeni kot božični kompleti petih kosov, tako da eno naročilo prinese več usklajenih okraskov. Preden se odločite za količino, primerjajte obe paleti z obstoječim prazničnim asortimentom.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHZTG7BAOVioqqEY6eqRe_3",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H99a8466d457a49208dd14503743256b1C.webp",
+      "imageAlt": "13 cm leseni obeski za ključe z orehovcem",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H99a8466d457a49208dd14503743256b1C.webp",
+          "alt": "13 cm leseni obeski za ključe z orehovcem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hff66a46a4f1a4a40acfdee2eef42b44br.webp",
+          "alt": "13 cm leseni obeski za ključe z orehovcem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8f9cb90dd8e64e33bf6beef20a1f6c37w.webp",
+          "alt": "13 cm leseni obeski za ključe z orehovcem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H948632e89fe449a59e8fcef1ac803ed7y.webp",
+          "alt": "13 cm leseni obeski za ključe z orehovcem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9aa20d1ada604a2cbe81bf6b695fe543I.webp",
+          "alt": "13 cm leseni obeski za ključe z orehovcem"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7a0ac6c64b4c4c8ea5e918c53c75c1bew.webp",
+          "alt": "13 cm leseni obeski za ključe z orehovcem - m13504-white-gold-13cm-christmas-set-of-five",
+          "label": "m13504-white-gold-13cm-christmas-set-of-five",
+          "sku": "ALI-AAHZTG7BAOVioqqEY6eqRe_3-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3db412ba4e2e4bd487d8298c2c5ec6c0B.webp",
+          "alt": "13 cm leseni obeski za ključe z orehovcem - m13505-red-and-white-13cm-christmas-set-of-five",
+          "label": "m13505-red-and-white-13cm-christmas-set-of-five",
+          "sku": "ALI-AAHZTG7BAOVioqqEY6eqRe_3-V--1"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "13 cm leseni viseči okraski vojakov orehovcev",
+        "Vsak okras vključuje okras glasbenega bobna",
+        "Belo-zlata barvna različica dobavljena kot komplet petih kosov",
+        "Rdeče-bela barvna različica dobavljena kot komplet petih kosov",
+        "V eni paleti okraskov sta na voljo dve barvni različici"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Les"
+        },
+        {
+          "name": "Višina",
+          "value": "13 cm"
+        },
+        {
+          "name": "Oblika",
+          "value": "Vojak orehovec z glasbenim bobnom"
+        },
+        {
+          "name": "Različica",
+          "value": "M13504 belo-zlata - 13CM božični komplet petih kosov"
+        },
+        {
+          "name": "Različica",
+          "value": "M13505 rdeče-bela - 13CM božični komplet petih kosov"
+        },
+        {
+          "name": "Oblika pakiranja",
+          "value": "Komplet petih kosov na različico"
+        }
+      ],
+      "applications": [
+        "Viseči okras za božično drevo",
+        "Poudarki za girlande in vence",
+        "Praznične maloprodajne razstave okraskov",
+        "DIY projekti okraskov in daril"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala so okraski orehovci?",
+          "answer": "Okraski vojakov orehovcev so leseni, v 13 cm viseči obliki."
+        },
+        {
+          "question": "Katere barvne različice so na voljo?",
+          "answer": "Na voljo sta dve različici: M13504 v belo-zlati in M13505 v rdeče-beli."
+        },
+        {
+          "question": "Koliko okraskov je v vsakem kompletu?",
+          "answer": "Vsaka različica je dobavljena kot božični komplet petih kosov, torej en komplet vsebuje pet 13 cm okraskov."
+        }
+      ],
+      "pricing": {
+        "price": "6.66",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "4.81",
+          "max": "6.66"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "13 cm leseni obeski za ključe z orehovcem",
+          "description": "Ti 13 cm viseči okraski so leseni vojaki orehovci, vsak v paru z glasbenim bobnom za božično razstavo. Kupci izbirajo med barvnima različicama belo-zlato in rdeče-belo, vsaka različica pa je pakirana kot komplet petih kosov, kar daje usklajen videz na drevesu, girlandi ali v maloprodajni razstavi okraskov.",
+          "sku": "ALI-AAHZTG7BAOVioqqEY6eqRe_3",
+          "image": [
+            "https://sc04.alicdn.com/kf/H99a8466d457a49208dd14503743256b1C.jpg",
+            "https://sc04.alicdn.com/kf/Hff66a46a4f1a4a40acfdee2eef42b44br.jpg",
+            "https://sc04.alicdn.com/kf/H8f9cb90dd8e64e33bf6beef20a1f6c37w.jpg",
+            "https://sc04.alicdn.com/kf/H948632e89fe449a59e8fcef1ac803ed7y.jpg",
+            "https://sc04.alicdn.com/kf/H9aa20d1ada604a2cbe81bf6b695fe543I.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Višina",
+              "value": "13 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika",
+              "value": "Vojak orehovec z glasbenim bobnom"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različica",
+              "value": "M13504 belo-zlata - 13CM božični komplet petih kosov"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različica",
+              "value": "M13505 rdeče-bela - 13CM božični komplet petih kosov"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Oblika pakiranja",
+              "value": "Komplet petih kosov na različico"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "6.66",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "4.81",
+              "maxPrice": "6.66",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala so okraski orehovci?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Okraski vojakov orehovcev so leseni, v 13 cm viseči obliki."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere barvne različice so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Na voljo sta dve različici: M13504 v belo-zlati in M13505 v rdeče-beli."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko okraskov je v vsakem kompletu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vsaka različica je dobavljena kot božični komplet petih kosov, torej en komplet vsebuje pet 13 cm okraskov."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "c5ff96a9545b58523f8bdaa38f1d758226020a4dc859b08fde0d0bf0b4bf61b7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "c5ff96a9545b58523f8bdaa38f1d758226020a4dc859b08fde0d0bf0b4bf61b7",
+            "contentHash": "c5ff96a9545b58523f8bdaa38f1d758226020a4dc859b08fde0d0bf0b4bf61b7",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:37:48.224Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "c5ff96a9545b58523f8bdaa38f1d758226020a4dc859b08fde0d0bf0b4bf61b7",
+            "contentHash": "3cc29f00546fe74e439f0b03557f694bd53273ab1d5e23a98ce05ec7bbf9c8df",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:44:26.074Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAH3TG7BAOVioqqEY6eqQq_Y",
+      "sourceId": "AAH3TG7BAOVioqqEY6eqQq_Y",
+      "sourceFingerprint": "13f0733d58db9e101bcae74a5788e7caff95c42b3d4b7f44f9977185d16f1cd1",
+      "locale": "sl",
+      "slug": "wooden-nutcracker-soldier-christmas-figurine-eqqq_y",
+      "title": "Lesena figurica vojaka orehovega krekerja za božič",
+      "eyebrow": "Figurica vojaka orehovega krekerja iz lesa",
+      "summary": "Ta figurica vojaka orehovega krekerja iz lesa je ročno izdelan, poslikan praznični okras za mizo in dom. Izdelana je iz lesa in dodelana s poslikanimi podrobnostmi, primerna pa je za božično okraševanje, praznična darila in razstavljanje v zbirki.",
+      "description": "Figurica vojaka orehovega krekerja iz lesa, ročno izdelana in poslikana, zasnovana kot praznični okras za mizo. Figurica ima za glavni material les, s poslikanimi podrobnostmi, ki vsak kos naredijo edinstven. Namenjena je božičnemu in širšemu prazničnemu okraševanju doma.\n\nFigura vojaka orehovega krekerja je dovolj majhna za razstavljanje na mizi, polici ali kaminu. Kot poslikan lesen okras jo je mogoče zbirati, podariti ali uporabiti kot del sezonskega prikaza, ki se skozi leto spreminja. Njena tema se navezuje na televizijski in filmski lik, kar ji daje prepoznavno silhueto za praznično okraševanje.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH3TG7BAOVioqqEY6eqQq_Y",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H68c4ae6c7e164bb59ebe32112698de16b.webp",
+      "imageAlt": "Lesena figurica vojaka orehovega krekerja za božič",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H68c4ae6c7e164bb59ebe32112698de16b.webp",
+          "alt": "Lesena figurica vojaka orehovega krekerja za božič"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hef18f6d4fca840b498d744f3deac6e847.webp",
+          "alt": "Lesena figurica vojaka orehovega krekerja za božič"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8fc37e5cbdd3443d934498d41b90829aB.webp",
+          "alt": "Lesena figurica vojaka orehovega krekerja za božič"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1d690bce2a1e452d81ddecb45e2c6df5e.webp",
+          "alt": "Lesena figurica vojaka orehovega krekerja za božič"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H865cd47780904e49aa30267d6e15b389l.webp",
+          "alt": "Lesena figurica vojaka orehovega krekerja za božič"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6f7c72",
+      "features": [
+        "Ročno izdelana lesena konstrukcija",
+        "Poslikana površina",
+        "Oblika figurice vojaka orehovega krekerja",
+        "Oblika okrasa za mizo ali dom",
+        "Primerno za božično in praznično okraševanje"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Les"
+        },
+        {
+          "name": "Lastnost",
+          "value": "Ročno izdelano"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Figurica"
+        },
+        {
+          "name": "Tehnika",
+          "value": "Poslikano"
+        },
+        {
+          "name": "Tema",
+          "value": "TV in filmski lik"
+        },
+        {
+          "name": "Država porekla",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Božično okraševanje doma",
+        "Razstavljanje okrasa na mizi",
+        "Praznično obdarovanje",
+        "Razstavljanje figurice v zbirki"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je izdelana figurica vojaka orehovega krekerja?",
+          "answer": "Figurica vojaka orehovega krekerja je izdelana iz lesa."
+        },
+        {
+          "question": "Ali je figurica ročno izdelana in poslikana?",
+          "answer": "Da. Podatki o izdelku navajajo, da je figurica ročno izdelana in poslikana."
+        },
+        {
+          "question": "Kje je izdelana lesena figurica vojaka orehovega krekerja?",
+          "answer": "Navedena država porekla je CN;ZHE."
+        }
+      ],
+      "pricing": {
+        "price": "3.46",
+        "regularPrice": "3.46",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "2.50",
+          "max": "3.46"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Lesena figurica vojaka orehovega krekerja za božič",
+          "description": "Ta figurica vojaka orehovega krekerja iz lesa je ročno izdelan, poslikan praznični okras za mizo in dom. Izdelana je iz lesa in dodelana s poslikanimi podrobnostmi, primerna pa je za božično okraševanje, praznična darila in razstavljanje v zbirki.",
+          "sku": "ALI-AAH3TG7BAOVioqqEY6eqQq_Y",
+          "image": [
+            "https://sc04.alicdn.com/kf/H68c4ae6c7e164bb59ebe32112698de16b.jpg",
+            "https://sc04.alicdn.com/kf/Hef18f6d4fca840b498d744f3deac6e847.jpg",
+            "https://sc04.alicdn.com/kf/H8fc37e5cbdd3443d934498d41b90829aB.jpg",
+            "https://sc04.alicdn.com/kf/H1d690bce2a1e452d81ddecb45e2c6df5e.jpg",
+            "https://sc04.alicdn.com/kf/H865cd47780904e49aa30267d6e15b389l.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lastnost",
+              "value": "Ročno izdelano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Figurica"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnika",
+              "value": "Poslikano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tema",
+              "value": "TV in filmski lik"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Država porekla",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "3.46",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "2.50",
+              "maxPrice": "3.46",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je izdelana figurica vojaka orehovega krekerja?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Figurica vojaka orehovega krekerja je izdelana iz lesa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali je figurica ročno izdelana in poslikana?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Podatki o izdelku navajajo, da je figurica ročno izdelana in poslikana."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kje je izdelana lesena figurica vojaka orehovega krekerja?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedena država porekla je CN;ZHE."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "30024fc7a0848c6a23a45347d6a37084bbfd49c58de4055aef7cbd82bc2fee66",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "30024fc7a0848c6a23a45347d6a37084bbfd49c58de4055aef7cbd82bc2fee66",
+            "contentHash": "30024fc7a0848c6a23a45347d6a37084bbfd49c58de4055aef7cbd82bc2fee66",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:38:03.738Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "30024fc7a0848c6a23a45347d6a37084bbfd49c58de4055aef7cbd82bc2fee66",
+            "contentHash": "e3df701955ff57d21658cbde3d756d75f1130423036e01c7ddc51c2bc83aabb5",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:44:31.445Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHMTG7BAOVioqqEY6eqRZy9",
+      "sourceId": "AAHMTG7BAOVioqqEY6eqRZy9",
+      "sourceFingerprint": "c6fe41596153db24154f1db52a94c672fc8cbd92c1e6aa77ab7bf393bab9b6d8",
+      "locale": "sl",
+      "slug": "30-cm-hand-carved-wood-nutcracker-soldier-ornament-eqrzy9",
+      "title": "30 cm ročno izrezljan lesen okras vojaka orehovca",
+      "eyebrow": "Ročno izrezljan lesen obesek-okras vojaka orehovca, 30 cm",
+      "summary": "30 cm lesen okras vojaka orehovca, ročno izdelan in izrezljan, na voljo v osmih različicah: boben A, boben B, sulica A, sulica B, meč A, meč B, tip A in tip B. Vsaka figura orehovca, visoka 30 cm, služi kot božični okras za drevo, polico ali mizo.",
+      "description": "Ta leseni okras vojaka orehovca je ročno izdelana, izrezljana figura, visoka 30 cm. Kupci izbirajo med osmimi različicami v treh družinah dizajnov: boben, sulica in meč, vsaka z dvema stiloma s črko, plus tip A in tip B. Različice se razlikujejo po dizajnu, vse pa imajo enako višino 30 cm, zato mešani komplet ostane vizualno skladen v merilu.\n\nPri 30 cm je vojak orehovec dovolj velik, da je jasno viden na polici ali kaminu, a še vedno dovolj lahek za obešanje kot božični okras. Spada v kategorijo okraskov in je primeren za sezonska darila ter domačo dekoracijo. Pred naročilom primerjajte različice z bobnom, sulico in mečem, če želite enoten motiv v celotni postavitvi ali mešanico figur.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H72df136a31134eeca5c9f11d2545b25a1.webp",
+      "imageAlt": "30 cm ročno izrezljan lesen okras vojaka orehovca",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H72df136a31134eeca5c9f11d2545b25a1.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd9319bf8e6fb4605820bd317feec0e41T.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb8947a82ddd043f8a0645b439a1cffc63.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H05f752031cfa4913964e35b7fd3fb297K.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc64c5334f39f4a4dba5c2b0f5b22b840W.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc690869872974997aafa11bd29cb3321F.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H93bdbbb9fcf444ccabe29a08a8425164v.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca - spear-b-30cm",
+          "label": "spear-b-30cm",
+          "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha0d6ebb5f5494c349b32c86a8d382214a.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca - sword-b-30cm",
+          "label": "sword-b-30cm",
+          "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hbd2341f5cf4448f08006458c9732aec0o.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca - type-b-30cm",
+          "label": "type-b-30cm",
+          "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7d7748e2654040e0aaed99f5b5a2e40bg.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca - drum-b-30cm",
+          "label": "drum-b-30cm",
+          "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdea20e4213d44dcfbc845f619828f6e33.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca - spear-a-30cm",
+          "label": "spear-a-30cm",
+          "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hbeadc4831d344468aa1ea02897c0a556U.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca - sword-type-a-30cm",
+          "label": "sword-type-a-30cm",
+          "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7b050f8c252845279213e555ea107754n.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca - type-a-30cm",
+          "label": "type-a-30cm",
+          "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H313ba89680d2454bbd2ac6afbb6b3bb4h.webp",
+          "alt": "30 cm ročno izrezljan lesen okras vojaka orehovca - drum-a-30cm",
+          "label": "drum-a-30cm",
+          "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Ročno izdelana izrezljana lesena figura vojaka orehovca",
+        "Višina 30 cm pri vseh navedenih različicah",
+        "Osem različic: boben A, boben B, sulica A, sulica B, meč A, meč B, tip A, tip B",
+        "Tri družine dizajnov: boben, sulica in meč",
+        "Razvrščeno kot božični okras in kos domače dekoracije"
+      ],
+      "specifications": [
+        {
+          "name": "Vrsta izdelka",
+          "value": "Obesek-okras / figura vojaka orehovca"
+        },
+        {
+          "name": "Material",
+          "value": "Les"
+        },
+        {
+          "name": "Višina",
+          "value": "30 cm"
+        },
+        {
+          "name": "Izdelava",
+          "value": "Ročno izdelano, izrezljano"
+        },
+        {
+          "name": "Različice",
+          "value": "Boben A, boben B, sulica A, sulica B, meč A, meč B, tip A, tip B (vse 30 cm)"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Okraski"
+        }
+      ],
+      "applications": [
+        "Okras za obešanje na božično drevo",
+        "Postavitev na polici, kaminu ali mizi",
+        "Sezonsko darilo",
+        "Praznična domača dekoracija"
+      ],
+      "faq": [
+        {
+          "question": "V katerih različicah je na voljo 30 cm lesen okras vojaka orehovca?",
+          "answer": "Navedenih je osem različic: boben A, boben B, sulica A, sulica B, meč A, meč B, tip A in tip B. Vse so visoke 30 cm in se razlikujejo po dizajnu."
+        },
+        {
+          "question": "Je okras vojaka orehovca ročno izdelan?",
+          "answer": "Da. Izdelek je opisan kot ročno izdelana, izrezljana lesena figura."
+        },
+        {
+          "question": "Kako visok je vojak orehovec in ali ga je mogoče obesiti?",
+          "answer": "Figura je visoka 30 cm. Naveden je kot obesek-okras, zato ga je mogoče obesiti kot božični okras, stoji pa tudi za postavitev na polici ali mizi."
+        }
+      ],
+      "pricing": {
+        "price": "4.47",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "3.23",
+          "max": "4.47"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "30 cm ročno izrezljan lesen okras vojaka orehovca",
+          "description": "30 cm lesen okras vojaka orehovca, ročno izdelan in izrezljan, na voljo v osmih različicah: boben A, boben B, sulica A, sulica B, meč A, meč B, tip A in tip B. Vsaka figura orehovca, visoka 30 cm, služi kot božični okras za drevo, polico ali mizo.",
+          "sku": "ALI-AAHMTG7BAOVioqqEY6eqRZy9",
+          "image": [
+            "https://sc04.alicdn.com/kf/H72df136a31134eeca5c9f11d2545b25a1.png",
+            "https://sc04.alicdn.com/kf/Hd9319bf8e6fb4605820bd317feec0e41T.jpg",
+            "https://sc04.alicdn.com/kf/Hb8947a82ddd043f8a0645b439a1cffc63.jpg",
+            "https://sc04.alicdn.com/kf/H05f752031cfa4913964e35b7fd3fb297K.jpg",
+            "https://sc04.alicdn.com/kf/Hc64c5334f39f4a4dba5c2b0f5b22b840W.jpg",
+            "https://sc04.alicdn.com/kf/Hc690869872974997aafa11bd29cb3321F.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Obesek-okras / figura vojaka orehovca"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Višina",
+              "value": "30 cm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Izdelava",
+              "value": "Ročno izdelano, izrezljano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Boben A, boben B, sulica A, sulica B, meč A, meč B, tip A, tip B (vse 30 cm)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Okraski"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "4.47",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "3.23",
+              "maxPrice": "4.47",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "V katerih različicah je na voljo 30 cm lesen okras vojaka orehovca?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedenih je osem različic: boben A, boben B, sulica A, sulica B, meč A, meč B, tip A in tip B. Vse so visoke 30 cm in se razlikujejo po dizajnu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Je okras vojaka orehovca ročno izdelan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Izdelek je opisan kot ročno izdelana, izrezljana lesena figura."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kako visok je vojak orehovec in ali ga je mogoče obesiti?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Figura je visoka 30 cm. Naveden je kot obesek-okras, zato ga je mogoče obesiti kot božični okras, stoji pa tudi za postavitev na polici ali mizi."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "73ac0f25a4dbe8abd11550ef686e0603cdd6f069a5002ff87d19b7a0f5e46bd6",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "73ac0f25a4dbe8abd11550ef686e0603cdd6f069a5002ff87d19b7a0f5e46bd6",
+            "contentHash": "73ac0f25a4dbe8abd11550ef686e0603cdd6f069a5002ff87d19b7a0f5e46bd6",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:38:01.629Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "73ac0f25a4dbe8abd11550ef686e0603cdd6f069a5002ff87d19b7a0f5e46bd6",
+            "contentHash": "ace4d8655423d4f03f5dcd4458c19a3ee3cf95a512bf4c49560334b0aff02f66",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:44:39.172Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEwTG7BAOVioqqEY6eqRUl0",
+      "sourceId": "AAEwTG7BAOVioqqEY6eqRUl0",
+      "sourceFingerprint": "990f64152df10ff1e9caa61c360f0ec299156d2cbe12f618886e5ef1dc243622",
+      "locale": "sl",
+      "slug": "handmade-carved-wood-nutcracker-figurines-eqrul0",
+      "title": "Ročno izrezljane lesene figurice orehov",
+      "eyebrow": "Ročno izrezljana lesena figurica oreha",
+      "summary": "Izbira zaloge orehov pomeni usklajevanje raznolikosti likov s skladno postavitvijo na polici. Ta linija ročno izrezljanih lesenih orehov obsega 16 različic, od velikih modrih in rdečih kraljev do kraljev v macaron barvah ter orehovih vojakov, strelcev in trobentačev, tako da lahko kupci sestavijo mešan asortiment ali se osredotočijo na eno silhueto.",
+      "description": "Te figurice orehov so ročno izdelane in izrezljane iz lesa ter na voljo v širokem razponu različic, ne le kot en lik. Kupci lahko sestavijo asortiment velikih bobnarjev in kraljev v modri, rdeči, zlati ali srebrni barvi, serijo macaron kraljev v zeleni, modri, oranžni ali roza barvi ter skupino iz oreha, ki vključuje like vojaka, strelca, trobentača in bobnarja.\n\nAsortiment se deli na izrazite barvne zgodbe: globoki tradicionalni odtenki v skupini velikih kraljev in bobnarjev, mehki pastelni macaron zaključki in naravni videz oreha. Naslov vira figurice predstavlja tudi kot božično dekoracijo in kot otroško igračo darilo, kar ustreza kupcem, ki jih tržijo za praznično razstavo ali obdarovanje.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H8780a70dbccd4a77928f2042fb44dd2fS.webp",
+      "imageAlt": "Ročno izrezljane lesene figurice orehov",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8780a70dbccd4a77928f2042fb44dd2fS.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hfc7a06d9c4c843d5a042d895c2ef95b5G.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf8ad37a6a582488eaf722eee0f8c3491h.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H428f80bb7c4047e2abe2b1da534a65c3C.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7a03be0e7662494e957d17f95570674ex.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf7b8abea1c2940a9b04d8c21a1d4d587n.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - the-nutcracker-large-red-king",
+          "label": "the-nutcracker-large-red-king",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6ae2e70411b343a5b652162be4ff5784z.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - walnut-soldier-pink",
+          "label": "walnut-soldier-pink",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3fd9d6beedf54384abed16aa87572dc6x.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - the-nutcracker-large-silver-king",
+          "label": "the-nutcracker-large-silver-king",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3c6c97172fb94624852e9ea2086331b7I.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - the-nutcracker-large-golden-king",
+          "label": "the-nutcracker-large-golden-king",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H63b5c692356f47a0ab2c578039b3b0cfc.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - walnut-drummer",
+          "label": "walnut-drummer",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H697d8d10065e46e59760f196f5155718S.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - king-walnut",
+          "label": "king-walnut",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Heedc3d9154f4435e9f1f82d02e33e5ebY.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - walnut-soldier-the-crown",
+          "label": "walnut-soldier-the-crown",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H709b31c09d5d44a7a50797f79f03a5d76.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - walnut-trumpeter",
+          "label": "walnut-trumpeter",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H20b5ff1fd69d4141badd38ac865ea88cX.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - 7302a-04-macaron-nutcracker-pink-king",
+          "label": "7302a-04-macaron-nutcracker-pink-king",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1f7191895fe14f788ddeb5a979c439c4R.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - 7302a-03-macaron-nutcracker-orange-king",
+          "label": "7302a-03-macaron-nutcracker-orange-king",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H703b12d42857442eb59b05dde2eff693x.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - 7124k-3016-nutcracker-large-blue-king",
+          "label": "7124k-3016-nutcracker-large-blue-king",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H30b7f0d56242470486edc2c9c8fd3ede3.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - 7124k-3015-nutcracker-large-blue-drummer",
+          "label": "7124k-3015-nutcracker-large-blue-drummer",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H65b91c1036d140ad97a4d78ccbda0e72L.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - 7302a-02-macaron-nutcracker-blue-king",
+          "label": "7302a-02-macaron-nutcracker-blue-king",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H28ea4b96dc794267b4bfd0869b8bb03ef.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - 7302a-01-macaron-nutcracker-green-king",
+          "label": "7302a-01-macaron-nutcracker-green-king",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H173bea85fe4542d5a623756d609de527N.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - nutcracker",
+          "label": "nutcracker",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H39ff85ee9635481a90d8db3f6a3443cez.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - walnut-gunner",
+          "label": "walnut-gunner",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Heef1596c88d64dfcaa9e8ea8b1f0ee6bG.webp",
+          "alt": "Ročno izrezljane lesene figurice orehov - walnut-soldier-black-hat",
+          "label": "walnut-soldier-black-hat",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0-V--2"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Ročno izdelane, izrezljane lesene figurice orehov",
+        "16 navedenih različic likov kralja, bobnarja, vojaka, strelca in trobentača",
+        "Veliki kraljevski slogi v modri, rdeči, zlati in srebrni barvi",
+        "Serija macaron kraljev v zeleni, modri, oranžni in roza barvi",
+        "Like iz oreha vključujejo vojaka s črno kapo in roza vojaka ter okronanega vojaka",
+        "Predstavljeno kot božična dekoracija in kot otroška igrača darilo"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Les"
+        },
+        {
+          "name": "Izdelava",
+          "value": "Ročno izdelano, izrezljano"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Figurica oreha"
+        },
+        {
+          "name": "Število navedenih različic",
+          "value": "16"
+        },
+        {
+          "name": "Barvne različice velikih kraljev",
+          "value": "Modra, rdeča, zlata, srebrna"
+        },
+        {
+          "name": "Barvne različice macaron kraljev",
+          "value": "Zelena, modra, oranžna, roza"
+        },
+        {
+          "name": "Možnosti likov iz oreha",
+          "value": "Bobnar, strelec, vojak (črna kapa, roza, krona), trobentač"
+        }
+      ],
+      "applications": [
+        "Božična dekoracija",
+        "Otroška igrača darilo",
+        "Praznična razstava figuric"
+      ],
+      "faq": [
+        {
+          "question": "Koliko različic orehov je na voljo?",
+          "answer": "Navedenih je šestnajst različic, ki zajemajo velikega modrega bobnarja in velikega modrega kralja, štiri macaron kralje v zeleni, modri, oranžni in roza barvi, velike zlate, rdeče in srebrne kralje ter like bobnarja, strelca, vojaka in trobentača iz oreha."
+        },
+        {
+          "question": "Iz česa so figurice orehov izdelane?",
+          "answer": "Figurice so izdelane iz lesa ter opisane kot ročno izdelane in izrezljane."
+        },
+        {
+          "question": "Katere barvne možnosti ustrezajo pastelni postavitvi?",
+          "answer": "Serija macaron orehov kraljev je na voljo v zeleni, modri, oranžni in roza barvi, kar daje štiri mehkejše barvne različice ob globljih odtenkih velikih kraljev in bobnarjev."
+        }
+      ],
+      "pricing": {
+        "price": "6.52",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "6.52",
+          "max": "12.91"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ročno izrezljane lesene figurice orehov",
+          "description": "Izbira zaloge orehov pomeni usklajevanje raznolikosti likov s skladno postavitvijo na polici. Ta linija ročno izrezljanih lesenih orehov obsega 16 različic, od velikih modrih in rdečih kraljev do kraljev v macaron barvah ter orehovih vojakov, strelcev in trobentačev, tako da lahko kupci sestavijo mešan asortiment ali se osredotočijo na eno silhueto.",
+          "sku": "ALI-AAEwTG7BAOVioqqEY6eqRUl0",
+          "image": [
+            "https://sc04.alicdn.com/kf/H8780a70dbccd4a77928f2042fb44dd2fS.jpg",
+            "https://sc04.alicdn.com/kf/Hfc7a06d9c4c843d5a042d895c2ef95b5G.jpg",
+            "https://sc04.alicdn.com/kf/Hf8ad37a6a582488eaf722eee0f8c3491h.jpg",
+            "https://sc04.alicdn.com/kf/H428f80bb7c4047e2abe2b1da534a65c3C.jpg",
+            "https://sc04.alicdn.com/kf/H7a03be0e7662494e957d17f95570674ex.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Izdelava",
+              "value": "Ročno izdelano, izrezljano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Figurica oreha"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Število navedenih različic",
+              "value": "16"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barvne različice velikih kraljev",
+              "value": "Modra, rdeča, zlata, srebrna"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barvne različice macaron kraljev",
+              "value": "Zelena, modra, oranžna, roza"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Možnosti likov iz oreha",
+              "value": "Bobnar, strelec, vojak (črna kapa, roza, krona), trobentač"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "6.52",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "6.52",
+              "maxPrice": "12.91",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Koliko različic orehov je na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Navedenih je šestnajst različic, ki zajemajo velikega modrega bobnarja in velikega modrega kralja, štiri macaron kralje v zeleni, modri, oranžni in roza barvi, velike zlate, rdeče in srebrne kralje ter like bobnarja, strelca, vojaka in trobentača iz oreha."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Iz česa so figurice orehov izdelane?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Figurice so izdelane iz lesa ter opisane kot ročno izdelane in izrezljane."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere barvne možnosti ustrezajo pastelni postavitvi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Serija macaron orehov kraljev je na voljo v zeleni, modri, oranžni in roza barvi, kar daje štiri mehkejše barvne različice ob globljih odtenkih velikih kraljev in bobnarjev."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7056ef8c8f550ef3371d411b7b36f3e6f7337a24f44c1b0bcb7acd7070ecf935",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7056ef8c8f550ef3371d411b7b36f3e6f7337a24f44c1b0bcb7acd7070ecf935",
+            "contentHash": "7056ef8c8f550ef3371d411b7b36f3e6f7337a24f44c1b0bcb7acd7070ecf935",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:38:04.927Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "7056ef8c8f550ef3371d411b7b36f3e6f7337a24f44c1b0bcb7acd7070ecf935",
+            "contentHash": "ff483de1dab5240e7acbeb741d71de8b55691a5bf2fdab162326189bdf154d6e",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:44:48.518Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHITG7BAOVioqqEY6eqguG3",
+      "sourceId": "AAHITG7BAOVioqqEY6eqguG3",
+      "sourceFingerprint": "0f853679c9e18c1f6c747b87d8252241ead719ecda9eae1a55f1eef7f35b490a",
+      "locale": "sl",
+      "slug": "turquoise-cross-beaded-stretch-bracelet-eqgug3",
+      "title": "Turkizna rožnovenska zapestnica s križem in kroglicami",
+      "eyebrow": "Rožnovenska zapestnica s križem iz kroglic",
+      "summary": "Boho zapestnica s križem, nanizana s kroglicami v turkiznih odtenkih na elastičnem traku. Zaradi raztegljive izvedbe se prilega brez zaponke, unisex dizajn pa je na voljo v 12 barvah, od umazano bele in kaki do kraljevsko modre in črne.",
+      "description": "Ta boho zapestnica s križem združuje križ v turkiznem odtenku s kombinacijo kroglic iz akrila, smole in Lucita na elastični raztegljivi vrvici. Trak se natakne brez zaponke ali prilagajanja velikosti, zato ustreza različnim obsegom zapestja. Sam križ je preprost križ brez korpusa. Na voljo je 12 barvnih variant, vključno s svetlo zeleno, svetlo vijolično, oranžno, roza in rjavo, kar kupcem ponuja široko paleto za razstavljanje ali načrtovanje asortimana.",
+      "catholicContext": "Križ je krščanski simbol; razpelo prikazuje Kristusa na križu, preprost križ pa ne.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rožnovenske zapestnice",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H518183a78c244a0991f98e5267ed5b6dg.webp",
+      "imageAlt": "Turkizna rožnovenska zapestnica s križem in kroglicami",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H518183a78c244a0991f98e5267ed5b6dg.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H27123d1468d14cd6a0108cbe9604d51d8.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H68b7fd3c53fd47cabd36615ac13e816bt.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4a70edfa34ee40f6a6decc2c7450d35ff.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hafede57e1b3b4b55b4000e3391a8602ap.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H28ad37a51d3945c683213fe74c4c686cM.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – bela",
+          "label": "bela",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H52868a941b9e4928a49a34cdb833c2bbX.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – roza",
+          "label": "roza",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4ab64e6a1469459999edc0de960f517cM.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – črna",
+          "label": "črna",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H926572fb9e3743e38f172374b377e5d5y.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – svetlo vijolična",
+          "label": "svetlo vijolična",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H12bd0435bd934e63890ac5af0b0898bdD.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – rjava",
+          "label": "rjava",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H85e6f66170184245b4d1c724fcbff05dx.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – oranžna",
+          "label": "oranžna",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3c07592743a34c9fbecec35ce8d17156I.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – kraljevsko modra",
+          "label": "kraljevsko modra",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Ha52cd7972a0445ac8bd02140ee533eb8Q.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – svetlo modra",
+          "label": "svetlo modra",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hdd7cb898e1824be3be607430c042dacao.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – svetlo zelena",
+          "label": "svetlo zelena",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H825f282aa4da41a1a26d63f8ae192893d.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – rdeča",
+          "label": "rdeča",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He0eac26870cc406b8b641db53b327be0B.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – kaki",
+          "label": "kaki",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5b61ea743abe4680b3684fdd23dabae68.webp",
+          "alt": "Turkizna rožnovenska zapestnica s križem in kroglicami – umazano bela",
+          "label": "umazano bela",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3-V--4"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Osrednji motiv križa v turkiznem odtenku",
+        "Elastičen raztegljiv trak brez zaponke",
+        "Kroglice iz akrila, smole in Lucita",
+        "Unisex dizajn",
+        "Na voljo v 12 barvah"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Kroglice iz akrila, smole in Lucita; elastična vrvica"
+        },
+        {
+          "name": "Zapiranje",
+          "value": "Raztegljivo natikanje, brez zaponke"
+        },
+        {
+          "name": "Barvne možnosti",
+          "value": "Kaki, svetlo modra, svetlo zelena, umazano bela, kraljevsko modra, svetlo vijolična, oranžna, rjava, črna, rdeča, bela, roza"
+        },
+        {
+          "name": "Slog",
+          "value": "Boho"
+        },
+        {
+          "name": "Spol",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Veleprodajni asortiman nakita",
+        "Razstava v trgovini z darili",
+        "Vsakodnevni dodatek",
+        "Barvno usklajena prodajna razstava"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je zapestnica?",
+          "answer": "Zapestnica je iz kroglic iz akrila, smole in Lucita ter elastične raztegljive vrvice."
+        },
+        {
+          "question": "Koliko barvnih možnosti je na voljo?",
+          "answer": "Na voljo je 12 barv: kaki, svetlo modra, svetlo zelena, umazano bela, kraljevsko modra, svetlo vijolična, oranžna, rjava, črna, rdeča, bela in roza."
+        },
+        {
+          "question": "Ali ima zapestnica zaponko?",
+          "answer": "Ne, zapestnica je raztegljiva izvedba za natikanje brez zaponke."
+        }
+      ],
+      "pricing": {
+        "price": "0.29",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.21",
+          "max": "0.29"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Turkizna rožnovenska zapestnica s križem in kroglicami",
+          "description": "Boho zapestnica s križem, nanizana s kroglicami v turkiznih odtenkih na elastičnem traku. Zaradi raztegljive izvedbe se prilega brez zaponke, unisex dizajn pa je na voljo v 12 barvah, od umazano bele in kaki do kraljevsko modre in črne.",
+          "sku": "ALI-AAHITG7BAOVioqqEY6eqguG3",
+          "image": [
+            "https://sc04.alicdn.com/kf/H518183a78c244a0991f98e5267ed5b6dg.jpg",
+            "https://sc04.alicdn.com/kf/H27123d1468d14cd6a0108cbe9604d51d8.jpg",
+            "https://sc04.alicdn.com/kf/H68b7fd3c53fd47cabd36615ac13e816bt.jpg",
+            "https://sc04.alicdn.com/kf/H4a70edfa34ee40f6a6decc2c7450d35ff.jpg",
+            "https://sc04.alicdn.com/kf/Hafede57e1b3b4b55b4000e3391a8602ap.jpg"
+          ],
+          "category": "Rožnovenske zapestnice",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Kroglice iz akrila, smole in Lucita; elastična vrvica"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Zapiranje",
+              "value": "Raztegljivo natikanje, brez zaponke"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barvne možnosti",
+              "value": "Kaki, svetlo modra, svetlo zelena, umazano bela, kraljevsko modra, svetlo vijolična, oranžna, rjava, črna, rdeča, bela, roza"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Boho"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Spol",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.29",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.21",
+              "maxPrice": "0.29",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je zapestnica?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zapestnica je iz kroglic iz akrila, smole in Lucita ter elastične raztegljive vrvice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko barvnih možnosti je na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Na voljo je 12 barv: kaki, svetlo modra, svetlo zelena, umazano bela, kraljevsko modra, svetlo vijolična, oranžna, rjava, črna, rdeča, bela in roza."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali ima zapestnica zaponko?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ne, zapestnica je raztegljiva izvedba za natikanje brez zaponke."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "5a39293f41978534f45269e195abab41151d537fe91390b96abc0a397f181952",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "5a39293f41978534f45269e195abab41151d537fe91390b96abc0a397f181952",
+            "contentHash": "5a39293f41978534f45269e195abab41151d537fe91390b96abc0a397f181952",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:38:01.041Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "5a39293f41978534f45269e195abab41151d537fe91390b96abc0a397f181952",
+            "contentHash": "d2b94c8fd8c48fc0a1de33be8c22ad811808a8e19a36044e0812a90b9ba6c2e1",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:44:55.682Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHLTG7BAOVioqqEY6eqgknS",
+      "sourceId": "AAHLTG7BAOVioqqEY6eqgknS",
+      "sourceFingerprint": "a298eec433e88a9f4932fbee8af1c7102f18d8d80a06456a58bbe4d460b1a620",
+      "locale": "sl",
+      "slug": "18k-gold-plated-zinc-alloy-pendant-charm-necklace-eqgkns",
+      "title": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom",
+      "eyebrow": "ogrlica z obeskom iz cinkove zlitine s 18K pozlato",
+      "summary": "Ogrlica z obeskom je izdelana iz cinkove zlitine s 18K zlato prevleko in je na voljo v 11 različicah z zlatimi in srebrnimi zaključki. Kosi so namenjeni kot dodatki za izdelavo nakita DIY in ne kot dokončani verski izdelki. Kupci izberejo zaključek s seznama različic pri sestavljanju ali nadaljnji prodaji modelov ogrlic z obeski.",
+      "description": "Osnova teh obeskov je cinkova zlitina, zlati odtenki pa imajo 18K zlato prevleko. Seznam različic je razdeljen v dve družini zaključkov: zlati odtenki, oštevilčeni od 1 do 4, 9, 10 in 11, ter srebrni odtenki 5, 6, 7 in 8. Ta razpon kupcu omogoča, da sestavi asortiment mešanih zaključkov ali ohrani en ton v celotni liniji.\n\nKer ponudba zajema obeske in obliko ogrlice, naj kupci pred naročilom potrdijo natančen kos in konfiguracijo verižice za vsako različico. Prevleka in izdelava iz zlitine sta glavni točki pri nabavi, ki ju je treba pretehtati glede na vašo cenovno raven in ciljni trg.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Dodatki",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H63062002a6f9477499be0f5a6ce3e6312.webp",
+      "imageAlt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H63062002a6f9477499be0f5a6ce3e6312.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H49eec166e2884ab59848ef4be3a78305M.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H8bf6022d1adb437998c95aceb6575429s.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3cbcc8f065e340efaf259d5f4af4adc1R.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H675ce2131589438baba4af3c325b4d10f.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb8ee6228db5e4158835848da9f6e71deq.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H432547371c84441aa7d97eb4c9819774q.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – silver-6",
+          "label": "silver-6",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4e0422e91fdc4d39bd044ef4c5de8bbeH.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – silver-5",
+          "label": "silver-5",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H0a92535af92b4d4d8405fb77e2a41837B.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – gold-4",
+          "label": "gold-4",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H857e789f42c64312904ccfde166bc2550.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – gold-3",
+          "label": "gold-3",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7333d2d21d914f21930ca61c1de5be5fQ.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – gold-10",
+          "label": "gold-10",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H552108b2cdd1456893a58093059c0ba6T.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – gold-9",
+          "label": "gold-9",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7fdf3da38aff426ab2e60ea542dbd99dE.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – silver-8",
+          "label": "silver-8",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hae5183cdb3824df78efa2c8b050920404.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – silver-7",
+          "label": "silver-7",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H5e8e0212b11542a6adc478efabe78627G.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – gold-11",
+          "label": "gold-11",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd83149e9d2bf46d7b20c0c6f2bb59a82S.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – gold-2",
+          "label": "gold-2",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H418da636e5b844bab25ef5fd9fd8275eS.webp",
+          "alt": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom – gold-1",
+          "label": "gold-1",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS-V--1"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Osnova iz cinkove zlitine",
+        "18K zlata prevleka na zlatih različicah",
+        "Skupno 11 različic z zlatimi in srebrnimi zaključki",
+        "Zlati odtenki, oštevilčeni 1–4, 9, 10 in 11",
+        "Srebrni odtenki, oštevilčeni 5, 6, 7 in 8",
+        "Prodaja kot dodatek za izdelavo nakita DIY"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cinkova zlitina z 18K zlato prevleko (zlati odtenki)"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Ogrlica z obeskom"
+        },
+        {
+          "name": "Število različic",
+          "value": "11"
+        },
+        {
+          "name": "Zlati odtenki",
+          "value": "Gold 10 #, Gold 3, Gold 4, Gold-1, Gold-2, Gold 11, Gold 9"
+        },
+        {
+          "name": "Srebrni odtenki",
+          "value": "silver 6, Silver-5, Silver-7, Silver-8"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Dodatki"
+        }
+      ],
+      "applications": [
+        "Sestavljanje nakita DIY",
+        "Modeli ogrlic z obeski",
+        "Asortimenti nakita z mešanimi zaključki",
+        "Nadaljnja prodaja dodatkov za nakit"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je ogrlica z obeskom?",
+          "answer": "Ogrlica ima osnovo iz cinkove zlitine. Zlati odtenki imajo 18K zlato prevleko; srebrni odtenki so označeni le s številko."
+        },
+        {
+          "question": "Koliko različic je na voljo?",
+          "answer": "Na voljo je 11 različic: zlati odtenki, oštevilčeni 1–4, 9, 10 in 11, ter srebrni odtenki, oštevilčeni 5, 6, 7 in 8."
+        },
+        {
+          "question": "Ali vsaka različica vključuje enako verižico in obesek?",
+          "answer": "Ponudba opisuje ogrlico z obeskom, vendar ne podrobno navaja konfiguracije verižice ali obeska po posameznih različicah. Za potrditev natančnega kosa nas kontaktirajte pred naročilom."
+        }
+      ],
+      "pricing": {
+        "price": "0.36",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.36",
+          "max": "0.56"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ogrlica z obeskom iz cinkove zlitine, pozlačena z 18K zlatom",
+          "description": "Ogrlica z obeskom je izdelana iz cinkove zlitine s 18K zlato prevleko in je na voljo v 11 različicah z zlatimi in srebrnimi zaključki. Kosi so namenjeni kot dodatki za izdelavo nakita DIY in ne kot dokončani verski izdelki. Kupci izberejo zaključek s seznama različic pri sestavljanju ali nadaljnji prodaji modelov ogrlic z obeski.",
+          "sku": "ALI-AAHLTG7BAOVioqqEY6eqgknS",
+          "image": [
+            "https://sc04.alicdn.com/kf/H63062002a6f9477499be0f5a6ce3e6312.jpg",
+            "https://sc04.alicdn.com/kf/H49eec166e2884ab59848ef4be3a78305M.jpg",
+            "https://sc04.alicdn.com/kf/H8bf6022d1adb437998c95aceb6575429s.jpg",
+            "https://sc04.alicdn.com/kf/H3cbcc8f065e340efaf259d5f4af4adc1R.jpg",
+            "https://sc04.alicdn.com/kf/H675ce2131589438baba4af3c325b4d10f.jpg",
+            "https://sc04.alicdn.com/kf/Hb8ee6228db5e4158835848da9f6e71deq.jpg"
+          ],
+          "category": "Dodatki",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cinkova zlitina z 18K zlato prevleko (zlati odtenki)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Ogrlica z obeskom"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Število različic",
+              "value": "11"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Zlati odtenki",
+              "value": "Gold 10 #, Gold 3, Gold 4, Gold-1, Gold-2, Gold 11, Gold 9"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Srebrni odtenki",
+              "value": "silver 6, Silver-5, Silver-7, Silver-8"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Dodatki"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.36",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.36",
+              "maxPrice": "0.56",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je ogrlica z obeskom?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ogrlica ima osnovo iz cinkove zlitine. Zlati odtenki imajo 18K zlato prevleko; srebrni odtenki so označeni le s številko."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Koliko različic je na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Na voljo je 11 različic: zlati odtenki, oštevilčeni 1–4, 9, 10 in 11, ter srebrni odtenki, oštevilčeni 5, 6, 7 in 8."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali vsaka različica vključuje enako verižico in obesek?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ponudba opisuje ogrlico z obeskom, vendar ne podrobno navaja konfiguracije verižice ali obeska po posameznih različicah. Za potrditev natančnega kosa nas kontaktirajte pred naročilom."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "4292c9bf606ac01fd209c65988978fd11670671bff878e8df4f7b76ffedffc58",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "4292c9bf606ac01fd209c65988978fd11670671bff878e8df4f7b76ffedffc58",
+            "contentHash": "4292c9bf606ac01fd209c65988978fd11670671bff878e8df4f7b76ffedffc58",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:38:05.536Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "4292c9bf606ac01fd209c65988978fd11670671bff878e8df4f7b76ffedffc58",
+            "contentHash": "c23728ca631bd39a0db90e312b390bba09841a47d0047b417798a396d352f539",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:45:03.591Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAHkTG7BAOVioqqEY6eqBw4h",
+      "sourceId": "AAHkTG7BAOVioqqEY6eqBw4h",
+      "sourceFingerprint": "640377b6e1d0bec32b7873359a2d60fa2de266a49f02642f05cf7ec784f39013",
+      "locale": "sl",
+      "slug": "nordic-angel-figurine-ornament-eqbw4h",
+      "title": "Nordijski okras v obliki angela",
+      "eyebrow": "Nordijski okras v obliki angela",
+      "summary": "Ti nordijski okraski v obliki angelov imajo čisto belo površino in izklesane poze, kot so klečeča molitev, spanje in branje. Različice vključujejo majhne, srednje in velike velikosti v beli ali stari beli barvi, kar ponuja možnosti za enotne ali raznolike postavitve.",
+      "description": "Serija nordijskih okraskov v obliki angelov zajema vrsto poz, od klečečega molivnega angela do spečih in bralnih angelov. Vsak kos je plastična mojstrovina s smolnatim videzom, na voljo v beli ali stari beli barvi. Miniaturne različice vključujejo angelska objema in globoko razmišljujoče angele, nekateri v parih deček in deklica ali levo in desno. Velikosti segajo od majhnih do velikih, kar kupcem omogoča, da sestavijo enoten komplet ali kombinirajo poze in površine.",
+      "catholicContext": "Okraski v obliki angelov so pogosta pobožna dekoracija v katoliških domovih, pogosto uporabljeni za spodbujanje molitve ali razmisleka, čeprav niso zakramentali.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/H14eba4399ada42f8864ad2b2162d0f33T.webp",
+      "imageAlt": "Nordijski okras v obliki angela",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H14eba4399ada42f8864ad2b2162d0f33T.webp",
+          "alt": "Nordijski okras v obliki angela"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4cb651a3fae34b6db2201e9b222a40c2a.webp",
+          "alt": "Nordijski okras v obliki angela"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H151588a4f2334ad29c64a24a579e1fe5B.webp",
+          "alt": "Nordijski okras v obliki angela"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H0e5256e4bd5047e7864f9fe761d102efq.webp",
+          "alt": "Nordijski okras v obliki angela"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3bb180f6988843af848f62949e9c4d4fj.webp",
+          "alt": "Nordijski okras v obliki angela"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3ab2b2f2c78d4419bc60ae6588fb528eT.webp",
+          "alt": "Nordijski okras v obliki angela - angel-ornament-left-lying-winged-angel",
+          "label": "angel-ornament-left-lying-winged-angel",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hca7d3699e15b4d5ca85416deb533191cj.webp",
+          "alt": "Nordijski okras v obliki angela - angel-ornament-right-sleeping-angel",
+          "label": "angel-ornament-right-sleeping-angel",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H447afceb02ba47f982edc82c3f1cf2f7c.webp",
+          "alt": "Nordijski okras v obliki angela - angel-ornament-left-sleeping-angel",
+          "label": "angel-ornament-left-sleeping-angel",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hd10110ad92234a0aa592f62125527af4l.webp",
+          "alt": "Nordijski okras v obliki angela - mini-angel-ornament-cheek-reading-angel",
+          "label": "mini-angel-ornament-cheek-reading-angel",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H95c54290c863425c9319ca88627fe380s.webp",
+          "alt": "Nordijski okras v obliki angela - angel-ornament-kneeling-prayer-angel",
+          "label": "angel-ornament-kneeling-prayer-angel",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hcfd4fc3ee4d244a7b8ecca3aeea9c353X.webp",
+          "alt": "Nordijski okras v obliki angela - angel-ornament-right-lying-winged-angel",
+          "label": "angel-ornament-right-lying-winged-angel",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H492f5f8cb72f457a9517ecf9a2bfeeccp.webp",
+          "alt": "Nordijski okras v obliki angela - mini-angel-ornament-angel-prayer-girl-right",
+          "label": "mini-angel-ornament-angel-prayer-girl-right",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H754187e9e84c4050a2986b8e42ca531bS.webp",
+          "alt": "Nordijski okras v obliki angela - mini-angel-ornament-angel-prayer-girl-left",
+          "label": "mini-angel-ornament-angel-prayer-girl-left",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hf49dbd3a39894387ad5bb9c9afd8ac71Y.webp",
+          "alt": "Nordijski okras v obliki angela - mini-angel-ornament-kneeling-blessing-angel-girl",
+          "label": "mini-angel-ornament-kneeling-blessing-angel-girl",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H40ef6504913a432e98a7c51356a963a8f.webp",
+          "alt": "Nordijski okras v obliki angela - 7126i-2103",
+          "label": "7126i-2103",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4f23ca488e4246f7aabdd187e14472afS.webp",
+          "alt": "Nordijski okras v obliki angela - mini-angel-ornament-right-deep-thinking-angel",
+          "label": "mini-angel-ornament-right-deep-thinking-angel",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H9c55735f03eb4c23a14a0019eb3d3892w.webp",
+          "alt": "Nordijski okras v obliki angela - mini-angel-ornament-left-deep-thinking-angel",
+          "label": "mini-angel-ornament-left-deep-thinking-angel",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H57aa9f8f85714bb6a213264d9dfa72f4l.webp",
+          "alt": "Nordijski okras v obliki angela - mini-angel-ornament-serious-reading-angel",
+          "label": "mini-angel-ornament-serious-reading-angel",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He24bbd3ef4334829a2b9d6983a6375716.webp",
+          "alt": "Nordijski okras v obliki angela - mini-angel-ornament-angel-hugs-girl-boy",
+          "label": "mini-angel-ornament-angel-hugs-girl-boy",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hc5ad9f37222e4ec7b01e70abbbe0326dh.webp",
+          "alt": "Nordijski okras v obliki angela - white-medium",
+          "label": "white-medium",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H2891860903874a7b8b1dc335464e5db6H.webp",
+          "alt": "Nordijski okras v obliki angela - white-small",
+          "label": "white-small",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H06c570861cb744168813f9760d8d76752.webp",
+          "alt": "Nordijski okras v obliki angela - old-white-large",
+          "label": "old-white-large",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hb4c2716cdd004e8dbe4bd1fd5c516dfd1.webp",
+          "alt": "Nordijski okras v obliki angela - old-white-b",
+          "label": "old-white-b",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H3c333c1cff6642b9a889816d39535977A.webp",
+          "alt": "Nordijski okras v obliki angela - white-a",
+          "label": "white-a",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H54045c7056474e9ca7896ddf3ca3afe38.webp",
+          "alt": "Nordijski okras v obliki angela - white-large",
+          "label": "white-large",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h-V--3"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Plastična mojstrovina s smolnatim videzom",
+        "Možnosti v beli in stari beli barvi",
+        "Poze vključujejo klečeče molivne, speče, bralne in razmišljujoče angele",
+        "Na voljo so miniaturne različice, nekatere v parih deček in deklica ali levo in desno",
+        "Velikosti od majhnih do velikih"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Plastika"
+        },
+        {
+          "name": "Slog",
+          "value": "Smolnat videz"
+        },
+        {
+          "name": "Barva",
+          "value": "Bela, stara bela"
+        },
+        {
+          "name": "Možnosti velikosti",
+          "value": "Majhna, srednja, velika"
+        },
+        {
+          "name": "Različice",
+          "value": "Klečeča molitev, levo ležeči s krili, desno ležeči s krili, levo speči, desno speči, angelski objem, angelska molitev, branje na licu, klečeči blagoslov, globoko razmišljanje, resno branje"
+        }
+      ],
+      "applications": [
+        "Dekoracija doma",
+        "Dekoracija pisarne",
+        "Sezonska postavitev",
+        "Asortiment verskega blaga"
+      ],
+      "faq": [
+        {
+          "question": "Iz katerega materiala je nordijski okras v obliki angela?",
+          "answer": "Okras je izdelan iz plastike s smolnatim videzom."
+        },
+        {
+          "question": "Katere poze so na voljo?",
+          "answer": "Med drugim so na voljo poze klečeče molitve, spanja, branja, razmišljanja in angelskega objema."
+        },
+        {
+          "question": "Ali lahko naročim različne velikosti?",
+          "answer": "Da, okras je odvisno od različice na voljo v majhni, srednji in veliki velikosti."
+        }
+      ],
+      "pricing": {
+        "price": "1.61",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.61",
+          "max": "6.52"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Nordijski okras v obliki angela",
+          "description": "Ti nordijski okraski v obliki angelov imajo čisto belo površino in izklesane poze, kot so klečeča molitev, spanje in branje. Različice vključujejo majhne, srednje in velike velikosti v beli ali stari beli barvi, kar ponuja možnosti za enotne ali raznolike postavitve.",
+          "sku": "ALI-AAHkTG7BAOVioqqEY6eqBw4h",
+          "image": [
+            "https://sc04.alicdn.com/kf/H14eba4399ada42f8864ad2b2162d0f33T.jpg",
+            "https://sc04.alicdn.com/kf/H4cb651a3fae34b6db2201e9b222a40c2a.jpg",
+            "https://sc04.alicdn.com/kf/H151588a4f2334ad29c64a24a579e1fe5B.jpg",
+            "https://sc04.alicdn.com/kf/H0e5256e4bd5047e7864f9fe761d102efq.jpg",
+            "https://sc04.alicdn.com/kf/H3bb180f6988843af848f62949e9c4d4fj.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Plastika"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog",
+              "value": "Smolnat videz"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Barva",
+              "value": "Bela, stara bela"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Možnosti velikosti",
+              "value": "Majhna, srednja, velika"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Klečeča molitev, levo ležeči s krili, desno ležeči s krili, levo speči, desno speči, angelski objem, angelska molitev, branje na licu, klečeči blagoslov, globoko razmišljanje, resno branje"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.61",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.61",
+              "maxPrice": "6.52",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je nordijski okras v obliki angela?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Okras je izdelan iz plastike s smolnatim videzom."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere poze so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Med drugim so na voljo poze klečeče molitve, spanja, branja, razmišljanja in angelskega objema."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali lahko naročim različne velikosti?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da, okras je odvisno od različice na voljo v majhni, srednji in veliki velikosti."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2c2d82d757203ca27ffba97fb42ed53c53b06a6089120468c487b90d6f1da338",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2c2d82d757203ca27ffba97fb42ed53c53b06a6089120468c487b90d6f1da338",
+            "contentHash": "2c2d82d757203ca27ffba97fb42ed53c53b06a6089120468c487b90d6f1da338",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:38:19.759Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "2c2d82d757203ca27ffba97fb42ed53c53b06a6089120468c487b90d6f1da338",
+            "contentHash": "3695ca178950088c66fd088e39bfc0a4f099e526e2a3181af3aa441b9a3eaa7d",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:45:11.958Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAEiTG7BAOVioqqEY6eqB5tS",
+      "sourceId": "AAEiTG7BAOVioqqEY6eqB5tS",
+      "sourceFingerprint": "ddaf5f6adbe00e72c51275f3df1d33d02d3cb00cb401e2c3b183b97185b21db4",
+      "locale": "sl",
+      "slug": "constantine-cross-rosary-pendant-8mm-wooden-beads-eqb5ts",
+      "title": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice",
+      "eyebrow": "Rožnovenski obesek z lesenimi kroglicami in Konstantinovim križem",
+      "summary": "Ta ročno izdelan rožnovenski obesek združuje 8 mm lesene kroglice s perujskim vozlom in Konstantinovim križem. Na voljo je v različicah coffee in brown, kar veleprodajnim kupcem ponuja dva odtenka lesa za sestavljanje asortimentov katoliških rožnih vencev.",
+      "description": "Rožnovenski obesek s Konstantinovim križem je zasnovan na 8 mm lesenih kroglicah, povezanih s perujskim vozlom in zaključenih s Konstantinovim križem. Lesene kroglice dajejo obesku topel, otipljiv značaj, ki ustreza prodajnim zaslonom pobožnega nakita.\n\nNa voljo sta dve različici: coffee in brown. Obe ohranjata enak format kroglic 8 mm, zato lahko kupec naroči en odtenek ali oba ponudi skupaj. Izdelek je ročno izdelan in uvrščen med katoliške rožne vence, s čimer sodi med rožnovenske obeske in ne med splošni nakit.",
+      "catholicContext": "Rožni venec je katoliška molitev, osredotočena na premišljevanje dogodkov iz življenja Jezusa Kristusa in Device Marije, pri čemer so skrivnosti razdeljene na vesele, svetle, žalostne in vesele.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "15",
+          "name": "Katoliški rožni venci",
+          "slug": "catholic-rosaries"
+        }
+      ],
+      "sku": "ALI-AAEiTG7BAOVioqqEY6eqB5tS",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/He0ef697c94ec4a0ab747eec7f74bc6f2A.webp",
+      "imageAlt": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/He0ef697c94ec4a0ab747eec7f74bc6f2A.webp",
+          "alt": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H954db23edf804197874c509cc0e7c9aev.webp",
+          "alt": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4177b3fe8ebd404093e67bcc972dfd18e.webp",
+          "alt": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H7dc2cbaf137d4e62970c405e2982afafW.webp",
+          "alt": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H05cbbe2bfae04856a3049bcb486a73487.webp",
+          "alt": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6950f9b9bcac4476897776aa1d5f6e2fr.webp",
+          "alt": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice - coffee",
+          "label": "coffee",
+          "sku": "ALI-AAEiTG7BAOVioqqEY6eqB5tS-V-3778969"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H1d4e0d57da23421dbea395af8508176eD.webp",
+          "alt": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice - brown",
+          "label": "brown",
+          "sku": "ALI-AAEiTG7BAOVioqqEY6eqB5tS-V-3399503"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "8 mm lesene kroglice",
+        "Konstrukcija s perujskim vozlom",
+        "Obesek s Konstantinovim križem",
+        "Ročna izdelava",
+        "Na voljo v različicah coffee in brown",
+        "Uvrščeno med katoliški rožnovenski nakit"
+      ],
+      "specifications": [
+        {
+          "name": "Velikost kroglic",
+          "value": "8 mm"
+        },
+        {
+          "name": "Material kroglic",
+          "value": "Les"
+        },
+        {
+          "name": "Konstrukcija",
+          "value": "Perujski vozel"
+        },
+        {
+          "name": "Slog križa",
+          "value": "Konstantinov križ"
+        },
+        {
+          "name": "Različice",
+          "value": "Coffee; Brown"
+        },
+        {
+          "name": "Kategorija",
+          "value": "Katoliški rožni venci"
+        }
+      ],
+      "applications": [
+        "Prodaja rožnovenskih obeskov",
+        "Razstavljanje pobožnega nakita",
+        "Sestavljanje asortimenta rožnih vencev v lesenih odtenkih",
+        "Maloprodaja katoliških daril"
+      ],
+      "faq": [
+        {
+          "question": "Kakšna je velikost kroglic na tem rožnovenskem obesku?",
+          "answer": "Rožnovenski obesek uporablja 8 mm lesene kroglice."
+        },
+        {
+          "question": "Katere barvne različice so na voljo?",
+          "answer": "Obesek je na voljo v dveh različicah: coffee in brown."
+        },
+        {
+          "question": "Kako je rožnovenski obesek izdelan?",
+          "answer": "Izdelan je ročno, kroglice pa so povezane s perujskim vozlom, kot obesek pa služi Konstantinov križ."
+        }
+      ],
+      "pricing": {
+        "price": "0.40",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.35",
+          "max": "0.40"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Rožnovenski obesek s Konstantinovim križem, 8 mm lesene kroglice",
+          "description": "Ta ročno izdelan rožnovenski obesek združuje 8 mm lesene kroglice s perujskim vozlom in Konstantinovim križem. Na voljo je v različicah coffee in brown, kar veleprodajnim kupcem ponuja dva odtenka lesa za sestavljanje asortimentov katoliških rožnih vencev.",
+          "sku": "ALI-AAEiTG7BAOVioqqEY6eqB5tS",
+          "image": [
+            "https://sc04.alicdn.com/kf/He0ef697c94ec4a0ab747eec7f74bc6f2A.jpg",
+            "https://sc04.alicdn.com/kf/H954db23edf804197874c509cc0e7c9aev.jpg",
+            "https://sc04.alicdn.com/kf/H4177b3fe8ebd404093e67bcc972dfd18e.jpg",
+            "https://sc04.alicdn.com/kf/H7dc2cbaf137d4e62970c405e2982afafW.jpg",
+            "https://sc04.alicdn.com/kf/H05cbbe2bfae04856a3049bcb486a73487.jpg"
+          ],
+          "category": "Katoliški rožni venci",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Velikost kroglic",
+              "value": "8 mm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Material kroglic",
+              "value": "Les"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Konstrukcija",
+              "value": "Perujski vozel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Slog križa",
+              "value": "Konstantinov križ"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Različice",
+              "value": "Coffee; Brown"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategorija",
+              "value": "Katoliški rožni venci"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.40",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.35",
+              "maxPrice": "0.40",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kakšna je velikost kroglic na tem rožnovenskem obesku?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rožnovenski obesek uporablja 8 mm lesene kroglice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Katere barvne različice so na voljo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek je na voljo v dveh različicah: coffee in brown."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kako je rožnovenski obesek izdelan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Izdelan je ročno, kroglice pa so povezane s perujskim vozlom, kot obesek pa služi Konstantinov križ."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "fffb184dd08bc967d0032bca54332fe9f5d845ef2538550b69973c3458ea67e8",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "fffb184dd08bc967d0032bca54332fe9f5d845ef2538550b69973c3458ea67e8",
+            "contentHash": "fffb184dd08bc967d0032bca54332fe9f5d845ef2538550b69973c3458ea67e8",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:38:07.176Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "fffb184dd08bc967d0032bca54332fe9f5d845ef2538550b69973c3458ea67e8",
+            "contentHash": "82d82e21e795d8a1a46c59b5ade4f5eacd2de68ffa221dbb16fdc9f5b6d73b6e",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:45:18.937Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "AAFLTG7BAOVioqqEY6eqo3EJ",
+      "sourceId": "AAFLTG7BAOVioqqEY6eqo3EJ",
+      "sourceFingerprint": "5df4eecedc1e2d8351b506d8342d5e9aebc596e63c054325f338107f2c7df8ba",
+      "locale": "sl",
+      "slug": "let-god-lead-engraved-cross-keychain-eqo3ej",
+      "title": "Gravični obesek za ključe s križem LET GOD LEAD",
+      "eyebrow": "Obesek za ključe s križem iz cinkove zlitine z graviranim napisom LET GOD LEAD",
+      "summary": "Ta obesek za ključe s križem iz cinkove zlitine ima graviran napis LET GOD LEAD v vzorcu pravokotnega izreza. Kovinski obesek je lahek in ga je mogoče večkrat uporabiti, primeren pa je za obročke za ključe in okraske za torbe. Napis in dizajn sta oblikovana s tiskanjem z izsekanjem, poreklo iz Zhejianga pa podpira programe daril v večjih količinah.",
+      "description": "Ta obesek za ključe s križem je izdelan iz cinkove zlitine v vzorcu pravokotnega izreza in zasnovan kot lahek okrasek za večkratno uporabo na obročkih za ključe in torbah. Napis LET GOD LEAD je graviran, tisk z izsekanjem pa oblikuje napis in dizajn. Kot vrsta kovine je navedena tudi kovina, zato je izdelava med posameznimi kosi dosledna.\n\nVsi obeski za ključe v tem slogu imajo enak graviran napis in pravokotno obliko, kar kupcem ponuja ponovljiv izdelek za darilne sezname v več sezonah. Naročanje poteka prek našega povpraševalnega kanala; sporočite nam potrebno količino in morebitne želene tiskane ali gravirane različice, mi pa bomo potrdili podrobnosti.",
+      "catholicContext": "Oblika križa na obesku za ključe je krščanski simbol; dejstva ne prikazujejo korpusa, zato je opisana kot križ in ne kot razpelo.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "83",
+          "name": " obeski za ključe",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAFLTG7BAOVioqqEY6eqo3EJ",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/07/Hffe60336b52541ad88c83d93deb8ebd1Y.webp",
+      "imageAlt": "Gravični obesek za ključe s križem LET GOD LEAD",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hffe60336b52541ad88c83d93deb8ebd1Y.webp",
+          "alt": "Gravični obesek za ključe s križem LET GOD LEAD"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H35bd0cc850ad4265a86b9ad64f39f4ecM.webp",
+          "alt": "Gravični obesek za ključe s križem LET GOD LEAD"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H6c72dd96e7a04e1e9382622c1fad6368n.webp",
+          "alt": "Gravični obesek za ključe s križem LET GOD LEAD"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/Hbd3645e28020437485e6d00204bce0a3z.webp",
+          "alt": "Gravični obesek za ključe s križem LET GOD LEAD"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/07/H4ab30f093083488c9486e475197a41faH.webp",
+          "alt": "Gravični obesek za ključe s križem LET GOD LEAD"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#9a6b63",
+      "features": [
+        "Izdelava iz cinkove zlitine v vzorcu pravokotnega izreza",
+        "Graviran napis LET GOD LEAD",
+        "Tisk z izsekanjem za napis in dizajn",
+        "Lahek in večkrat uporabljiv format za okraske za torbe ali obeske za ključe",
+        "Izsekana kovinska oblika križa"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Cinkova zlitina"
+        },
+        {
+          "name": "Vrsta kovine",
+          "value": "Cinkova zlitina"
+        },
+        {
+          "name": "Vzorec",
+          "value": "Pravokotnik"
+        },
+        {
+          "name": "Tehnika",
+          "value": "Izrez"
+        },
+        {
+          "name": "Tisk",
+          "value": "Tisk z izsekanjem"
+        },
+        {
+          "name": "Lastnost",
+          "value": "Vzdržljivo, večkrat uporabljivo, lahko"
+        },
+        {
+          "name": "Kraj porekla",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Pritrditev na obroček za ključe",
+        "Okrasek za torbo",
+        "Darila za božič in veliko noč",
+        "Darila ob diplomi in rojstnem dnevu"
+      ],
+      "faq": [
+        {
+          "question": "Kaj piše na obesku za ključe?",
+          "answer": "Obesek za ključe ima na pravokotnem okrasku v obliki križa graviran napis LET GOD LEAD."
+        },
+        {
+          "question": "Iz katerega materiala je narejen obesek za ključe s križem?",
+          "answer": "Izdelan je iz cinkove zlitine, ki je navedena tudi kot vrsta kovine."
+        },
+        {
+          "question": "Ali se obesek za ključe lahko uporablja tudi drugače kot na ključih?",
+          "answer": "Da. Lahek in večkrat uporabljiv okrasek lahko pritrdite tudi na torbo kot okrasek za torbo."
+        }
+      ],
+      "pricing": {
+        "price": "0.33",
+        "regularPrice": "0.33",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Gravični obesek za ključe s križem LET GOD LEAD",
+          "description": "Ta obesek za ključe s križem iz cinkove zlitine ima graviran napis LET GOD LEAD v vzorcu pravokotnega izreza. Kovinski obesek je lahek in ga je mogoče večkrat uporabiti, primeren pa je za obročke za ključe in okraske za torbe. Napis in dizajn sta oblikovana s tiskanjem z izsekanjem, poreklo iz Zhejianga pa podpira programe daril v večjih količinah.",
+          "sku": "ALI-AAFLTG7BAOVioqqEY6eqo3EJ",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hffe60336b52541ad88c83d93deb8ebd1Y.jpg",
+            "https://sc04.alicdn.com/kf/H35bd0cc850ad4265a86b9ad64f39f4ecM.jpg",
+            "https://sc04.alicdn.com/kf/H6c72dd96e7a04e1e9382622c1fad6368n.jpg",
+            "https://sc04.alicdn.com/kf/Hbd3645e28020437485e6d00204bce0a3z.jpg",
+            "https://sc04.alicdn.com/kf/H4ab30f093083488c9486e475197a41faH.jpg"
+          ],
+          "category": " obeski za ključe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta kovine",
+              "value": "Cinkova zlitina"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vzorec",
+              "value": "Pravokotnik"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnika",
+              "value": "Izrez"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tisk",
+              "value": "Tisk z izsekanjem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lastnost",
+              "value": "Vzdržljivo, večkrat uporabljivo, lahko"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kraj porekla",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.33",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Kaj piše na obesku za ključe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Obesek za ključe ima na pravokotnem okrasku v obliki križa graviran napis LET GOD LEAD."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Iz katerega materiala je narejen obesek za ključe s križem?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Izdelan je iz cinkove zlitine, ki je navedena tudi kot vrsta kovine."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali se obesek za ključe lahko uporablja tudi drugače kot na ključih?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Lahek in večkrat uporabljiv okrasek lahko pritrdite tudi na torbo kot okrasek za torbo."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "1e9d67dc1d4e6c0dc4717ea3d0e0b82a6c08f515a33b9884469bc42222ff7ed5",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "1e9d67dc1d4e6c0dc4717ea3d0e0b82a6c08f515a33b9884469bc42222ff7ed5",
+            "contentHash": "1e9d67dc1d4e6c0dc4717ea3d0e0b82a6c08f515a33b9884469bc42222ff7ed5",
+            "attempts": 0,
+            "updatedAt": "2026-10-26T19:38:15.659Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "1e9d67dc1d4e6c0dc4717ea3d0e0b82a6c08f515a33b9884469bc42222ff7ed5",
+            "contentHash": "a048a70c0afe861d8074c2a3d7a3a8ba597e0e53f6dc00cd8f9cef01571c0b57",
+            "attempts": 1,
+            "updatedAt": "2026-10-26T19:45:26.250Z",
             "model": "deepseek-v4-flash"
           }
         }
