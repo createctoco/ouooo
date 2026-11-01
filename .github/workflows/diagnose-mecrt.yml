@@ -1,0 +1,22 @@
+name: Diagnose Mecrt catalog
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      MECRT_CATALOG_URL: ${{ secrets.MECRT_CATALOG_URL }}
+      MECRT_CATALOG_BRIDGE_SECRET: ${{ secrets.MECRT_CATALOG_BRIDGE_SECRET }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Probe catalogue pages
+        run: node scripts/diagnose-mecrt-catalog.mjs
