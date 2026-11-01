@@ -118,3 +118,14 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_PURGE_TOKEN: ${{ secrets.CLOUDFLARE_PURGE_TOKEN }}
         run: node scripts/purge-cloudflare-cache.mjs
+
+      # Smoke test the live site after the deploy and cache purge. If any locale
+      # is not serving a usable catalogue, the next step restores D1 to the
+      # pre-import bookmark and rolls every Worker back to its previous version.
+      - name: Verify deployed site
+        id: smoke
+        run: node scripts/verify-deployed-site.mjs
+
+      - name: Roll back on failed smoke test
+        if: steps.smoke.outcome == 'failure'
+        run: node scripts/rollback-deployment.mjs
