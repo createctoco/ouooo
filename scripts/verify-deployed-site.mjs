@@ -12,7 +12,11 @@ async function fetchText(url) {
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   try {
     const response = await fetch(url, {
-      headers: { 'user-agent': 'OUOOO deploy smoke test', 'cache-control': 'no-cache' },
+      headers: {
+        'user-agent':
+          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'cache-control': 'no-cache',
+      },
       signal: controller.signal,
     });
     return { status: response.status, text: await response.text() };

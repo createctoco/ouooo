@@ -127,5 +127,5 @@ jobs:
         run: node scripts/verify-deployed-site.mjs
 
       - name: Roll back on failed smoke test
-        if: steps.smoke.outcome == 'failure'
+        if: failure() && steps.smoke.outcome == 'failure'
         run: node scripts/rollback-deployment.mjs

@@ -287,6 +287,19 @@ try {
   const products = catalog.products
     .filter((product) => !DELETED_PRODUCT_IDS.has(String(product.source_id || product.product_id)))
     .map((product, index) => mapProduct(product, index, existingSlugs));
+
+  // One catalogue entry per source product. The product identity is the source
+  // id (site productId === sourceId, enforced again at D1 import), so a repeated
+  // source id here would publish the same product twice.
+  const seenSourceIds = new Set();
+  for (const product of products) {
+    const sourceId = String(product.sourceId || product.productId || '').trim();
+    if (!sourceId) throw new Error('Catalogue product is missing a source id.');
+    if (seenSourceIds.has(sourceId)) {
+      throw new Error(`Duplicate source id ${sourceId} in the catalogue; refusing to publish duplicates.`);
+    }
+    seenSourceIds.add(sourceId);
+  }
   // Guard against a partial source response being mistaken for mass deletion.
   // On 2026-10-31 the bridge returned only 10 products, reconciliation marked
   // the other 1,060 as deleted, and the next deploy removed almost every row
