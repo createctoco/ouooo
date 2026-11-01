@@ -287,8 +287,32 @@ try {
   const products = catalog.products
     .filter((product) => !DELETED_PRODUCT_IDS.has(String(product.source_id || product.product_id)))
     .map((product, index) => mapProduct(product, index, existingSlugs));
+  // Guard against a partial source response being mistaken for mass deletion.
+  // On 2026-10-31 the bridge returned only 10 products, reconciliation marked
+  // the other 1,060 as deleted, and the next deploy removed almost every row
+  // from D1. Refuse to publish a catalogue that shrinks by more than 50% in a
+  // single sync unless the operator explicitly allows it.
+  const previousProductCount = (existingCatalog.products || []).length;
+  const minimumRetainedRatio = Math.min(
+    0.95,
+    Math.max(0.1, Number(process.env.OUOOO_CATALOG_MIN_RETAINED_RATIO || 0.5))
+  );
+  const allowShrink = /^(1|true|yes)$/i.test(process.env.OUOOO_ALLOW_CATALOG_SHRINK || '');
+  if (
+    !allowShrink &&
+    previousProductCount >= 50 &&
+    products.length < Math.floor(previousProductCount * minimumRetainedRatio)
+  ) {
+    throw new Error(
+      `Refusing to publish a catalogue that dropped from ${previousProductCount} to ${products.length} products ` +
+        `(more than ${Math.round((1 - minimumRetainedRatio) * 100)}% removed in one sync). ` +
+        'This usually means the source returned a partial list. If the shrink is intentional, set OUOOO_ALLOW_CATALOG_SHRINK=1.'
+    );
+  }
+
   await writeFile(
     temporaryFile,
+
     `${JSON.stringify(sanitizeSourceBrand({ schemaVersion: 3, locale: 'en', generatedAt: new Date().toISOString(), selection: catalog.selection, sync: { mode: catalog.sync_mode, cursor: catalog.sync_cursor, modifiedAfter: catalog.modified_after, changedProductIds: catalog.changed_source_ids || [], deletedProductIds: [...new Set([...(catalog.deleted_source_ids || []), ...DELETED_PRODUCT_IDS])] }, enrichmentSummary: catalog.enrichment_summary, products }), null, 2)}\n`,
     'utf8'
   );
