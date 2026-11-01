@@ -170,7 +170,7 @@ await mkdir(dirname(outputFile), { recursive: true });
 // Full single-file import (kept for reconcile-d1 which executes the whole file).
 await writeFile(
   outputFile,
-  `${[...header, ...indexStatements, ...productBlocks.flat(), ...deleteStatements].join('\n')}\n`,
+  `${[...header, ...indexStatements, ...deleteStatements, ...productBlocks.flat()].join('\n')}\n`,
   'utf8'
 );
 

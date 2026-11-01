@@ -128,31 +128,71 @@ async function fetchIndex() {
     } while (page <= totalPages);
   }
 
-  const currentIds = new Set(summaries.keys());
+  // Stable-identity re-key. The bridge can change its source_id field (on
+  // 2026-11-01 it switched from the alphanumeric WordPress id to the numeric
+  // plain id). wp_id, sku, slug and title stayed the same, so match the stored
+  // product on those fields and link it to the new numeric id. The product
+  // content, slug and SKU are reused, so no copy is regenerated and the public
+  // URL does not change; only the internal identity moves.
+  const storedByWpId = new Map();
+  const storedByTitle = new Map();
+  const storedBySku = new Map();
+  const storedBySlug = new Map();
+  for (const product of previousProducts) {
+    const sourceId = String(product.source_id || '');
+    if (!sourceId) continue;
+    if (product.wp_id != null) storedByWpId.set(String(product.wp_id), product);
+    if (product.title) storedByTitle.set(String(product.title).trim().toLowerCase(), product);
+    if (product.sku) storedBySku.set(String(product.sku), product);
+    if (product.slug) storedBySlug.set(String(product.slug), product);
+  }
 
-  // Guard against a source-id scheme change. If the bridge starts returning a
-  // different id field, every stored product looks "missing" and reconciliation
-  // would treat the whole catalogue as deleted. Detect that and stop instead:
-  // a real mass deletion never wipes almost every id at once.
-  if (reconcile && previousProducts.length >= 50 && summaries.size > 0) {
-    const storedIds = new Set(previousProducts.map((product) => String(product.source_id)));
-    const matchedIds = [...summaries.keys()].filter((id) => storedIds.has(String(id))).length;
-    const matchRate = matchedIds / previousProducts.length;
-    if (matchRate < 0.5) {
-      const wpIdMatches = previousProducts.filter((product) => {
-        const summary = [...summaries.values()].find((item) => String(item.wp_id) === String(product.wp_id));
-        return Boolean(summary);
-      }).length;
-      throw new Error(
-        `Source ids no longer match the stored catalogue: only ${matchedIds}/${previousProducts.length} source_id values matched ` +
-          `(${wpIdMatches} matched by wp_id instead). This usually means the catalogue bridge changed its id field. ` +
-          'Refusing to treat the unmatched products as deleted.'
-      );
+  const effective = new Map(); // stored source_id (or new API id) -> { apiId, summary }
+  const rekeyed = new Map(); // stored source_id -> new numeric API id
+  const usedStoredIds = new Set();
+  let matchedByStableField = 0;
+
+  for (const [apiId, summary] of summaries) {
+    const titleKey = String(summary.title || '')
+      .trim()
+      .toLowerCase();
+    const candidates = [
+      summary.wp_id != null ? storedByWpId.get(String(summary.wp_id)) : undefined,
+      summary.sku ? storedBySku.get(String(summary.sku)) : undefined,
+      summary.slug ? storedBySlug.get(String(summary.slug)) : undefined,
+      titleKey ? storedByTitle.get(titleKey) : undefined,
+    ];
+    const match = candidates.find((candidate) => candidate && !usedStoredIds.has(String(candidate.source_id))) || null;
+
+    if (match) {
+      const storedId = String(match.source_id);
+      usedStoredIds.add(storedId);
+      matchedByStableField += 1;
+      if (storedId !== String(apiId)) rekeyed.set(storedId, String(apiId));
+      effective.set(storedId, { apiId: String(apiId), summary });
+    } else {
+      effective.set(String(apiId), { apiId: String(apiId), summary });
     }
   }
 
-  // Reconciliation: detect deleted products, prepend newly published products
-  // to the queue, and backfill missing pricing from fresh bridge details.
+  const currentIds = new Set(effective.keys());
+  const stableMatchRate = previousProducts.length ? matchedByStableField / previousProducts.length : 1;
+
+  // A genuine mass deletion never wipes almost every stored identity at once.
+  if (reconcile && previousProducts.length >= 50 && summaries.size > 0 && stableMatchRate < 0.5) {
+    throw new Error(
+      `Source ids no longer match the stored catalogue and only ${matchedByStableField}/${previousProducts.length} products ` +
+        'could be matched by wp_id, sku, slug or title. Refusing to treat the unmatched products as deleted.'
+    );
+  }
+
+  if (rekeyed.size) {
+    process.stdout.write(
+      `Source-id re-key: linking ${rekeyed.size} stored products to new numeric ids (matched by wp_id/sku/slug/title).\n`
+    );
+  }
+
+  // Reconciliation: detect deleted products and queue genuinely new ones.
   let pendingSourceIds;
   if (reconcile && summaries.size > 0) {
     for (const product of previousProducts) {
@@ -160,9 +200,11 @@ async function fetchIndex() {
     }
     const queuePendingIds = hasPendingQueue ? savedQueue.pendingSourceIds.map(String) : [];
     const knownIds = new Set([...previousProducts.map((product) => String(product.source_id)), ...queuePendingIds]);
-    const newIds = [...summaries.keys()].filter((sourceId) => !knownIds.has(sourceId));
+    const newIds = [...effective.keys()].filter((sourceId) => !knownIds.has(sourceId));
     if (newIds.length) process.stdout.write(`Reconciliation: ${newIds.length} newly published products queued.\n`);
-    pendingSourceIds = [...new Set([...newIds, ...queuePendingIds])];
+    // If identities were re-keyed, the saved queue holds stale ids from the
+    // previous scheme. Rebuild it from the genuine new ids instead.
+    pendingSourceIds = rekeyed.size ? [...new Set(newIds)] : [...new Set([...newIds, ...queuePendingIds])];
   } else {
     pendingSourceIds = [...new Set(hasPendingQueue ? savedQueue.pendingSourceIds.map(String) : [...summaries.keys()])];
   }
@@ -198,6 +240,17 @@ async function fetchIndex() {
 
   const productsById = new Map(previousProducts.map((product) => [String(product.source_id), product]));
   for (const sourceId of deletedSourceIds) productsById.delete(sourceId);
+
+  // Apply the stable-identity re-key: move the stored product to its new numeric
+  // id, keep all content (copy, slug, SKU, images), and mark the old D1 row for
+  // deletion. This is why the migration costs no AI tokens.
+  for (const [oldId, newId] of rekeyed) {
+    const product = productsById.get(oldId);
+    if (!product) continue;
+    productsById.delete(oldId);
+    productsById.set(newId, { ...product, source_id: newId, source_plain_id: newId });
+    deletedSourceIds.add(oldId);
+  }
 
   // Reconciliation: backfill pricing for catalog products that have none.
   if (reconcile && summaries.size > 0) {
@@ -302,7 +355,7 @@ async function fetchIndex() {
     modified_after: modifiedAfter || null,
     changed_products: currentBatchIds.length,
     deleted_products: deletedSourceIds.size,
-    changed_source_ids: currentBatchIds,
+    changed_source_ids: [...new Set([...currentBatchIds, ...rekeyed.values()])],
     deleted_source_ids: [...deletedSourceIds],
     source_total: sourceTotal,
     total: availableProducts.length,

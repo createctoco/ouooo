@@ -227,7 +227,8 @@ function mapProduct(product, index, existingSlugs) {
   const faq = buyerFaq(product.ai.faq);
   const suffix = String(product.source_id).slice(-6).toLowerCase();
   const productId = String(product.source_id);
-  const slug = existingSlugs.get(productId) || `${slugify(product.ai.title)}-${suffix}`;
+  // Prefer the stored slug so a source-id re-key never changes a published URL.
+  const slug = existingSlugs.get(productId) || product.slug || `${slugify(product.ai.title)}-${suffix}`;
   const categoryOverride = CATEGORY_OVERRIDES[slug];
   const sourceHash = sourceContentHash(product);
   const updatedAt = product.ai.generated_at || new Date().toISOString();
