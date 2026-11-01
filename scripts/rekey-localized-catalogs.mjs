@@ -11,6 +11,7 @@ const en = JSON.parse(await readFile(resolve(root, 'src/data/site-catalog.json')
 const bySku = new Map();
 const bySlug = new Map();
 const byTitle = new Map();
+const enDeletedIds = [...new Set((en.sync?.deletedProductIds || []).map(String))];
 for (const product of en.products || []) {
   const id = String(product.productId);
   if (product.sku) bySku.set(String(product.sku), id);
@@ -61,7 +62,12 @@ for (const locale of localeDirs) {
     next.push({ ...product, productId: newId, sourceId: newId });
   }
 
-  await writeFile(file, `${JSON.stringify({ ...catalog, products: next }, null, 2)}\n`, 'utf8');
+  const deletedProductIds = [...new Set([...(catalog.sync?.deletedProductIds || []).map(String), ...enDeletedIds])];
+  await writeFile(
+    file,
+    `${JSON.stringify({ ...catalog, sync: { ...catalog.sync, deletedProductIds }, products: next }, null, 2)}\n`,
+    'utf8'
+  );
   totalRekeyed += changed;
   totalDropped += dropped;
   console.log(`${locale}: kept ${next.length}, re-keyed ${changed}, dropped ${dropped}`);
