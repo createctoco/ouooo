@@ -130,6 +130,27 @@ async function fetchIndex() {
 
   const currentIds = new Set(summaries.keys());
 
+  // Guard against a source-id scheme change. If the bridge starts returning a
+  // different id field, every stored product looks "missing" and reconciliation
+  // would treat the whole catalogue as deleted. Detect that and stop instead:
+  // a real mass deletion never wipes almost every id at once.
+  if (reconcile && previousProducts.length >= 50 && summaries.size > 0) {
+    const storedIds = new Set(previousProducts.map((product) => String(product.source_id)));
+    const matchedIds = [...summaries.keys()].filter((id) => storedIds.has(String(id))).length;
+    const matchRate = matchedIds / previousProducts.length;
+    if (matchRate < 0.5) {
+      const wpIdMatches = previousProducts.filter((product) => {
+        const summary = [...summaries.values()].find((item) => String(item.wp_id) === String(product.wp_id));
+        return Boolean(summary);
+      }).length;
+      throw new Error(
+        `Source ids no longer match the stored catalogue: only ${matchedIds}/${previousProducts.length} source_id values matched ` +
+          `(${wpIdMatches} matched by wp_id instead). This usually means the catalogue bridge changed its id field. ` +
+          'Refusing to treat the unmatched products as deleted.'
+      );
+    }
+  }
+
   // Reconciliation: detect deleted products, prepend newly published products
   // to the queue, and backfill missing pricing from fresh bridge details.
   let pendingSourceIds;
