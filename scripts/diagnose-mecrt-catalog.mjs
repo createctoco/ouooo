@@ -49,6 +49,13 @@ function summarise(label, result) {
   console.log(
     `${label}: HTTP ${result.status} | success=${d.success} | total=${bag.total ?? d.total ?? '?'} | source_total=${bag.source_total ?? '?'} | total_pages=${bag.total_pages ?? '?'} | products=${Array.isArray(bag.products) ? bag.products.length : '?'} | deleted=${Array.isArray(bag.deleted_source_ids) ? bag.deleted_source_ids.length : '?'}`
   );
+  const first = Array.isArray(bag.products) ? bag.products[0] : null;
+  if (first) {
+    console.log(`  first product keys: ${Object.keys(first).slice(0, 10).join(', ')}`);
+    console.log(
+      `  first ids: source_id=${first.source_id} source_plain_id=${first.source_plain_id} product_id=${first.product_id} id=${first.id}`
+    );
+  }
   if (!d.success || result.status !== 200 || bag.message) {
     console.log(`  message: ${String(d.message || bag.message || '').slice(0, 300)}`);
   }
