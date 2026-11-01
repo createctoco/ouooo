@@ -53,7 +53,7 @@ function summarise(label, result) {
   if (first) {
     console.log(`  first product keys: ${Object.keys(first).slice(0, 10).join(', ')}`);
     console.log(
-      `  first ids: source_id=${first.source_id} source_plain_id=${first.source_plain_id} product_id=${first.product_id} id=${first.id}`
+      `  first ids: wp_id=${first.wp_id} source_id=${first.source_id} source_plain_id=${first.source_plain_id} sku=${first.sku} slug=${first.slug}`
     );
   }
   if (!d.success || result.status !== 200 || bag.message) {
