@@ -1,0 +1,40 @@
+name: Re-key localized catalogs
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  rekey:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Re-key localized catalogs
+        run: node scripts/rekey-localized-catalogs.mjs
+      - name: Commit re-keyed catalogs
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/i18n
+          git diff --cached --quiet || git commit -m "Re-key localized catalogs to the new source ids"
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; exit 1; }
+            sleep $((attempt * 5))
+          done
+          exit 1
+      - name: Trigger production deployment
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run "Deploy Cloudflare hybrid catalog" --ref main
