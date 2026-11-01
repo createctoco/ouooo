@@ -13,6 +13,9 @@ const accents = ['#8b6b4a', '#6f7c72', '#9a6b63', '#7a6d92', '#8a7b55', '#6d7887
 // source-data syncs instead of being overwritten by the next sync.
 const CATEGORY_OVERRIDES = {
   'knitted-coin-pouch-backpack-charm-e0b9pp': [{ id: '122', name: 'Jewelry Packaging', slug: 'jewelry-packaging' }],
+  'wholesale-knitted-creative-pendant-coin-storage-pouch-party-gift-square-cartoon-backpack-charm': [
+    { id: '122', name: 'Jewelry Packaging', slug: 'jewelry-packaging' },
+  ],
 };
 
 // Products to remove from the published site entirely (stale rows were left in
@@ -228,7 +231,11 @@ function mapProduct(product, index, existingSlugs) {
   const suffix = String(product.source_id).slice(-6).toLowerCase();
   const productId = String(product.source_id);
   // Prefer the stored slug so a source-id re-key never changes a published URL.
-  const slug = existingSlugs.get(productId) || product.slug || `${slugify(product.ai.title)}-${suffix}`;
+  const slug =
+    existingSlugs.get(productId) ||
+    (product.sku ? existingSlugs.get('sku:' + product.sku) : undefined) ||
+    product.slug ||
+    `${slugify(product.ai.title)}-${suffix}`;
   const categoryOverride = CATEGORY_OVERRIDES[slug];
   const sourceHash = sourceContentHash(product);
   const updatedAt = product.ai.generated_at || new Date().toISOString();
@@ -282,9 +289,14 @@ try {
   const existingCatalog = await readFile(outputFile, 'utf8')
     .then(JSON.parse)
     .catch(() => ({ products: [] }));
-  const existingSlugs = new Map(
-    (existingCatalog.products || []).map((product) => [String(product.productId || product.sourceId), product.slug])
-  );
+  const existingSlugs = new Map();
+  for (const product of existingCatalog.products || []) {
+    const key = String(product.productId || product.sourceId);
+    if (key) existingSlugs.set(key, product.slug);
+    // Also index by sku: a source-id re-key changes the id but not the sku, and
+    // this keeps every published product URL stable through the migration.
+    if (product.sku) existingSlugs.set(`sku:${product.sku}`, product.slug);
+  }
   const products = catalog.products
     .filter((product) => !DELETED_PRODUCT_IDS.has(String(product.source_id || product.product_id)))
     .map((product, index) => mapProduct(product, index, existingSlugs));
