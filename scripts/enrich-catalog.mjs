@@ -379,6 +379,14 @@ try {
   const previousById = new Map(
     (previousSiteCatalog.products || []).map((product) => [String(product.sourceId || product.productId), product])
   );
+  // Stable-identity fallbacks: a source-id re-key changes sourceId but not sku
+  // or slug, so these maps keep the existing AI copy reusable across the change.
+  const previousBySku = new Map();
+  const previousBySlug = new Map();
+  for (const product of previousSiteCatalog.products || []) {
+    if (product.sku) previousBySku.set(String(product.sku), product);
+    if (product.slug) previousBySlug.set(String(product.slug), product);
+  }
   if (!Array.isArray(catalog.products) || catalog.products.length < 1)
     throw new Error('Catalog input is empty or invalid.');
   // Run DeepSeek rewrites concurrently (default 4 workers) to speed up large
@@ -398,7 +406,19 @@ try {
         nextIndex += 1;
         const product = catalog.products[index];
         const fingerprint = sourceFingerprint(product);
-        const cached = reusableAi(previousById.get(String(product.source_id)), fingerprint);
+        const previous =
+          previousById.get(String(product.source_id)) ||
+          (product.sku ? previousBySku.get(String(product.sku)) : undefined) ||
+          (product.slug ? previousBySlug.get(String(product.slug)) : undefined);
+        // A source-id re-key changes source_id, which is part of the fingerprint.
+        // Accept the fingerprint computed with the previously stored id as well.
+        const legacyFingerprint =
+          previous && String(previous.sourceId || previous.productId) !== String(product.source_id)
+            ? sourceFingerprint({ ...product, source_id: String(previous.sourceId || previous.productId) })
+            : undefined;
+        const cached =
+          reusableAi(previous, fingerprint) ||
+          (legacyFingerprint ? reusableAi(previous, legacyFingerprint) : undefined);
         process.stdout.write(
           `${cached ? 'Reusing' : 'Rewriting'} product ${index + 1}/${catalog.products.length}...\n`
         );
