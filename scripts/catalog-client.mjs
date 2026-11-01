@@ -148,6 +148,10 @@ async function fetchIndex() {
   const savedInflightSourceIds = [
     ...new Set(Array.isArray(savedQueue?.inflightSourceIds) ? savedQueue.inflightSourceIds.map(String) : []),
   ];
+  process.stdout.write(
+    `Catalog state: previousProducts=${previousProducts.length} sourceTotal=${sourceTotal} summaries=${summaries.size} queuePending=${pendingSourceIds.length}\n`
+  );
+
   const currentBatchIds =
     savedInflightSourceIds.length > 0 ? savedInflightSourceIds : pendingSourceIds.slice(0, batchSize);
   const queueWindowStartedAt = hasPendingQueue ? savedQueue.windowStartedAt : syncStartedAt;
