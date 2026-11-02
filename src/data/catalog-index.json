@@ -1,23 +1,12 @@
 {
   "schema_version": "1.0",
-  "synchronized_at": "2026-11-01T18:39:37.718Z",
-  "sync_cursor": "2026-08-09T15:58:16.918Z",
+  "synchronized_at": "2026-11-02T22:31:27.514Z",
+  "sync_cursor": "2026-08-10T15:29:24.560Z",
   "sync_mode": "incremental",
   "modified_after": null,
-  "changed_products": 10,
+  "changed_products": 2,
   "deleted_products": 1060,
-  "changed_source_ids": [
-    "1602001622987",
-    "1601964345892",
-    "1601969330663",
-    "1601969312782",
-    "1601970933293",
-    "1601971601615",
-    "1601977811188",
-    "1601977720813",
-    "1601977760544",
-    "1601782888555"
-  ],
+  "changed_source_ids": ["1601980296481", "1601978940584"],
   "deleted_source_ids": [
     "AAGmTG7BAOVioqqEY6es7duu",
     "AAHHTG7BAOVioqqEY6e_xHjI",
@@ -1081,11 +1070,11 @@
     "AAEdTMb-AOXiPwuEY8F4ioFp"
   ],
   "source_total": 908,
-  "total": 1063,
+  "total": 1065,
   "queue": {
     "batchSize": 10,
-    "processedThisRun": 10,
-    "remaining": 2
+    "processedThisRun": 2,
+    "remaining": 0
   },
   "products": [
     {
@@ -338544,6 +338533,2090 @@
           }
         }
       ]
+    },
+    {
+      "wp_id": 17708,
+      "source_id": "1601980296481",
+      "source_plain_id": "1601980296481",
+      "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4",
+      "slug": "wholesale-zinc-alloy-mini-photo-frame-pendant-charm-diy-jewelry-keychain-bag-phone-decoration-accessories",
+      "title": "Wholesale Zinc Alloy Mini Photo Frame Pendant Charm DIY Jewelry Keychain Bag Phone Decoration Accessories",
+      "status": "publish",
+      "product_type": "variable",
+      "url": "https://mecrt.com/product/wholesale-zinc-alloy-mini-photo-frame-pendant-charm-diy-jewelry-keychain-bag-phone-decoration-accessories/",
+      "modified_at": "2026-10-30T17:41:53+00:00",
+      "source_modified_at": "2026-10-17 16:06:09",
+      "description_html": "",
+      "short_description_html": "",
+      "categories": [
+        {
+          "id": 45,
+          "name": "Accessories",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "tags": [],
+      "attributes": [
+        {
+          "name": "Variant",
+          "slug": "pa_variant",
+          "values": [
+            "Gold 10 #",
+            "Gold 12 #",
+            "Gold 14 #",
+            "Gold 16 #",
+            "Gold 18 #",
+            "Gold 3",
+            "Gold 4",
+            "Gold 5",
+            "Gold 6",
+            "Gold-1",
+            "Gold-2",
+            "Steel 16 #",
+            "Steel 18 #",
+            "Gold -13",
+            "Gold -15",
+            "Gold -17",
+            "Gold 11",
+            "Gold 9",
+            "Gold-7",
+            "Gold-8",
+            "Steel + 1",
+            "Steel + 10",
+            "Steel + 11",
+            "Steel + 12",
+            "Steel + 13",
+            "Steel + 14",
+            "Steel + 15",
+            "Steel + 17",
+            "Steel + 2",
+            "Steel + 3",
+            "Steel + 4",
+            "Steel + 5",
+            "Steel + 6",
+            "Steel + 7",
+            "Steel + 8",
+            "Steel + 9"
+          ],
+          "variation": true,
+          "visible": true
+        }
+      ],
+      "weight": {
+        "value": "0.0150",
+        "unit": "kg",
+        "kg": "0.0150"
+      },
+      "pricing": {
+        "currency": "USD",
+        "regular_price": "",
+        "price": "0.42",
+        "tiers": [
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943301"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943301"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943301"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943300"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943300"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943300"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943303"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943303"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943303"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943302"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943302"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943302"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943297"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943297"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943297"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943296"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943296"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943296"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943299"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943299"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943299"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943298"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943298"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943298"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943309"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943309"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943309"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943308"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943308"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943308"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943305"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943305"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943305"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943304"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943304"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943304"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943307"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943307"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943307"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943306"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943306"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943306"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943277"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943277"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943277"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943276"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943276"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943276"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943279"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943279"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943279"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943278"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943278"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943278"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943275"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943275"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943275"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943274"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943274"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943274"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943285"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943285"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943285"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943284"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943284"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943284"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943287"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943287"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943287"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943286"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943286"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943286"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943281"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943281"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943281"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943280"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943280"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943280"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943283"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943283"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943283"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943282"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943282"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943282"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943293"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943293"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943293"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943292"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943292"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943292"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943295"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943295"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943295"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943294"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943294"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943294"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943289"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943289"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943289"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943288"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943288"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943288"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943291"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943291"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943291"
+          },
+          {
+            "start_quantity": "100",
+            "price": "0.42",
+            "source_sku_id": "109812943290"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.35",
+            "source_sku_id": "109812943290"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.27",
+            "source_sku_id": "109812943290"
+          }
+        ]
+      },
+      "images": [
+        {
+          "id": 17781,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H9f23a4714f014c5ba41a0258a6b8280el.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H9f23a4714f014c5ba41a0258a6b8280el.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 17782,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H700efedab27c4f95bedf6b70815e42f3m.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H700efedab27c4f95bedf6b70815e42f3m.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 17783,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd78e0d9e7b1041dbb5480443048b4fd9u.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hd78e0d9e7b1041dbb5480443048b4fd9u.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 17784,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H493a00ad8a284b3b9cd63a29e8b91ad8O.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H493a00ad8a284b3b9cd63a29e8b91ad8O.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 17785,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hd0650e6b997d4227b313b582afdf0e0fG.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hd0650e6b997d4227b313b582afdf0e0fG.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "source": {
+        "url": "https://www.alibaba.com/product-detail/Wholesale-Zinc-Alloy-Mini-Photo-Frame_1601980296481.html",
+        "group_id": "941222969",
+        "category_id": "201642003",
+        "main_image_urls": [
+          "https://sc04.alicdn.com/kf/H9f23a4714f014c5ba41a0258a6b8280el.jpg",
+          "https://sc04.alicdn.com/kf/H700efedab27c4f95bedf6b70815e42f3m.jpg",
+          "https://sc04.alicdn.com/kf/Hd78e0d9e7b1041dbb5480443048b4fd9u.jpg",
+          "https://sc04.alicdn.com/kf/H493a00ad8a284b3b9cd63a29e8b91ad8O.jpg",
+          "https://sc04.alicdn.com/kf/Hd0650e6b997d4227b313b582afdf0e0fG.jpg"
+        ],
+        "detail_image_urls": [
+          "https://sc04.alicdn.com/kf/H8e4174a9b44a4970a239699e66f9d908q.jpg",
+          "https://sc04.alicdn.com/kf/Hd6d270600c6f40618fbe558a81f05347Z.jpg",
+          "https://sc04.alicdn.com/kf/Heafda472b758405195917ea1019c5fb4u.jpg",
+          "https://sc04.alicdn.com/kf/H82594f47aeb1432db3e8b50324688169k.jpg",
+          "https://sc04.alicdn.com/kf/H62ca151405b4477bbaaf8142a40e855fe.jpg"
+        ]
+      },
+      "variations": [
+        {
+          "wp_id": 17745,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--28",
+          "source_sku_id": "109812943301",
+          "source_variant_value_id": "-28",
+          "attributes": {
+            "pa_variant": "steel-10"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943301"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943301"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943301"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H9bc09609c0d94e889e1d2f6c61e4a831s.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H9bc09609c0d94e889e1d2f6c61e4a831s.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17746,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--27",
+          "source_sku_id": "109812943300",
+          "source_variant_value_id": "-27",
+          "attributes": {
+            "pa_variant": "steel-9"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943300"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943300"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943300"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H5aa2cc189c6142e798b35df8f2be2901k.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H5aa2cc189c6142e798b35df8f2be2901k.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17747,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--30",
+          "source_sku_id": "109812943303",
+          "source_variant_value_id": "-30",
+          "attributes": {
+            "pa_variant": "steel-12"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943303"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943303"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943303"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H714ac16ff9de465d8c414e62164c0e9ec.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H714ac16ff9de465d8c414e62164c0e9ec.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17748,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--29",
+          "source_sku_id": "109812943302",
+          "source_variant_value_id": "-29",
+          "attributes": {
+            "pa_variant": "steel-11"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943302"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943302"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943302"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H110bfba0aada4f7aa8bfc13af3c94012v.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H110bfba0aada4f7aa8bfc13af3c94012v.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17749,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--24",
+          "source_sku_id": "109812943297",
+          "source_variant_value_id": "-24",
+          "attributes": {
+            "pa_variant": "steel-6"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943297"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943297"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943297"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/Hca8999e9453b475bb05a8239f23904178.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Hca8999e9453b475bb05a8239f23904178.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17750,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--23",
+          "source_sku_id": "109812943296",
+          "source_variant_value_id": "-23",
+          "attributes": {
+            "pa_variant": "steel-5"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943296"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943296"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943296"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H0ffb88590f064c0089e31257ff775ad3Y.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H0ffb88590f064c0089e31257ff775ad3Y.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17751,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--26",
+          "source_sku_id": "109812943299",
+          "source_variant_value_id": "-26",
+          "attributes": {
+            "pa_variant": "steel-8"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943299"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943299"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943299"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb13b8c0fda3e45ed9ffa5253c6c14942B.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Hb13b8c0fda3e45ed9ffa5253c6c14942B.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17752,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--25",
+          "source_sku_id": "109812943298",
+          "source_variant_value_id": "-25",
+          "attributes": {
+            "pa_variant": "steel-7"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943298"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943298"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943298"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/Heceebf864bf04652b0ca34eca1442cbdL.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Heceebf864bf04652b0ca34eca1442cbdL.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17753,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--36",
+          "source_sku_id": "109812943309",
+          "source_variant_value_id": "-36",
+          "attributes": {
+            "pa_variant": "steel-18"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943309"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943309"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943309"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H98a9ff858c9b42c9b78864d4017212a7J.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H98a9ff858c9b42c9b78864d4017212a7J.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17754,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--35",
+          "source_sku_id": "109812943308",
+          "source_variant_value_id": "-35",
+          "attributes": {
+            "pa_variant": "steel-17"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943308"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943308"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943308"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/Hfac4b761a67d4924afd47307307d9727M.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Hfac4b761a67d4924afd47307307d9727M.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17755,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--32",
+          "source_sku_id": "109812943305",
+          "source_variant_value_id": "-32",
+          "attributes": {
+            "pa_variant": "steel-14"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943305"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943305"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943305"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H49898a90980c456d9a3d106e81ac3179a.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H49898a90980c456d9a3d106e81ac3179a.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17756,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--31",
+          "source_sku_id": "109812943304",
+          "source_variant_value_id": "-31",
+          "attributes": {
+            "pa_variant": "steel-13"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943304"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943304"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943304"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H42c1ca56709d4872a8300f3f54e544bfq.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H42c1ca56709d4872a8300f3f54e544bfq.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17757,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--34",
+          "source_sku_id": "109812943307",
+          "source_variant_value_id": "-34",
+          "attributes": {
+            "pa_variant": "steel-16"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943307"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943307"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943307"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H8427b0e32f2b4311bbf130eaa4d01559Q.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H8427b0e32f2b4311bbf130eaa4d01559Q.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17758,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--33",
+          "source_sku_id": "109812943306",
+          "source_variant_value_id": "-33",
+          "attributes": {
+            "pa_variant": "steel-15"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943306"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943306"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943306"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H2c96ca65c8b6490b88c77f612a313770U.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H2c96ca65c8b6490b88c77f612a313770U.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17759,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--4",
+          "source_sku_id": "109812943277",
+          "source_variant_value_id": "-4",
+          "attributes": {
+            "pa_variant": "gold-4"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943277"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943277"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943277"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H1d9ab2fe14ed4631a25898187730bb05o.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H1d9ab2fe14ed4631a25898187730bb05o.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17760,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--3",
+          "source_sku_id": "109812943276",
+          "source_variant_value_id": "-3",
+          "attributes": {
+            "pa_variant": "gold-3"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943276"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943276"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943276"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H099c49f839e449f78324184615399c8bi.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H099c49f839e449f78324184615399c8bi.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17761,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--6",
+          "source_sku_id": "109812943279",
+          "source_variant_value_id": "-6",
+          "attributes": {
+            "pa_variant": "gold-6"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943279"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943279"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943279"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H2855381314fa41efb2a7b63f8e78a33fx.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H2855381314fa41efb2a7b63f8e78a33fx.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17762,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--5",
+          "source_sku_id": "109812943278",
+          "source_variant_value_id": "-5",
+          "attributes": {
+            "pa_variant": "gold-5"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943278"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943278"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943278"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H4787a0de529346ad9911fe8da2b7bc67a.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H4787a0de529346ad9911fe8da2b7bc67a.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17763,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--2",
+          "source_sku_id": "109812943275",
+          "source_variant_value_id": "-2",
+          "attributes": {
+            "pa_variant": "gold-2"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943275"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943275"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943275"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/Had7a2d1271514666b6aa18aed1f84329H.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Had7a2d1271514666b6aa18aed1f84329H.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17764,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--1",
+          "source_sku_id": "109812943274",
+          "source_variant_value_id": "-1",
+          "attributes": {
+            "pa_variant": "gold-1"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943274"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943274"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943274"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H609776c0364243a89607acc2ce76b8faM.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H609776c0364243a89607acc2ce76b8faM.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17765,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--12",
+          "source_sku_id": "109812943285",
+          "source_variant_value_id": "-12",
+          "attributes": {
+            "pa_variant": "gold-12"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943285"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943285"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943285"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H4e723cbfd8a2419585038178e0d0bf84t.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H4e723cbfd8a2419585038178e0d0bf84t.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17766,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--11",
+          "source_sku_id": "109812943284",
+          "source_variant_value_id": "-11",
+          "attributes": {
+            "pa_variant": "gold-11"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943284"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943284"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943284"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H32fd10aa9683432ab38693b01cd57e68o.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H32fd10aa9683432ab38693b01cd57e68o.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17767,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--14",
+          "source_sku_id": "109812943287",
+          "source_variant_value_id": "-14",
+          "attributes": {
+            "pa_variant": "gold-14"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943287"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943287"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943287"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H1350a12cdd5b42a79ac1db7679bbdc94m.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H1350a12cdd5b42a79ac1db7679bbdc94m.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17768,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--13",
+          "source_sku_id": "109812943286",
+          "source_variant_value_id": "-13",
+          "attributes": {
+            "pa_variant": "gold-13"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943286"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943286"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943286"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H9071671596e441cf8ddde28ca83d6842P.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H9071671596e441cf8ddde28ca83d6842P.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17769,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--8",
+          "source_sku_id": "109812943281",
+          "source_variant_value_id": "-8",
+          "attributes": {
+            "pa_variant": "gold-8"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943281"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943281"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943281"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/He3f2fd672a204d72bd62ada634216389b.webp",
+            "source_url": "https://sc04.alicdn.com/kf/He3f2fd672a204d72bd62ada634216389b.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17770,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--7",
+          "source_sku_id": "109812943280",
+          "source_variant_value_id": "-7",
+          "attributes": {
+            "pa_variant": "gold-7"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943280"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943280"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943280"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H72e52f3a4a2f4d57bf469ab0219ef1adr.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H72e52f3a4a2f4d57bf469ab0219ef1adr.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17771,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--10",
+          "source_sku_id": "109812943283",
+          "source_variant_value_id": "-10",
+          "attributes": {
+            "pa_variant": "gold-10"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943283"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943283"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943283"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H4ff64dee12314c608cb58e535ac50412H.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H4ff64dee12314c608cb58e535ac50412H.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17772,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--9",
+          "source_sku_id": "109812943282",
+          "source_variant_value_id": "-9",
+          "attributes": {
+            "pa_variant": "gold-9"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943282"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943282"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943282"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/Ha2fc43b996b14a2c8598e7f07799f5b47.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Ha2fc43b996b14a2c8598e7f07799f5b47.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17773,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--20",
+          "source_sku_id": "109812943293",
+          "source_variant_value_id": "-20",
+          "attributes": {
+            "pa_variant": "steel-2"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943293"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943293"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943293"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/Haadc1a3baf374e8c9846d11a25b31e95n.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Haadc1a3baf374e8c9846d11a25b31e95n.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17774,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--19",
+          "source_sku_id": "109812943292",
+          "source_variant_value_id": "-19",
+          "attributes": {
+            "pa_variant": "steel-1"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943292"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943292"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943292"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/He5a70b899c3e4ec9847cd3d3da2759b2j.webp",
+            "source_url": "https://sc04.alicdn.com/kf/He5a70b899c3e4ec9847cd3d3da2759b2j.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17775,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--22",
+          "source_sku_id": "109812943295",
+          "source_variant_value_id": "-22",
+          "attributes": {
+            "pa_variant": "steel-4"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943295"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943295"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943295"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H134139a7c4aa455e83a74f32b32088663.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H134139a7c4aa455e83a74f32b32088663.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17776,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--21",
+          "source_sku_id": "109812943294",
+          "source_variant_value_id": "-21",
+          "attributes": {
+            "pa_variant": "steel-3"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943294"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943294"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943294"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H9aceebcdf52145cc8687b41fc0c506bdj.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H9aceebcdf52145cc8687b41fc0c506bdj.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17777,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--16",
+          "source_sku_id": "109812943289",
+          "source_variant_value_id": "-16",
+          "attributes": {
+            "pa_variant": "gold-16"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943289"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943289"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943289"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H342fd09d572941f095420daaef23147en.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H342fd09d572941f095420daaef23147en.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17778,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--15",
+          "source_sku_id": "109812943288",
+          "source_variant_value_id": "-15",
+          "attributes": {
+            "pa_variant": "gold-15"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943288"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943288"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943288"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H1ecb39411d4444539c41eb7fe7944f37N.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H1ecb39411d4444539c41eb7fe7944f37N.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17779,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--18",
+          "source_sku_id": "109812943291",
+          "source_variant_value_id": "-18",
+          "attributes": {
+            "pa_variant": "gold-18"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943291"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943291"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943291"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/Hbfdffd2e184b4e6092219dc4511faf8ay.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Hbfdffd2e184b4e6092219dc4511faf8ay.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 17780,
+          "sku": "ALI-AAFcTMb-AOXiPwuEY8F70Sc4-V--17",
+          "source_sku_id": "109812943290",
+          "source_variant_value_id": "-17",
+          "attributes": {
+            "pa_variant": "gold-17"
+          },
+          "regular_price": "0.42",
+          "price": "0.42",
+          "price_tiers": [
+            {
+              "start_quantity": "100",
+              "price": "0.42",
+              "source_sku_id": "109812943290"
+            },
+            {
+              "start_quantity": "1200",
+              "price": "0.35",
+              "source_sku_id": "109812943290"
+            },
+            {
+              "start_quantity": "12000",
+              "price": "0.27",
+              "source_sku_id": "109812943290"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/10/H01c4239bbf9447edbeb4267af06dafd08.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H01c4239bbf9447edbeb4267af06dafd08.jpg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "wp_id": 17886,
+      "source_id": "1601978940584",
+      "source_plain_id": "1601978940584",
+      "sku": "ALI-AAGXTMb-AOXiPwuEY8F7xPax",
+      "slug": "50pcs-cartoon-stickers-waterproof-decals-for-notebook-phone-case-skateboard-scrapbook-diy-craft-wholesale",
+      "title": "50pcs Cartoon Stickers Waterproof Decals for Notebook Phone Case Skateboard Scrapbook DIY Craft Wholesale",
+      "status": "publish",
+      "product_type": "simple",
+      "url": "https://mecrt.com/product/50pcs-cartoon-stickers-waterproof-decals-for-notebook-phone-case-skateboard-scrapbook-diy-craft-wholesale/",
+      "modified_at": "2026-10-30T17:42:19+00:00",
+      "source_modified_at": "2026-10-13 22:54:30",
+      "description_html": "",
+      "short_description_html": "",
+      "categories": [
+        {
+          "id": 84,
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "tags": [],
+      "attributes": [
+        {
+          "name": "item number",
+          "slug": "item-number",
+          "values": ["T01042877"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "size",
+          "slug": "size",
+          "values": ["4-6cm"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Is IP authorized?",
+          "slug": "is-ip-authorized",
+          "values": ["No"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Can it be pasted?",
+          "slug": "can-it-be-pasted",
+          "values": ["Yes"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "process",
+          "slug": "process",
+          "values": ["Print"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Production enterprise",
+          "slug": "production-enterprise",
+          "values": ["TJMY"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Feature",
+          "slug": "feature",
+          "values": ["Waterproof"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Technique",
+          "slug": "technique",
+          "values": ["Digital Printing"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Style",
+          "slug": "style",
+          "values": ["Cartoon"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Application",
+          "slug": "application",
+          "values": ["Home Decoration"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Material",
+          "slug": "material",
+          "values": ["Paper"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Printing",
+          "slug": "printing",
+          "values": ["Digital Printing"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Place of Origin",
+          "slug": "place-of-origin",
+          "values": ["CN;ZHE"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Product Type",
+          "slug": "product-type",
+          "values": ["Cartoon"],
+          "variation": false,
+          "visible": true
+        }
+      ],
+      "weight": {
+        "value": "0.0220",
+        "unit": "kg",
+        "kg": "0.0220"
+      },
+      "pricing": {
+        "currency": "USD",
+        "regular_price": "0.81",
+        "price": "0.81",
+        "tiers": [
+          {
+            "start_quantity": "100",
+            "price": "0.81",
+            "source_sku_id": "109806958777"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "0.68",
+            "source_sku_id": "109806958777"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "0.59",
+            "source_sku_id": "109806958777"
+          }
+        ]
+      },
+      "images": [
+        {
+          "id": 17887,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hb566f6faea1b4fef945db17c0e802b93m.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hb566f6faea1b4fef945db17c0e802b93m.jpg",
+          "alt": "",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 17888,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/Hf7c10c436fa94667a5b30afbb5471a4d6.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hf7c10c436fa94667a5b30afbb5471a4d6.jpg",
+          "alt": "",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 17889,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H7860c5686e464687ac9bdc3f4125a9e0O.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H7860c5686e464687ac9bdc3f4125a9e0O.jpg",
+          "alt": "",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 17890,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H60101040415a47df996a49b7fd1718f7F.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H60101040415a47df996a49b7fd1718f7F.jpg",
+          "alt": "",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 17891,
+          "url": "https://mecrt.com/wp-content/uploads/2026/10/H11033a559ecc479488fb3d4a55a59a58M.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H11033a559ecc479488fb3d4a55a59a58M.jpg",
+          "alt": "",
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "source": {
+        "url": "https://www.alibaba.com/product-detail/50pcs-Cartoon-Stickers-Waterproof-Decals-for_1601978940584.html",
+        "group_id": "948466247",
+        "category_id": "201338418",
+        "main_image_urls": [
+          "https://sc04.alicdn.com/kf/Hb566f6faea1b4fef945db17c0e802b93m.jpg",
+          "https://sc04.alicdn.com/kf/Hf7c10c436fa94667a5b30afbb5471a4d6.jpg",
+          "https://sc04.alicdn.com/kf/H7860c5686e464687ac9bdc3f4125a9e0O.jpg",
+          "https://sc04.alicdn.com/kf/H60101040415a47df996a49b7fd1718f7F.jpg",
+          "https://sc04.alicdn.com/kf/H11033a559ecc479488fb3d4a55a59a58M.jpg"
+        ],
+        "detail_image_urls": [
+          "https://sc04.alicdn.com/kf/H67ce9539556345de82f472d4b4c02337d.jpg",
+          "https://sc04.alicdn.com/kf/Haadb985af27f40519217fe2f4aae263fW.jpg",
+          "https://sc04.alicdn.com/kf/H3ea55cd7c5f2428ca47efdeec76978f9R.jpg",
+          "https://sc04.alicdn.com/kf/Hec70841903ba4fbb802a96742abbc5d2t.jpg",
+          "https://sc04.alicdn.com/kf/H8025d4cbffba4062a9d7f893e14c9110G.jpg"
+        ]
+      },
+      "variations": []
     }
   ]
 }
