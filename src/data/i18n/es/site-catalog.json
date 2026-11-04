@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "es",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T20:31:53.736Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T20:43:22.072Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,9 +30,9 @@
     "brooch": "Broches",
     "uncategorized": "Sin categorizar"
   },
-  "categoryGlossarySourceHash": "abfe537688485ec5486e409c314bc4475c4ebde97020a610941069fbab11aa2a",
+  "categoryGlossarySourceHash": "53af73a89ffb531ca49b446d75640c1cdb42e79f11b109391fadacebfff34eb6",
   "translationSummary": {
-    "ready": 1059,
+    "ready": 1060,
     "skipped": 6,
     "skippedProductIds": [
       "1601644930396",
@@ -40,53 +42,16 @@
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1021,
-    "generated": 38,
+    "reused": 1059,
+    "generated": 1,
     "generatedProductIds": [
-      "1601157042635",
-      "1601155040623",
-      "1601277046030",
-      "1601844107420",
-      "1601928190979",
-      "1601931050856",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 44,
+    "retriedBacklog": 6,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -2407,27 +2372,27 @@
   ],
   "translationRetries": {
     "1601644930396": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "ea7adc1644caf3e7501ab5e89ec80a6f207c7926d1888414221ce0d9af85aa32"
     },
     "1601276882829": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09"
     },
     "1601598023832": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44"
     },
     "1601858899482": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "b6509351095f7147c292d997c04ba662f64ec1edcc5ad85b9d008611838cf1a9"
     },
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251936,6 +251901,225 @@
             "contentHash": "6a0d6193ecf0fb3123ebc91701b2d3791f42613c8bf2d0a7edb6f993cfded925",
             "attempts": 1,
             "updatedAt": "2026-11-03T20:31:53.724Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "es",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Cruz mini de madera de olivo con manos orantes",
+      "eyebrow": "Cruz mini de madera de olivo con manos orantes, adorno",
+      "summary": "Un pequeño adorno de cruz de madera tallado con manos orantes. La pieza está pulida para un acabado liso, y su escala compacta se adapta a las ramas del árbol, al envoltorio de regalos o a pequeñas exhibiciones decorativas. Cada cruz está hecha de madera de olivo, con el motivo de las manos orantes como punto focal visual.",
+      "description": "Las manos orantes ocupan el centro de esta cruz mini, atrayendo la mirada antes que la veta pulida de la madera de olivo. Lo bastante compacta para colgarse o colocarse en una vitrina, la pieza funciona como un pequeño adorno religioso más que como una cruz de pared grande. La madera de olivo le da un tono cálido, y la técnica de pulido alisa la superficie. Los compradores mayoristas pueden combinar la cruz con otros adornos pequeños u ofrecerla como artículo individual para regalo y recuerdo.",
+      "catholicContext": "Una cruz sencilla sin corpus; el título indica madera de olivo y un motivo de manos orantes, pero no describe un crucifijo.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Adornos",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "Cruz mini de madera de olivo con manos orantes",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "Cruz mini de madera de olivo con manos orantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "Cruz mini de madera de olivo con manos orantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "Cruz mini de madera de olivo con manos orantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "Cruz mini de madera de olivo con manos orantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "Cruz mini de madera de olivo con manos orantes"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "Cruz mini de madera de olivo con manos orantes"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Hecha de madera de olivo",
+        "Tallada con un motivo de manos orantes",
+        "Acabado de madera pulida",
+        "Tamaño miniatura apto para adornos y pequeñas exhibiciones",
+        "Forma de cruz sencilla sin corpus",
+        "Producto de madera escultórico"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Madera (madera de olivo)"
+        },
+        {
+          "name": "Tipo de producto",
+          "value": "Escultura / adorno"
+        },
+        {
+          "name": "Técnica",
+          "value": "Pulido"
+        },
+        {
+          "name": "Motivo",
+          "value": "Manos orantes"
+        },
+        {
+          "name": "Tipo de cruz",
+          "value": "Cruz sencilla, sin corpus"
+        },
+        {
+          "name": "Lugar de origen",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Decoración y regalos navideños",
+        "Decoración y recuerdos de boda",
+        "Recuerdo y pequeño obsequio",
+        "Decoración del hogar y coleccionable de arte"
+      ],
+      "faq": [
+        {
+          "question": "¿Es un crucifijo o una cruz sencilla?",
+          "answer": "Es una cruz sencilla. El producto se describe como una cruz de madera con manos orantes, sin corpus de Cristo indicado en la ficha."
+        },
+        {
+          "question": "¿De qué madera está hecha la cruz mini?",
+          "answer": "La cruz está hecha de madera de olivo y la superficie está pulida."
+        },
+        {
+          "question": "¿Se puede usar la cruz mini como regalo o recuerdo?",
+          "answer": "Sí. Las aplicaciones indicadas incluyen decoración y regalo navideño, decoración y regalo de boda, recuerdo, regalo de empresa y decoración del hogar."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Cruz mini de madera de olivo con manos orantes",
+          "description": "Un pequeño adorno de cruz de madera tallado con manos orantes. La pieza está pulida para un acabado liso, y su escala compacta se adapta a las ramas del árbol, al envoltorio de regalos o a pequeñas exhibiciones decorativas. Cada cruz está hecha de madera de olivo, con el motivo de las manos orantes como punto focal visual.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "Adornos",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Madera (madera de olivo)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de producto",
+              "value": "Escultura / adorno"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Técnica",
+              "value": "Pulido"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motivo",
+              "value": "Manos orantes"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de cruz",
+              "value": "Cruz sencilla, sin corpus"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lugar de origen",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿Es un crucifijo o una cruz sencilla?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Es una cruz sencilla. El producto se describe como una cruz de madera con manos orantes, sin corpus de Cristo indicado en la ficha."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿De qué madera está hecha la cruz mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La cruz está hecha de madera de olivo y la superficie está pulida."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Se puede usar la cruz mini como regalo o recuerdo?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sí. Las aplicaciones indicadas incluyen decoración y regalo navideño, decoración y regalo de boda, recuerdo, regalo de empresa y decoración del hogar."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "es": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "910975097df9fc61874980310dcbeb8842f256274de95a779dc35af462f161ea",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T20:43:22.069Z",
             "model": "deepseek-v4-flash"
           }
         }

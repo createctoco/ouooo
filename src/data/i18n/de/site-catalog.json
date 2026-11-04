@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "de",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T20:42:17.306Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T20:51:00.495Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,9 +30,9 @@
     "brooch": "Brosche",
     "uncategorized": "Unkategorisiert"
   },
-  "categoryGlossarySourceHash": "2feb8de509401756a4d45d60569495e1e6bc65f81629a041b76adcfb2297332a",
+  "categoryGlossarySourceHash": "53af73a89ffb531ca49b446d75640c1cdb42e79f11b109391fadacebfff34eb6",
   "translationSummary": {
-    "ready": 1059,
+    "ready": 1060,
     "skipped": 6,
     "skippedProductIds": [
       "1601644930396",
@@ -40,51 +42,16 @@
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1023,
-    "generated": 36,
+    "reused": 1059,
+    "generated": 1,
     "generatedProductIds": [
-      "1601157042635",
-      "1601155040623",
-      "1601277046030",
-      "1601928190979",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 42,
+    "retriedBacklog": 6,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -2550,27 +2517,27 @@
   ],
   "translationRetries": {
     "1601644930396": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "ea7adc1644caf3e7501ab5e89ec80a6f207c7926d1888414221ce0d9af85aa32"
     },
     "1601598023832": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44"
     },
     "1601844107420": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     },
     "1601931050856": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "2d43165d6f5ed5fc0c7cb38ca6611ace1201c8468e2de4f0eb3391a1457f103d"
     },
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251934,6 +251901,225 @@
             "contentHash": "9b4e4e4db504d4744fb5b19599b0e3f479d0ba3d1a496d1b8d888b1d1cad1f01",
             "attempts": 1,
             "updatedAt": "2026-11-03T20:42:17.292Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "de",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Mini-Olivenholzkreuz mit betenden Händen",
+      "eyebrow": "Mini-Olivenholzkreuz mit betenden Händen, Schmuckstück",
+      "summary": "Ein kleines Holzkreuz-Schmuckstück, verziert mit betenden Händen. Das Stück ist poliert für eine glatte Oberfläche, und die kompakte Größe eignet sich für Baumzweige, Geschenkverpackungen oder kleine dekorative Arrangements. Jedes Kreuz ist aus Olivenholz gefertigt, wobei das Motiv der betenden Hände den visuellen Blickfang bildet.",
+      "description": "Die betenden Hände sitzen im Zentrum dieses Mini-Kreuzes und ziehen den Blick vor der polierten Olivenholzmaserung auf sich. Kompakt genug zum Aufhängen oder Einlegen in ein Arrangement, dient das Stück als kleines religiöses Schmuckstück und nicht als großes Wandkreuz. Olivenholz verleiht ihm einen warmen Ton, und die Poliertechnik glättet die Oberfläche. Großhändler können das Kreuz mit anderen kleinen Schmuckstücken kombinieren oder es als Einzelstück für Geschenk- und Souvenirzwecke anbieten.",
+      "catholicContext": "Ein schlichtes Kreuz ohne Korpus; der Titel nennt Olivenholz und ein Motiv mit betenden Händen, beschreibt jedoch kein Kruzifix.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Schmuckstücke",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "Mini-Olivenholzkreuz mit betenden Händen",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "Mini-Olivenholzkreuz mit betenden Händen"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "Mini-Olivenholzkreuz mit betenden Händen"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "Mini-Olivenholzkreuz mit betenden Händen"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "Mini-Olivenholzkreuz mit betenden Händen"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "Mini-Olivenholzkreuz mit betenden Händen"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "Mini-Olivenholzkreuz mit betenden Händen"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Aus Olivenholz gefertigt",
+        "Mit einem Motiv betender Hände verziert",
+        "Polierte Holzoberfläche",
+        "Miniaturgröße, geeignet für Schmuckstücke und kleine Arrangements",
+        "Schlichte Kreuzform ohne Korpus",
+        "Skulpturales Holzprodukt"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Holz (Olivenholz)"
+        },
+        {
+          "name": "Produkttyp",
+          "value": "Skulptur / Schmuckstück"
+        },
+        {
+          "name": "Technik",
+          "value": "Poliert"
+        },
+        {
+          "name": "Motiv",
+          "value": "Betende Hände"
+        },
+        {
+          "name": "Kreuztyp",
+          "value": "Schlichtes Kreuz, kein Korpus"
+        },
+        {
+          "name": "Herkunftsort",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Feiertagsdekoration und Geschenke",
+        "Hochzeitsdekoration und Gastgeschenke",
+        "Souvenir und kleines Andenken",
+        "Heimdekoration und Kunst-Sammlerstück"
+      ],
+      "faq": [
+        {
+          "question": "Ist dies ein Kruzifix oder ein schlichtes Kreuz?",
+          "answer": "Es ist ein schlichtes Kreuz. Das Produkt wird als Holzkreuz mit betenden Händen beschrieben, ohne dass in der Produktbeschreibung ein Korpus Christi genannt wird."
+        },
+        {
+          "question": "Aus welchem Holz ist das Mini-Kreuz gefertigt?",
+          "answer": "Das Kreuz ist aus Olivenholz gefertigt, und die Oberfläche ist poliert."
+        },
+        {
+          "question": "Kann das Mini-Kreuz als Geschenk oder Gastgeschenk verwendet werden?",
+          "answer": "Ja. Die aufgeführten Anwendungen umfassen Feiertagsdekoration und Geschenk, Hochzeitsdekoration und Geschenk, Souvenir, Firmengeschenk und Heimdekoration."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Mini-Olivenholzkreuz mit betenden Händen",
+          "description": "Ein kleines Holzkreuz-Schmuckstück, verziert mit betenden Händen. Das Stück ist poliert für eine glatte Oberfläche, und die kompakte Größe eignet sich für Baumzweige, Geschenkverpackungen oder kleine dekorative Arrangements. Jedes Kreuz ist aus Olivenholz gefertigt, wobei das Motiv der betenden Hände den visuellen Blickfang bildet.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "Schmuckstücke",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Holz (Olivenholz)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Produkttyp",
+              "value": "Skulptur / Schmuckstück"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technik",
+              "value": "Poliert"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motiv",
+              "value": "Betende Hände"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kreuztyp",
+              "value": "Schlichtes Kreuz, kein Korpus"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Herkunftsort",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ist dies ein Kruzifix oder ein schlichtes Kreuz?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Es ist ein schlichtes Kreuz. Das Produkt wird als Holzkreuz mit betenden Händen beschrieben, ohne dass in der Produktbeschreibung ein Korpus Christi genannt wird."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Aus welchem Holz ist das Mini-Kreuz gefertigt?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Das Kreuz ist aus Olivenholz gefertigt, und die Oberfläche ist poliert."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kann das Mini-Kreuz als Geschenk oder Gastgeschenk verwendet werden?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ja. Die aufgeführten Anwendungen umfassen Feiertagsdekoration und Geschenk, Hochzeitsdekoration und Geschenk, Souvenir, Firmengeschenk und Heimdekoration."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "de": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "b5017ba2f237d29568b4e21fdc05b12a110b30a4c159ad10af3562fc35448945",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T20:51:00.492Z",
             "model": "deepseek-v4-flash"
           }
         }

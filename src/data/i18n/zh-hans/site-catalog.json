@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "zh-hans",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T21:02:12.719Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T21:05:51.253Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,59 +30,24 @@
     "brooch": "胸针",
     "uncategorized": "未分类"
   },
-  "categoryGlossarySourceHash": "b91e175e1f480f76940d606bea173b5bbfb9c23d6aaac70e22abc8fb1c2edd07",
+  "categoryGlossarySourceHash": "d012c036a9049c04073a08160e6224151423e6c668bfb8ae714fcf09d5c3e1c3",
   "translationSummary": {
-    "ready": 1063,
+    "ready": 1064,
     "skipped": 2,
     "skippedProductIds": [
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1027,
-    "generated": 36,
+    "reused": 1063,
+    "generated": 1,
     "generatedProductIds": [
-      "1601157042635",
-      "1601155040623",
-      "1601277046030",
-      "1601928190979",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 38,
+    "retriedBacklog": 2,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -943,11 +910,11 @@
   ],
   "translationRetries": {
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251946,6 +251913,225 @@
             "contentHash": "e7061171d30a57f863a52494602a55ad189c92c7541bbec37e4d4db06276e2a0",
             "attempts": 1,
             "updatedAt": "2026-11-03T21:02:12.708Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "zh-hans",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "迷你橄榄木十字架与祈祷之手",
+      "eyebrow": "迷你橄榄木十字架与祈祷之手，装饰品",
+      "summary": "一款雕刻有祈祷之手的小型木制十字架装饰品。该作品经过抛光处理，表面光滑，紧凑的尺寸适合挂在树枝上、用于礼品包装或小型装饰展示。每个十字架均由橄榄木制成，祈祷之手图案构成视觉焦点。",
+      "description": "祈祷之手位于这款迷你十字架的中心，在抛光的橄榄木纹理之前吸引目光。它紧凑到足以悬挂或塞入展示中，这件作品可作为小型宗教装饰品，而非大型壁挂十字架。橄榄木赋予它温暖的色调，抛光工艺使表面光滑。批发买家可以将该十字架与其他小装饰品组合，或作为独立商品提供用于送礼和纪念品用途。",
+      "catholicContext": "一个没有基督受难像的普通十字架；标题标明橄榄木和祈祷之手图案，但未描述苦像。",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "装饰品",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "迷你橄榄木十字架与祈祷之手",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "迷你橄榄木十字架与祈祷之手"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "迷你橄榄木十字架与祈祷之手"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "迷你橄榄木十字架与祈祷之手"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "迷你橄榄木十字架与祈祷之手"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "迷你橄榄木十字架与祈祷之手"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "迷你橄榄木十字架与祈祷之手"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "由橄榄木制成",
+        "雕刻有祈祷之手图案",
+        "抛光木材表面",
+        "适合装饰品和小型展示的微型尺寸",
+        "没有基督受难像的普通十字架形式",
+        "雕塑木制品"
+      ],
+      "specifications": [
+        {
+          "name": "材料",
+          "value": "木材（橄榄木）"
+        },
+        {
+          "name": "产品类型",
+          "value": "雕塑 / 装饰品"
+        },
+        {
+          "name": "工艺",
+          "value": "抛光"
+        },
+        {
+          "name": "图案",
+          "value": "祈祷之手"
+        },
+        {
+          "name": "十字架类型",
+          "value": "普通十字架，无基督受难像"
+        },
+        {
+          "name": "产地",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "节日装饰和礼品",
+        "婚礼装饰和回礼",
+        "纪念品和小型纪念物",
+        "家居装饰和艺术收藏品"
+      ],
+      "faq": [
+        {
+          "question": "这是苦像还是普通十字架？",
+          "answer": "这是一个普通十字架。产品描述为带有祈祷之手的木制十字架，列表中未说明有基督受难像。"
+        },
+        {
+          "question": "迷你十字架由什么木材制成？",
+          "answer": "十字架由橄榄木制成，表面经过抛光。"
+        },
+        {
+          "question": "迷你十字架可以用作礼物或回礼吗？",
+          "answer": "是的。列出的应用包括节日装饰和礼品、婚礼装饰和礼品、纪念品、商务礼品和家居装饰。"
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "迷你橄榄木十字架与祈祷之手",
+          "description": "一款雕刻有祈祷之手的小型木制十字架装饰品。该作品经过抛光处理，表面光滑，紧凑的尺寸适合挂在树枝上、用于礼品包装或小型装饰展示。每个十字架均由橄榄木制成，祈祷之手图案构成视觉焦点。",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "装饰品",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "材料",
+              "value": "木材（橄榄木）"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "产品类型",
+              "value": "雕塑 / 装饰品"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "工艺",
+              "value": "抛光"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "图案",
+              "value": "祈祷之手"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "十字架类型",
+              "value": "普通十字架，无基督受难像"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "产地",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "这是苦像还是普通十字架？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "这是一个普通十字架。产品描述为带有祈祷之手的木制十字架，列表中未说明有基督受难像。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "迷你十字架由什么木材制成？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "十字架由橄榄木制成，表面经过抛光。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "迷你十字架可以用作礼物或回礼吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "是的。列出的应用包括节日装饰和礼品、婚礼装饰和礼品、纪念品、商务礼品和家居装饰。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hans": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "7660a646028be4125292c7da31a529e589ec866d9c0db62ffe9cbdb2f0106db0",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T21:05:51.250Z",
             "model": "deepseek-v4-flash"
           }
         }

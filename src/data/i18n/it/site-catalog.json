@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "it",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T20:33:18.114Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T20:45:32.593Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,9 +30,9 @@
     "brooch": "Spilla",
     "uncategorized": "Non categorizzato"
   },
-  "categoryGlossarySourceHash": "abfe537688485ec5486e409c314bc4475c4ebde97020a610941069fbab11aa2a",
+  "categoryGlossarySourceHash": "0b6ad925be986fecbff337e3aadbd2d69f4a21fdd9d622566b09dc6bf78ca3e1",
   "translationSummary": {
-    "ready": 1058,
+    "ready": 1059,
     "skipped": 7,
     "skippedProductIds": [
       "1601276882829",
@@ -41,53 +43,16 @@
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1020,
-    "generated": 38,
+    "reused": 1058,
+    "generated": 1,
     "generatedProductIds": [
-      "1601644930396",
-      "1601157042635",
-      "1601155040623",
-      "1601277046030",
-      "1601921323519",
-      "1601928190979",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 45,
+    "retriedBacklog": 7,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -2985,31 +2950,31 @@
   ],
   "translationRetries": {
     "1601276882829": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09"
     },
     "1601598023832": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44"
     },
     "1601668472304": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "e3a1c05ead164427a864c1c42a9cfd6e2b45036f56af8d54e26b28de175e8dee"
     },
     "1601844107420": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     },
     "1601931050856": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "2d43165d6f5ed5fc0c7cb38ca6611ace1201c8468e2de4f0eb3391a1457f103d"
     },
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251933,6 +251898,225 @@
             "contentHash": "8353e3dd802769d7b67f1b3b56e6201babbac58301a9a5c5464ae0545860f98a",
             "attempts": 1,
             "updatedAt": "2026-11-03T20:33:18.100Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "it",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Croce Mini in Legno d'Ulivo con Mani in Preghiera",
+      "eyebrow": "Croce mini in legno d'ulivo con mani in preghiera, decorazione",
+      "summary": "Una piccola decorazione a croce in legno intagliata con mani in preghiera. Il pezzo è levigato per una finitura liscia, e le dimensioni compatte si adattano a rami d'albero, confezioni regalo o piccole esposizioni decorative. Ogni croce è realizzata in legno d'ulivo, con il motivo delle mani in preghiera che costituisce il punto focale visivo.",
+      "description": "Le mani in preghiera si trovano al centro di questa croce mini, attirando lo sguardo prima della venatura levigata del legno d'ulivo. Abbastanza compatta da essere appesa o inserita in un'esposizione, il pezzo funziona come piccola decorazione religiosa piuttosto che come grande croce da parete. Il legno d'ulivo conferisce un tono caldo, e la tecnica di levigatura leviga la superficie. Gli acquirenti all'ingrosso possono abbinare la croce ad altre piccole decorazioni o offrirla come articolo singolo per regali e uso come souvenir.",
+      "catholicContext": "Una croce semplice senza corpus; il titolo indica legno d'ulivo e un motivo di mani in preghiera ma non descrive un crocifisso.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Decorazioni",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "Croce Mini in Legno d'Ulivo con Mani in Preghiera",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "Croce Mini in Legno d'Ulivo con Mani in Preghiera"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "Croce Mini in Legno d'Ulivo con Mani in Preghiera"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "Croce Mini in Legno d'Ulivo con Mani in Preghiera"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "Croce Mini in Legno d'Ulivo con Mani in Preghiera"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "Croce Mini in Legno d'Ulivo con Mani in Preghiera"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "Croce Mini in Legno d'Ulivo con Mani in Preghiera"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Realizzata in legno d'ulivo",
+        "Intagliata con un motivo di mani in preghiera",
+        "Finitura in legno levigato",
+        "Dimensioni in miniatura adatte a decorazioni e piccole esposizioni",
+        "Forma di croce semplice senza corpus",
+        "Prodotto scultoreo in legno"
+      ],
+      "specifications": [
+        {
+          "name": "Materiale",
+          "value": "Legno (legno d'ulivo)"
+        },
+        {
+          "name": "Tipo di prodotto",
+          "value": "Scultura / decorazione"
+        },
+        {
+          "name": "Tecnica",
+          "value": "Levigato"
+        },
+        {
+          "name": "Motivo",
+          "value": "Mani in preghiera"
+        },
+        {
+          "name": "Tipo di croce",
+          "value": "Croce semplice, senza corpus"
+        },
+        {
+          "name": "Luogo di origine",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Decorazione e regali per le festività",
+        "Decorazione e bomboniere per matrimoni",
+        "Souvenir e piccolo ricordo",
+        "Decorazione per la casa e oggetto da collezione artistico"
+      ],
+      "faq": [
+        {
+          "question": "È un crocifisso o una croce semplice?",
+          "answer": "È una croce semplice. Il prodotto è descritto come una croce in legno con mani in preghiera, senza corpus di Cristo indicato nell'elenco."
+        },
+        {
+          "question": "Di quale legno è fatta la croce mini?",
+          "answer": "La croce è realizzata in legno d'ulivo e la superficie è levigata."
+        },
+        {
+          "question": "La croce mini può essere usata come regalo o bomboniera?",
+          "answer": "Sì. Le applicazioni elencate includono decorazione e regalo per le festività, decorazione e regalo per matrimoni, souvenir, regalo aziendale e decorazione per la casa."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Croce Mini in Legno d'Ulivo con Mani in Preghiera",
+          "description": "Una piccola decorazione a croce in legno intagliata con mani in preghiera. Il pezzo è levigato per una finitura liscia, e le dimensioni compatte si adattano a rami d'albero, confezioni regalo o piccole esposizioni decorative. Ogni croce è realizzata in legno d'ulivo, con il motivo delle mani in preghiera che costituisce il punto focale visivo.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "Decorazioni",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiale",
+              "value": "Legno (legno d'ulivo)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo di prodotto",
+              "value": "Scultura / decorazione"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tecnica",
+              "value": "Levigato"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motivo",
+              "value": "Mani in preghiera"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo di croce",
+              "value": "Croce semplice, senza corpus"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Luogo di origine",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "È un crocifisso o una croce semplice?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "È una croce semplice. Il prodotto è descritto come una croce in legno con mani in preghiera, senza corpus di Cristo indicato nell'elenco."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Di quale legno è fatta la croce mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La croce è realizzata in legno d'ulivo e la superficie è levigata."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "La croce mini può essere usata come regalo o bomboniera?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sì. Le applicazioni elencate includono decorazione e regalo per le festività, decorazione e regalo per matrimoni, souvenir, regalo aziendale e decorazione per la casa."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "it": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "8dfe5a3026647ae5ce5220be05de7561db5492844ca84cdb58ad229e98a83667",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T20:45:32.590Z",
             "model": "deepseek-v4-flash"
           }
         }

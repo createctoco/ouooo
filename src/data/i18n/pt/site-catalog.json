@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "pt",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T20:30:31.864Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T20:42:16.293Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,9 +30,9 @@
     "brooch": "Broche",
     "uncategorized": "Não categorizado"
   },
-  "categoryGlossarySourceHash": "abfe537688485ec5486e409c314bc4475c4ebde97020a610941069fbab11aa2a",
+  "categoryGlossarySourceHash": "be1ff6f2d911809b8e80ca37cb9720997b36add8739f7d5e098e5d46d3d3376d",
   "translationSummary": {
-    "ready": 1061,
+    "ready": 1062,
     "skipped": 4,
     "skippedProductIds": [
       "1601276882829",
@@ -38,53 +40,16 @@
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1023,
-    "generated": 38,
+    "reused": 1061,
+    "generated": 1,
     "generatedProductIds": [
-      "1601644930396",
-      "1601157042635",
-      "1601155040623",
-      "1601277046030",
-      "1601928190979",
-      "1601931050856",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 42,
+    "retriedBacklog": 4,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -1729,19 +1694,19 @@
   ],
   "translationRetries": {
     "1601276882829": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09"
     },
     "1601598023832": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44"
     },
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251942,6 +251907,225 @@
             "contentHash": "c54d04c7026fafcd68530a2b6ffe978baf939954d9222eb1580ce355a814efbf",
             "attempts": 1,
             "updatedAt": "2026-11-03T20:30:31.848Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "pt",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Mini Cruz de Madeira de Oliveira com Mãos em Oração",
+      "eyebrow": "Mini cruz de madeira de oliveira com mãos em oração, enfeite",
+      "summary": "Um pequeno enfeite de cruz de madeira esculpido com mãos em oração. A peça é polida para um acabamento liso, e a escala compacta é adequada para galhos de árvore, embrulho de presente ou pequenas exibições decorativas. Cada cruz é feita de madeira de oliveira, com o motivo das mãos em oração proporcionando o ponto focal visual.",
+      "description": "As mãos em oração ficam no centro desta mini cruz, atraindo o olhar antes da veia polida da madeira de oliveira. Compacta o suficiente para pendurar ou acomodar em uma exibição, a peça funciona como um pequeno enfeite religioso em vez de uma grande cruz de parede. A madeira de oliveira confere um tom quente, e a técnica de polimento suaviza a superfície. Compradores de atacado podem combinar a cruz com outros pequenos enfeites ou oferecê-la como item autônomo para presentear e uso como lembrança.",
+      "catholicContext": "Uma cruz simples sem corpus; o título nomeia madeira de oliveira e um motivo de mãos em oração, mas não descreve um crucifixo.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Enfeites",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "Mini Cruz de Madeira de Oliveira com Mãos em Oração",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "Mini Cruz de Madeira de Oliveira com Mãos em Oração"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "Mini Cruz de Madeira de Oliveira com Mãos em Oração"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "Mini Cruz de Madeira de Oliveira com Mãos em Oração"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "Mini Cruz de Madeira de Oliveira com Mãos em Oração"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "Mini Cruz de Madeira de Oliveira com Mãos em Oração"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "Mini Cruz de Madeira de Oliveira com Mãos em Oração"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Feita de madeira de oliveira",
+        "Esculpida com um motivo de mãos em oração",
+        "Acabamento de madeira polida",
+        "Tamanho em miniatura adequado para enfeites e pequenas exibições",
+        "Forma de cruz simples sem corpus",
+        "Produto de madeira esculpida"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Madeira (madeira de oliveira)"
+        },
+        {
+          "name": "Tipo de Produto",
+          "value": "Escultura / enfeite"
+        },
+        {
+          "name": "Técnica",
+          "value": "Polida"
+        },
+        {
+          "name": "Motivo",
+          "value": "Mãos em oração"
+        },
+        {
+          "name": "Tipo de Cruz",
+          "value": "Cruz simples, sem corpus"
+        },
+        {
+          "name": "Local de Origem",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Decoração e presentes de feriado",
+        "Decoração e lembrancinhas de casamento",
+        "Lembrança e pequena recordação",
+        "Decoração de casa e colecionável de arte"
+      ],
+      "faq": [
+        {
+          "question": "Isto é um crucifixo ou uma cruz simples?",
+          "answer": "É uma cruz simples. O produto é descrito como uma cruz de madeira com mãos em oração, sem corpus de Cristo indicado no anúncio."
+        },
+        {
+          "question": "De que madeira é feita a mini cruz?",
+          "answer": "A cruz é feita de madeira de oliveira, e a superfície é polida."
+        },
+        {
+          "question": "A mini cruz pode ser usada como presente ou lembrancinha?",
+          "answer": "Sim. As aplicações listadas incluem decoração e presente de feriado, decoração e lembrancinha de casamento, lembrança, presente de negócios e decoração de casa."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Mini Cruz de Madeira de Oliveira com Mãos em Oração",
+          "description": "Um pequeno enfeite de cruz de madeira esculpido com mãos em oração. A peça é polida para um acabamento liso, e a escala compacta é adequada para galhos de árvore, embrulho de presente ou pequenas exibições decorativas. Cada cruz é feita de madeira de oliveira, com o motivo das mãos em oração proporcionando o ponto focal visual.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "Enfeites",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Madeira (madeira de oliveira)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de Produto",
+              "value": "Escultura / enfeite"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Técnica",
+              "value": "Polida"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motivo",
+              "value": "Mãos em oração"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tipo de Cruz",
+              "value": "Cruz simples, sem corpus"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Local de Origem",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Isto é um crucifixo ou uma cruz simples?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "É uma cruz simples. O produto é descrito como uma cruz de madeira com mãos em oração, sem corpus de Cristo indicado no anúncio."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "De que madeira é feita a mini cruz?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A cruz é feita de madeira de oliveira, e a superfície é polida."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "A mini cruz pode ser usada como presente ou lembrancinha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sim. As aplicações listadas incluem decoração e presente de feriado, decoração e lembrancinha de casamento, lembrança, presente de negócios e decoração de casa."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pt": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "320a34c4cc0632541dd13d94d34576adefaa736347daba76bb9f4fa45dcf3ed4",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T20:42:16.289Z",
             "model": "deepseek-v4-flash"
           }
         }

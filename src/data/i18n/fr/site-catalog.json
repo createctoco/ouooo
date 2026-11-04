@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "fr",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T20:32:32.812Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T20:45:30.460Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,9 +30,9 @@
     "brooch": "Broches",
     "uncategorized": "Non classé"
   },
-  "categoryGlossarySourceHash": "abfe537688485ec5486e409c314bc4475c4ebde97020a610941069fbab11aa2a",
+  "categoryGlossarySourceHash": "53af73a89ffb531ca49b446d75640c1cdb42e79f11b109391fadacebfff34eb6",
   "translationSummary": {
-    "ready": 1058,
+    "ready": 1059,
     "skipped": 7,
     "skippedProductIds": [
       "1601644930396",
@@ -41,51 +43,16 @@
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1022,
-    "generated": 36,
+    "reused": 1058,
+    "generated": 1,
     "generatedProductIds": [
-      "1601157042635",
-      "1601155040623",
-      "1601277046030",
-      "1601928190979",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 43,
+    "retriedBacklog": 7,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -2942,31 +2909,31 @@
   ],
   "translationRetries": {
     "1601644930396": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "ea7adc1644caf3e7501ab5e89ec80a6f207c7926d1888414221ce0d9af85aa32"
     },
     "1601276882829": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09"
     },
     "1601598023832": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44"
     },
     "1601844107420": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     },
     "1601931050856": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "2d43165d6f5ed5fc0c7cb38ca6611ace1201c8468e2de4f0eb3391a1457f103d"
     },
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251931,6 +251898,225 @@
             "contentHash": "d40feb2efc1315a6dbdb56b5f5d73dd6c2c436f535260bd9a1509c8eb0995a1e",
             "attempts": 1,
             "updatedAt": "2026-11-03T20:32:32.795Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "fr",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Petite croix en bois d'olivier avec mains en prière",
+      "eyebrow": "Petite croix en bois d'olivier avec mains en prière, ornement",
+      "summary": "Un petit ornement en forme de croix en bois orné de mains en prière. La pièce est polie pour un fini lisse, et son format compact convient aux branches d'arbre, à l'emballage cadeau ou aux petits présentoirs décoratifs. Chaque croix est fabriquée en bois d'olivier, le motif des mains en prière constituant le point focal visuel.",
+      "description": "Les mains en prière se trouvent au centre de cette petite croix, attirant le regard avant le grain poli du bois d'olivier. Assez compacte pour être suspendue ou glissée dans un présentoir, la pièce se destine à un petit ornement religieux plutôt qu'à une grande croix murale. Le bois d'olivier lui confère une teinte chaleureuse, et la technique de polissage lisse la surface. Les acheteurs en gros peuvent associer la croix à d'autres petits ornements ou la proposer seule comme article de cadeau et de souvenir.",
+      "catholicContext": "Une croix simple sans corpus ; le titre mentionne le bois d'olivier et un motif de mains en prière, mais ne décrit pas un crucifix.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornements",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "Petite croix en bois d'olivier avec mains en prière",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "Petite croix en bois d'olivier avec mains en prière"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "Petite croix en bois d'olivier avec mains en prière"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "Petite croix en bois d'olivier avec mains en prière"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "Petite croix en bois d'olivier avec mains en prière"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "Petite croix en bois d'olivier avec mains en prière"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "Petite croix en bois d'olivier avec mains en prière"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Fabriquée en bois d'olivier",
+        "Sculptée avec un motif de mains en prière",
+        "Finition bois polie",
+        "Taille miniature adaptée aux ornements et aux petits présentoirs",
+        "Forme de croix simple sans corpus",
+        "Produit en bois sculptural"
+      ],
+      "specifications": [
+        {
+          "name": "Matériau",
+          "value": "Bois (bois d'olivier)"
+        },
+        {
+          "name": "Type de produit",
+          "value": "Sculpture / ornement"
+        },
+        {
+          "name": "Technique",
+          "value": "Polie"
+        },
+        {
+          "name": "Motif",
+          "value": "Mains en prière"
+        },
+        {
+          "name": "Type de croix",
+          "value": "Croix simple, sans corpus"
+        },
+        {
+          "name": "Lieu d'origine",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Décoration et cadeaux de fêtes",
+        "Décoration et cadeaux de mariage",
+        "Souvenir et petit objet commémoratif",
+        "Décoration intérieure et objet de collection d'art"
+      ],
+      "faq": [
+        {
+          "question": "S'agit-il d'un crucifix ou d'une croix simple ?",
+          "answer": "Il s'agit d'une croix simple. Le produit est décrit comme une croix en bois avec mains en prière, sans corpus du Christ mentionné dans l'annonce."
+        },
+        {
+          "question": "En quel bois la petite croix est-elle fabriquée ?",
+          "answer": "La croix est fabriquée en bois d'olivier, et la surface est polie."
+        },
+        {
+          "question": "La petite croix peut-elle servir de cadeau ou de présent ?",
+          "answer": "Oui. Les applications indiquées incluent la décoration et les cadeaux de fêtes, la décoration et les cadeaux de mariage, les souvenirs, les cadeaux d'entreprise et la décoration intérieure."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Petite croix en bois d'olivier avec mains en prière",
+          "description": "Un petit ornement en forme de croix en bois orné de mains en prière. La pièce est polie pour un fini lisse, et son format compact convient aux branches d'arbre, à l'emballage cadeau ou aux petits présentoirs décoratifs. Chaque croix est fabriquée en bois d'olivier, le motif des mains en prière constituant le point focal visuel.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "Ornements",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matériau",
+              "value": "Bois (bois d'olivier)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Type de produit",
+              "value": "Sculpture / ornement"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technique",
+              "value": "Polie"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motif",
+              "value": "Mains en prière"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Type de croix",
+              "value": "Croix simple, sans corpus"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lieu d'origine",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "S'agit-il d'un crucifix ou d'une croix simple ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il s'agit d'une croix simple. Le produit est décrit comme une croix en bois avec mains en prière, sans corpus du Christ mentionné dans l'annonce."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "En quel bois la petite croix est-elle fabriquée ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "La croix est fabriquée en bois d'olivier, et la surface est polie."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "La petite croix peut-elle servir de cadeau ou de présent ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui. Les applications indiquées incluent la décoration et les cadeaux de fêtes, la décoration et les cadeaux de mariage, les souvenirs, les cadeaux d'entreprise et la décoration intérieure."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "fd0e995bb055385394181b5f045a724df9e4ee68fa2296d7c59611bbb501e22a",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T20:45:30.456Z",
             "model": "deepseek-v4-flash"
           }
         }

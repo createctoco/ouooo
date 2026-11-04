@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "sl",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T21:01:41.675Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T21:06:37.072Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,9 +30,9 @@
     "brooch": "Broska",
     "uncategorized": "Nerazvrščeno"
   },
-  "categoryGlossarySourceHash": "abfe537688485ec5486e409c314bc4475c4ebde97020a610941069fbab11aa2a",
+  "categoryGlossarySourceHash": "10b66280fcbac74926f7587fe8500b7abc1d04770704ea553f675583e494d923",
   "translationSummary": {
-    "ready": 1053,
+    "ready": 1054,
     "skipped": 12,
     "skippedProductIds": [
       "1601644930396",
@@ -46,53 +48,16 @@
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1015,
-    "generated": 38,
+    "reused": 1053,
+    "generated": 1,
     "generatedProductIds": [
-      "1601157042635",
-      "1601155040623",
-      "1601477097448",
-      "1601246095064",
-      "1601277046030",
-      "1601928190979",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 50,
+    "retriedBacklog": 12,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -5178,51 +5143,51 @@
   ],
   "translationRetries": {
     "1601644930396": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "ea7adc1644caf3e7501ab5e89ec80a6f207c7926d1888414221ce0d9af85aa32"
     },
     "1601276882829": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09"
     },
     "1601598023832": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44"
     },
     "1601668472304": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "e3a1c05ead164427a864c1c42a9cfd6e2b45036f56af8d54e26b28de175e8dee"
     },
     "1601844107420": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     },
     "1601848821157": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "0ded46e2356953c296ea535789b47e72bd78ea567ed91f097a24cd03e91fbd49"
     },
     "1601872820733": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "45d57c81c2c1431487ab9e5aa1a14a66003affe25415a20a47708678b0e16af1"
     },
     "1601899194981": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "50f1ed66378df5266c738f6f5e054611d389ada46b077b86670a2132341a9afc"
     },
     "1601921323519": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9fc9b69fdcca68e97081a3e260897b155e62a45694adc60f5af0472994011ef7"
     },
     "1601931050856": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "2d43165d6f5ed5fc0c7cb38ca6611ace1201c8468e2de4f0eb3391a1457f103d"
     },
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251918,6 +251883,225 @@
             "contentHash": "0309e58c940069062e96399a698bf30e6cabac682be8837b68449d94aa5696c9",
             "attempts": 1,
             "updatedAt": "2026-11-03T21:01:41.655Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "sl",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Mini lesen križ iz oljčnega lesa z molitvenimi rokami",
+      "eyebrow": "Mini križ iz oljčnega lesa z molitvenimi rokami, okras",
+      "summary": "Majhen okras v obliki lesenega križa z izrezljanimi molitvenimi rokami. Kos je poliran za gladko površino, kompaktna velikost pa ustreza vejam dreves, zavijanju daril ali majhnim okrasnim postavitvam. Vsak križ je izdelan iz oljčnega lesa, motiv molitvenih rok pa predstavlja vidno žarišče.",
+      "description": "Molitvene roke sedijo v središču tega mini križa in pritegnejo pogled pred polirano teksturo oljčnega lesa. Dovolj kompakten za obešanje ali vstavljanje v postavitev, kos deluje kot majhen verski okras in ne kot velik stenski križ. Oljčni les mu daje topel ton, tehnika poliranja pa zgladi površino. Kupci na debelo lahko križ kombinirajo z drugimi majhnimi okrasi ali ga ponudijo kot samostojen izdelek za obdarovanje in spominke.",
+      "catholicContext": "Preprost križ brez korpusa; naslov navaja oljčni les in motiv molitvenih rok, vendar ne opisuje razpela.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Okraski",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "Mini lesen križ iz oljčnega lesa z molitvenimi rokami",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "Mini lesen križ iz oljčnega lesa z molitvenimi rokami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "Mini lesen križ iz oljčnega lesa z molitvenimi rokami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "Mini lesen križ iz oljčnega lesa z molitvenimi rokami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "Mini lesen križ iz oljčnega lesa z molitvenimi rokami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "Mini lesen križ iz oljčnega lesa z molitvenimi rokami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "Mini lesen križ iz oljčnega lesa z molitvenimi rokami"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Izdelan iz oljčnega lesa",
+        "Izrezljan z motivom molitvenih rok",
+        "Polirana lesena površina",
+        "Miniaturna velikost, primerna za okrase in majhne postavitve",
+        "Preprosta oblika križa brez korpusa",
+        "Kiparski leseni izdelek"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Les (oljčni les)"
+        },
+        {
+          "name": "Vrsta izdelka",
+          "value": "Skulptura / okras"
+        },
+        {
+          "name": "Tehnika",
+          "value": "Polirano"
+        },
+        {
+          "name": "Motiv",
+          "value": "Molitvene roke"
+        },
+        {
+          "name": "Vrsta križa",
+          "value": "Preprost križ, brez korpusa"
+        },
+        {
+          "name": "Kraj izvora",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Praznična dekoracija in darila",
+        "Poročna dekoracija in pozornosti",
+        "Spominki in majhni spominski predmeti",
+        "Domača dekoracija in umetniški zbirateljski predmet"
+      ],
+      "faq": [
+        {
+          "question": "Ali je to razpelo ali preprost križ?",
+          "answer": "To je preprost križ. Izdelek je opisan kot lesen križ z molitvenimi rokami, v opisu izdelka pa ni navedenega korpusa Kristusa."
+        },
+        {
+          "question": "Iz katerega lesa je mini križ?",
+          "answer": "Križ je izdelan iz oljčnega lesa, površina pa je polirana."
+        },
+        {
+          "question": "Ali se mini križ lahko uporabi kot darilo ali pozornost?",
+          "answer": "Da. Navedene uporabe vključujejo praznično dekoracijo in darila, poročno dekoracijo in darila, spominke, poslovna darila in domačo dekoracijo."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Mini lesen križ iz oljčnega lesa z molitvenimi rokami",
+          "description": "Majhen okras v obliki lesenega križa z izrezljanimi molitvenimi rokami. Kos je poliran za gladko površino, kompaktna velikost pa ustreza vejam dreves, zavijanju daril ali majhnim okrasnim postavitvam. Vsak križ je izdelan iz oljčnega lesa, motiv molitvenih rok pa predstavlja vidno žarišče.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "Okraski",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Les (oljčni les)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta izdelka",
+              "value": "Skulptura / okras"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnika",
+              "value": "Polirano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motiv",
+              "value": "Molitvene roke"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta križa",
+              "value": "Preprost križ, brez korpusa"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kraj izvora",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ali je to razpelo ali preprost križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To je preprost križ. Izdelek je opisan kot lesen križ z molitvenimi rokami, v opisu izdelka pa ni navedenega korpusa Kristusa."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Iz katerega lesa je mini križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Križ je izdelan iz oljčnega lesa, površina pa je polirana."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ali se mini križ lahko uporabi kot darilo ali pozornost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Navedene uporabe vključujejo praznično dekoracijo in darila, poročno dekoracijo in darila, spominke, poslovna darila in domačo dekoracijo."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "sl": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "6197bd2caf8174ed1cf481723ff83c86cecdc79eba3bcd95c2a547524dc001b6",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T21:06:37.069Z",
             "model": "deepseek-v4-flash"
           }
         }

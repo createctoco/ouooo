@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "hr",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T20:49:52.384Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T20:58:05.185Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,9 +30,9 @@
     "brooch": "Broš",
     "uncategorized": "Nekategorizirano"
   },
-  "categoryGlossarySourceHash": "abfe537688485ec5486e409c314bc4475c4ebde97020a610941069fbab11aa2a",
+  "categoryGlossarySourceHash": "10b66280fcbac74926f7587fe8500b7abc1d04770704ea553f675583e494d923",
   "translationSummary": {
-    "ready": 1055,
+    "ready": 1056,
     "skipped": 10,
     "skippedProductIds": [
       "1601644930396",
@@ -44,53 +46,16 @@
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1017,
-    "generated": 38,
+    "reused": 1055,
+    "generated": 1,
     "generatedProductIds": [
-      "1601157042635",
-      "1601155040623",
-      "1601477097448",
-      "1601246095064",
-      "1601277046030",
-      "1601928190979",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 48,
+    "retriedBacklog": 10,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -4393,43 +4358,43 @@
   ],
   "translationRetries": {
     "1601644930396": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "ea7adc1644caf3e7501ab5e89ec80a6f207c7926d1888414221ce0d9af85aa32"
     },
     "1601276882829": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09"
     },
     "1601598023832": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44"
     },
     "1601668472304": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "e3a1c05ead164427a864c1c42a9cfd6e2b45036f56af8d54e26b28de175e8dee"
     },
     "1601844107420": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     },
     "1601872820733": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "45d57c81c2c1431487ab9e5aa1a14a66003affe25415a20a47708678b0e16af1"
     },
     "1601921323519": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9fc9b69fdcca68e97081a3e260897b155e62a45694adc60f5af0472994011ef7"
     },
     "1601931050856": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "2d43165d6f5ed5fc0c7cb38ca6611ace1201c8468e2de4f0eb3391a1457f103d"
     },
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251924,6 +251889,225 @@
             "contentHash": "7993d1b1bb0c263c96cfe12f32211d930837815a2160a3df32c4c490d1d5e096",
             "attempts": 1,
             "updatedAt": "2026-11-03T20:49:52.369Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "hr",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Mali križ od maslinovog drva s molitvenim rukama",
+      "eyebrow": "Mali križ od maslinovog drva s molitvenim rukama, ukras",
+      "summary": "Mali ukrasni križ od drva s urezanim molitvenim rukama. Komad je poliran za glatku završnicu, a kompaktna veličina prikladna je za grane drvca, pakiranje darova ili male ukrasne izložbe. Svaki je križ izrađen od maslinovog drva, a motiv molitvenih ruku vizualno je središte.",
+      "description": "Molitvene ruke smještene su u središtu ovog malog križa i privlače pogled prije polirane teksture maslinovog drva. Dovoljno kompaktan za vješanje ili smještanje u izložbu, komad djeluje kao mali vjerski ukras, a ne kao veliki zidni križ. Maslinovo drvo daje mu topao ton, a tehnika poliranja zaglađuje površinu. Kupci na veliko mogu križ kombinirati s drugim malim ukrasima ili ga ponuditi kao samostalni artikl za darove i suvenire.",
+      "catholicContext": "Jednostavan križ bez korpusa; naziv navodi maslinovo drvo i motiv molitvenih ruku, ali ne opisuje raspelo.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ukrasi",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "Mali križ od maslinovog drva s molitvenim rukama",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "Mali križ od maslinovog drva s molitvenim rukama"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "Mali križ od maslinovog drva s molitvenim rukama"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "Mali križ od maslinovog drva s molitvenim rukama"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "Mali križ od maslinovog drva s molitvenim rukama"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "Mali križ od maslinovog drva s molitvenim rukama"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "Mali križ od maslinovog drva s molitvenim rukama"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Izrađen od maslinovog drva",
+        "Urezan motiv molitvenih ruku",
+        "Polirana završnica drva",
+        "Minijaturna veličina prikladna za ukrase i male izložbe",
+        "Oblik jednostavnog križa bez korpusa",
+        "Skulpturalni drveni proizvod"
+      ],
+      "specifications": [
+        {
+          "name": "Materijal",
+          "value": "Drvo (maslinovo drvo)"
+        },
+        {
+          "name": "Vrsta proizvoda",
+          "value": "Skulptura / ukras"
+        },
+        {
+          "name": "Tehnika",
+          "value": "Polirano"
+        },
+        {
+          "name": "Motiv",
+          "value": "Molitvene ruke"
+        },
+        {
+          "name": "Vrsta križa",
+          "value": "Jednostavan križ, bez korpusa"
+        },
+        {
+          "name": "Zemlja podrijetla",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Blagdanski ukrasi i darovi",
+        "Vjenčani ukrasi i darovi",
+        "Suveniri i mali uspomene",
+        "Kućni ukrasi i umjetnički kolekcionarski predmeti"
+      ],
+      "faq": [
+        {
+          "question": "Je li ovo raspelo ili jednostavan križ?",
+          "answer": "To je jednostavan križ. Proizvod je opisan kao drveni križ s molitvenim rukama, bez navedenog korpusa Krista u opisu."
+        },
+        {
+          "question": "Od kojeg je drva izrađen mali križ?",
+          "answer": "Križ je izrađen od maslinovog drva, a površina je polirana."
+        },
+        {
+          "question": "Može li se mali križ koristiti kao dar ili sitni dar?",
+          "answer": "Da. Navedene primjene uključuju blagdanske ukrase i darove, vjenčane ukrase i darove, suvenire, poslovne darove i kućne ukrase."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Mali križ od maslinovog drva s molitvenim rukama",
+          "description": "Mali ukrasni križ od drva s urezanim molitvenim rukama. Komad je poliran za glatku završnicu, a kompaktna veličina prikladna je za grane drvca, pakiranje darova ili male ukrasne izložbe. Svaki je križ izrađen od maslinovog drva, a motiv molitvenih ruku vizualno je središte.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "Ukrasi",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materijal",
+              "value": "Drvo (maslinovo drvo)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta proizvoda",
+              "value": "Skulptura / ukras"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnika",
+              "value": "Polirano"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motiv",
+              "value": "Molitvene ruke"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vrsta križa",
+              "value": "Jednostavan križ, bez korpusa"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Zemlja podrijetla",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Je li ovo raspelo ili jednostavan križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To je jednostavan križ. Proizvod je opisan kao drveni križ s molitvenim rukama, bez navedenog korpusa Krista u opisu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Od kojeg je drva izrađen mali križ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Križ je izrađen od maslinovog drva, a površina je polirana."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Može li se mali križ koristiti kao dar ili sitni dar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Navedene primjene uključuju blagdanske ukrase i darove, vjenčane ukrase i darove, suvenire, poslovne darove i kućne ukrase."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "hr": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "e943ca00ee6c5a91c6f722f8d02eb4fc4b9cbebeaf7dc8ba7245314484ed3430",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T20:58:05.182Z",
             "model": "deepseek-v4-flash"
           }
         }

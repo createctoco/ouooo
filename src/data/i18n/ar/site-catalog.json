@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "ar",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T21:00:07.976Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T21:04:08.605Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,9 +30,9 @@
     "brooch": "بروش",
     "uncategorized": "غير مصنف"
   },
-  "categoryGlossarySourceHash": "abfe537688485ec5486e409c314bc4475c4ebde97020a610941069fbab11aa2a",
+  "categoryGlossarySourceHash": "53af73a89ffb531ca49b446d75640c1cdb42e79f11b109391fadacebfff34eb6",
   "translationSummary": {
-    "ready": 1056,
+    "ready": 1057,
     "skipped": 9,
     "skippedProductIds": [
       "1601644930396",
@@ -43,53 +45,16 @@
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1018,
-    "generated": 38,
+    "reused": 1056,
+    "generated": 1,
     "generatedProductIds": [
-      "1601157042635",
-      "1601155040623",
-      "1601246095064",
-      "1601277046030",
-      "1601921323519",
-      "1601928190979",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 47,
+    "retriedBacklog": 9,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -4031,39 +3996,39 @@
   ],
   "translationRetries": {
     "1601644930396": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "ea7adc1644caf3e7501ab5e89ec80a6f207c7926d1888414221ce0d9af85aa32"
     },
     "1601276882829": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09"
     },
     "1601598023832": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44"
     },
     "1601668472304": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "e3a1c05ead164427a864c1c42a9cfd6e2b45036f56af8d54e26b28de175e8dee"
     },
     "1601844107420": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     },
     "1601872820733": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "45d57c81c2c1431487ab9e5aa1a14a66003affe25415a20a47708678b0e16af1"
     },
     "1601931050856": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "2d43165d6f5ed5fc0c7cb38ca6611ace1201c8468e2de4f0eb3391a1457f103d"
     },
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251927,6 +251892,225 @@
             "contentHash": "fa720453eb5c9ecfb631ba040d698f77741dca49bfd7cd5b26708110b5f7d06f",
             "attempts": 1,
             "updatedAt": "2026-11-03T21:00:07.964Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "ar",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية",
+      "eyebrow": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية، زينة",
+      "summary": "زينة صليب خشبية صغيرة منقوشة بأيادٍ مصلّية. القطعة مصقولة لسطح أملس، والحجم المدمج يناسب أغصان الشجرة أو تغليف الهدايا أو معروضات زخرفية صغيرة. كل صليب مصنوع من خشب الزيتون، وزخرفة الأيادي المصلّية تشكّل النقطة البصرية المحورية.",
+      "description": "تجلس الأيادي المصلّية في مركز هذا الصليب الصغير، فتلفت النظر قبل عروق خشب الزيتون المصقول. القطعة صغيرة بما يكفي لتعليقها أو وضعها داخل معروض، وتعمل كزينة دينية صغيرة بدلًا من صليب جداري كبير. يمنحها خشب الزيتون لونًا دافئًا، وتقنية الصقل تنعّم السطح. يمكن لمشتري الجملة دمج الصليب مع زينات صغيرة أخرى أو تقديمه كقطعة مستقلة للهدايا والتذكارات.",
+      "catholicContext": "صليب بسيط دون جسد؛ يشير العنوان إلى خشب الزيتون وزخرفة الأيادي المصلّية لكنه لا يصف صليبًا مصلوبًا.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "زينة",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "مصنوع من خشب الزيتون",
+        "منقوش بزخرفة الأيادي المصلّية",
+        "تشطيب خشب مصقول",
+        "حجم مصغّر يناسب الزينات والمعروضات الصغيرة",
+        "شكل صليب بسيط دون جسد",
+        "منتج خشبي نحتي"
+      ],
+      "specifications": [
+        {
+          "name": "المادة",
+          "value": "خشب (خشب الزيتون)"
+        },
+        {
+          "name": "نوع المنتج",
+          "value": "نحت / زينة"
+        },
+        {
+          "name": "التقنية",
+          "value": "مصقول"
+        },
+        {
+          "name": "الزخرفة",
+          "value": "أيادٍ مصلّية"
+        },
+        {
+          "name": "نوع الصليب",
+          "value": "صليب بسيط، دون جسد"
+        },
+        {
+          "name": "مكان المنشأ",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "زينة الأعياد والهدايا",
+        "زينة الأعراس وتذكاراتها",
+        "تذكار وهدية صغيرة",
+        "زينة المنزل ومقتنى فني"
+      ],
+      "faq": [
+        {
+          "question": "هل هذا صليب مصلوب أم صليب بسيط؟",
+          "answer": "هو صليب بسيط. يُوصف المنتج بأنه صليب خشبي مع أيادٍ مصلّية، دون ذكر جسد المسيح في القائمة."
+        },
+        {
+          "question": "من أي خشب يُصنع الصليب الصغير؟",
+          "answer": "الصليب مصنوع من خشب الزيتون، وسطحه مصقول."
+        },
+        {
+          "question": "هل يمكن استخدام الصليب الصغير كهدية أو تذكار؟",
+          "answer": "نعم. تشمل الاستخدامات المذكورة زينة الأعياد والهدايا، وزينة الأعراس وتذكاراتها، والتذكار، وهدية الأعمال، وزينة المنزل."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "صليب صغير من خشب الزيتون مع أيادٍ مصلّية",
+          "description": "زينة صليب خشبية صغيرة منقوشة بأيادٍ مصلّية. القطعة مصقولة لسطح أملس، والحجم المدمج يناسب أغصان الشجرة أو تغليف الهدايا أو معروضات زخرفية صغيرة. كل صليب مصنوع من خشب الزيتون، وزخرفة الأيادي المصلّية تشكّل النقطة البصرية المحورية.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "زينة",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "المادة",
+              "value": "خشب (خشب الزيتون)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "نوع المنتج",
+              "value": "نحت / زينة"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "التقنية",
+              "value": "مصقول"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "الزخرفة",
+              "value": "أيادٍ مصلّية"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "نوع الصليب",
+              "value": "صليب بسيط، دون جسد"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "مكان المنشأ",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "هل هذا صليب مصلوب أم صليب بسيط؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "هو صليب بسيط. يُوصف المنتج بأنه صليب خشبي مع أيادٍ مصلّية، دون ذكر جسد المسيح في القائمة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "من أي خشب يُصنع الصليب الصغير؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "الصليب مصنوع من خشب الزيتون، وسطحه مصقول."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل يمكن استخدام الصليب الصغير كهدية أو تذكار؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نعم. تشمل الاستخدامات المذكورة زينة الأعياد والهدايا، وزينة الأعراس وتذكاراتها، والتذكار، وهدية الأعمال، وزينة المنزل."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ar": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "d03b4d181086e5ec69ba76842f7ac4d8f5ab6e865d0da7f104b5f72d4b7d1103",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T21:04:08.601Z",
             "model": "deepseek-v4-flash"
           }
         }

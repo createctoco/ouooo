@@ -2,13 +2,15 @@
   "schemaVersion": 3,
   "locale": "ro",
   "sourceLocale": "en",
-  "sourceCatalogHash": "69427363ee6b5ffbaf39aa5f68657a98cba63dccf34b320623fd06b90119377b",
-  "generatedAt": "2026-11-03T20:58:55.510Z",
+  "sourceCatalogHash": "cac2b1fd6fb237dd0c31f87b3e479831db90272aabedcaaa8582cf30c2c94ccd",
+  "generatedAt": "2026-11-04T21:04:03.129Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -28,9 +30,9 @@
     "brooch": "Broșă",
     "uncategorized": "Necategorisit"
   },
-  "categoryGlossarySourceHash": "abfe537688485ec5486e409c314bc4475c4ebde97020a610941069fbab11aa2a",
+  "categoryGlossarySourceHash": "53af73a89ffb531ca49b446d75640c1cdb42e79f11b109391fadacebfff34eb6",
   "translationSummary": {
-    "ready": 1056,
+    "ready": 1057,
     "skipped": 9,
     "skippedProductIds": [
       "1601644930396",
@@ -43,52 +45,16 @@
       "1601931278015",
       "1601983517896"
     ],
-    "reused": 1019,
-    "generated": 37,
+    "reused": 1056,
+    "generated": 1,
     "generatedProductIds": [
-      "1601157042635",
-      "1601155040623",
-      "1601277046030",
-      "1601921323519",
-      "1601928190979",
-      "1601916244322",
-      "1601916249003",
-      "1601910462984",
-      "1601914977147",
-      "1601914846751",
-      "1601914824724",
-      "1601914790895",
-      "1601663085198",
-      "1601917441869",
-      "1601917586023",
-      "1602001658675",
-      "1602001747129",
-      "1601917422676",
-      "1601917460673",
-      "1601917469217",
-      "1601782862622",
-      "1601576422900",
-      "1601616676206",
-      "1601906752192",
-      "1601906767124",
-      "1602001622987",
-      "1601964345892",
-      "1601969330663",
-      "1601969312782",
-      "1601970933293",
-      "1601971601615",
-      "1601977811188",
-      "1601977720813",
-      "1601782888555",
-      "1601977760544",
-      "1601980296481",
-      "1601978940584"
+      "1601162053561"
     ],
     "gaveUp": 0,
     "gaveUpSkipped": 0,
     "dropped": 0,
     "droppedProductIds": [],
-    "retriedBacklog": 46,
+    "retriedBacklog": 9,
     "glossaryReused": true
   },
   "translationBacklog": [
@@ -3914,39 +3880,39 @@
   ],
   "translationRetries": {
     "1601644930396": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "ea7adc1644caf3e7501ab5e89ec80a6f207c7926d1888414221ce0d9af85aa32"
     },
     "1601276882829": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "9d60a2a252bf58bda84e570456b81827925c08c03a464e55c91cad3230d8ee09"
     },
     "1601598023832": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "12832187f83cf21a2ceec983d0b25328cc731c65cc37174d270f9eed0e6d2c44"
     },
     "1601668472304": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "e3a1c05ead164427a864c1c42a9cfd6e2b45036f56af8d54e26b28de175e8dee"
     },
     "1601844107420": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "05c434a2213ff631ea6f3838ec75e6d26d13886d219175c8066d4859ff19d279"
     },
     "1601899194981": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "50f1ed66378df5266c738f6f5e054611d389ada46b077b86670a2132341a9afc"
     },
     "1601931050856": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "2d43165d6f5ed5fc0c7cb38ca6611ace1201c8468e2de4f0eb3391a1457f103d"
     },
     "1601931278015": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "4f2b3a48718f1766d7b8ad2f8b6d675c178a1e8ebf21518fdda33867e6417af8"
     },
     "1601983517896": {
-      "count": 3,
+      "count": 4,
       "sourceHash": "6acb54f1cad2ab26172f1ee830015b9694d5eec8bb8a11a010b22bcfd5217686"
     }
   },
@@ -251926,6 +251892,225 @@
             "contentHash": "b19846a96b52c926d03894b7e4c3dd456a8e25ff02ba3572dbeadf599dfdadb3",
             "attempts": 1,
             "updatedAt": "2026-11-03T20:58:55.487Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "ro",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Cruce mini din lemn de măslin cu mâini în rugăciune",
+      "eyebrow": "Cruce mini din lemn de măslin cu mâini în rugăciune, ornament",
+      "summary": "Un mic ornament cu cruce din lemn, sculptat cu mâini în rugăciune. Piesa este lustruită pentru un finisaj neted, iar dimensiunea compactă se potrivește pe ramurile pomului, pe ambalajele cadourilor sau în micile expuneri decorative. Fiecare cruce este din lemn de măslin, iar motivul mâinilor în rugăciune constituie punctul focal vizual.",
+      "description": "Mâinile în rugăciune stau în centrul acestei cruci mini, atrăgând privirea înaintea fibrei lustruite a lemnului de măslin. Destul de compactă pentru a fi agățată sau strecurată într-o expunere, piesa funcționează ca un mic ornament religios, nu ca o cruce mare de perete. Lemnul de măslin îi conferă un ton cald, iar tehnica de lustruire netezește suprafața. Cumpărătorii en-gros pot combina crucea cu alte mici ornamente sau o pot oferi ca articol de sine stătător pentru cadouri și suveniruri.",
+      "catholicContext": "O cruce simplă, fără corpus; titlul menționează lemnul de măslin și motivul mâinilor în rugăciune, dar nu descrie un crucifix.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornamente",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "Cruce mini din lemn de măslin cu mâini în rugăciune",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "Cruce mini din lemn de măslin cu mâini în rugăciune"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "Cruce mini din lemn de măslin cu mâini în rugăciune"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "Cruce mini din lemn de măslin cu mâini în rugăciune"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "Cruce mini din lemn de măslin cu mâini în rugăciune"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "Cruce mini din lemn de măslin cu mâini în rugăciune"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "Cruce mini din lemn de măslin cu mâini în rugăciune"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Confecționată din lemn de măslin",
+        "Sculptată cu un motiv de mâini în rugăciune",
+        "Finisaj lustruit al lemnului",
+        "Dimensiune miniatură potrivită pentru ornamente și expuneri mici",
+        "Formă de cruce simplă, fără corpus",
+        "Produs sculptural din lemn"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Lemn (lemn de măslin)"
+        },
+        {
+          "name": "Tip de produs",
+          "value": "Sculptură / ornament"
+        },
+        {
+          "name": "Tehnică",
+          "value": "Lustruit"
+        },
+        {
+          "name": "Motiv",
+          "value": "Mâini în rugăciune"
+        },
+        {
+          "name": "Tip de cruce",
+          "value": "Cruce simplă, fără corpus"
+        },
+        {
+          "name": "Locul de origine",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Decorațiuni și cadouri de sărbători",
+        "Decorațiuni și mărunțișuri pentru nuntă",
+        "Suvenir și mic obiect de păstrat",
+        "Decorațiune pentru casă și obiect de colecție artistic"
+      ],
+      "faq": [
+        {
+          "question": "Este acesta un crucifix sau o cruce simplă?",
+          "answer": "Este o cruce simplă. Produsul este descris ca o cruce din lemn cu mâini în rugăciune, fără corpus al lui Hristos menționat în anunț."
+        },
+        {
+          "question": "Din ce lemn este confecționată crucea mini?",
+          "answer": "Crucea este confecționată din lemn de măslin, iar suprafața este lustruită."
+        },
+        {
+          "question": "Poate fi folosită crucea mini ca dar sau mărunțiș?",
+          "answer": "Da. Aplicațiile enumerate includ decorațiuni și cadouri de sărbători, decorațiuni și cadouri pentru nuntă, suvenir, cadou de afaceri și decorațiune pentru casă."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Cruce mini din lemn de măslin cu mâini în rugăciune",
+          "description": "Un mic ornament cu cruce din lemn, sculptat cu mâini în rugăciune. Piesa este lustruită pentru un finisaj neted, iar dimensiunea compactă se potrivește pe ramurile pomului, pe ambalajele cadourilor sau în micile expuneri decorative. Fiecare cruce este din lemn de măslin, iar motivul mâinilor în rugăciune constituie punctul focal vizual.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "Ornamente",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Lemn (lemn de măslin)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip de produs",
+              "value": "Sculptură / ornament"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tehnică",
+              "value": "Lustruit"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motiv",
+              "value": "Mâini în rugăciune"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tip de cruce",
+              "value": "Cruce simplă, fără corpus"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Locul de origine",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Este acesta un crucifix sau o cruce simplă?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Este o cruce simplă. Produsul este descris ca o cruce din lemn cu mâini în rugăciune, fără corpus al lui Hristos menționat în anunț."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Din ce lemn este confecționată crucea mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Crucea este confecționată din lemn de măslin, iar suprafața este lustruită."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Poate fi folosită crucea mini ca dar sau mărunțiș?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Da. Aplicațiile enumerate includ decorațiuni și cadouri de sărbători, decorațiuni și cadouri pentru nuntă, suvenir, cadou de afaceri și decorațiune pentru casă."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
+            "model": "deepseek-v4-flash"
+          },
+          "ro": {
+            "status": "ready",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "2585d2157c8fc98e27b55ab7d812d40c4e2fd689b6ed1ca0d12dbfccc7413975",
+            "attempts": 1,
+            "updatedAt": "2026-11-04T21:04:03.125Z",
             "model": "deepseek-v4-flash"
           }
         }
