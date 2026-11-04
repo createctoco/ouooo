@@ -1,12 +1,14 @@
 {
   "schemaVersion": 3,
   "locale": "en",
-  "generatedAt": "2026-11-03T20:20:27.836Z",
+  "generatedAt": "2026-11-04T20:36:05.863Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-08-10T15:29:24.560Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601162053561"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -14,7 +16,7 @@
     ]
   },
   "enrichmentSummary": {
-    "generated": 0,
+    "generated": 1,
     "reused": 1065,
     "source_fallback": 0
   },
@@ -243377,6 +243379,217 @@
             "contentHash": "3b0d4fd502b65416cf6286bb508b76c0b1a696e955e7176cf6c252fd76196148",
             "attempts": 0,
             "updatedAt": "2026-11-02T22:30:59.829Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601162053561",
+      "sourceId": "1601162053561",
+      "sourceFingerprint": "b1e1351360683d5f1bb5b573d2c7be9a85e7684748c56e8698ee5ba5a4779921",
+      "locale": "en",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Mini Olive Wood Cross with Praying Hands",
+      "eyebrow": "Mini olive wood cross with praying hands, ornament",
+      "summary": "A small wooden cross ornament carved with praying hands. The piece is polished for a smooth finish, and the compact scale suits tree branches, gift wrapping, or small decorative displays. Each cross is made of olive wood, with the praying-hands motif providing the visual focal point.",
+      "description": "The praying hands sit at the center of this mini cross, drawing the eye before the polished olive wood grain. Compact enough to hang or tuck into a display, the piece works as a small religious ornament rather than a large wall cross. Olive wood gives it a warm tone, and the polished technique smooths the surface. Wholesale buyers can combine the cross with other small ornaments or offer it as a standalone item for gifting and souvenir use.",
+      "catholicContext": "A plain cross without a corpus; the title names olive wood and a praying-hands motif but does not describe a crucifix.",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+      "imageAlt": "Mini Olive Wood Cross with Praying Hands",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "alt": "Mini Olive Wood Cross with Praying Hands"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "alt": "Mini Olive Wood Cross with Praying Hands"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "alt": "Mini Olive Wood Cross with Praying Hands"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "alt": "Mini Olive Wood Cross with Praying Hands"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "alt": "Mini Olive Wood Cross with Praying Hands"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "alt": "Mini Olive Wood Cross with Praying Hands"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Made of olive wood",
+        "Carved with a praying-hands motif",
+        "Polished wood finish",
+        "Miniature size suited to ornaments and small displays",
+        "Plain cross form without a corpus",
+        "Sculptural wood product"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Wood (olive wood)"
+        },
+        {
+          "name": "Product Type",
+          "value": "Sculpture / ornament"
+        },
+        {
+          "name": "Technique",
+          "value": "Polished"
+        },
+        {
+          "name": "Motif",
+          "value": "Praying hands"
+        },
+        {
+          "name": "Cross Type",
+          "value": "Plain cross, no corpus"
+        },
+        {
+          "name": "Place of Origin",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Holiday decoration and gifts",
+        "Wedding decoration and favors",
+        "Souvenir and small keepsake",
+        "Home decoration and art collectible"
+      ],
+      "faq": [
+        {
+          "question": "Is this a crucifix or a plain cross?",
+          "answer": "It is a plain cross. The product is described as a wooden cross with praying hands, with no corpus of Christ stated in the listing."
+        },
+        {
+          "question": "What wood is the mini cross made of?",
+          "answer": "The cross is made of olive wood, and the surface is polished."
+        },
+        {
+          "question": "Can the mini cross be used as a gift or favor?",
+          "answer": "Yes. The listed applications include holiday decoration and gift, wedding decoration and gift, souvenir, business gift, and home decoration."
+        }
+      ],
+      "pricing": {
+        "price": "2.10",
+        "regularPrice": "2.10",
+        "currency": "USD",
+        "onSale": false
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Mini Olive Wood Cross with Praying Hands",
+          "description": "Mini olive wood cross ornament with a praying-hands detail, polished wood sculpture in a small size for decoration, gifts, souvenirs, and craft projects.",
+          "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+          "image": [
+            "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+            "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+            "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+            "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+            "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+            "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Wood (olive wood)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product Type",
+              "value": "Sculpture / ornament"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technique",
+              "value": "Polished"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Motif",
+              "value": "Praying hands"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Cross Type",
+              "value": "Plain cross, no corpus"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of Origin",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.10",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is this a crucifix or a plain cross?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is a plain cross. The product is described as a wooden cross with praying hands, with no corpus of Christ stated in the listing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What wood is the mini cross made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cross is made of olive wood, and the surface is polished."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can the mini cross be used as a gift or favor?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The listed applications include holiday decoration and gift, wedding decoration and gift, souvenir, business gift, and home decoration."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "contentHash": "562cc4a218fcd58d35b83508d949a0443508694843e1f5f47d7c991059905de3",
+            "attempts": 0,
+            "updatedAt": "2026-11-04T20:36:04.910Z",
             "model": "deepseek-v4-flash"
           }
         }

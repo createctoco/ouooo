@@ -1,18 +1,18 @@
 {
   "schema_version": "1.0",
-  "synchronized_at": "2026-11-03T20:20:26.260Z",
-  "sync_cursor": "2026-08-10T15:29:24.560Z",
+  "synchronized_at": "2026-11-04T20:36:28.695Z",
+  "sync_cursor": "2026-11-04T20:35:53.236Z",
   "sync_mode": "incremental",
   "modified_after": null,
-  "changed_products": 0,
+  "changed_products": 1,
   "deleted_products": 0,
-  "changed_source_ids": [],
+  "changed_source_ids": ["1601162053561"],
   "deleted_source_ids": [],
   "source_total": 908,
-  "total": 1065,
+  "total": 1066,
   "queue": {
     "batchSize": 10,
-    "processedThisRun": 0,
+    "processedThisRun": 1,
     "remaining": 0
   },
   "products": [
@@ -339554,6 +339554,170 @@
           "https://sc04.alicdn.com/kf/Hec70841903ba4fbb802a96742abbc5d2t.jpg",
           "https://sc04.alicdn.com/kf/H8025d4cbffba4062a9d7f893e14c9110G.jpg"
         ]
+      },
+      "variations": []
+    },
+    {
+      "wp_id": 18574,
+      "source_id": "1601162053561",
+      "source_plain_id": "1601162053561",
+      "sku": "ALI-AAH8TMb-AOXiPwuEY8FKFE2g",
+      "slug": "wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer",
+      "title": "Wholesale Mini Wooden Crosses Olive Wood Cross Pray Olive Wood Hand in Prayer",
+      "status": "publish",
+      "product_type": "simple",
+      "url": "https://mecrt.com/product/wholesale-mini-wooden-crosses-olive-wood-cross-pray-olive-wood-hand-in-prayer/",
+      "modified_at": "2026-11-04T01:35:41+00:00",
+      "source_modified_at": "2026-11-02 22:06:41",
+      "description_html": "",
+      "short_description_html": "",
+      "categories": [
+        {
+          "id": 84,
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "tags": [],
+      "attributes": [
+        {
+          "name": "Material",
+          "slug": "material",
+          "values": ["Wood"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Feature",
+          "slug": "feature",
+          "values": ["High Strength"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Product Type",
+          "slug": "product-type",
+          "values": ["SCULPTURE"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Technique",
+          "slug": "technique",
+          "values": ["Polished"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Theme",
+          "slug": "theme",
+          "values": ["Home Decoration", "Religious"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Application",
+          "slug": "application",
+          "values": [
+            "Art & Collectible",
+            "Wedding Decoration & Gift",
+            "Holiday Decoration & Gift",
+            "Souvenir",
+            "Home Decoration",
+            "Business Gift",
+            "April Fool's Day"
+          ],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Place of Origin",
+          "slug": "place-of-origin",
+          "values": ["CN;ZHE"],
+          "variation": false,
+          "visible": true
+        }
+      ],
+      "weight": {
+        "value": "",
+        "unit": "kg",
+        "kg": ""
+      },
+      "pricing": {
+        "currency": "USD",
+        "regular_price": "2.1",
+        "price": "2.1",
+        "tiers": [
+          {
+            "start_quantity": "-1",
+            "price": "2.1",
+            "source_sku_id": "107736150557"
+          }
+        ]
+      },
+      "images": [
+        {
+          "id": 18575,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H242aef41136e4925adf06945602df37co.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 18576,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H08ccfb46d214490eb9768e4ce2a715dd3.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 18577,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H76b91203d7af4e4eaf6b6391444528a3B.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 18578,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd24996fa38af4b85925e338ae2798e83e.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 18579,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H47d680f1d34b4d3f83f1283485f8ad5fs.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 18580,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb528ad172f514ae88efc22d4191c7d19i.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg",
+          "alt": "",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "source": {
+        "url": "https://www.alibaba.com/product-detail/Wholesale-Mini-Wooden-Crosses-Olive-Wood_1601162053561.html",
+        "group_id": "948466247",
+        "category_id": "1744",
+        "main_image_urls": [
+          "https://sc04.alicdn.com/kf/H242aef41136e4925adf06945602df37co.jpg",
+          "https://sc04.alicdn.com/kf/H08ccfb46d214490eb9768e4ce2a715dd3.jpg",
+          "https://sc04.alicdn.com/kf/H76b91203d7af4e4eaf6b6391444528a3B.jpg",
+          "https://sc04.alicdn.com/kf/Hd24996fa38af4b85925e338ae2798e83e.jpg",
+          "https://sc04.alicdn.com/kf/H47d680f1d34b4d3f83f1283485f8ad5fs.jpg",
+          "https://sc04.alicdn.com/kf/Hb528ad172f514ae88efc22d4191c7d19i.jpg"
+        ],
+        "detail_image_urls": []
       },
       "variations": []
     }
