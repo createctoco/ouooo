@@ -5,6 +5,7 @@ import ToggleTheme from '~/components/common/ToggleTheme.astro';
 import ToggleMenu from '~/components/common/ToggleMenu.astro';
 import LanguageSwitcher from '~/components/common/LanguageSwitcher.astro';
 import Button from '~/components/ui/Button.astro';
+import { ui } from '~/i18n/ui';
 
 import { getHomePermalink } from '~/utils/permalinks';
 import { trimSlash, getAsset } from '~/utils/permalinks';
@@ -46,6 +47,7 @@ const {
 } = Astro.props;
 
 const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
+const searchQuery = Astro.url.searchParams.get('q') || '';
 ---
 
 <header
@@ -129,6 +131,23 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
             </li>
           ))
         }
+        <li class="md:my-1 md:ml-2">
+          <button
+            type="button"
+            data-search-open
+            aria-label={ui('searchProducts')}
+            aria-controls="product-search-dialog"
+            aria-expanded="false"
+            title={ui('searchProducts')}
+            class="group flex h-10 w-10 items-center justify-center rounded-full border border-black/10 bg-white/70 text-gray-700 shadow-sm transition duration-200 hover:-translate-y-0.5 hover:border-primary/40 hover:text-primary hover:shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/30 dark:border-white/15 dark:bg-white/5 dark:text-gray-200"
+          >
+            <Icon
+              name="tabler:search"
+              class="h-5 w-5 transition-transform duration-200 group-hover:scale-110"
+              aria-hidden="true"
+            />
+          </button>
+        </li>
       </ul>
     </nav>
     <div
@@ -168,3 +187,169 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
     </div>
   </div>
 </header>
+
+<div
+  id="product-search-dialog"
+  data-search-overlay
+  data-open="false"
+  class="search-overlay fixed inset-0 z-[100] flex items-start justify-center px-4 pt-24 sm:pt-32"
+  role="dialog"
+  aria-modal="true"
+  aria-label={ui('searchProducts')}
+  aria-hidden="true"
+  inert
+>
+  <button
+    type="button"
+    data-search-close
+    class="absolute inset-0 cursor-default bg-slate-950/45 backdrop-blur-sm"
+    aria-label={ui('closeSearch')}
+  >
+  </button>
+  <div
+    class="search-overlay-panel relative w-full max-w-2xl overflow-hidden rounded-[1.75rem] border border-white/70 bg-[#faf9f6] shadow-2xl"
+  >
+    <div class="h-1.5 bg-gradient-to-r from-primary via-[#b49b6d] to-primary"></div>
+    <div class="p-6 sm:p-8">
+      <div class="mb-6 flex items-center justify-between gap-4">
+        <div>
+          <p class="text-xs font-semibold uppercase tracking-[.16em] text-primary">{ui('wholesaleCatalog')}</p>
+          <h2 class="mt-2 text-2xl font-semibold text-gray-950">{ui('searchProducts')}</h2>
+        </div>
+        <button
+          type="button"
+          data-search-close
+          class="flex h-10 w-10 items-center justify-center rounded-full border border-black/10 bg-white text-gray-600 transition hover:rotate-90 hover:border-primary/30 hover:text-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/30"
+          aria-label={ui('closeSearch')}
+        >
+          <Icon name="tabler:x" class="h-5 w-5" aria-hidden="true" />
+        </button>
+      </div>
+      <form method="get" action="/products" role="search">
+        <label class="sr-only" for="nav-product-search">{ui('searchProducts')}</label>
+        <div
+          class="flex flex-col gap-3 rounded-2xl border border-black/10 bg-white p-2.5 shadow-sm sm:flex-row sm:items-center"
+        >
+          <div class="flex min-w-0 flex-1 items-center gap-3 px-2">
+            <Icon name="tabler:search" class="h-5 w-5 shrink-0 text-primary" aria-hidden="true" />
+            <input
+              id="nav-product-search"
+              data-search-input
+              name="q"
+              type="search"
+              value={searchQuery}
+              placeholder={ui('searchPlaceholder')}
+              maxlength="80"
+              autocomplete="off"
+              enterkeyhint="search"
+              class="min-w-0 flex-1 border-0 bg-transparent py-3 text-base text-gray-950 outline-none placeholder:text-gray-500 focus:ring-0"
+            />
+          </div>
+          <button
+            type="submit"
+            class="rounded-xl bg-primary px-7 py-3 font-semibold text-white transition hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/40"
+          >
+            {ui('searchButton')}
+          </button>
+        </div>
+      </form>
+      <p class="mt-4 text-sm text-muted">{ui('searchPlaceholder')}</p>
+    </div>
+  </div>
+</div>
+
+<style>
+  .search-overlay {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition:
+      opacity 220ms ease,
+      visibility 220ms ease;
+  }
+
+  .search-overlay[data-open='true'] {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  .search-overlay-panel {
+    opacity: 0;
+    transform: translateY(-18px) scale(0.97);
+    transition:
+      opacity 240ms ease,
+      transform 300ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+
+  .search-overlay[data-open='true'] .search-overlay-panel {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .search-overlay,
+    .search-overlay-panel {
+      transition: none;
+    }
+  }
+</style>
+
+<script>
+  const overlay = document.querySelector<HTMLElement>('[data-search-overlay]');
+  const trigger = document.querySelector<HTMLButtonElement>('[data-search-open]');
+  const input = overlay?.querySelector<HTMLInputElement>('[data-search-input]');
+
+  if (overlay && trigger && input) {
+    let previousOverflow = '';
+    let previousFocus: HTMLElement | null = null;
+
+    const openSearch = () => {
+      previousFocus = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+      previousOverflow = document.body.style.overflow;
+      document.body.style.overflow = 'hidden';
+      overlay.removeAttribute('inert');
+      overlay.setAttribute('aria-hidden', 'false');
+      overlay.dataset.open = 'true';
+      trigger.setAttribute('aria-expanded', 'true');
+      requestAnimationFrame(() => input.focus());
+    };
+
+    const closeSearch = () => {
+      overlay.dataset.open = 'false';
+      overlay.setAttribute('aria-hidden', 'true');
+      overlay.setAttribute('inert', '');
+      trigger.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = previousOverflow;
+      previousFocus?.focus();
+    };
+
+    trigger.addEventListener('click', openSearch);
+    overlay.querySelectorAll<HTMLElement>('[data-search-close]').forEach((button) => {
+      button.addEventListener('click', closeSearch);
+    });
+
+    document.addEventListener('keydown', (event) => {
+      if (overlay.dataset.open !== 'true') return;
+      if (event.key === 'Escape') {
+        event.preventDefault();
+        closeSearch();
+        return;
+      }
+      if (event.key !== 'Tab') return;
+      const focusable = [
+        ...overlay.querySelectorAll<HTMLElement>('button, input, [href], [tabindex]:not([tabindex="-1"])'),
+      ].filter((element) => !element.hasAttribute('disabled'));
+      if (!focusable.length) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    });
+  }
+</script>

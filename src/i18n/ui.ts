@@ -16,6 +16,7 @@ const english = {
   searchResults: '{total} results for “{query}”',
   noSearchResults: 'No products matched “{query}”. Try another keyword.',
   clearSearch: 'Clear search',
+  closeSearch: 'Close search',
   previous: 'Previous',
   next: 'Next',
   pageOf: 'Page {page} of {pages}',
@@ -489,7 +490,8 @@ type SearchLabelKey =
   | 'searchButton'
   | 'searchResults'
   | 'noSearchResults'
-  | 'clearSearch';
+  | 'clearSearch'
+  | 'closeSearch';
 
 const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
   it: {
@@ -499,6 +501,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} risultati per “{query}”',
     noSearchResults: 'Nessun prodotto trovato per “{query}”. Prova un’altra parola chiave.',
     clearSearch: 'Cancella ricerca',
+    closeSearch: 'Chiudi ricerca',
   },
   es: {
     searchProducts: 'Buscar productos',
@@ -507,6 +510,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} resultados para “{query}”',
     noSearchResults: 'Ningún producto coincide con “{query}”. Prueba otra palabra clave.',
     clearSearch: 'Borrar búsqueda',
+    closeSearch: 'Cerrar búsqueda',
   },
   fr: {
     searchProducts: 'Rechercher des produits',
@@ -515,6 +519,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} résultats pour « {query} »',
     noSearchResults: 'Aucun produit ne correspond à « {query} ». Essayez un autre mot-clé.',
     clearSearch: 'Effacer la recherche',
+    closeSearch: 'Fermer la recherche',
   },
   pt: {
     searchProducts: 'Pesquisar produtos',
@@ -523,6 +528,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} resultados para “{query}”',
     noSearchResults: 'Nenhum produto corresponde a “{query}”. Tente outra palavra-chave.',
     clearSearch: 'Limpar pesquisa',
+    closeSearch: 'Fechar pesquisa',
   },
   pl: {
     searchProducts: 'Szukaj produktów',
@@ -531,6 +537,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: 'Liczba wyników dla „{query}”: {total}',
     noSearchResults: 'Brak produktów dla „{query}”. Spróbuj innego słowa kluczowego.',
     clearSearch: 'Wyczyść wyszukiwanie',
+    closeSearch: 'Zamknij wyszukiwanie',
   },
   de: {
     searchProducts: 'Produkte suchen',
@@ -539,6 +546,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} Ergebnisse für „{query}“',
     noSearchResults: 'Keine Produkte für „{query}“ gefunden. Versuchen Sie ein anderes Stichwort.',
     clearSearch: 'Suche löschen',
+    closeSearch: 'Suche schließen',
   },
   fil: {
     searchProducts: 'Maghanap ng produkto',
@@ -547,6 +555,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} resulta para sa “{query}”',
     noSearchResults: 'Walang produkto para sa “{query}”. Subukan ang ibang keyword.',
     clearSearch: 'I-clear ang paghahanap',
+    closeSearch: 'Isara ang paghahanap',
   },
   hr: {
     searchProducts: 'Pretraži proizvode',
@@ -555,6 +564,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} rezultata za „{query}“',
     noSearchResults: 'Nema proizvoda za „{query}“. Pokušajte drugu ključnu riječ.',
     clearSearch: 'Očisti pretragu',
+    closeSearch: 'Zatvori pretragu',
   },
   sl: {
     searchProducts: 'Iskanje izdelkov',
@@ -563,6 +573,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} rezultatov za „{query}“',
     noSearchResults: 'Ni izdelkov za „{query}“. Poskusite z drugo ključno besedo.',
     clearSearch: 'Počisti iskanje',
+    closeSearch: 'Zapri iskanje',
   },
   ro: {
     searchProducts: 'Caută produse',
@@ -571,6 +582,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} rezultate pentru „{query}”',
     noSearchResults: 'Niciun produs nu corespunde cu „{query}”. Încearcă alt cuvânt-cheie.',
     clearSearch: 'Șterge căutarea',
+    closeSearch: 'Închide căutarea',
   },
   ar: {
     searchProducts: 'البحث عن المنتجات',
@@ -579,6 +591,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '{total} نتيجة لـ «{query}»',
     noSearchResults: 'لا توجد منتجات تطابق «{query}». جرّب كلمة مفتاحية أخرى.',
     clearSearch: 'مسح البحث',
+    closeSearch: 'إغلاق البحث',
   },
   'zh-hant': {
     searchProducts: '搜尋商品',
@@ -587,6 +600,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '「{query}」共有 {total} 項結果',
     noSearchResults: '找不到與「{query}」相符的商品，請嘗試其他關鍵字。',
     clearSearch: '清除搜尋',
+    closeSearch: '關閉搜尋',
   },
   'zh-hans': {
     searchProducts: '搜索商品',
@@ -595,6 +609,7 @@ const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
     searchResults: '“{query}”共有 {total} 项结果',
     noSearchResults: '没有找到与“{query}”匹配的商品，请尝试其他关键词。',
     clearSearch: '清除搜索',
+    closeSearch: '关闭搜索',
   },
 };
 
