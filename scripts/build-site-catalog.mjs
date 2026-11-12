@@ -294,6 +294,7 @@ try {
     .catch(() => ({ products: [] }));
   const previousById = new Map();
   const previousBySku = new Map();
+  const previousByTitle = new Map();
   const existingSlugs = new Map();
   for (const product of existingCatalog.products || []) {
     const key = String(product.productId || product.sourceId);
@@ -307,7 +308,16 @@ try {
       previousBySku.set(String(product.sku), product);
       existingSlugs.set(`sku:${product.sku}`, product.slug);
     }
+    if (product.title) {
+      previousByTitle.set(String(product.title).trim().toLowerCase(), product);
+    }
   }
+  const sourceSlugById = new Map(
+    catalog.products.map((product) => [
+      String(product.source_id || product.product_id),
+      String(product.slug || '').trim(),
+    ])
+  );
   const products = catalog.products
     .filter((product) => !DELETED_PRODUCT_IDS.has(String(product.source_id || product.product_id)))
     .map((product, index) => mapProduct(product, index, existingSlugs));
@@ -335,9 +345,14 @@ try {
   for (const product of products) {
     const previous =
       previousById.get(String(product.productId)) ||
-      (product.sku ? previousBySku.get(String(product.sku)) : undefined);
+      (product.sku ? previousBySku.get(String(product.sku)) : undefined) ||
+      previousByTitle.get(String(product.title).trim().toLowerCase());
     if (previous?.slug && previous.slug !== product.slug) {
       aliases[String(previous.slug)] = String(product.slug);
+    }
+    const sourceSlug = sourceSlugById.get(String(product.productId));
+    if (sourceSlug && sourceSlug !== product.slug) {
+      aliases[sourceSlug] = String(product.slug);
     }
   }
   const currentSlugs = new Set(products.map((product) => String(product.slug)));

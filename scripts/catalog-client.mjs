@@ -117,7 +117,7 @@ async function fetchIndex() {
       const body = { page, page_size: pageSize, modified_after: modifiedAfter };
       const payload = `${page}\n${pageSize}\n${modifiedAfter}`;
       const data = await signedPost('/wp-json/mecrt-catalog/v1/products', body, payload);
-      sourceTotal = Number(data.source_total ?? (fullSync ? data.total : sourceTotal) ?? 0);
+      sourceTotal = Number(data.source_total ?? data.total ?? sourceTotal ?? 0);
       totalPages = Math.max(1, Number(data.total_pages || 1));
       for (const sourceId of data.deleted_source_ids || []) deletedSourceIds.add(String(sourceId));
       for (const product of data.products || []) {
