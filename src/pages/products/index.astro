@@ -20,9 +20,7 @@ const [{ products, total, page, pageSize }, collections] = await Promise.all([
 ]);
 Astro.response.headers.set(
   'Cache-Control',
-  isSearch
-    ? 'public, s-maxage=300, stale-while-revalidate=600'
-    : 'public, s-maxage=86400, stale-while-revalidate=86400'
+  isSearch ? 'public, s-maxage=300, stale-while-revalidate=600' : 'public, s-maxage=86400, stale-while-revalidate=86400'
 );
 if (isSearch) Astro.response.headers.set('X-Robots-Tag', 'noindex, follow');
 const metadata = {
@@ -64,10 +62,7 @@ const metadata = {
         </div>
         {
           isSearch && (
-            <a
-              href="/products"
-              class="mt-3 inline-flex text-sm font-medium text-primary hover:underline"
-            >
+            <a href="/products" class="mt-3 inline-flex text-sm font-medium text-primary hover:underline">
               {ui('clearSearch')}
             </a>
           )

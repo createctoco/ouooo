@@ -4,9 +4,7 @@ import { resolve } from 'node:path';
 
 const inputFile = resolve(process.env.OUOOO_ENRICHED_OUTPUT || 'src/data/enriched-catalog.json');
 const outputFile = resolve(process.env.OUOOO_SITE_CATALOG_OUTPUT || 'src/data/site-catalog.json');
-const aliasesFile = resolve(
-  process.env.OUOOO_SLUG_ALIASES_OUTPUT || 'src/data/catalog-slug-aliases.json'
-);
+const aliasesFile = resolve(process.env.OUOOO_SLUG_ALIASES_OUTPUT || 'src/data/catalog-slug-aliases.json');
 const accents = ['#8b6b4a', '#6f7c72', '#9a6b63', '#7a6d92', '#8a7b55', '#6d7887'];
 // Curated category fixes applied at build time, keyed by the stable site slug
 // (product AAHJTG7BAOVioqqEY6e0b9PP). The MECRT source assigns this product to
@@ -372,9 +370,7 @@ try {
       .sort()
       .flatMap((oldSlug) => {
         const currentSlug = resolveAlias(oldSlug);
-        return currentSlug && currentSlugs.has(currentSlug) && oldSlug !== currentSlug
-          ? [[oldSlug, currentSlug]]
-          : [];
+        return currentSlug && currentSlugs.has(currentSlug) && oldSlug !== currentSlug ? [[oldSlug, currentSlug]] : [];
       })
   );
   // Guard against a partial source response being mistaken for mass deletion.

@@ -134,9 +134,7 @@ export async function searchProducts(
   const matches: Array<{ id: string; score: number; title: string }> = [];
   for (const brief of index.briefs) {
     const title = normalizeSearch(brief.title);
-    const searchable = normalizeSearch(
-      `${brief.title} ${brief.summary} ${brief.keywords || ''} ${brief.slug}`
-    );
+    const searchable = normalizeSearch(`${brief.title} ${brief.summary} ${brief.keywords || ''} ${brief.slug}`);
     if (!tokens.every((token) => searchable.includes(token))) continue;
     let score = tokens.filter((token) => title.includes(token)).length * 10;
     if (title === normalizedQuery) score += 100;
