@@ -64,9 +64,19 @@ const orderRows = ordered.map((product) => ({
   updatedAt: updatedAtOf(product),
 }));
 const briefRows = ordered.map((product) => ({
+  id: String(product.productId),
   slug: String(product.slug),
   title: String(product.title || ''),
   summary: String(product.summary || ''),
+  keywords: [
+    product.sku,
+    product.eyebrow,
+    ...(product.categories || []).flatMap((category) => [category.name, category.slug]),
+    ...(product.features || []),
+    ...(product.applications || []),
+  ]
+    .filter(Boolean)
+    .join(' '),
 }));
 
 const categoriesById = {};

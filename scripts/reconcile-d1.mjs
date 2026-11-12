@@ -9,6 +9,7 @@ import localeData from '../src/i18n/locales.json' with { type: 'json' };
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const npxCommand = process.platform === 'win32' ? 'npx.cmd' : 'npx';
 const npmCommand = process.platform === 'win32' ? 'npm.cmd' : 'npm';
+const dryRun = /^(1|true|yes)$/i.test(process.env.OUOOO_RECONCILE_DRY_RUN || '');
 
 // .cmd files cannot be spawned directly on Windows; route them through cmd.exe.
 function invoke(command, args, options = {}) {
@@ -122,6 +123,12 @@ for (const locale of locales) {
 
   if (missing.length || extra.length || missingCategories.length) {
     fixed = true;
+    if (dryRun) {
+      summary.push(
+        `${locale}: missing products ${missing.length}, extra products ${extra.length}, missing categories ${missingCategories.length} (dry run)`
+      );
+      continue;
+    }
     // Re-import the full locale catalog (fixes missing products + categories).
     if (missing.length || missingCategories.length) {
       invoke(npmCommand, ['run', 'prepare:d1'], {
@@ -158,5 +165,11 @@ for (const locale of locales) {
 
 console.log('=== D1 reconciliation ===');
 for (const line of summary) console.log(line);
-console.log(fixed ? 'Fixes applied (re-run to verify).' : 'All locales are consistent.');
+console.log(
+  fixed
+    ? dryRun
+      ? 'Differences found; no changes applied (dry run).'
+      : 'Fixes applied (re-run to verify).'
+    : 'All locales are consistent.'
+);
 rmSync(tmp, { recursive: true, force: true });

@@ -4,11 +4,21 @@ import ProductGallery from '~/components/ouooo/ProductGallery.astro';
 import ProductCard from '~/components/ouooo/ProductCard.astro';
 import { CONTACT_EMAIL, getProductWhatsAppUrl } from '~/config/contact';
 import { BUILD_LOCALE } from '~/i18n/config';
-import { getProductBySlug, getRelatedProducts } from '~/server/catalog';
+import { getProductBySlugOrAlias, getRelatedProducts } from '~/server/catalog';
 
 export const prerender = false;
 
-const product = await getProductBySlug(BUILD_LOCALE, Astro.params.slug || '');
+const resolved = await getProductBySlugOrAlias(BUILD_LOCALE, Astro.params.slug || '');
+if (resolved.redirectTo) {
+  return new Response(null, {
+    status: 301,
+    headers: {
+      Location: `/products/${resolved.redirectTo}`,
+      'Cache-Control': 'public, max-age=3600',
+    },
+  });
+}
+const product = resolved.product;
 if (!product) return new Response(null, { status: 404, statusText: 'Product not found' });
 Astro.response.headers.set('Cache-Control', 'public, s-maxage=86400, stale-while-revalidate=86400');
 const metadata = { title: product.title, description: product.summary };

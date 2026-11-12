@@ -1,5 +1,6 @@
 import { env } from 'cloudflare:workers';
 
+import slugAliases from '~/data/catalog-slug-aliases.json';
 import type { Product, ProductCategory } from '~/data/products';
 import type { SupportedLocale } from '~/i18n/config';
 
@@ -10,7 +11,7 @@ type ParsedIndex = {
   productCount: number;
   order: Array<{ id: string; slug: string; updatedAt: string }>;
   collections: Array<{ slug: string; name: string; count: number; featuredProductId: string }>;
-  briefs: Array<{ slug: string; title: string; summary: string }>;
+  briefs: Array<{ id?: string; slug: string; title: string; summary: string; keywords?: string }>;
   sitemap: { products: string[]; collections: string[] };
   categories: Record<string, string[]>;
 };
@@ -18,6 +19,11 @@ type ParsedIndex = {
 const database = () => env.DB;
 const parseProduct = (row: ProductRow | null): Product | undefined =>
   row ? (JSON.parse(row.content_json) as Product) : undefined;
+const normalizeSearch = (value: string) =>
+  value
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase();
 
 // D1 bills per ROW read, so the listing pages used to cost 600-1,200 row reads
 // each (COUNT(*), GROUP BY, MIN(content_json) over ~640 products) and crawler
@@ -91,6 +97,62 @@ export async function getProductBySlug(locale: SupportedLocale, slug: string): P
     .bind(locale, slug)
     .first<ProductRow>();
   return parseProduct(row);
+}
+
+export async function getProductBySlugOrAlias(
+  locale: SupportedLocale,
+  slug: string
+): Promise<{ product?: Product; redirectTo?: string }> {
+  const product = await getProductBySlug(locale, slug);
+  if (product) return { product };
+
+  const aliases = slugAliases as Record<string, string>;
+  const visited = new Set([slug]);
+  let candidate = aliases[slug];
+  while (candidate && !visited.has(candidate)) {
+    const redirectedProduct = await getProductBySlug(locale, candidate);
+    if (redirectedProduct) return { product: redirectedProduct, redirectTo: candidate };
+    visited.add(candidate);
+    candidate = aliases[candidate];
+  }
+  return {};
+}
+
+export async function searchProducts(
+  locale: SupportedLocale,
+  rawQuery: string,
+  requestedLimit = 48
+): Promise<{ products: Product[]; total: number; query: string }> {
+  const query = rawQuery.trim().slice(0, 80);
+  const normalizedQuery = normalizeSearch(query);
+  const tokens = [...new Set(normalizedQuery.split(/\s+/).filter(Boolean))].slice(0, 8);
+  if (!tokens.length) return { products: [], total: 0, query };
+
+  const index = await loadIndex(locale);
+  if (!index) return { products: [], total: 0, query };
+  const idBySlug = new Map(index.order.map((entry) => [entry.slug, String(entry.id)]));
+  const matches: Array<{ id: string; score: number; title: string }> = [];
+  for (const brief of index.briefs) {
+    const title = normalizeSearch(brief.title);
+    const searchable = normalizeSearch(
+      `${brief.title} ${brief.summary} ${brief.keywords || ''} ${brief.slug}`
+    );
+    if (!tokens.every((token) => searchable.includes(token))) continue;
+    let score = tokens.filter((token) => title.includes(token)).length * 10;
+    if (title === normalizedQuery) score += 100;
+    else if (title.startsWith(normalizedQuery)) score += 60;
+    else if (title.includes(normalizedQuery)) score += 40;
+    else if (searchable.includes(normalizedQuery)) score += 20;
+    const id = brief.id || idBySlug.get(brief.slug);
+    if (id) matches.push({ id, score, title: brief.title });
+  }
+
+  matches.sort((left, right) => right.score - left.score || left.title.localeCompare(right.title));
+  const total = matches.length;
+  const limit = Math.min(48, Math.max(1, Math.trunc(requestedLimit)));
+  const ids = matches.slice(0, limit).map((entry) => entry.id);
+  const products = orderByIds(ids, await fetchProductsByIds(locale, ids));
+  return { products, total, query };
 }
 
 export async function listProducts(

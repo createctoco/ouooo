@@ -4,6 +4,9 @@ import { resolve } from 'node:path';
 
 const inputFile = resolve(process.env.OUOOO_ENRICHED_OUTPUT || 'src/data/enriched-catalog.json');
 const outputFile = resolve(process.env.OUOOO_SITE_CATALOG_OUTPUT || 'src/data/site-catalog.json');
+const aliasesFile = resolve(
+  process.env.OUOOO_SLUG_ALIASES_OUTPUT || 'src/data/catalog-slug-aliases.json'
+);
 const accents = ['#8b6b4a', '#6f7c72', '#9a6b63', '#7a6d92', '#8a7b55', '#6d7887'];
 // Curated category fixes applied at build time, keyed by the stable site slug
 // (product AAHJTG7BAOVioqqEY6e0b9PP). The MECRT source assigns this product to
@@ -289,13 +292,21 @@ try {
   const existingCatalog = await readFile(outputFile, 'utf8')
     .then(JSON.parse)
     .catch(() => ({ products: [] }));
+  const previousById = new Map();
+  const previousBySku = new Map();
   const existingSlugs = new Map();
   for (const product of existingCatalog.products || []) {
     const key = String(product.productId || product.sourceId);
-    if (key) existingSlugs.set(key, product.slug);
+    if (key) {
+      previousById.set(key, product);
+      existingSlugs.set(key, product.slug);
+    }
     // Also index by sku: a source-id re-key changes the id but not the sku, and
     // this keeps every published product URL stable through the migration.
-    if (product.sku) existingSlugs.set(`sku:${product.sku}`, product.slug);
+    if (product.sku) {
+      previousBySku.set(String(product.sku), product);
+      existingSlugs.set(`sku:${product.sku}`, product.slug);
+    }
   }
   const products = catalog.products
     .filter((product) => !DELETED_PRODUCT_IDS.has(String(product.source_id || product.product_id)))
@@ -313,6 +324,44 @@ try {
     }
     seenSourceIds.add(sourceId);
   }
+
+  // Preserve every previously published slug as a permanent alias. If a
+  // product title or source identity changes, old customer and search-engine
+  // links redirect to the current product instead of becoming 404s. The tiny
+  // alias file is bundled with the Worker and needs no D1 table or row reads.
+  const aliases = await readFile(aliasesFile, 'utf8')
+    .then(JSON.parse)
+    .catch(() => ({}));
+  for (const product of products) {
+    const previous =
+      previousById.get(String(product.productId)) ||
+      (product.sku ? previousBySku.get(String(product.sku)) : undefined);
+    if (previous?.slug && previous.slug !== product.slug) {
+      aliases[String(previous.slug)] = String(product.slug);
+    }
+  }
+  const currentSlugs = new Set(products.map((product) => String(product.slug)));
+  const resolveAlias = (slug) => {
+    const visited = new Set();
+    let target = String(aliases[slug] || '');
+    while (target && target !== slug && !visited.has(target)) {
+      visited.add(target);
+      const next = String(aliases[target] || '');
+      if (!next) break;
+      target = next;
+    }
+    return target === slug ? '' : target;
+  };
+  const activeAliases = Object.fromEntries(
+    Object.keys(aliases)
+      .sort()
+      .flatMap((oldSlug) => {
+        const currentSlug = resolveAlias(oldSlug);
+        return currentSlug && currentSlugs.has(currentSlug) && oldSlug !== currentSlug
+          ? [[oldSlug, currentSlug]]
+          : [];
+      })
+  );
   // Guard against a partial source response being mistaken for mass deletion.
   // On 2026-10-31 the bridge returned only 10 products, reconciliation marked
   // the other 1,060 as deleted, and the next deploy removed almost every row
@@ -343,7 +392,11 @@ try {
     'utf8'
   );
   await rename(temporaryFile, outputFile);
+  const temporaryAliasesFile = `${aliasesFile}.tmp-${process.pid}`;
+  await writeFile(temporaryAliasesFile, `${JSON.stringify(activeAliases, null, 2)}\n`, 'utf8');
+  await rename(temporaryAliasesFile, aliasesFile);
   process.stdout.write(`Site catalog prepared: ${products.length} products.\n`);
+  process.stdout.write(`Preserved ${Object.keys(activeAliases).length} historical product URLs.\n`);
 } catch (error) {
   await rm(temporaryFile, { force: true });
   throw error;

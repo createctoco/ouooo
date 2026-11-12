@@ -10,6 +10,12 @@ const english = {
     'Explore verified product details, materials, variants, and devotional context. Wholesale unit prices are listed for every product. Contact us for quantity discounts and sourcing details.',
   productCollectionsAria: 'Product collections',
   showingProducts: 'Showing {shown} of {total} synchronized products',
+  searchProducts: 'Search products',
+  searchPlaceholder: 'Search by product, material, SKU, or category',
+  searchButton: 'Search',
+  searchResults: '{total} results for “{query}”',
+  noSearchResults: 'No products matched “{query}”. Try another keyword.',
+  clearSearch: 'Clear search',
   previous: 'Previous',
   next: 'Next',
   pageOf: 'Page {page} of {pages}',
@@ -477,7 +483,126 @@ const localized: Partial<Record<string, Partial<Record<keyof typeof english, str
   },
 };
 
-const table: Record<keyof typeof english, string> = { ...english, ...(localized[BUILD_LOCALE] || {}) };
+type SearchLabelKey =
+  | 'searchProducts'
+  | 'searchPlaceholder'
+  | 'searchButton'
+  | 'searchResults'
+  | 'noSearchResults'
+  | 'clearSearch';
+
+const searchLabels: Partial<Record<string, Record<SearchLabelKey, string>>> = {
+  it: {
+    searchProducts: 'Cerca prodotti',
+    searchPlaceholder: 'Cerca per prodotto, materiale, SKU o categoria',
+    searchButton: 'Cerca',
+    searchResults: '{total} risultati per “{query}”',
+    noSearchResults: 'Nessun prodotto trovato per “{query}”. Prova un’altra parola chiave.',
+    clearSearch: 'Cancella ricerca',
+  },
+  es: {
+    searchProducts: 'Buscar productos',
+    searchPlaceholder: 'Buscar por producto, material, SKU o categoría',
+    searchButton: 'Buscar',
+    searchResults: '{total} resultados para “{query}”',
+    noSearchResults: 'Ningún producto coincide con “{query}”. Prueba otra palabra clave.',
+    clearSearch: 'Borrar búsqueda',
+  },
+  fr: {
+    searchProducts: 'Rechercher des produits',
+    searchPlaceholder: 'Rechercher par produit, matière, SKU ou catégorie',
+    searchButton: 'Rechercher',
+    searchResults: '{total} résultats pour « {query} »',
+    noSearchResults: 'Aucun produit ne correspond à « {query} ». Essayez un autre mot-clé.',
+    clearSearch: 'Effacer la recherche',
+  },
+  pt: {
+    searchProducts: 'Pesquisar produtos',
+    searchPlaceholder: 'Pesquisar por produto, material, SKU ou categoria',
+    searchButton: 'Pesquisar',
+    searchResults: '{total} resultados para “{query}”',
+    noSearchResults: 'Nenhum produto corresponde a “{query}”. Tente outra palavra-chave.',
+    clearSearch: 'Limpar pesquisa',
+  },
+  pl: {
+    searchProducts: 'Szukaj produktów',
+    searchPlaceholder: 'Szukaj według produktu, materiału, SKU lub kategorii',
+    searchButton: 'Szukaj',
+    searchResults: 'Liczba wyników dla „{query}”: {total}',
+    noSearchResults: 'Brak produktów dla „{query}”. Spróbuj innego słowa kluczowego.',
+    clearSearch: 'Wyczyść wyszukiwanie',
+  },
+  de: {
+    searchProducts: 'Produkte suchen',
+    searchPlaceholder: 'Nach Produkt, Material, SKU oder Kategorie suchen',
+    searchButton: 'Suchen',
+    searchResults: '{total} Ergebnisse für „{query}“',
+    noSearchResults: 'Keine Produkte für „{query}“ gefunden. Versuchen Sie ein anderes Stichwort.',
+    clearSearch: 'Suche löschen',
+  },
+  fil: {
+    searchProducts: 'Maghanap ng produkto',
+    searchPlaceholder: 'Maghanap ayon sa produkto, materyal, SKU, o kategorya',
+    searchButton: 'Maghanap',
+    searchResults: '{total} resulta para sa “{query}”',
+    noSearchResults: 'Walang produkto para sa “{query}”. Subukan ang ibang keyword.',
+    clearSearch: 'I-clear ang paghahanap',
+  },
+  hr: {
+    searchProducts: 'Pretraži proizvode',
+    searchPlaceholder: 'Pretraži po proizvodu, materijalu, SKU-u ili kategoriji',
+    searchButton: 'Pretraži',
+    searchResults: '{total} rezultata za „{query}“',
+    noSearchResults: 'Nema proizvoda za „{query}“. Pokušajte drugu ključnu riječ.',
+    clearSearch: 'Očisti pretragu',
+  },
+  sl: {
+    searchProducts: 'Iskanje izdelkov',
+    searchPlaceholder: 'Iskanje po izdelku, materialu, SKU ali kategoriji',
+    searchButton: 'Išči',
+    searchResults: '{total} rezultatov za „{query}“',
+    noSearchResults: 'Ni izdelkov za „{query}“. Poskusite z drugo ključno besedo.',
+    clearSearch: 'Počisti iskanje',
+  },
+  ro: {
+    searchProducts: 'Caută produse',
+    searchPlaceholder: 'Caută după produs, material, SKU sau categorie',
+    searchButton: 'Caută',
+    searchResults: '{total} rezultate pentru „{query}”',
+    noSearchResults: 'Niciun produs nu corespunde cu „{query}”. Încearcă alt cuvânt-cheie.',
+    clearSearch: 'Șterge căutarea',
+  },
+  ar: {
+    searchProducts: 'البحث عن المنتجات',
+    searchPlaceholder: 'ابحث حسب المنتج أو المادة أو SKU أو الفئة',
+    searchButton: 'بحث',
+    searchResults: '{total} نتيجة لـ «{query}»',
+    noSearchResults: 'لا توجد منتجات تطابق «{query}». جرّب كلمة مفتاحية أخرى.',
+    clearSearch: 'مسح البحث',
+  },
+  'zh-hant': {
+    searchProducts: '搜尋商品',
+    searchPlaceholder: '依商品、材質、SKU 或分類搜尋',
+    searchButton: '搜尋',
+    searchResults: '「{query}」共有 {total} 項結果',
+    noSearchResults: '找不到與「{query}」相符的商品，請嘗試其他關鍵字。',
+    clearSearch: '清除搜尋',
+  },
+  'zh-hans': {
+    searchProducts: '搜索商品',
+    searchPlaceholder: '按商品、材质、SKU 或分类搜索',
+    searchButton: '搜索',
+    searchResults: '“{query}”共有 {total} 项结果',
+    noSearchResults: '没有找到与“{query}”匹配的商品，请尝试其他关键词。',
+    clearSearch: '清除搜索',
+  },
+};
+
+const table: Record<keyof typeof english, string> = {
+  ...english,
+  ...(localized[BUILD_LOCALE] || {}),
+  ...(searchLabels[BUILD_LOCALE] || {}),
+};
 
 export type UiKey = keyof typeof english;
 
