@@ -1,12 +1,16 @@
 {
   "schemaVersion": 3,
   "locale": "en",
-  "generatedAt": "2026-11-22T20:30:50.295Z",
+  "generatedAt": "2026-11-24T01:19:01.773Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-11-19T21:54:22.557Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601591817648",
+      "1602026954262",
+      "1602026967189"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -14,9 +18,9 @@
     ]
   },
   "enrichmentSummary": {
-    "generated": 0,
+    "generated": 2,
     "reused": 1087,
-    "source_fallback": 0
+    "source_fallback": 1
   },
   "products": [
     {
@@ -248178,6 +248182,586 @@
             "contentHash": "dec686ed828d844d5f2cc11e20158daecb80ff771b0b00e3bf219dde92fbeb4f",
             "attempts": 0,
             "updatedAt": "2026-11-20T21:37:14.728Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601591817648",
+      "sourceId": "1601591817648",
+      "sourceFingerprint": "eddcd176e62a6d547bd7ee81bf2647ca96950478e323f716143db3ccca3949e0",
+      "locale": "en",
+      "slug": "unisex-copper-alloy-charm-bracelet-cross-pendant-multicolor-eye-charms-anniversary",
+      "title": "Copper Alloy Cross Charm Bracelet with Eye Charms",
+      "eyebrow": "Copper alloy cross charm bracelet with multicolor eye charms",
+      "summary": "A unisex charm bracelet in copper alloy, built around a cross pendant and multicolor eye charms. It comes in two color variants, gold and silver. Listed in our rosary bracelets category, the bracelet pairs a faith-shaped focal charm with a row of small colored charms.",
+      "description": "This copper alloy bracelet sets a cross pendant among several multicolor eye charms on a single unisex band. The mixed charm arrangement gives it a different look from a plain single-pendant bracelet, and the gold or silver finish choice changes the overall tone.\n\nIt is catalogued under rosary bracelets, though the product facts describe a charm bracelet rather than a set of prayer beads. Buyers comparing it with bead-based rosary bracelets should note that distinction: the defining elements here are the cross pendant and the eye charms, not a bead count or centerpiece.",
+      "catholicContext": "The bracelet includes a cross charm; a plain cross differs from a crucifix, which depicts Christ on the cross, and the product facts describe a cross only.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H2411c786e8b04b8eb5f4e69992d8484d4.webp",
+      "imageAlt": "Copper Alloy Cross Charm Bracelet with Eye Charms",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2411c786e8b04b8eb5f4e69992d8484d4.webp",
+          "alt": "Copper Alloy Cross Charm Bracelet with Eye Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H11638f72ca87404db068be70eee2c1c8e.webp",
+          "alt": "Copper Alloy Cross Charm Bracelet with Eye Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd1004012a4bf441cb429d9d33d5f1f624.webp",
+          "alt": "Copper Alloy Cross Charm Bracelet with Eye Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H101ad629bb5a406d8567a9c9972e07f2W.webp",
+          "alt": "Copper Alloy Cross Charm Bracelet with Eye Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H511504c9ba5946279b53c2d6781ead8dK.webp",
+          "alt": "Copper Alloy Cross Charm Bracelet with Eye Charms"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbd8c0411a58d43af9f46f8303f34e2078.webp",
+          "alt": "Copper Alloy Cross Charm Bracelet with Eye Charms"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8fd1cdd0d96c4510a9903fd0f547f36e5.webp",
+          "alt": "Copper Alloy Cross Charm Bracelet with Eye Charms - gold",
+          "label": "gold",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hfe52e3c3dd944b9fb7bba924c4c493deu.webp",
+          "alt": "Copper Alloy Cross Charm Bracelet with Eye Charms - silver",
+          "label": "silver",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3460547"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Unisex charm bracelet in copper alloy",
+        "Cross pendant as the central charm",
+        "Multicolor eye charms alongside the cross",
+        "Available in gold and silver variants",
+        "Listed in the rosary bracelets category"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Copper alloy"
+        },
+        {
+          "name": "Design",
+          "value": "Cross pendant with multicolor eye charms"
+        },
+        {
+          "name": "Variant",
+          "value": "Gold; Silver"
+        },
+        {
+          "name": "Target wearer",
+          "value": "Unisex"
+        },
+        {
+          "name": "Category",
+          "value": "Rosary bracelets"
+        }
+      ],
+      "applications": [
+        "Everyday wrist wear",
+        "Gift giving",
+        "Charm-jewelry display assortment",
+        "Casual accessorizing"
+      ],
+      "faq": [
+        {
+          "question": "What material is the bracelet made from?",
+          "answer": "The bracelet is made from copper alloy, according to the product facts."
+        },
+        {
+          "question": "Which color options are available?",
+          "answer": "It is offered in two variants: gold and silver."
+        },
+        {
+          "question": "Is it a rosary or a charm bracelet?",
+          "answer": "The product is a charm bracelet with a cross pendant and multicolor eye charms, and it is listed in the rosary bracelets category. The product facts do not describe prayer beads, a centerpiece, or a corpus on the cross."
+        }
+      ],
+      "pricing": {
+        "price": "1.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.45",
+          "max": "1.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Copper Alloy Cross Charm Bracelet with Eye Charms",
+          "description": "Unisex copper alloy charm bracelet with a cross pendant and multicolor eye charms, offered in gold and silver variants. Part of our rosary bracelet category.",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2411c786e8b04b8eb5f4e69992d8484d4.png",
+            "https://sc04.alicdn.com/kf/H11638f72ca87404db068be70eee2c1c8e.png",
+            "https://sc04.alicdn.com/kf/Hd1004012a4bf441cb429d9d33d5f1f624.png",
+            "https://sc04.alicdn.com/kf/H101ad629bb5a406d8567a9c9972e07f2W.png",
+            "https://sc04.alicdn.com/kf/H511504c9ba5946279b53c2d6781ead8dK.png",
+            "https://sc04.alicdn.com/kf/Hbd8c0411a58d43af9f46f8303f34e2078.png"
+          ],
+          "category": "Rosary bracelets",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Copper alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Cross pendant with multicolor eye charms"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Gold; Silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Target wearer",
+              "value": "Unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Rosary bracelets"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.45",
+              "maxPrice": "1.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the bracelet made from?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The bracelet is made from copper alloy, according to the product facts."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which color options are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is offered in two variants: gold and silver."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is it a rosary or a charm bracelet?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product is a charm bracelet with a cross pendant and multicolor eye charms, and it is listed in the rosary bracelets category. The product facts do not describe prayer beads, a centerpiece, or a corpus on the cross."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "contentHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:18:34.258Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602026954262",
+      "sourceId": "1602026954262",
+      "sourceFingerprint": "764c55081e78115fb77c03db69a9164726936e80e23eb01067233ed2cee0e63f",
+      "locale": "en",
+      "slug": "wholesale-stainless-steel-curved-tube-bracelet-colorful-stone-wood-bead-woven-knot-cord-unisex-jewelry-gift",
+      "title": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone",
+      "eyebrow": "Rosary bracelets",
+      "summary": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone Wood Bead Woven Knot Cord Unisex Jewelry Gift",
+      "description": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone Wood Bead Woven Knot Cord Unisex Jewelry Gift",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H861cf7c398fc4d57bb5d6d8ea7717e77x.webp",
+      "imageAlt": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H861cf7c398fc4d57bb5d6d8ea7717e77x.webp",
+          "alt": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hed152774370d4787b67e2352c8ef5fd9U.webp",
+          "alt": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8735177c6a5c4c90a2ced83960f35cf6q.webp",
+          "alt": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb01fc4d26bd44286a3c2ecc698bc5936Q.webp",
+          "alt": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H840e5da0596744409f387ec7aea081c4L.webp",
+          "alt": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone - god-elbow-wood-bead-bracelet-silver",
+          "label": "god-elbow-wood-bead-bracelet-silver",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8ea54e0d7b58457ca2f2d6b075376852N.webp",
+          "alt": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone - god-elbow-wood-bead-bracelet-gold",
+          "label": "god-elbow-wood-bead-bracelet-gold",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hc59f1c04a2c248b0aaa49dc73ee44cdd4.webp",
+          "alt": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone - god-elbow-colorful-stone-bracelet-silver",
+          "label": "god-elbow-colorful-stone-bracelet-silver",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdaeeed39c4674c33880a0928cf2910baQ.webp",
+          "alt": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone - god-elbow-colorful-stone-bracelet-gold",
+          "label": "god-elbow-colorful-stone-bracelet-gold",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Variant: GOD Elbow Colorful Stone Bracelet Gold, GOD Elbow Colorful Stone Bracelet Silver, GOD Elbow Wood Bead Bracelet Gold, GOD Elbow Wood Bead Bracelet Silver"
+      ],
+      "specifications": [
+        {
+          "name": "Variant",
+          "value": "GOD Elbow Colorful Stone Bracelet Gold, GOD Elbow Colorful Stone Bracelet Silver, GOD Elbow Wood Bead Bracelet Gold, GOD Elbow Wood Bead Bracelet Silver"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "1.34",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.34",
+          "max": "1.61"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone",
+          "description": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone Wood Bead Woven Knot Cord Unisex Jewelry Gift",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP",
+          "image": [
+            "https://sc04.alicdn.com/kf/H861cf7c398fc4d57bb5d6d8ea7717e77x.jpg",
+            "https://sc04.alicdn.com/kf/Hed152774370d4787b67e2352c8ef5fd9U.jpg",
+            "https://sc04.alicdn.com/kf/H8735177c6a5c4c90a2ced83960f35cf6q.jpg",
+            "https://sc04.alicdn.com/kf/Hb01fc4d26bd44286a3c2ecc698bc5936Q.jpg"
+          ],
+          "category": "Rosary bracelets",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "GOD Elbow Colorful Stone Bracelet Gold, GOD Elbow Colorful Stone Bracelet Silver, GOD Elbow Wood Bead Bracelet Gold, GOD Elbow Wood Bead Bracelet Silver"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.34",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.34",
+              "maxPrice": "1.61",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "contentHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:19:01.028Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602026967189",
+      "sourceId": "1602026967189",
+      "sourceFingerprint": "59728630e69fb4adfc1f32275df55180a24725f24ecf7c015281f58504e02d87",
+      "locale": "en",
+      "slug": "wholesale-wooden-christmas-praying-three-layer-tabletop-ornament-home-decor-handmade-painted-wood-craft-gift",
+      "title": "Painted Wooden Three-Layer Tabletop Ornament",
+      "eyebrow": "Hand-painted wooden three-tier tabletop ornament",
+      "summary": "A three-layer tabletop ornament made of wood, handmade and painted. The stacked construction gives it height for display on flat surfaces, and the hand-painted finish suits Christmas and other holiday decorating as well as gift and souvenir use.",
+      "description": "This tabletop ornament is built from wood in three stacked layers and finished by hand with paint, giving each piece a slightly individual surface. The tiered construction is what sets it apart from a flat hanging ornament: it stands on a table, shelf, or mantel rather than suspending.\n\nIt is produced in Zhejiang, China, and classed as an ornament and home decoration piece. Painted wooden ornaments of this type are commonly given as small gifts or kept as seasonal display items, and the triple-layer profile reads clearly at a distance without needing extra support.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG1TMb-AOXiPwuEY8CGmdqM",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/Hdda412876a32452ebaa4959fe563ad68H.webp",
+      "imageAlt": "Painted Wooden Three-Layer Tabletop Ornament",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdda412876a32452ebaa4959fe563ad68H.webp",
+          "alt": "Painted Wooden Three-Layer Tabletop Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2e83a95b552c4ac690e69f3e4423766b7.webp",
+          "alt": "Painted Wooden Three-Layer Tabletop Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha3be608807da4c6496a6ccab7424f480f.webp",
+          "alt": "Painted Wooden Three-Layer Tabletop Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbbd83dda196b4aedb2bf574409f92a94m.webp",
+          "alt": "Painted Wooden Three-Layer Tabletop Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Heb07402efc294d6ab0f90502994cb1d9F.webp",
+          "alt": "Painted Wooden Three-Layer Tabletop Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2677620450974723b2d843b9e4610cbdc.webp",
+          "alt": "Painted Wooden Three-Layer Tabletop Ornament"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Three-layer stacked tabletop construction",
+        "Made of wood with a hand-painted finish",
+        "Handmade production",
+        "Freestanding tabletop display format",
+        "Produced in Zhejiang, China"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Wood"
+        },
+        {
+          "name": "Construction",
+          "value": "Three stacked layers"
+        },
+        {
+          "name": "Technique",
+          "value": "Hand-painted"
+        },
+        {
+          "name": "Production",
+          "value": "Handmade"
+        },
+        {
+          "name": "Format",
+          "value": "Tabletop ornament"
+        },
+        {
+          "name": "Place of origin",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Christmas and holiday tabletop decoration",
+        "Home decoration on shelves or mantels",
+        "Gift and souvenir item",
+        "Wedding decoration and gift use"
+      ],
+      "faq": [
+        {
+          "question": "What is the three-layer construction?",
+          "answer": "The wooden ornament is assembled from three stacked layers, which creates a stepped profile suited to standing on a table or shelf rather than hanging."
+        },
+        {
+          "question": "Is the ornament hand-painted?",
+          "answer": "Yes. The product facts list hand-painted technique and handmade production for this wooden tabletop ornament."
+        },
+        {
+          "question": "Can it be used outside Christmas decorating?",
+          "answer": "Yes. The listed applications extend beyond Christmas to include home decoration, gift and souvenir use, wedding decoration and gift use, and other holiday occasions."
+        }
+      ],
+      "pricing": {
+        "price": "2.04",
+        "regularPrice": "2.04",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.47",
+          "max": "2.04"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Painted Wooden Three-Layer Tabletop Ornament",
+          "description": "Handmade painted wood tabletop ornament built in three stacked layers, made in Zhejiang, China, and suited to Christmas, holiday, wedding, and gift decoration.",
+          "sku": "ALI-AAG1TMb-AOXiPwuEY8CGmdqM",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdda412876a32452ebaa4959fe563ad68H.jpg",
+            "https://sc04.alicdn.com/kf/H2e83a95b552c4ac690e69f3e4423766b7.jpg",
+            "https://sc04.alicdn.com/kf/Ha3be608807da4c6496a6ccab7424f480f.jpg",
+            "https://sc04.alicdn.com/kf/Hbbd83dda196b4aedb2bf574409f92a94m.jpg",
+            "https://sc04.alicdn.com/kf/Heb07402efc294d6ab0f90502994cb1d9F.jpg",
+            "https://sc04.alicdn.com/kf/H2677620450974723b2d843b9e4610cbdc.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Wood"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Construction",
+              "value": "Three stacked layers"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technique",
+              "value": "Hand-painted"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Production",
+              "value": "Handmade"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Format",
+              "value": "Tabletop ornament"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of origin",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.04",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.47",
+              "maxPrice": "2.04",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the three-layer construction?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The wooden ornament is assembled from three stacked layers, which creates a stepped profile suited to standing on a table or shelf rather than hanging."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the ornament hand-painted?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The product facts list hand-painted technique and handmade production for this wooden tabletop ornament."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can it be used outside Christmas decorating?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The listed applications extend beyond Christmas to include home decoration, gift and souvenir use, wedding decoration and gift use, and other holiday occasions."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "contentHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:18:41.128Z",
             "model": "deepseek-v4-flash"
           }
         }

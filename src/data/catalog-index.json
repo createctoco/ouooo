@@ -1,18 +1,18 @@
 {
   "schema_version": "1.0",
-  "synchronized_at": "2026-11-22T20:30:49.232Z",
-  "sync_cursor": "2026-11-19T21:54:22.557Z",
+  "synchronized_at": "2026-11-24T01:19:23.912Z",
+  "sync_cursor": "2026-11-24T01:18:20.525Z",
   "sync_mode": "incremental",
   "modified_after": null,
-  "changed_products": 0,
+  "changed_products": 3,
   "deleted_products": 0,
-  "changed_source_ids": [],
+  "changed_source_ids": ["1601591817648", "1602026954262", "1602026967189"],
   "deleted_source_ids": [],
-  "source_total": 1087,
-  "total": 1087,
+  "source_total": 1090,
+  "total": 1090,
   "queue": {
     "batchSize": 10,
-    "processedThisRun": 0,
+    "processedThisRun": 3,
     "remaining": 0
   },
   "products": [
@@ -346049,6 +346049,600 @@
           }
         }
       ]
+    },
+    {
+      "wp_id": 18900,
+      "source_id": "1601591817648",
+      "source_plain_id": "1601591817648",
+      "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p",
+      "slug": "unisex-copper-alloy-charm-bracelet-cross-pendant-multicolor-eye-charms-anniversary",
+      "title": "Unisex Copper Alloy Charm Bracelet Cross Pendant Multicolor Eye Charms Anniversary",
+      "status": "publish",
+      "product_type": "variable",
+      "url": "https://mecrt.com/product/unisex-copper-alloy-charm-bracelet-cross-pendant-multicolor-eye-charms-anniversary/",
+      "modified_at": "2026-11-23T18:04:15+00:00",
+      "source_modified_at": "2026-11-24 01:35:40",
+      "description_html": "",
+      "short_description_html": "",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "tags": [],
+      "attributes": [
+        {
+          "name": "Variant",
+          "slug": "pa_variant",
+          "values": ["Gold", "Silver"],
+          "variation": true,
+          "visible": true
+        }
+      ],
+      "weight": {
+        "value": "",
+        "unit": "kg",
+        "kg": ""
+      },
+      "pricing": {
+        "currency": "USD",
+        "regular_price": "",
+        "price": "1.5",
+        "tiers": [
+          {
+            "start_quantity": "12",
+            "price": "1.5",
+            "source_sku_id": "110027564196"
+          },
+          {
+            "start_quantity": "600",
+            "price": "1.45",
+            "source_sku_id": "110027564196"
+          },
+          {
+            "start_quantity": "12",
+            "price": "1.5",
+            "source_sku_id": "110027564197"
+          },
+          {
+            "start_quantity": "600",
+            "price": "1.45",
+            "source_sku_id": "110027564197"
+          }
+        ]
+      },
+      "images": [
+        {
+          "id": 18905,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2411c786e8b04b8eb5f4e69992d8484d4.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H2411c786e8b04b8eb5f4e69992d8484d4.png",
+          "alt": "",
+          "width": 1558,
+          "height": 1558
+        },
+        {
+          "id": 18906,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H11638f72ca87404db068be70eee2c1c8e.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H11638f72ca87404db068be70eee2c1c8e.png",
+          "alt": "",
+          "width": 1610,
+          "height": 1610
+        },
+        {
+          "id": 18907,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd1004012a4bf441cb429d9d33d5f1f624.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hd1004012a4bf441cb429d9d33d5f1f624.png",
+          "alt": "",
+          "width": 1084,
+          "height": 1084
+        },
+        {
+          "id": 18908,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H101ad629bb5a406d8567a9c9972e07f2W.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H101ad629bb5a406d8567a9c9972e07f2W.png",
+          "alt": "",
+          "width": 1526,
+          "height": 1526
+        },
+        {
+          "id": 18909,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H511504c9ba5946279b53c2d6781ead8dK.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H511504c9ba5946279b53c2d6781ead8dK.png",
+          "alt": "",
+          "width": 1469,
+          "height": 1469
+        },
+        {
+          "id": 18910,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbd8c0411a58d43af9f46f8303f34e2078.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hbd8c0411a58d43af9f46f8303f34e2078.png",
+          "alt": "",
+          "width": 1469,
+          "height": 1469
+        }
+      ],
+      "source": {
+        "url": "https://www.alibaba.com/product-detail/Unisex-Copper-Alloy-Charm-Bracelet-Cross_1601591817648.html",
+        "group_id": "",
+        "category_id": "202203008",
+        "main_image_urls": [
+          "https://sc04.alicdn.com/kf/H2411c786e8b04b8eb5f4e69992d8484d4.png",
+          "https://sc04.alicdn.com/kf/H11638f72ca87404db068be70eee2c1c8e.png",
+          "https://sc04.alicdn.com/kf/Hd1004012a4bf441cb429d9d33d5f1f624.png",
+          "https://sc04.alicdn.com/kf/H101ad629bb5a406d8567a9c9972e07f2W.png",
+          "https://sc04.alicdn.com/kf/H511504c9ba5946279b53c2d6781ead8dK.png",
+          "https://sc04.alicdn.com/kf/Hbd8c0411a58d43af9f46f8303f34e2078.png"
+        ],
+        "detail_image_urls": []
+      },
+      "variations": [
+        {
+          "wp_id": 18903,
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3331116",
+          "source_sku_id": "110027564196",
+          "source_variant_value_id": "3331116",
+          "attributes": {
+            "pa_variant": "gold"
+          },
+          "regular_price": "1.5",
+          "price": "1.5",
+          "price_tiers": [
+            {
+              "start_quantity": "12",
+              "price": "1.5",
+              "source_sku_id": "110027564196"
+            },
+            {
+              "start_quantity": "600",
+              "price": "1.45",
+              "source_sku_id": "110027564196"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/11/H8fd1cdd0d96c4510a9903fd0f547f36e5.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H8fd1cdd0d96c4510a9903fd0f547f36e5.png",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 18904,
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3460547",
+          "source_sku_id": "110027564197",
+          "source_variant_value_id": "3460547",
+          "attributes": {
+            "pa_variant": "silver"
+          },
+          "regular_price": "1.5",
+          "price": "1.5",
+          "price_tiers": [
+            {
+              "start_quantity": "12",
+              "price": "1.5",
+              "source_sku_id": "110027564197"
+            },
+            {
+              "start_quantity": "600",
+              "price": "1.45",
+              "source_sku_id": "110027564197"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/11/Hfe52e3c3dd944b9fb7bba924c4c493deu.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Hfe52e3c3dd944b9fb7bba924c4c493deu.png",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "wp_id": 18911,
+      "source_id": "1602026954262",
+      "source_plain_id": "1602026954262",
+      "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP",
+      "slug": "wholesale-stainless-steel-curved-tube-bracelet-colorful-stone-wood-bead-woven-knot-cord-unisex-jewelry-gift",
+      "title": "Wholesale Stainless Steel Curved Tube Bracelet Colorful Stone Wood Bead Woven Knot Cord Unisex Jewelry Gift",
+      "status": "publish",
+      "product_type": "variable",
+      "url": "https://mecrt.com/product/wholesale-stainless-steel-curved-tube-bracelet-colorful-stone-wood-bead-woven-knot-cord-unisex-jewelry-gift/",
+      "modified_at": "2026-11-23T18:04:00+00:00",
+      "source_modified_at": "2026-11-24 01:09:58",
+      "description_html": "",
+      "short_description_html": "",
+      "categories": [
+        {
+          "id": 20,
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "tags": [],
+      "attributes": [
+        {
+          "name": "Variant",
+          "slug": "pa_variant",
+          "values": [
+            "GOD Elbow Colorful Stone Bracelet Gold",
+            "GOD Elbow Colorful Stone Bracelet Silver",
+            "GOD Elbow Wood Bead Bracelet Gold",
+            "GOD Elbow Wood Bead Bracelet Silver"
+          ],
+          "variation": true,
+          "visible": true
+        }
+      ],
+      "weight": {
+        "value": "",
+        "unit": "kg",
+        "kg": ""
+      },
+      "pricing": {
+        "currency": "USD",
+        "regular_price": "",
+        "price": "1.34",
+        "tiers": [
+          {
+            "start_quantity": "-1",
+            "price": "1.34",
+            "source_sku_id": "110027369993"
+          },
+          {
+            "start_quantity": "-1",
+            "price": "1.61",
+            "source_sku_id": "110027369992"
+          },
+          {
+            "start_quantity": "-1",
+            "price": "1.34",
+            "source_sku_id": "110027369991"
+          },
+          {
+            "start_quantity": "-1",
+            "price": "1.61",
+            "source_sku_id": "110027369990"
+          }
+        ]
+      },
+      "images": [
+        {
+          "id": 18920,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H861cf7c398fc4d57bb5d6d8ea7717e77x.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H861cf7c398fc4d57bb5d6d8ea7717e77x.jpg",
+          "alt": "",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 18921,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hed152774370d4787b67e2352c8ef5fd9U.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hed152774370d4787b67e2352c8ef5fd9U.jpg",
+          "alt": "",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 18922,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8735177c6a5c4c90a2ced83960f35cf6q.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H8735177c6a5c4c90a2ced83960f35cf6q.jpg",
+          "alt": "",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 18928,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb01fc4d26bd44286a3c2ecc698bc5936Q.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hb01fc4d26bd44286a3c2ecc698bc5936Q.jpg",
+          "alt": "",
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "source": {
+        "url": "https://www.alibaba.com/product-detail/Wholesale-Stainless-Steel-Curved-Tube-Bracelet_1602026954262.html",
+        "group_id": "940281856",
+        "category_id": "202202419",
+        "main_image_urls": [
+          "https://sc04.alicdn.com/kf/H861cf7c398fc4d57bb5d6d8ea7717e77x.jpg",
+          "https://sc04.alicdn.com/kf/Hed152774370d4787b67e2352c8ef5fd9U.jpg",
+          "https://sc04.alicdn.com/kf/H8735177c6a5c4c90a2ced83960f35cf6q.jpg",
+          "https://sc04.alicdn.com/kf/Hb01fc4d26bd44286a3c2ecc698bc5936Q.jpg"
+        ],
+        "detail_image_urls": [
+          "https://sc04.alicdn.com/kf/H3b487dcfc0bd4c6d9c8612a84241be7aV.jpg",
+          "https://sc04.alicdn.com/kf/Hc59f1c04a2c248b0aaa49dc73ee44cdd4.jpg",
+          "https://sc04.alicdn.com/kf/H1e86801c2051419ea8bfdc65554d8be4v.jpg",
+          "https://sc04.alicdn.com/kf/H64100d48a86f406a9588f036a49741bei.jpg"
+        ]
+      },
+      "variations": [
+        {
+          "wp_id": 18916,
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--4",
+          "source_sku_id": "110027369993",
+          "source_variant_value_id": "-4",
+          "attributes": {
+            "pa_variant": "god-elbow-wood-bead-bracelet-silver"
+          },
+          "regular_price": "1.34",
+          "price": "1.34",
+          "price_tiers": [
+            {
+              "start_quantity": "-1",
+              "price": "1.34",
+              "source_sku_id": "110027369993"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/11/H840e5da0596744409f387ec7aea081c4L.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H840e5da0596744409f387ec7aea081c4L.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 18917,
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--3",
+          "source_sku_id": "110027369992",
+          "source_variant_value_id": "-3",
+          "attributes": {
+            "pa_variant": "god-elbow-wood-bead-bracelet-gold"
+          },
+          "regular_price": "1.61",
+          "price": "1.61",
+          "price_tiers": [
+            {
+              "start_quantity": "-1",
+              "price": "1.61",
+              "source_sku_id": "110027369992"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/11/H8ea54e0d7b58457ca2f2d6b075376852N.webp",
+            "source_url": "https://sc04.alicdn.com/kf/H8ea54e0d7b58457ca2f2d6b075376852N.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 18918,
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--2",
+          "source_sku_id": "110027369991",
+          "source_variant_value_id": "-2",
+          "attributes": {
+            "pa_variant": "god-elbow-colorful-stone-bracelet-silver"
+          },
+          "regular_price": "1.34",
+          "price": "1.34",
+          "price_tiers": [
+            {
+              "start_quantity": "-1",
+              "price": "1.34",
+              "source_sku_id": "110027369991"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/11/Hc59f1c04a2c248b0aaa49dc73ee44cdd4.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Hc59f1c04a2c248b0aaa49dc73ee44cdd4.jpg",
+            "alt": ""
+          }
+        },
+        {
+          "wp_id": 18919,
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--1",
+          "source_sku_id": "110027369990",
+          "source_variant_value_id": "-1",
+          "attributes": {
+            "pa_variant": "god-elbow-colorful-stone-bracelet-gold"
+          },
+          "regular_price": "1.61",
+          "price": "1.61",
+          "price_tiers": [
+            {
+              "start_quantity": "-1",
+              "price": "1.61",
+              "source_sku_id": "110027369990"
+            }
+          ],
+          "image": {
+            "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdaeeed39c4674c33880a0928cf2910baQ.webp",
+            "source_url": "https://sc04.alicdn.com/kf/Hdaeeed39c4674c33880a0928cf2910baQ.jpg",
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "wp_id": 18923,
+      "source_id": "1602026967189",
+      "source_plain_id": "1602026967189",
+      "sku": "ALI-AAG1TMb-AOXiPwuEY8CGmdqM",
+      "slug": "wholesale-wooden-christmas-praying-three-layer-tabletop-ornament-home-decor-handmade-painted-wood-craft-gift",
+      "title": "Wholesale Wooden Christmas Praying Three Layer Tabletop Ornament Home Decor Handmade Painted Wood Craft Gift",
+      "status": "publish",
+      "product_type": "simple",
+      "url": "https://mecrt.com/product/wholesale-wooden-christmas-praying-three-layer-tabletop-ornament-home-decor-handmade-painted-wood-craft-gift/",
+      "modified_at": "2026-11-23T18:04:00+00:00",
+      "source_modified_at": "2026-11-24 01:07:37",
+      "description_html": "",
+      "short_description_html": "",
+      "categories": [
+        {
+          "id": 84,
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "tags": [],
+      "attributes": [
+        {
+          "name": "Material",
+          "slug": "material",
+          "values": ["Wood"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Feature",
+          "slug": "feature",
+          "values": ["Handmade"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Product Type",
+          "slug": "product-type",
+          "values": ["Decoration"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Technique",
+          "slug": "technique",
+          "values": ["Painted"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Theme",
+          "slug": "theme",
+          "values": ["Home Decoration"],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Application",
+          "slug": "application",
+          "values": [
+            "Christmas",
+            "Valentine's Day",
+            "Mother's Day",
+            "Earth Day",
+            "Business Gift",
+            "Art & Collectible",
+            "Halloween",
+            "Holiday Decoration & Gift",
+            "Home Decoration",
+            "Chinese New Year",
+            "Thanksgiving",
+            "Wedding Decoration & Gift",
+            "Father's Day",
+            "Back to School",
+            "New Year",
+            "Souvenir",
+            "April Fool's Day",
+            "Easter",
+            "Graduation"
+          ],
+          "variation": false,
+          "visible": true
+        },
+        {
+          "name": "Place of Origin",
+          "slug": "place-of-origin",
+          "values": ["CN;ZHE"],
+          "variation": false,
+          "visible": true
+        }
+      ],
+      "weight": {
+        "value": "",
+        "unit": "kg",
+        "kg": ""
+      },
+      "pricing": {
+        "currency": "USD",
+        "regular_price": "2.04",
+        "price": "2.04",
+        "tiers": [
+          {
+            "start_quantity": "100",
+            "price": "2.04",
+            "source_sku_id": "110027431528"
+          },
+          {
+            "start_quantity": "1200",
+            "price": "1.70",
+            "source_sku_id": "110027431528"
+          },
+          {
+            "start_quantity": "12000",
+            "price": "1.47",
+            "source_sku_id": "110027431528"
+          }
+        ]
+      },
+      "images": [
+        {
+          "id": 18929,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdda412876a32452ebaa4959fe563ad68H.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hdda412876a32452ebaa4959fe563ad68H.jpg",
+          "alt": "",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 18924,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2e83a95b552c4ac690e69f3e4423766b7.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H2e83a95b552c4ac690e69f3e4423766b7.jpg",
+          "alt": "",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 18930,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha3be608807da4c6496a6ccab7424f480f.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Ha3be608807da4c6496a6ccab7424f480f.jpg",
+          "alt": "",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 18925,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbbd83dda196b4aedb2bf574409f92a94m.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Hbbd83dda196b4aedb2bf574409f92a94m.jpg",
+          "alt": "",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 18926,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Heb07402efc294d6ab0f90502994cb1d9F.webp",
+          "source_url": "https://sc04.alicdn.com/kf/Heb07402efc294d6ab0f90502994cb1d9F.jpg",
+          "alt": "",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 18927,
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2677620450974723b2d843b9e4610cbdc.webp",
+          "source_url": "https://sc04.alicdn.com/kf/H2677620450974723b2d843b9e4610cbdc.jpg",
+          "alt": "",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "source": {
+        "url": "https://www.alibaba.com/product-detail/Wholesale-Wooden-Christmas-Praying-Three-Layer_1602026967189.html",
+        "group_id": "948466247",
+        "category_id": "1744",
+        "main_image_urls": [
+          "https://sc04.alicdn.com/kf/Hdda412876a32452ebaa4959fe563ad68H.jpg",
+          "https://sc04.alicdn.com/kf/H2e83a95b552c4ac690e69f3e4423766b7.jpg",
+          "https://sc04.alicdn.com/kf/Ha3be608807da4c6496a6ccab7424f480f.jpg",
+          "https://sc04.alicdn.com/kf/Hbbd83dda196b4aedb2bf574409f92a94m.jpg",
+          "https://sc04.alicdn.com/kf/Heb07402efc294d6ab0f90502994cb1d9F.jpg",
+          "https://sc04.alicdn.com/kf/H2677620450974723b2d843b9e4610cbdc.jpg"
+        ],
+        "detail_image_urls": [
+          "https://sc04.alicdn.com/kf/H62b7570eed1143c8a084010c752cc96cw.jpg",
+          "https://sc04.alicdn.com/kf/H2f72d362df1f44c8bbc9dc473074b278I.jpg",
+          "https://sc04.alicdn.com/kf/H30f315ee6f4e4bf3bccf0588227bc831O.jpg",
+          "https://sc04.alicdn.com/kf/H985eaaee8c3f4db787619454a626740ct.jpg",
+          "https://sc04.alicdn.com/kf/H4bcc3f8a243347bcbd2043e6aa0e464al.jpg",
+          "https://sc04.alicdn.com/kf/H6791b4c4c1374ca2b9090c32d26e10fei.jpg",
+          "https://sc04.alicdn.com/kf/Hb902668d8c7f482cb60cfa0b10637cd4G.jpg"
+        ]
+      },
+      "variations": []
     }
   ]
 }
