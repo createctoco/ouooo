@@ -2,13 +2,17 @@
   "schemaVersion": 3,
   "locale": "fr",
   "sourceLocale": "en",
-  "sourceCatalogHash": "349b53f7586b48a6098b5c0a279c8b20a8b82c932e3ed159580a5e372da0e7f0",
-  "generatedAt": "2026-11-22T20:32:15.953Z",
+  "sourceCatalogHash": "dc683fe5555657ce09fd1b0d2440ed54cc17a5ca2bc440c650d82f914579f597",
+  "generatedAt": "2026-11-24T01:20:49.392Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-11-19T21:54:22.557Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601591817648",
+      "1602026954262",
+      "1602026967189"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -30,12 +34,16 @@
   },
   "categoryGlossarySourceHash": "bccaa5391e75fec801a236536146b4d104bb6643b792061f305413f6dcb98b22",
   "translationSummary": {
-    "ready": 1080,
+    "ready": 1083,
     "skipped": 0,
     "skippedProductIds": [],
     "reused": 1080,
-    "generated": 0,
-    "generatedProductIds": [],
+    "generated": 3,
+    "generatedProductIds": [
+      "1601591817648",
+      "1602026954262",
+      "1602026967189"
+    ],
     "gaveUp": 0,
     "gaveUpSkipped": 7,
     "dropped": 0,
@@ -253991,6 +253999,610 @@
             "contentHash": "6aeb25aa190770eef8a46e840f570bc6f57bf2ae25376cd1434cf4c85193af10",
             "attempts": 1,
             "updatedAt": "2026-11-20T21:39:35.713Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601591817648",
+      "sourceId": "1601591817648",
+      "sourceFingerprint": "eddcd176e62a6d547bd7ee81bf2647ca96950478e323f716143db3ccca3949e0",
+      "locale": "fr",
+      "slug": "unisex-copper-alloy-charm-bracelet-cross-pendant-multicolor-eye-charms-anniversary",
+      "title": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil",
+      "eyebrow": "Bracelet de charme en alliage de cuivre avec croix et charmes multicolores en forme d'œil",
+      "summary": "Un bracelet de charme unisexe en alliage de cuivre, construit autour d'un pendentif croix et de charmes multicolores en forme d'œil. Il est disponible en deux variantes de couleur, or et argent. Répertorié dans notre catégorie Bracelets de chapelet, le bracelet associe un charme central en forme de croix à une rangée de petits charmes colorés.",
+      "description": "Ce bracelet en alliage de cuivre place un pendentif croix parmi plusieurs charmes multicolores en forme d'œil sur un même bandeau unisexe. La disposition mixte des charmes lui donne un aspect différent d'un bracelet à pendentif unique, et le choix de la finition or ou argent modifie le ton général.\n\nIl est catalogué dans les bracelets de chapelet, bien que les faits produit décrivent un bracelet de charme plutôt qu'un ensemble de perles de prière. Les acheteurs qui le comparent à des bracelets de chapelet à perles doivent noter cette distinction : les éléments déterminants ici sont le pendentif croix et les charmes en forme d'œil, et non un nombre de perles ou une pièce centrale.",
+      "catholicContext": "Le bracelet comprend un charme en forme de croix ; une croix simple diffère d'un crucifix, qui représente le Christ sur la croix, et les faits produit décrivent uniquement une croix.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracelets de chapelet",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H2411c786e8b04b8eb5f4e69992d8484d4.webp",
+      "imageAlt": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2411c786e8b04b8eb5f4e69992d8484d4.webp",
+          "alt": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H11638f72ca87404db068be70eee2c1c8e.webp",
+          "alt": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd1004012a4bf441cb429d9d33d5f1f624.webp",
+          "alt": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H101ad629bb5a406d8567a9c9972e07f2W.webp",
+          "alt": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H511504c9ba5946279b53c2d6781ead8dK.webp",
+          "alt": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbd8c0411a58d43af9f46f8303f34e2078.webp",
+          "alt": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8fd1cdd0d96c4510a9903fd0f547f36e5.webp",
+          "alt": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil - or",
+          "label": "or",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hfe52e3c3dd944b9fb7bba924c4c493deu.webp",
+          "alt": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil - argent",
+          "label": "argent",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3460547"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Bracelet de charme unisexe en alliage de cuivre",
+        "Pendentif croix comme charme central",
+        "Charmes multicolores en forme d'œil aux côtés de la croix",
+        "Disponible en variantes or et argent",
+        "Répertorié dans la catégorie Bracelets de chapelet"
+      ],
+      "specifications": [
+        {
+          "name": "Matière",
+          "value": "Alliage de cuivre"
+        },
+        {
+          "name": "Design",
+          "value": "Pendentif croix avec charmes multicolores en forme d'œil"
+        },
+        {
+          "name": "Variante",
+          "value": "Or ; Argent"
+        },
+        {
+          "name": "Porteur cible",
+          "value": "Unisexe"
+        },
+        {
+          "name": "Catégorie",
+          "value": "Bracelets de chapelet"
+        }
+      ],
+      "applications": [
+        "Port au poignet au quotidien",
+        "Cadeau",
+        "Assortiment de présentation de bijoux à charmes",
+        "Accessoire décontracté"
+      ],
+      "faq": [
+        {
+          "question": "De quelle matière est fait le bracelet ?",
+          "answer": "Le bracelet est fabriqué en alliage de cuivre, selon les faits produit."
+        },
+        {
+          "question": "Quelles options de couleur sont disponibles ?",
+          "answer": "Il est proposé en deux variantes : or et argent."
+        },
+        {
+          "question": "S'agit-il d'un chapelet ou d'un bracelet de charme ?",
+          "answer": "Le produit est un bracelet de charme avec un pendentif croix et des charmes multicolores en forme d'œil, et il est répertorié dans la catégorie Bracelets de chapelet. Les faits produit ne décrivent pas de perles de prière, de pièce centrale ni de corpus sur la croix."
+        }
+      ],
+      "pricing": {
+        "price": "1.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.45",
+          "max": "1.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracelet de charme en alliage de cuivre avec croix et charmes en forme d'œil",
+          "description": "Un bracelet de charme unisexe en alliage de cuivre, construit autour d'un pendentif croix et de charmes multicolores en forme d'œil. Il est disponible en deux variantes de couleur, or et argent. Répertorié dans notre catégorie Bracelets de chapelet, le bracelet associe un charme central en forme de croix à une rangée de petits charmes colorés.",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2411c786e8b04b8eb5f4e69992d8484d4.png",
+            "https://sc04.alicdn.com/kf/H11638f72ca87404db068be70eee2c1c8e.png",
+            "https://sc04.alicdn.com/kf/Hd1004012a4bf441cb429d9d33d5f1f624.png",
+            "https://sc04.alicdn.com/kf/H101ad629bb5a406d8567a9c9972e07f2W.png",
+            "https://sc04.alicdn.com/kf/H511504c9ba5946279b53c2d6781ead8dK.png",
+            "https://sc04.alicdn.com/kf/Hbd8c0411a58d43af9f46f8303f34e2078.png"
+          ],
+          "category": "Bracelets de chapelet",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matière",
+              "value": "Alliage de cuivre"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Pendentif croix avec charmes multicolores en forme d'œil"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Or ; Argent"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Porteur cible",
+              "value": "Unisexe"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Catégorie",
+              "value": "Bracelets de chapelet"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.45",
+              "maxPrice": "1.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "De quelle matière est fait le bracelet ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le bracelet est fabriqué en alliage de cuivre, selon les faits produit."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Quelles options de couleur sont disponibles ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Il est proposé en deux variantes : or et argent."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "S'agit-il d'un chapelet ou d'un bracelet de charme ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le produit est un bracelet de charme avec un pendentif croix et des charmes multicolores en forme d'œil, et il est répertorié dans la catégorie Bracelets de chapelet. Les faits produit ne décrivent pas de perles de prière, de pièce centrale ni de corpus sur la croix."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "contentHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:18:34.258Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "contentHash": "55d1bf2fbd835125d328988b977e943bd49e84d66b029d91987a56c36eb26b51",
+            "attempts": 1,
+            "updatedAt": "2026-11-24T01:20:41.198Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602026954262",
+      "sourceId": "1602026954262",
+      "sourceFingerprint": "764c55081e78115fb77c03db69a9164726936e80e23eb01067233ed2cee0e63f",
+      "locale": "fr",
+      "slug": "wholesale-stainless-steel-curved-tube-bracelet-colorful-stone-wood-bead-woven-knot-cord-unisex-jewelry-gift",
+      "title": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros",
+      "eyebrow": "Bracelets de chapelet",
+      "summary": "Bracelet tube incurvé en acier inoxydable avec pierres colorées et perles en bois, cordon tressé avec nœuds, bijou cadeau mixte, en gros",
+      "description": "Bracelet tube incurvé en acier inoxydable avec pierres colorées et perles en bois, cordon tressé avec nœuds, bijou cadeau mixte, en gros",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bracelets de chapelet",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H861cf7c398fc4d57bb5d6d8ea7717e77x.webp",
+      "imageAlt": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H861cf7c398fc4d57bb5d6d8ea7717e77x.webp",
+          "alt": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hed152774370d4787b67e2352c8ef5fd9U.webp",
+          "alt": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8735177c6a5c4c90a2ced83960f35cf6q.webp",
+          "alt": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb01fc4d26bd44286a3c2ecc698bc5936Q.webp",
+          "alt": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H840e5da0596744409f387ec7aea081c4L.webp",
+          "alt": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros - god-elbow-wood-bead-bracelet-silver",
+          "label": "god-elbow-wood-bead-bracelet-silver",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8ea54e0d7b58457ca2f2d6b075376852N.webp",
+          "alt": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros - god-elbow-wood-bead-bracelet-gold",
+          "label": "god-elbow-wood-bead-bracelet-gold",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hc59f1c04a2c248b0aaa49dc73ee44cdd4.webp",
+          "alt": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros - god-elbow-colorful-stone-bracelet-silver",
+          "label": "god-elbow-colorful-stone-bracelet-silver",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdaeeed39c4674c33880a0928cf2910baQ.webp",
+          "alt": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros - god-elbow-colorful-stone-bracelet-gold",
+          "label": "god-elbow-colorful-stone-bracelet-gold",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Variante : Bracelet GOD Elbow pierres colorées or, Bracelet GOD Elbow pierres colorées argent, Bracelet GOD Elbow perles en bois or, Bracelet GOD Elbow perles en bois argent"
+      ],
+      "specifications": [
+        {
+          "name": "Variante",
+          "value": "Bracelet GOD Elbow pierres colorées or, Bracelet GOD Elbow pierres colorées argent, Bracelet GOD Elbow perles en bois or, Bracelet GOD Elbow perles en bois argent"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "1.34",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.34",
+          "max": "1.61"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bracelet tube incurvé en acier inoxydable avec pierres colorées, en gros",
+          "description": "Bracelet tube incurvé en acier inoxydable avec pierres colorées et perles en bois, cordon tressé avec nœuds, bijou cadeau mixte, en gros",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP",
+          "image": [
+            "https://sc04.alicdn.com/kf/H861cf7c398fc4d57bb5d6d8ea7717e77x.jpg",
+            "https://sc04.alicdn.com/kf/Hed152774370d4787b67e2352c8ef5fd9U.jpg",
+            "https://sc04.alicdn.com/kf/H8735177c6a5c4c90a2ced83960f35cf6q.jpg",
+            "https://sc04.alicdn.com/kf/Hb01fc4d26bd44286a3c2ecc698bc5936Q.jpg"
+          ],
+          "category": "Bracelets de chapelet",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Variante",
+              "value": "Bracelet GOD Elbow pierres colorées or, Bracelet GOD Elbow pierres colorées argent, Bracelet GOD Elbow perles en bois or, Bracelet GOD Elbow perles en bois argent"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.34",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.34",
+              "maxPrice": "1.61",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "contentHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:19:01.028Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "contentHash": "eb5e83d0cfd014dee56a55ed4f170a0fd88bcd99d43c52c6d0ce28cb6d2648f0",
+            "attempts": 1,
+            "updatedAt": "2026-11-24T01:20:44.487Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602026967189",
+      "sourceId": "1602026967189",
+      "sourceFingerprint": "59728630e69fb4adfc1f32275df55180a24725f24ecf7c015281f58504e02d87",
+      "locale": "fr",
+      "slug": "wholesale-wooden-christmas-praying-three-layer-tabletop-ornament-home-decor-handmade-painted-wood-craft-gift",
+      "title": "Ornement de table à trois niveaux en bois peint",
+      "eyebrow": "Ornement de table à trois niveaux en bois peint à la main",
+      "summary": "Un ornement de table à trois niveaux en bois, fabriqué à la main et peint. Sa construction empilée lui donne de la hauteur pour l'exposition sur des surfaces planes, et sa finition peinte à la main convient à la décoration de Noël et d'autres fêtes, ainsi qu'à un usage cadeau ou souvenir.",
+      "description": "Cet ornement de table est fabriqué en bois en trois couches empilées et fini à la main avec de la peinture, ce qui donne à chaque pièce une surface légèrement individuelle. La construction à niveaux le distingue d'un ornement suspendu plat : il se pose sur une table, une étagère ou un manteau de cheminée plutôt que de se suspendre.\n\nIl est produit dans le Zhejiang, en Chine, et classé comme ornement et objet de décoration intérieure. Les ornements en bois peints de ce type sont couramment offerts comme petits cadeaux ou conservés comme objets d'exposition saisonniers, et le profil à trois couches se lit clairement à distance sans nécessiter de support supplémentaire.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornements",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG1TMb-AOXiPwuEY8CGmdqM",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/Hdda412876a32452ebaa4959fe563ad68H.webp",
+      "imageAlt": "Ornement de table à trois niveaux en bois peint",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdda412876a32452ebaa4959fe563ad68H.webp",
+          "alt": "Ornement de table à trois niveaux en bois peint"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2e83a95b552c4ac690e69f3e4423766b7.webp",
+          "alt": "Ornement de table à trois niveaux en bois peint"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha3be608807da4c6496a6ccab7424f480f.webp",
+          "alt": "Ornement de table à trois niveaux en bois peint"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbbd83dda196b4aedb2bf574409f92a94m.webp",
+          "alt": "Ornement de table à trois niveaux en bois peint"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Heb07402efc294d6ab0f90502994cb1d9F.webp",
+          "alt": "Ornement de table à trois niveaux en bois peint"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2677620450974723b2d843b9e4610cbdc.webp",
+          "alt": "Ornement de table à trois niveaux en bois peint"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Construction de table à trois couches empilées",
+        "Fabriqué en bois avec une finition peinte à la main",
+        "Production artisanale",
+        "Format d'exposition de table autoportant",
+        "Produit dans le Zhejiang, en Chine"
+      ],
+      "specifications": [
+        {
+          "name": "Matériau",
+          "value": "Bois"
+        },
+        {
+          "name": "Construction",
+          "value": "Trois couches empilées"
+        },
+        {
+          "name": "Technique",
+          "value": "Peint à la main"
+        },
+        {
+          "name": "Production",
+          "value": "Fabriqué à la main"
+        },
+        {
+          "name": "Format",
+          "value": "Ornement de table"
+        },
+        {
+          "name": "Lieu d'origine",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Décoration de table pour Noël et les fêtes",
+        "Décoration intérieure sur étagères ou manteaux de cheminée",
+        "Article cadeau et souvenir",
+        "Décoration et cadeau de mariage"
+      ],
+      "faq": [
+        {
+          "question": "Qu'est-ce que la construction à trois couches ?",
+          "answer": "L'ornement en bois est assemblé à partir de trois couches empilées, ce qui crée un profil étagé adapté pour être posé sur une table ou une étagère plutôt que suspendu."
+        },
+        {
+          "question": "L'ornement est-il peint à la main ?",
+          "answer": "Oui. Les caractéristiques du produit mentionnent une technique de peinture à la main et une production artisanale pour cet ornement de table en bois."
+        },
+        {
+          "question": "Peut-il être utilisé en dehors de la décoration de Noël ?",
+          "answer": "Oui. Les applications indiquées dépassent Noël et incluent la décoration intérieure, l'usage cadeau et souvenir, la décoration et le cadeau de mariage, ainsi que d'autres occasions de fête."
+        }
+      ],
+      "pricing": {
+        "price": "2.04",
+        "regularPrice": "2.04",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.47",
+          "max": "2.04"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ornement de table à trois niveaux en bois peint",
+          "description": "Un ornement de table à trois niveaux en bois, fabriqué à la main et peint. Sa construction empilée lui donne de la hauteur pour l'exposition sur des surfaces planes, et sa finition peinte à la main convient à la décoration de Noël et d'autres fêtes, ainsi qu'à un usage cadeau ou souvenir.",
+          "sku": "ALI-AAG1TMb-AOXiPwuEY8CGmdqM",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdda412876a32452ebaa4959fe563ad68H.jpg",
+            "https://sc04.alicdn.com/kf/H2e83a95b552c4ac690e69f3e4423766b7.jpg",
+            "https://sc04.alicdn.com/kf/Ha3be608807da4c6496a6ccab7424f480f.jpg",
+            "https://sc04.alicdn.com/kf/Hbbd83dda196b4aedb2bf574409f92a94m.jpg",
+            "https://sc04.alicdn.com/kf/Heb07402efc294d6ab0f90502994cb1d9F.jpg",
+            "https://sc04.alicdn.com/kf/H2677620450974723b2d843b9e4610cbdc.jpg"
+          ],
+          "category": "Ornements",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Matériau",
+              "value": "Bois"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Construction",
+              "value": "Trois couches empilées"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technique",
+              "value": "Peint à la main"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Production",
+              "value": "Fabriqué à la main"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Format",
+              "value": "Ornement de table"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Lieu d'origine",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.04",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.47",
+              "maxPrice": "2.04",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Qu'est-ce que la construction à trois couches ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "L'ornement en bois est assemblé à partir de trois couches empilées, ce qui crée un profil étagé adapté pour être posé sur une table ou une étagère plutôt que suspendu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "L'ornement est-il peint à la main ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui. Les caractéristiques du produit mentionnent une technique de peinture à la main et une production artisanale pour cet ornement de table en bois."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Peut-il être utilisé en dehors de la décoration de Noël ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui. Les applications indiquées dépassent Noël et incluent la décoration intérieure, l'usage cadeau et souvenir, la décoration et le cadeau de mariage, ainsi que d'autres occasions de fête."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "contentHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:18:41.128Z",
+            "model": "deepseek-v4-flash"
+          },
+          "fr": {
+            "status": "ready",
+            "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "contentHash": "b8cca1d1f638bd955c241ee7438cc626b5fa2c768da085025cfa43dce6a4a2cb",
+            "attempts": 1,
+            "updatedAt": "2026-11-24T01:20:49.391Z",
             "model": "deepseek-v4-flash"
           }
         }

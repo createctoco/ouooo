@@ -2,13 +2,17 @@
   "schemaVersion": 3,
   "locale": "pl",
   "sourceLocale": "en",
-  "sourceCatalogHash": "349b53f7586b48a6098b5c0a279c8b20a8b82c932e3ed159580a5e372da0e7f0",
-  "generatedAt": "2026-11-22T20:33:31.247Z",
+  "sourceCatalogHash": "dc683fe5555657ce09fd1b0d2440ed54cc17a5ca2bc440c650d82f914579f597",
+  "generatedAt": "2026-11-24T01:22:14.663Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-11-19T21:54:22.557Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601591817648",
+      "1602026954262",
+      "1602026967189"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -30,12 +34,16 @@
   },
   "categoryGlossarySourceHash": "bccaa5391e75fec801a236536146b4d104bb6643b792061f305413f6dcb98b22",
   "translationSummary": {
-    "ready": 1079,
+    "ready": 1082,
     "skipped": 0,
     "skippedProductIds": [],
     "reused": 1079,
-    "generated": 0,
-    "generatedProductIds": [],
+    "generated": 3,
+    "generatedProductIds": [
+      "1601591817648",
+      "1602026954262",
+      "1602026967189"
+    ],
     "gaveUp": 0,
     "gaveUpSkipped": 8,
     "dropped": 0,
@@ -253455,6 +253463,610 @@
             "contentHash": "edbda7ad72212318034f7b284dddb3ee436ee76a5437332f986d5cbc80f49410",
             "attempts": 1,
             "updatedAt": "2026-11-20T21:41:12.505Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601591817648",
+      "sourceId": "1601591817648",
+      "sourceFingerprint": "eddcd176e62a6d547bd7ee81bf2647ca96950478e323f716143db3ccca3949e0",
+      "locale": "pl",
+      "slug": "unisex-copper-alloy-charm-bracelet-cross-pendant-multicolor-eye-charms-anniversary",
+      "title": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem",
+      "eyebrow": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wielokolorowymi wisiorkami okiem",
+      "summary": "Unisexowa bransoletka z wisiorkami ze stopu miedzi, zbudowana wokół zawieszki z krzyżem i wielokolorowych wisiorków okiem. Dostępna w dwóch wariantach kolorystycznych: złotym i srebrnym. W naszej kategorii bransoletek różańcowych bransoletka łączy wisiorek o motywie wiary z rzędem małych kolorowych wisiorków.",
+      "description": "Ta bransoletka ze stopu miedzi osadza zawieszkę z krzyżem pośród kilku wielokolorowych wisiorków okiem na jednej unisexowej opasce. Układ mieszanych wisiorków nadaje jej inny wygląd niż prostej bransoletki z pojedynczą zawieszką, a wybór wykończenia złotego lub srebrnego zmienia cały charakter.\n\nProdukt jest skatalogowany w kategorii bransoletek różańcowych, choć dane produktu opisują bransoletkę z wisiorkami, a nie zestaw koralików modlitewnych. Kupujący porównujący ją z bransoletkami różańcowymi z koralików powinni zwrócić uwagę na tę różnicę: elementami definiującymi są tutaj zawieszka z krzyżem i wisiorki okiem, a nie liczba koralików czy element centralny.",
+      "catholicContext": "Bransoletka zawiera wisiorek z krzyżem; sam krzyż różni się od krucyfiksu, który przedstawia Chrystusa na krzyżu, a dane produktu opisują wyłącznie krzyż.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bransoletki różańcowe",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H2411c786e8b04b8eb5f4e69992d8484d4.webp",
+      "imageAlt": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2411c786e8b04b8eb5f4e69992d8484d4.webp",
+          "alt": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H11638f72ca87404db068be70eee2c1c8e.webp",
+          "alt": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd1004012a4bf441cb429d9d33d5f1f624.webp",
+          "alt": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H101ad629bb5a406d8567a9c9972e07f2W.webp",
+          "alt": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H511504c9ba5946279b53c2d6781ead8dK.webp",
+          "alt": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbd8c0411a58d43af9f46f8303f34e2078.webp",
+          "alt": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8fd1cdd0d96c4510a9903fd0f547f36e5.webp",
+          "alt": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem – złota",
+          "label": "złoty",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hfe52e3c3dd944b9fb7bba924c4c493deu.webp",
+          "alt": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem – srebrna",
+          "label": "srebrny",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3460547"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Unisexowa bransoletka z wisiorkami ze stopu miedzi",
+        "Zawieszka z krzyżem jako centralny wisiorek",
+        "Wielokolorowe wisiorki okiem obok krzyża",
+        "Dostępna w wariantach złotym i srebrnym",
+        "Skatalogowana w kategorii bransoletek różańcowych"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Stop miedzi"
+        },
+        {
+          "name": "Wzór",
+          "value": "Zawieszka z krzyżem i wielokolorowe wisiorki okiem"
+        },
+        {
+          "name": "Wariant",
+          "value": "Złoty; Srebrny"
+        },
+        {
+          "name": "Noszący",
+          "value": "Unisex"
+        },
+        {
+          "name": "Kategoria",
+          "value": "Bransoletki różańcowe"
+        }
+      ],
+      "applications": [
+        "Codzienne noszenie na nadgarstku",
+        "Prezent",
+        "Asortyment ekspozycji biżuterii z wisiorkami",
+        "Swobodne dodatki"
+      ],
+      "faq": [
+        {
+          "question": "Z jakiego materiału wykonano bransoletkę?",
+          "answer": "Zgodnie z danymi produktu bransoletka jest wykonana ze stopu miedzi."
+        },
+        {
+          "question": "Jakie opcje kolorystyczne są dostępne?",
+          "answer": "Dostępna jest w dwóch wariantach: złotym i srebrnym."
+        },
+        {
+          "question": "Czy to różaniec, czy bransoletka z wisiorkami?",
+          "answer": "Produkt to bransoletka z wisiorkami z zawieszką z krzyżem i wielokolorowymi wisiorkami okiem, skatalogowana w kategorii bransoletek różańcowych. Dane produktu nie opisują koralików modlitewnych, elementu centralnego ani korpusu na krzyżu."
+        }
+      ],
+      "pricing": {
+        "price": "1.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.45",
+          "max": "1.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Bransoletka z wisiorkami z motywem krzyża ze stopu miedzi z wisiorkami okiem",
+          "description": "Unisexowa bransoletka z wisiorkami ze stopu miedzi, zbudowana wokół zawieszki z krzyżem i wielokolorowych wisiorków okiem. Dostępna w dwóch wariantach kolorystycznych: złotym i srebrnym. W naszej kategorii bransoletek różańcowych bransoletka łączy wisiorek o motywie wiary z rzędem małych kolorowych wisiorków.",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2411c786e8b04b8eb5f4e69992d8484d4.png",
+            "https://sc04.alicdn.com/kf/H11638f72ca87404db068be70eee2c1c8e.png",
+            "https://sc04.alicdn.com/kf/Hd1004012a4bf441cb429d9d33d5f1f624.png",
+            "https://sc04.alicdn.com/kf/H101ad629bb5a406d8567a9c9972e07f2W.png",
+            "https://sc04.alicdn.com/kf/H511504c9ba5946279b53c2d6781ead8dK.png",
+            "https://sc04.alicdn.com/kf/Hbd8c0411a58d43af9f46f8303f34e2078.png"
+          ],
+          "category": "Bransoletki różańcowe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Stop miedzi"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Wzór",
+              "value": "Zawieszka z krzyżem i wielokolorowe wisiorki okiem"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Wariant",
+              "value": "Złoty; Srebrny"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Noszący",
+              "value": "Unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Kategoria",
+              "value": "Bransoletki różańcowe"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.45",
+              "maxPrice": "1.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Z jakiego materiału wykonano bransoletkę?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zgodnie z danymi produktu bransoletka jest wykonana ze stopu miedzi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie opcje kolorystyczne są dostępne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostępna jest w dwóch wariantach: złotym i srebrnym."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy to różaniec, czy bransoletka z wisiorkami?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Produkt to bransoletka z wisiorkami z zawieszką z krzyżem i wielokolorowymi wisiorkami okiem, skatalogowana w kategorii bransoletek różańcowych. Dane produktu nie opisują koralików modlitewnych, elementu centralnego ani korpusu na krzyżu."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "contentHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:18:34.258Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "contentHash": "395852da6358de4eff664ad7cd5bab8c805b5b6055a49742e9c7beac54086825",
+            "attempts": 1,
+            "updatedAt": "2026-11-24T01:22:04.805Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602026954262",
+      "sourceId": "1602026954262",
+      "sourceFingerprint": "764c55081e78115fb77c03db69a9164726936e80e23eb01067233ed2cee0e63f",
+      "locale": "pl",
+      "slug": "wholesale-stainless-steel-curved-tube-bracelet-colorful-stone-wood-bead-woven-knot-cord-unisex-jewelry-gift",
+      "title": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami",
+      "eyebrow": "Bransoletki różańcowe",
+      "summary": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką, kolorowymi kamieniami, drewnianymi koralikami i plecionym sznurkiem — uniwersalna biżuteria na prezent",
+      "description": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką, kolorowymi kamieniami, drewnianymi koralikami i plecionym sznurkiem — uniwersalna biżuteria na prezent",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Bransoletki różańcowe",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H861cf7c398fc4d57bb5d6d8ea7717e77x.webp",
+      "imageAlt": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H861cf7c398fc4d57bb5d6d8ea7717e77x.webp",
+          "alt": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hed152774370d4787b67e2352c8ef5fd9U.webp",
+          "alt": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8735177c6a5c4c90a2ced83960f35cf6q.webp",
+          "alt": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb01fc4d26bd44286a3c2ecc698bc5936Q.webp",
+          "alt": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H840e5da0596744409f387ec7aea081c4L.webp",
+          "alt": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami - god-elbow-wood-bead-bracelet-silver",
+          "label": "god-elbow-wood-bead-bracelet-silver",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8ea54e0d7b58457ca2f2d6b075376852N.webp",
+          "alt": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami - god-elbow-wood-bead-bracelet-gold",
+          "label": "god-elbow-wood-bead-bracelet-gold",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hc59f1c04a2c248b0aaa49dc73ee44cdd4.webp",
+          "alt": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami - god-elbow-colorful-stone-bracelet-silver",
+          "label": "god-elbow-colorful-stone-bracelet-silver",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdaeeed39c4674c33880a0928cf2910baQ.webp",
+          "alt": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami - god-elbow-colorful-stone-bracelet-gold",
+          "label": "god-elbow-colorful-stone-bracelet-gold",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Wariant: GOD Elbow Colorful Stone Bracelet Gold, GOD Elbow Colorful Stone Bracelet Silver, GOD Elbow Wood Bead Bracelet Gold, GOD Elbow Wood Bead Bracelet Silver"
+      ],
+      "specifications": [
+        {
+          "name": "Wariant",
+          "value": "GOD Elbow Colorful Stone Bracelet Gold, GOD Elbow Colorful Stone Bracelet Silver, GOD Elbow Wood Bead Bracelet Gold, GOD Elbow Wood Bead Bracelet Silver"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "1.34",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.34",
+          "max": "1.61"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką i kolorowymi kamieniami",
+          "description": "Hurtowa bransoletka ze stali nierdzewnej z zakrzywioną rurką, kolorowymi kamieniami, drewnianymi koralikami i plecionym sznurkiem — uniwersalna biżuteria na prezent",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP",
+          "image": [
+            "https://sc04.alicdn.com/kf/H861cf7c398fc4d57bb5d6d8ea7717e77x.jpg",
+            "https://sc04.alicdn.com/kf/Hed152774370d4787b67e2352c8ef5fd9U.jpg",
+            "https://sc04.alicdn.com/kf/H8735177c6a5c4c90a2ced83960f35cf6q.jpg",
+            "https://sc04.alicdn.com/kf/Hb01fc4d26bd44286a3c2ecc698bc5936Q.jpg"
+          ],
+          "category": "Bransoletki różańcowe",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Wariant",
+              "value": "GOD Elbow Colorful Stone Bracelet Gold, GOD Elbow Colorful Stone Bracelet Silver, GOD Elbow Wood Bead Bracelet Gold, GOD Elbow Wood Bead Bracelet Silver"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.34",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.34",
+              "maxPrice": "1.61",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "contentHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:19:01.028Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "contentHash": "c5cf54d15773a6e3f66a69f87513858920539eb0bc610432673ec8e616e03b61",
+            "attempts": 1,
+            "updatedAt": "2026-11-24T01:22:08.897Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602026967189",
+      "sourceId": "1602026967189",
+      "sourceFingerprint": "59728630e69fb4adfc1f32275df55180a24725f24ecf7c015281f58504e02d87",
+      "locale": "pl",
+      "slug": "wholesale-wooden-christmas-praying-three-layer-tabletop-ornament-home-decor-handmade-painted-wood-craft-gift",
+      "title": "Malowana drewniana ozdoba stołowa z trzema warstwami",
+      "eyebrow": "Ręcznie malowana drewniana ozdoba stołowa z trzema poziomami",
+      "summary": "Trójwarstwowa ozdoba stołowa wykonana z drewna, ręcznie robiona i malowana. Konstrukcja warstwowa nadaje jej wysokość do ekspozycji na płaskich powierzchniach, a ręcznie malowane wykończenie pasuje do dekoracji świątecznych i innych okolicznościowych, a także jako prezent i pamiątka.",
+      "description": "Ta ozdoba stołowa jest wykonana z drewna w trzech ułożonych warstwach i wykończona ręcznie farbą, dzięki czemu każdy egzemplarz ma nieco indywidualną powierzchnię. To właśnie konstrukcja warstwowa odróżnia ją od płaskiej ozdoby wiszącej: stoi na stole, półce lub kominku, zamiast być zawieszana.\n\nJest produkowana w Zhejiang w Chinach i klasyfikowana jako ozdoba oraz element dekoracji domu. Malowane drewniane ozdoby tego typu są często wręczane jako drobne prezenty lub przechowywane jako sezonowe elementy dekoracyjne, a trójwarstwowy profil jest dobrze widoczny z odległości bez potrzeby dodatkowego podparcia.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ozdoby",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG1TMb-AOXiPwuEY8CGmdqM",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/Hdda412876a32452ebaa4959fe563ad68H.webp",
+      "imageAlt": "Malowana drewniana ozdoba stołowa z trzema warstwami",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdda412876a32452ebaa4959fe563ad68H.webp",
+          "alt": "Malowana drewniana ozdoba stołowa z trzema warstwami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2e83a95b552c4ac690e69f3e4423766b7.webp",
+          "alt": "Malowana drewniana ozdoba stołowa z trzema warstwami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha3be608807da4c6496a6ccab7424f480f.webp",
+          "alt": "Malowana drewniana ozdoba stołowa z trzema warstwami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbbd83dda196b4aedb2bf574409f92a94m.webp",
+          "alt": "Malowana drewniana ozdoba stołowa z trzema warstwami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Heb07402efc294d6ab0f90502994cb1d9F.webp",
+          "alt": "Malowana drewniana ozdoba stołowa z trzema warstwami"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2677620450974723b2d843b9e4610cbdc.webp",
+          "alt": "Malowana drewniana ozdoba stołowa z trzema warstwami"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "Trójwarstwowa konstrukcja stołowa",
+        "Wykonanie z drewna z ręcznie malowanym wykończeniem",
+        "Produkcja ręczna",
+        "Format stojący do ekspozycji na stole",
+        "Produkowane w Zhejiang w Chinach"
+      ],
+      "specifications": [
+        {
+          "name": "Materiał",
+          "value": "Drewno"
+        },
+        {
+          "name": "Konstrukcja",
+          "value": "Trzy ułożone warstwy"
+        },
+        {
+          "name": "Technika",
+          "value": "Ręcznie malowane"
+        },
+        {
+          "name": "Produkcja",
+          "value": "Ręcznie robione"
+        },
+        {
+          "name": "Format",
+          "value": "Ozdoba stołowa"
+        },
+        {
+          "name": "Miejsce pochodzenia",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Dekoracja stołowa na Boże Narodzenie i święta",
+        "Dekoracja domu na półkach lub kominku",
+        "Prezent i pamiątka",
+        "Dekoracja i upominek ślubny"
+      ],
+      "faq": [
+        {
+          "question": "Na czym polega trójwarstwowa konstrukcja?",
+          "answer": "Drewniana ozdoba jest złożona z trzech ułożonych warstw, co tworzy stopniowany profil odpowiedni do stania na stole lub półce, a nie do zawieszania."
+        },
+        {
+          "question": "Czy ozdoba jest ręcznie malowana?",
+          "answer": "Tak. Dane produktu wskazują technikę ręcznego malowania i produkcję ręczną tej drewnianej ozdoby stołowej."
+        },
+        {
+          "question": "Czy można jej używać poza dekoracjami bożonarodzeniowymi?",
+          "answer": "Tak. Wymienione zastosowania wykraczają poza Boże Narodzenie i obejmują dekorację domu, użycie jako prezent i pamiątka, dekorację i upominek ślubny oraz inne okazje świąteczne."
+        }
+      ],
+      "pricing": {
+        "price": "2.04",
+        "regularPrice": "2.04",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.47",
+          "max": "2.04"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Malowana drewniana ozdoba stołowa z trzema warstwami",
+          "description": "Trójwarstwowa ozdoba stołowa wykonana z drewna, ręcznie robiona i malowana. Konstrukcja warstwowa nadaje jej wysokość do ekspozycji na płaskich powierzchniach, a ręcznie malowane wykończenie pasuje do dekoracji świątecznych i innych okolicznościowych, a także jako prezent i pamiątka.",
+          "sku": "ALI-AAG1TMb-AOXiPwuEY8CGmdqM",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdda412876a32452ebaa4959fe563ad68H.jpg",
+            "https://sc04.alicdn.com/kf/H2e83a95b552c4ac690e69f3e4423766b7.jpg",
+            "https://sc04.alicdn.com/kf/Ha3be608807da4c6496a6ccab7424f480f.jpg",
+            "https://sc04.alicdn.com/kf/Hbbd83dda196b4aedb2bf574409f92a94m.jpg",
+            "https://sc04.alicdn.com/kf/Heb07402efc294d6ab0f90502994cb1d9F.jpg",
+            "https://sc04.alicdn.com/kf/H2677620450974723b2d843b9e4610cbdc.jpg"
+          ],
+          "category": "Ozdoby",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Materiał",
+              "value": "Drewno"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Konstrukcja",
+              "value": "Trzy ułożone warstwy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technika",
+              "value": "Ręcznie malowane"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Produkcja",
+              "value": "Ręcznie robione"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Format",
+              "value": "Ozdoba stołowa"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Miejsce pochodzenia",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.04",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.47",
+              "maxPrice": "2.04",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Na czym polega trójwarstwowa konstrukcja?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Drewniana ozdoba jest złożona z trzech ułożonych warstw, co tworzy stopniowany profil odpowiedni do stania na stole lub półce, a nie do zawieszania."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy ozdoba jest ręcznie malowana?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Dane produktu wskazują technikę ręcznego malowania i produkcję ręczną tej drewnianej ozdoby stołowej."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy można jej używać poza dekoracjami bożonarodzeniowymi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Wymienione zastosowania wykraczają poza Boże Narodzenie i obejmują dekorację domu, użycie jako prezent i pamiątka, dekorację i upominek ślubny oraz inne okazje świąteczne."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "contentHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:18:41.128Z",
+            "model": "deepseek-v4-flash"
+          },
+          "pl": {
+            "status": "ready",
+            "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "contentHash": "ef35afb47d78494dcc69ac35bcb0727cc863da186225cefbf7ae966c45a01b68",
+            "attempts": 1,
+            "updatedAt": "2026-11-24T01:22:14.661Z",
             "model": "deepseek-v4-flash"
           }
         }

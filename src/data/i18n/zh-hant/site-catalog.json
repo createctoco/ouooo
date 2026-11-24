@@ -2,13 +2,17 @@
   "schemaVersion": 3,
   "locale": "zh-hant",
   "sourceLocale": "en",
-  "sourceCatalogHash": "349b53f7586b48a6098b5c0a279c8b20a8b82c932e3ed159580a5e372da0e7f0",
-  "generatedAt": "2026-11-22T20:34:49.986Z",
+  "sourceCatalogHash": "dc683fe5555657ce09fd1b0d2440ed54cc17a5ca2bc440c650d82f914579f597",
+  "generatedAt": "2026-11-24T01:24:20.817Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-11-19T21:54:22.557Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601591817648",
+      "1602026954262",
+      "1602026967189"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -30,12 +34,16 @@
   },
   "categoryGlossarySourceHash": "bccaa5391e75fec801a236536146b4d104bb6643b792061f305413f6dcb98b22",
   "translationSummary": {
-    "ready": 1084,
+    "ready": 1087,
     "skipped": 0,
     "skippedProductIds": [],
     "reused": 1084,
-    "generated": 0,
-    "generatedProductIds": [],
+    "generated": 3,
+    "generatedProductIds": [
+      "1601591817648",
+      "1602026954262",
+      "1602026967189"
+    ],
     "gaveUp": 0,
     "gaveUpSkipped": 3,
     "dropped": 0,
@@ -255622,6 +255630,610 @@
             "contentHash": "a372bd89e73f8e4884b9c49d424a0cf03958011cfee86d774b47e6ee96f90f46",
             "attempts": 1,
             "updatedAt": "2026-11-20T21:43:16.406Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601591817648",
+      "sourceId": "1601591817648",
+      "sourceFingerprint": "eddcd176e62a6d547bd7ee81bf2647ca96950478e323f716143db3ccca3949e0",
+      "locale": "zh-hant",
+      "slug": "unisex-copper-alloy-charm-bracelet-cross-pendant-multicolor-eye-charms-anniversary",
+      "title": "銅合金十字架吊飾手鍊，搭配眼睛吊飾",
+      "eyebrow": "銅合金十字架吊飾手鍊，搭配多色眼睛吊飾",
+      "summary": "一款銅合金中性吊飾手鍊，以十字架吊墜和多彩眼睛吊飾為核心設計。提供金色與銀色兩種款式。本產品列於我們的玫瑰經手鍊分類中，手鍊將信仰造型的主吊飾與一排小型彩色吊飾搭配在一起。",
+      "description": "這款銅合金手鍊將十字架吊墜與多個多彩眼睛吊飾置於同一條中性錶帶上。混合吊飾的排列使它有別於單一吊墜手鍊的外觀，而金色或銀色飾面的選擇則會改變整體色調。\n\n本產品歸類於玫瑰經手鍊之下，不過產品事實所描述的是吊飾手鍊，而非一串祈禱念珠。買家在將其與珠串式玫瑰經手鍊比較時應注意這項區別：此處的定義性元素是十字架吊墜與眼睛吊飾，而非珠子數量或中心飾件。",
+      "catholicContext": "手鍊包含一個十字架吊飾；單純的十字架與苦像不同，苦像描繪基督被釘在十字架上，而產品事實僅描述十字架。",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "玫瑰經手鍊",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H2411c786e8b04b8eb5f4e69992d8484d4.webp",
+      "imageAlt": "銅合金十字架吊飾手鍊，搭配眼睛吊飾",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2411c786e8b04b8eb5f4e69992d8484d4.webp",
+          "alt": "銅合金十字架吊飾手鍊，搭配眼睛吊飾"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H11638f72ca87404db068be70eee2c1c8e.webp",
+          "alt": "銅合金十字架吊飾手鍊，搭配眼睛吊飾"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd1004012a4bf441cb429d9d33d5f1f624.webp",
+          "alt": "銅合金十字架吊飾手鍊，搭配眼睛吊飾"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H101ad629bb5a406d8567a9c9972e07f2W.webp",
+          "alt": "銅合金十字架吊飾手鍊，搭配眼睛吊飾"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H511504c9ba5946279b53c2d6781ead8dK.webp",
+          "alt": "銅合金十字架吊飾手鍊，搭配眼睛吊飾"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbd8c0411a58d43af9f46f8303f34e2078.webp",
+          "alt": "銅合金十字架吊飾手鍊，搭配眼睛吊飾"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8fd1cdd0d96c4510a9903fd0f547f36e5.webp",
+          "alt": "銅合金十字架吊飾手鍊，搭配眼睛吊飾 - 金色",
+          "label": "金色",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3331116"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hfe52e3c3dd944b9fb7bba924c4c493deu.webp",
+          "alt": "銅合金十字架吊飾手鍊，搭配眼睛吊飾 - 銀色",
+          "label": "銀色",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p-V-3460547"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "銅合金中性吊飾手鍊",
+        "十字架吊墜作為中央吊飾",
+        "十字架旁搭配多彩眼睛吊飾",
+        "提供金色與銀色款式",
+        "列於玫瑰經手鍊分類"
+      ],
+      "specifications": [
+        {
+          "name": "材質",
+          "value": "銅合金"
+        },
+        {
+          "name": "設計",
+          "value": "十字架吊墜搭配多彩眼睛吊飾"
+        },
+        {
+          "name": "款式",
+          "value": "金色；銀色"
+        },
+        {
+          "name": "目標配戴者",
+          "value": "中性"
+        },
+        {
+          "name": "分類",
+          "value": "玫瑰經手鍊"
+        }
+      ],
+      "applications": [
+        "日常手腕配戴",
+        "贈禮",
+        "吊飾飾品展示組合",
+        "休閒造型搭配"
+      ],
+      "faq": [
+        {
+          "question": "這款手鍊由什麼材質製成？",
+          "answer": "根據產品事實，這款手鍊由銅合金製成。"
+        },
+        {
+          "question": "有哪些顏色選項？",
+          "answer": "提供兩種款式：金色與銀色。"
+        },
+        {
+          "question": "這是玫瑰經念珠還是吊飾手鍊？",
+          "answer": "本產品是一款吊飾手鍊，配有十字架吊墜與多彩眼睛吊飾，並列於玫瑰經手鍊分類中。產品事實並未描述祈禱念珠、中心飾件，或十字架上的基督聖體。"
+        }
+      ],
+      "pricing": {
+        "price": "1.50",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.45",
+          "max": "1.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "銅合金十字架吊飾手鍊，搭配眼睛吊飾",
+          "description": "一款銅合金中性吊飾手鍊，以十字架吊墜和多彩眼睛吊飾為核心設計。提供金色與銀色兩種款式。本產品列於我們的玫瑰經手鍊分類中，手鍊將信仰造型的主吊飾與一排小型彩色吊飾搭配在一起。",
+          "sku": "ALI-AAGiTMb-AOXiPwuEY8Fg6f-p",
+          "image": [
+            "https://sc04.alicdn.com/kf/H2411c786e8b04b8eb5f4e69992d8484d4.png",
+            "https://sc04.alicdn.com/kf/H11638f72ca87404db068be70eee2c1c8e.png",
+            "https://sc04.alicdn.com/kf/Hd1004012a4bf441cb429d9d33d5f1f624.png",
+            "https://sc04.alicdn.com/kf/H101ad629bb5a406d8567a9c9972e07f2W.png",
+            "https://sc04.alicdn.com/kf/H511504c9ba5946279b53c2d6781ead8dK.png",
+            "https://sc04.alicdn.com/kf/Hbd8c0411a58d43af9f46f8303f34e2078.png"
+          ],
+          "category": "玫瑰經手鍊",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "材質",
+              "value": "銅合金"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "設計",
+              "value": "十字架吊墜搭配多彩眼睛吊飾"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "款式",
+              "value": "金色；銀色"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "目標配戴者",
+              "value": "中性"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "分類",
+              "value": "玫瑰經手鍊"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.50",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.45",
+              "maxPrice": "1.50",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "這款手鍊由什麼材質製成？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "根據產品事實，這款手鍊由銅合金製成。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "有哪些顏色選項？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "提供兩種款式：金色與銀色。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這是玫瑰經念珠還是吊飾手鍊？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "本產品是一款吊飾手鍊，配有十字架吊墜與多彩眼睛吊飾，並列於玫瑰經手鍊分類中。產品事實並未描述祈禱念珠、中心飾件，或十字架上的基督聖體。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "contentHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:18:34.258Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "c7d593ce82306baf9411633e839681401a243cdc6ad573f3979d1bab703dad92",
+            "contentHash": "4e59978d746731aca2aa98b1d1329c7e0888f1d50cc9875f683e800238a25fb9",
+            "attempts": 1,
+            "updatedAt": "2026-11-24T01:23:58.436Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602026954262",
+      "sourceId": "1602026954262",
+      "sourceFingerprint": "764c55081e78115fb77c03db69a9164726936e80e23eb01067233ed2cee0e63f",
+      "locale": "zh-hant",
+      "slug": "wholesale-stainless-steel-curved-tube-bracelet-colorful-stone-wood-bead-woven-knot-cord-unisex-jewelry-gift",
+      "title": "批發不鏽鋼彎管手鍊 彩色寶石",
+      "eyebrow": "玫瑰經手鍊",
+      "summary": "批發不鏽鋼彎管手鍊 彩色寶石 木珠 編織結繩 男女通用飾品禮物",
+      "description": "批發不鏽鋼彎管手鍊 彩色寶石 木珠 編織結繩 男女通用飾品禮物",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "玫瑰經手鍊",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H861cf7c398fc4d57bb5d6d8ea7717e77x.webp",
+      "imageAlt": "批發不鏽鋼彎管手鍊 彩色寶石",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H861cf7c398fc4d57bb5d6d8ea7717e77x.webp",
+          "alt": "批發不鏽鋼彎管手鍊 彩色寶石"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hed152774370d4787b67e2352c8ef5fd9U.webp",
+          "alt": "批發不鏽鋼彎管手鍊 彩色寶石"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8735177c6a5c4c90a2ced83960f35cf6q.webp",
+          "alt": "批發不鏽鋼彎管手鍊 彩色寶石"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb01fc4d26bd44286a3c2ecc698bc5936Q.webp",
+          "alt": "批發不鏽鋼彎管手鍊 彩色寶石"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H840e5da0596744409f387ec7aea081c4L.webp",
+          "alt": "批發不鏽鋼彎管手鍊 彩色寶石 - god-elbow-wood-bead-bracelet-silver",
+          "label": "god-elbow-wood-bead-bracelet-silver",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8ea54e0d7b58457ca2f2d6b075376852N.webp",
+          "alt": "批發不鏽鋼彎管手鍊 彩色寶石 - god-elbow-wood-bead-bracelet-gold",
+          "label": "god-elbow-wood-bead-bracelet-gold",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hc59f1c04a2c248b0aaa49dc73ee44cdd4.webp",
+          "alt": "批發不鏽鋼彎管手鍊 彩色寶石 - god-elbow-colorful-stone-bracelet-silver",
+          "label": "god-elbow-colorful-stone-bracelet-silver",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdaeeed39c4674c33880a0928cf2910baQ.webp",
+          "alt": "批發不鏽鋼彎管手鍊 彩色寶石 - god-elbow-colorful-stone-bracelet-gold",
+          "label": "god-elbow-colorful-stone-bracelet-gold",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP-V--1"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "款式：GOD Elbow Colorful Stone Bracelet Gold、GOD Elbow Colorful Stone Bracelet Silver、GOD Elbow Wood Bead Bracelet Gold、GOD Elbow Wood Bead Bracelet Silver"
+      ],
+      "specifications": [
+        {
+          "name": "款式",
+          "value": "GOD Elbow Colorful Stone Bracelet Gold、GOD Elbow Colorful Stone Bracelet Silver、GOD Elbow Wood Bead Bracelet Gold、GOD Elbow Wood Bead Bracelet Silver"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "1.34",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.34",
+          "max": "1.61"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "批發不鏽鋼彎管手鍊 彩色寶石",
+          "description": "批發不鏽鋼彎管手鍊 彩色寶石 木珠 編織結繩 男女通用飾品禮物",
+          "sku": "ALI-AAHyTMb-AOXiPwuEY8CGmRQP",
+          "image": [
+            "https://sc04.alicdn.com/kf/H861cf7c398fc4d57bb5d6d8ea7717e77x.jpg",
+            "https://sc04.alicdn.com/kf/Hed152774370d4787b67e2352c8ef5fd9U.jpg",
+            "https://sc04.alicdn.com/kf/H8735177c6a5c4c90a2ced83960f35cf6q.jpg",
+            "https://sc04.alicdn.com/kf/Hb01fc4d26bd44286a3c2ecc698bc5936Q.jpg"
+          ],
+          "category": "玫瑰經手鍊",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "款式",
+              "value": "GOD Elbow Colorful Stone Bracelet Gold、GOD Elbow Colorful Stone Bracelet Silver、GOD Elbow Wood Bead Bracelet Gold、GOD Elbow Wood Bead Bracelet Silver"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.34",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.34",
+              "maxPrice": "1.61",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "contentHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:19:01.028Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "3732f6ac67c9e83d1b926eb268ae60db8afdb35940b110f305cb9ae372887a7b",
+            "contentHash": "80dbae5d7f31a3de20542427bdc6a0f88b5d91c6daeea2cadf0e2686ba62fb03",
+            "attempts": 1,
+            "updatedAt": "2026-11-24T01:24:01.203Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602026967189",
+      "sourceId": "1602026967189",
+      "sourceFingerprint": "59728630e69fb4adfc1f32275df55180a24725f24ecf7c015281f58504e02d87",
+      "locale": "zh-hant",
+      "slug": "wholesale-wooden-christmas-praying-three-layer-tabletop-ornament-home-decor-handmade-painted-wood-craft-gift",
+      "title": "彩繪木質三層桌面裝飾品",
+      "eyebrow": "手繪木質三層桌面裝飾品",
+      "summary": "這是一款以木材製成、手工製作並上色的三層桌面裝飾品。堆疊結構使其適合擺放在平面上，手繪飾面適合聖誕節及其他節慶裝飾，也適合禮品與紀念品用途。",
+      "description": "這款桌面裝飾品以木材製成，三層堆疊，並以手繪上色完成，讓每一件的表面略有個別差異。層疊結構正是它與扁平懸掛裝飾品不同之處：它可立在桌子、層架或壁爐架上，而非懸掛。\n\n本產品於中國浙江生產，歸類為裝飾品與居家裝飾。此類彩繪木質裝飾品常作為小禮物贈送，或作為季節性擺飾保存；三層輪廓在遠處即可清楚辨識，且無需額外支撐。",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "84",
+          "name": "裝飾品",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAG1TMb-AOXiPwuEY8CGmdqM",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/Hdda412876a32452ebaa4959fe563ad68H.webp",
+      "imageAlt": "彩繪木質三層桌面裝飾品",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdda412876a32452ebaa4959fe563ad68H.webp",
+          "alt": "彩繪木質三層桌面裝飾品"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2e83a95b552c4ac690e69f3e4423766b7.webp",
+          "alt": "彩繪木質三層桌面裝飾品"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha3be608807da4c6496a6ccab7424f480f.webp",
+          "alt": "彩繪木質三層桌面裝飾品"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbbd83dda196b4aedb2bf574409f92a94m.webp",
+          "alt": "彩繪木質三層桌面裝飾品"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Heb07402efc294d6ab0f90502994cb1d9F.webp",
+          "alt": "彩繪木質三層桌面裝飾品"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2677620450974723b2d843b9e4610cbdc.webp",
+          "alt": "彩繪木質三層桌面裝飾品"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#7a6d92",
+      "features": [
+        "三層堆疊桌面結構",
+        "木材製成，手繪飾面",
+        "手工製作",
+        "可獨立站立的桌面展示形式",
+        "中國浙江生產"
+      ],
+      "specifications": [
+        {
+          "name": "材質",
+          "value": "木材"
+        },
+        {
+          "name": "結構",
+          "value": "三層堆疊"
+        },
+        {
+          "name": "技法",
+          "value": "手繪"
+        },
+        {
+          "name": "生產",
+          "value": "手工製作"
+        },
+        {
+          "name": "形式",
+          "value": "桌面裝飾品"
+        },
+        {
+          "name": "產地",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "聖誕節與節慶桌面裝飾",
+        "層架或壁爐架上的居家裝飾",
+        "禮品與紀念品",
+        "婚禮裝飾與贈禮用途"
+      ],
+      "faq": [
+        {
+          "question": "三層結構是什麼？",
+          "answer": "這款木質裝飾品由三層堆疊組裝而成，形成階梯狀輪廓，適合擺放在桌子或層架上，而非懸掛。"
+        },
+        {
+          "question": "這款裝飾品是手繪的嗎？",
+          "answer": "是的。產品資料列出這款木質桌面裝飾品採用純手工製作與手繪技法。"
+        },
+        {
+          "question": "可以不用於聖誕節裝飾嗎？",
+          "answer": "可以。列出的應用範圍不僅限於聖誕節，還包括居家裝飾、禮品與紀念品、婚禮裝飾與贈禮用途，以及其他節慶場合。"
+        }
+      ],
+      "pricing": {
+        "price": "2.04",
+        "regularPrice": "2.04",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.47",
+          "max": "2.04"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "彩繪木質三層桌面裝飾品",
+          "description": "這是一款以木材製成、手工製作並上色的三層桌面裝飾品。堆疊結構使其適合擺放在平面上，手繪飾面適合聖誕節及其他節慶裝飾，也適合禮品與紀念品用途。",
+          "sku": "ALI-AAG1TMb-AOXiPwuEY8CGmdqM",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hdda412876a32452ebaa4959fe563ad68H.jpg",
+            "https://sc04.alicdn.com/kf/H2e83a95b552c4ac690e69f3e4423766b7.jpg",
+            "https://sc04.alicdn.com/kf/Ha3be608807da4c6496a6ccab7424f480f.jpg",
+            "https://sc04.alicdn.com/kf/Hbbd83dda196b4aedb2bf574409f92a94m.jpg",
+            "https://sc04.alicdn.com/kf/Heb07402efc294d6ab0f90502994cb1d9F.jpg",
+            "https://sc04.alicdn.com/kf/H2677620450974723b2d843b9e4610cbdc.jpg"
+          ],
+          "category": "裝飾品",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "材質",
+              "value": "木材"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "結構",
+              "value": "三層堆疊"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "技法",
+              "value": "手繪"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "生產",
+              "value": "手工製作"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "形式",
+              "value": "桌面裝飾品"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "產地",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "2.04",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.47",
+              "maxPrice": "2.04",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "三層結構是什麼？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "這款木質裝飾品由三層堆疊組裝而成，形成階梯狀輪廓，適合擺放在桌子或層架上，而非懸掛。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "這款裝飾品是手繪的嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "是的。產品資料列出這款木質桌面裝飾品採用純手工製作與手繪技法。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "可以不用於聖誕節裝飾嗎？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以。列出的應用範圍不僅限於聖誕節，還包括居家裝飾、禮品與紀念品、婚禮裝飾與贈禮用途，以及其他節慶場合。"
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "contentHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "attempts": 0,
+            "updatedAt": "2026-11-24T01:18:41.128Z",
+            "model": "deepseek-v4-flash"
+          },
+          "zh-hant": {
+            "status": "ready",
+            "sourceHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
+            "contentHash": "4c61657cf58916cc5e31aa59279979a4c0d68aad89e3715091eda5432bff216b",
+            "attempts": 3,
+            "updatedAt": "2026-11-24T01:24:20.815Z",
             "model": "deepseek-v4-flash"
           }
         }
