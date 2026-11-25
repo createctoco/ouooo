@@ -1,12 +1,17 @@
 {
   "schemaVersion": 3,
   "locale": "en",
-  "generatedAt": "2026-11-24T23:18:49.248Z",
+  "generatedAt": "2026-11-25T22:52:26.593Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-11-24T01:18:20.525Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1602028358205",
+      "1602029495911",
+      "1602029619098",
+      "1602029738282"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -14,7 +19,7 @@
     ]
   },
   "enrichmentSummary": {
-    "generated": 0,
+    "generated": 4,
     "reused": 1090,
     "source_fallback": 0
   },
@@ -248758,6 +248763,1040 @@
             "contentHash": "9607c84b1c219aaf9854bc93b96999aa11b38fa81e864df6e493bf2fba33e077",
             "attempts": 0,
             "updatedAt": "2026-11-24T01:18:41.128Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602028358205",
+      "sourceId": "1602028358205",
+      "sourceFingerprint": "c92ee0383bf934f17a07ec25268ea51d97e8cfc312ec72b869793590f910176b",
+      "locale": "en",
+      "slug": "wholesale-stainless-steel-cross-keychain-hip-hop-fashion-key-chain-charm-keychain-accessories-unisex",
+      "title": "Stainless Steel Cross Keychain",
+      "eyebrow": "stainless steel cross keychain",
+      "summary": "This stainless steel cross keychain gives buyers a simple unisex key charm in three finish options. The cross design suits everyday carry, and the stainless steel construction is a practical choice for a keychain accessory. Available in steel color, black, and gold.",
+      "description": "For buyers seeking a straightforward keychain with a cross motif, this stainless steel cross keychain comes in three variants: steel color, black, and gold. The unisex design and cross shape make it a recognisable accessory for daily use. Stainless steel is the stated material, offering a durable option for a keychain. The keychain is listed under keychains and keychain accessories, so it can fit into a range of retail or gift assortments. Each variant is a finish choice rather than a different product.",
+      "catholicContext": "A cross is a Christian symbol; a crucifix specifically depicts Christ on the cross, but this product is described only as a cross.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "83",
+          "name": "Keychains",
+          "slug": "keychains"
+        }
+      ],
+      "sku": "ALI-AAHMTMb-AOXiPwuEY8CG8oAk",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/He581978526da434eb96972b698fa0058X.webp",
+      "imageAlt": "Stainless Steel Cross Keychain",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/He581978526da434eb96972b698fa0058X.webp",
+          "alt": "Stainless Steel Cross Keychain"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha10d5b5d01be483caa5549e136cf219eW.webp",
+          "alt": "Stainless Steel Cross Keychain"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hf705edd0ef334fda88d3dab9f5766f4en.webp",
+          "alt": "Stainless Steel Cross Keychain"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd0ba00c4a8d8406f8ccad9a51293e006B.webp",
+          "alt": "Stainless Steel Cross Keychain"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H343cc14144414d3c83eea383f484cf87B.webp",
+          "alt": "Stainless Steel Cross Keychain"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H59aa8fa6e9504cd48b9a5e8164f3a3189.webp",
+          "alt": "Stainless Steel Cross Keychain"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H4069c970d9204d01b077399b2dc964a3e.webp",
+          "alt": "Stainless Steel Cross Keychain - steel-color",
+          "label": "steel-color",
+          "sku": "ALI-AAHMTMb-AOXiPwuEY8CG8oAk-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hc4ec3124b2784034a48991adf8b208c7q.webp",
+          "alt": "Stainless Steel Cross Keychain - gold",
+          "label": "gold",
+          "sku": "ALI-AAHMTMb-AOXiPwuEY8CG8oAk-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H7e4b8cc07e8b46d4b4335b29342a58afj.webp",
+          "alt": "Stainless Steel Cross Keychain - black",
+          "label": "black",
+          "sku": "ALI-AAHMTMb-AOXiPwuEY8CG8oAk-V--3"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Stainless steel construction",
+        "Cross design keychain",
+        "Unisex styling",
+        "Available in steel color, black, and gold",
+        "Classified as a keychain accessory"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Design",
+          "value": "Cross"
+        },
+        {
+          "name": "Variants",
+          "value": "Steel Color, Black, Gold"
+        },
+        {
+          "name": "Target",
+          "value": "Unisex"
+        }
+      ],
+      "applications": [
+        "Everyday key organization",
+        "Retail keychain assortment",
+        "Gift or souvenir selection",
+        "Personal key charm"
+      ],
+      "faq": [
+        {
+          "question": "What material is the cross keychain made of?",
+          "answer": "The cross keychain is made of stainless steel."
+        },
+        {
+          "question": "What color options are available?",
+          "answer": "It is available in steel color, black, and gold."
+        },
+        {
+          "question": "Is this keychain suitable for all genders?",
+          "answer": "Yes, the product is described as unisex."
+        }
+      ],
+      "pricing": {
+        "price": "1.21",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.21",
+          "max": "1.57"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Stainless Steel Cross Keychain",
+          "description": "Stainless steel cross keychain in steel color, black, or gold. A unisex key charm for everyday carry. Suitable for retail or gift assortments.",
+          "sku": "ALI-AAHMTMb-AOXiPwuEY8CG8oAk",
+          "image": [
+            "https://sc04.alicdn.com/kf/He581978526da434eb96972b698fa0058X.jpg",
+            "https://sc04.alicdn.com/kf/Ha10d5b5d01be483caa5549e136cf219eW.jpg",
+            "https://sc04.alicdn.com/kf/Hf705edd0ef334fda88d3dab9f5766f4en.jpg",
+            "https://sc04.alicdn.com/kf/Hd0ba00c4a8d8406f8ccad9a51293e006B.jpg",
+            "https://sc04.alicdn.com/kf/H343cc14144414d3c83eea383f484cf87B.jpg",
+            "https://sc04.alicdn.com/kf/H59aa8fa6e9504cd48b9a5e8164f3a3189.jpg"
+          ],
+          "category": "Keychains",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Cross"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Steel Color, Black, Gold"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Target",
+              "value": "Unisex"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.21",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.21",
+              "maxPrice": "1.57",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the cross keychain made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cross keychain is made of stainless steel."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What color options are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is available in steel color, black, and gold."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is this keychain suitable for all genders?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the product is described as unisex."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "cb8831d424dabe06371254f086ee27b3ad3a1c3d059ab814c0ac8adf3f89a05f",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "cb8831d424dabe06371254f086ee27b3ad3a1c3d059ab814c0ac8adf3f89a05f",
+            "contentHash": "cb8831d424dabe06371254f086ee27b3ad3a1c3d059ab814c0ac8adf3f89a05f",
+            "attempts": 0,
+            "updatedAt": "2026-11-25T22:52:19.402Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602029619098",
+      "sourceId": "1602029619098",
+      "sourceFingerprint": "d6480ce8a2cf508db32194d5a351f37ad803abb67b27196541bb326d0720b040",
+      "locale": "en",
+      "slug": "catholic-virgin-mary-acrylic-standing-plaque-ornament-love-embrace-gift-wholesale-religious-home-decor",
+      "title": "Virgin Mary Acrylic Standing Plaque Ornament",
+      "eyebrow": "Acrylic standing plaque ornament depicting the Virgin Mary",
+      "summary": "This standing plaque is cut from acrylic, which keeps it light enough to move between shelves and tabletops without fixed mounting. The surface carries a Virgin Mary image in a traditional religious style, and heat curing is used in production. It works as a small devotional ornament or a religious gift.",
+      "description": "The plaque is acrylic rather than wood, ceramic or metal, so weight stays low and the piece can be repositioned without hardware. Heat curing is listed as the finishing technique, which relates to how the printed or molded image is set on the surface. Buyers should confirm edge finish and thickness with us before ordering.\n\nThe standing format suits display on a flat surface with no fixing required. The design is grouped with ornaments and styled for religious, traditional, souvenir and decorative use. It ships from Zhejiang, China, and pairs naturally with other small religious home decor items in a mixed assortment.",
+      "catholicContext": "Marian imagery refers to the Virgin Mary in Catholic devotion, and such devotional articles sit within popular piety rather than serving as liturgical objects.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAHUTMb-AOXiPwuEY8CGzk2D",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H83e3b1ced8e14ce096461d07bc51c4d0N.webp",
+      "imageAlt": "Virgin Mary Acrylic Standing Plaque Ornament",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H83e3b1ced8e14ce096461d07bc51c4d0N.webp",
+          "alt": "Virgin Mary Acrylic Standing Plaque Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd29b516e62534ad584b2f286a0ec9bd7k.webp",
+          "alt": "Virgin Mary Acrylic Standing Plaque Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H17b4dfd7dad94752a64d3d794c689be98.webp",
+          "alt": "Virgin Mary Acrylic Standing Plaque Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H868d09f6d7894f07a527d7c766bff119i.webp",
+          "alt": "Virgin Mary Acrylic Standing Plaque Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdd1b428850c2454d97127b8797d0b046g.webp",
+          "alt": "Virgin Mary Acrylic Standing Plaque Ornament"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#6d7887",
+      "features": [
+        "Made of acrylic for a lightweight standing plaque",
+        "Heat curing listed as the production technique",
+        "Traditional religious styling with a Virgin Mary image",
+        "Free-standing ornament format, no mounting required",
+        "Classified in the ornaments category for decorative display"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Acrylic"
+        },
+        {
+          "name": "Technique",
+          "value": "Heat curing"
+        },
+        {
+          "name": "Product type",
+          "value": "Sculpture"
+        },
+        {
+          "name": "Style",
+          "value": "Religious, traditional, decoration, souvenir"
+        },
+        {
+          "name": "Category",
+          "value": "Ornaments"
+        },
+        {
+          "name": "Place of origin",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Religious home decoration",
+        "Gift and souvenir retail assortment",
+        "Christmas and holiday decoration display",
+        "Collectible figurine and small sculpture display"
+      ],
+      "faq": [
+        {
+          "question": "What is the Virgin Mary acrylic standing plaque made of?",
+          "answer": "The plaque is made of acrylic, which is why it is listed as lightweight and suitable for free-standing display."
+        },
+        {
+          "question": "Does the plaque need a stand or wall fixings?",
+          "answer": "It is described as a standing plaque ornament, so it is designed to stand on a flat surface. Specific base or edge details should be confirmed with us before ordering."
+        },
+        {
+          "question": "Can I order this plaque as part of a mixed religious decor assortment?",
+          "answer": "Yes. The Virgin Mary acrylic standing plaque is categorized as an ornament and can be combined with other religious home decor items. Contact us to discuss the assortment you have in mind."
+        }
+      ],
+      "pricing": {
+        "price": "1.08",
+        "regularPrice": "1.08",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.78",
+          "max": "1.08"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Virgin Mary Acrylic Standing Plaque Ornament",
+          "description": "Acrylic standing plaque ornament showing the Virgin Mary, made of lightweight acrylic with a heat-cured finish for religious home decoration, gifts and souvenirs.",
+          "sku": "ALI-AAHUTMb-AOXiPwuEY8CGzk2D",
+          "image": [
+            "https://sc04.alicdn.com/kf/H83e3b1ced8e14ce096461d07bc51c4d0N.jpg",
+            "https://sc04.alicdn.com/kf/Hd29b516e62534ad584b2f286a0ec9bd7k.jpg",
+            "https://sc04.alicdn.com/kf/H17b4dfd7dad94752a64d3d794c689be98.jpg",
+            "https://sc04.alicdn.com/kf/H868d09f6d7894f07a527d7c766bff119i.jpg",
+            "https://sc04.alicdn.com/kf/Hdd1b428850c2454d97127b8797d0b046g.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Acrylic"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technique",
+              "value": "Heat curing"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product type",
+              "value": "Sculpture"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Religious, traditional, decoration, souvenir"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Ornaments"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of origin",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.08",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.78",
+              "maxPrice": "1.08",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is the Virgin Mary acrylic standing plaque made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The plaque is made of acrylic, which is why it is listed as lightweight and suitable for free-standing display."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the plaque need a stand or wall fixings?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is described as a standing plaque ornament, so it is designed to stand on a flat surface. Specific base or edge details should be confirmed with us before ordering."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I order this plaque as part of a mixed religious decor assortment?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The Virgin Mary acrylic standing plaque is categorized as an ornament and can be combined with other religious home decor items. Contact us to discuss the assortment you have in mind."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "dd8d598962dfc242a0cd7b91992f7bfa19620bbdd2d0f92288eb05d2c86936f4",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "dd8d598962dfc242a0cd7b91992f7bfa19620bbdd2d0f92288eb05d2c86936f4",
+            "contentHash": "dd8d598962dfc242a0cd7b91992f7bfa19620bbdd2d0f92288eb05d2c86936f4",
+            "attempts": 0,
+            "updatedAt": "2026-11-25T22:52:25.835Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602029495911",
+      "sourceId": "1602029495911",
+      "sourceFingerprint": "dd6426d46d5d6da0ffcda299687e31a4d0f93733f901ec2564c06e334e8ff59c",
+      "locale": "en",
+      "slug": "christmas-gift-acrylic-polygonal-desktop-ornament-newborn-celebration-friend-gift-cross-border-decoration-wholesale",
+      "title": "Clear Acrylic Polygonal Cross Desk Ornament",
+      "eyebrow": "Clear acrylic polygonal desktop cross ornament",
+      "summary": "A transparent acrylic desktop ornament shaped as a cross with a faceted polygonal form. The clear material keeps the Christian symbol visible without visual weight, suiting desks, shelves, or gifting. Available in two transparent acrylic variants.",
+      "description": "This desktop ornament presents a cross in clear acrylic with a polygonal, faceted outline. The transparent material lets the shape read from multiple angles while keeping the object visually light on a desk or shelf. Two variants, Transparent Acrylic 01 and Transparent Acrylic 02, offer a choice of polygonal treatment. The ornament is intended as a Christian decorative piece for personal spaces or as a celebration gift. Its acrylic construction and compact desktop format distinguish it from metal or wooden cross ornaments.",
+      "catholicContext": "A cross is a basic Christian symbol; a crucifix specifically includes the figure of Christ, which this product does not describe.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFgTMb-AOXiPwuEY8CGwGx-",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H07ee6483f0c64eca9707e8aea5b957d8I.webp",
+      "imageAlt": "Clear Acrylic Polygonal Cross Desk Ornament",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H07ee6483f0c64eca9707e8aea5b957d8I.webp",
+          "alt": "Clear Acrylic Polygonal Cross Desk Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbfd235b3b35d41099a3af874bed646d4Q.webp",
+          "alt": "Clear Acrylic Polygonal Cross Desk Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H6dc46a1c24ce471bb734a4bfb214df319.webp",
+          "alt": "Clear Acrylic Polygonal Cross Desk Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H0c6a787f07f84a73957689eab9690ff0f.webp",
+          "alt": "Clear Acrylic Polygonal Cross Desk Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha1f3891683b746d1a0d6a13cfb7e18458.webp",
+          "alt": "Clear Acrylic Polygonal Cross Desk Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha22e716c51594df7b5ecce71b35cc1c9W.webp",
+          "alt": "Clear Acrylic Polygonal Cross Desk Ornament"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H209d7fe7deff4e99af938d3d2697aa6aS.webp",
+          "alt": "Clear Acrylic Polygonal Cross Desk Ornament - transparent-acrylic-02",
+          "label": "transparent-acrylic-02",
+          "sku": "ALI-AAFgTMb-AOXiPwuEY8CGwGx--V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H6a14077d9cef4c7ea4b401e6ad66b5522.webp",
+          "alt": "Clear Acrylic Polygonal Cross Desk Ornament - transparent-acrylic-01",
+          "label": "transparent-acrylic-01",
+          "sku": "ALI-AAFgTMb-AOXiPwuEY8CGwGx--V--1"
+        }
+      ],
+      "accent": "#8b6b4a",
+      "features": [
+        "Cross-shaped desktop ornament in clear acrylic",
+        "Polygonal, faceted outline",
+        "Two transparent acrylic variants: 01 and 02",
+        "Transparent material suits modern or minimal settings",
+        "Intended for desktop or shelf display"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Acrylic"
+        },
+        {
+          "name": "Shape",
+          "value": "Cross with polygonal outline"
+        },
+        {
+          "name": "Color/Transparency",
+          "value": "Transparent"
+        },
+        {
+          "name": "Variants",
+          "value": "Transparent Acrylic 01, Transparent Acrylic 02"
+        },
+        {
+          "name": "Placement",
+          "value": "Desktop"
+        }
+      ],
+      "applications": [
+        "Desk or table display",
+        "Shelf decoration",
+        "Christian gift giving",
+        "Celebration favor or small gift"
+      ],
+      "faq": [
+        {
+          "question": "What material is the polygonal cross ornament made of?",
+          "answer": "The ornament is made of clear acrylic."
+        },
+        {
+          "question": "What variants are available?",
+          "answer": "There are two transparent acrylic variants: Transparent Acrylic 01 and Transparent Acrylic 02."
+        },
+        {
+          "question": "Does this ornament depict a crucifix?",
+          "answer": "No. The product is described as a cross ornament; it does not include a corpus or figure of Christ."
+        }
+      ],
+      "pricing": {
+        "price": "0.81",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.59",
+          "max": "0.81"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Clear Acrylic Polygonal Cross Desk Ornament",
+          "description": "Clear acrylic polygonal cross desktop ornament in two transparent variants. A lightweight, modern Christian symbol for desks, shelves, and gifting.",
+          "sku": "ALI-AAFgTMb-AOXiPwuEY8CGwGx-",
+          "image": [
+            "https://sc04.alicdn.com/kf/H07ee6483f0c64eca9707e8aea5b957d8I.jpg",
+            "https://sc04.alicdn.com/kf/Hbfd235b3b35d41099a3af874bed646d4Q.jpg",
+            "https://sc04.alicdn.com/kf/H6dc46a1c24ce471bb734a4bfb214df319.jpg",
+            "https://sc04.alicdn.com/kf/H0c6a787f07f84a73957689eab9690ff0f.jpg",
+            "https://sc04.alicdn.com/kf/Ha1f3891683b746d1a0d6a13cfb7e18458.jpg",
+            "https://sc04.alicdn.com/kf/Ha22e716c51594df7b5ecce71b35cc1c9W.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Acrylic"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Shape",
+              "value": "Cross with polygonal outline"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Color/Transparency",
+              "value": "Transparent"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Transparent Acrylic 01, Transparent Acrylic 02"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Placement",
+              "value": "Desktop"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.81",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.59",
+              "maxPrice": "0.81",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the polygonal cross ornament made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The ornament is made of clear acrylic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What variants are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are two transparent acrylic variants: Transparent Acrylic 01 and Transparent Acrylic 02."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does this ornament depict a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The product is described as a cross ornament; it does not include a corpus or figure of Christ."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "388175c0fcdaeb84735a1a2a16fa9e3e084cb22738ef68a16a2310663c67f7ac",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "388175c0fcdaeb84735a1a2a16fa9e3e084cb22738ef68a16a2310663c67f7ac",
+            "contentHash": "388175c0fcdaeb84735a1a2a16fa9e3e084cb22738ef68a16a2310663c67f7ac",
+            "attempts": 0,
+            "updatedAt": "2026-11-25T22:52:25.570Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602029738282",
+      "sourceId": "1602029738282",
+      "sourceFingerprint": "0d0fde27f6e026f4ea6b97fbe4fb4dc2f9fb8e7c52d55664df4b051be3882ebc",
+      "locale": "en",
+      "slug": "wholesale-stainless-steel-26-letter-initial-pendant-18k-gold-plated-rhinestone-diy-charm-necklace-jewelry-accessories-women",
+      "title": "18K Gold Plated Stainless Steel Letter Initial Pendants",
+      "eyebrow": "18K gold-plated stainless steel letter initial pendant charm",
+      "summary": "These letter initial pendants are made of stainless steel with 18K gold plating and rhinestone accents. Each pendant forms a single alphabet letter, and 25 gold variants cover letters A through Z, with B absent from the listed options. Buyers can select individual letters for DIY charm necklaces and jewelry accessories.",
+      "description": "Stainless steel forms the base of each pendant, finished with 18K gold plating and rhinestone accents. The charms are cut as individual alphabet initials rather than a single multi-letter design, which lets a buyer assemble names, monograms, or single-letter necklaces from one product line.\n\nThe variant list contains 25 gold options: letters A and C through Z, plus a second Gold B entry alongside the first. That leaves B available in two listed gold variants while the other letters appear once each. Each order line corresponds to one letter variant.",
+      "catholicContext": "",
+      "catholicRelevance": "none",
+      "categories": [
+        {
+          "id": "45",
+          "name": "Accessories",
+          "slug": "jewelry-accessories"
+        }
+      ],
+      "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H4ff7095b8ae24accb41c6591a78eb9604.webp",
+      "imageAlt": "18K Gold Plated Stainless Steel Letter Initial Pendants",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H4ff7095b8ae24accb41c6591a78eb9604.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H5eaf638360004a6db8f8b6ae28682d6fc.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H4716f96bb82742f09662ba7ab2ca9b8bI.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2ff245eb23504a3ea9c6c77dda92d2ebu.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha713ed7b9ff44ee99c8a8bc83535cadfq.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hf3f646e8278045eb97bfb2831279459bI.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha24a8aca308e43a0bd1615bc222525a3n.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-a",
+          "label": "gold-a",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hc1ed0bc9150d4b8e8f042879ec691838r.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-c",
+          "label": "gold-c",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H60aba04b0518437aa80e58cfaaee4a61d.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-b",
+          "label": "gold-b",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H499ef5ab4d30480aa99a238d5cb82438X.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-m",
+          "label": "gold-m",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--13"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hc3778214c475499f90046d64637f9c59D.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-l",
+          "label": "gold-l",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--12"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hdce4776e0911463ca691e964491a4d263.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-o",
+          "label": "gold-o",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--15"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Haa19bdae4b024d57aa77c5b7af8ee694I.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-n",
+          "label": "gold-n",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--14"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H37ef7fc7d1c649269242269f2e9b0157h.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-q",
+          "label": "gold-q",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--17"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Haf57ad5ae3094d4a91e39c130bdd0c29m.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-p",
+          "label": "gold-p",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--16"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H8544e2ead5514b4da0f587f40a0bf340R.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-s",
+          "label": "gold-s",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--19"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb358e519cbd8421c8d0d58c03e8a23feR.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-r",
+          "label": "gold-r",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--18"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H989a55728d3342d98cc5530d120e9d97v.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-e",
+          "label": "gold-e",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H6860b80a519949fa895a8e65bcf0bfc5z.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-d",
+          "label": "gold-d",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbea245cd578b48319b110b85039154301.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-g",
+          "label": "gold-g",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--7"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbe18265b480e4f9da307268f04a73f10o.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-f",
+          "label": "gold-f",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H5e4fc0a6be5b46f1a83215f3a4087d46E.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-i",
+          "label": "gold-i",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--9"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H23c984ef8ec449809fc31b7b67356293I.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-h",
+          "label": "gold-h",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--8"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H64f49b12a18549d9b4336d931c66bfbcm.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-k",
+          "label": "gold-k",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--11"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H0afd8b07924a403fa5d981c0c5701c2c2.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-j",
+          "label": "gold-j",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--10"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb5ebfdb2e54c43888fc3a9d2af79c4fcI.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-u",
+          "label": "gold-u",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--21"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H0a58de221b0e4d498224829cb2496559h.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-t",
+          "label": "gold-t",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--20"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd5dbfa0f2d724abe8cef55f5884fcbc5Q.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-w",
+          "label": "gold-w",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--23"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha88457f808b948d3a56af7463558174fo.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-v",
+          "label": "gold-v",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--22"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H6e549a2433b3407cb6c7a11b42b9a8aa2.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-y",
+          "label": "gold-y",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--25"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hce6761667b734868b46876c7e1e789dcA.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-x",
+          "label": "gold-x",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--24"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hea94aca6d4614b22bb7cf1331e3a4306n.webp",
+          "alt": "18K Gold Plated Stainless Steel Letter Initial Pendants - gold-z",
+          "label": "gold-z",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz-V--26"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Stainless steel base with 18K gold plating",
+        "Rhinestone accents on each letter pendant",
+        "Initial pendant format for single-letter or name arrangements",
+        "25 listed gold variants covering letters A and C through Z",
+        "Two gold variants listed for the letter B"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel with 18K gold plating"
+        },
+        {
+          "name": "Accent",
+          "value": "Rhinestones"
+        },
+        {
+          "name": "Design",
+          "value": "Single alphabet letter initial pendant"
+        },
+        {
+          "name": "Variant finish",
+          "value": "Gold"
+        },
+        {
+          "name": "Listed variants",
+          "value": "25 gold letter options (A, C-Z, plus two B variants)"
+        },
+        {
+          "name": "Category",
+          "value": "Accessories"
+        }
+      ],
+      "applications": [
+        "DIY charm necklaces",
+        "Single-letter initial jewelry",
+        "Name and monogram pendant arrangements",
+        "Jewelry-making accessory assembly"
+      ],
+      "faq": [
+        {
+          "question": "Which letters are available in these initial pendants?",
+          "answer": "The listed variants are Gold A and Gold C through Gold Z, along with two separate Gold B options. Each variant corresponds to one letter."
+        },
+        {
+          "question": "What are the pendants made of?",
+          "answer": "The pendants use a stainless steel base with 18K gold plating and rhinestone accents."
+        },
+        {
+          "question": "Can I order a mix of different letters?",
+          "answer": "Letters are listed as separate variants, so a mixed order would be built from the individual letter options. The facts provided do not state a minimum quantity or mixed-variant terms."
+        }
+      ],
+      "pricing": {
+        "price": "1.03",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.75",
+          "max": "1.03"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "18K Gold Plated Stainless Steel Letter Initial Pendants",
+          "description": "18K gold plated stainless steel letter initial pendants with rhinestone accents, offered in 25 gold letter variants for DIY charm necklaces and jewelry assembly.",
+          "sku": "ALI-AAHLTMb-AOXiPwuEY8CGz5Mz",
+          "image": [
+            "https://sc04.alicdn.com/kf/H4ff7095b8ae24accb41c6591a78eb9604.jpg",
+            "https://sc04.alicdn.com/kf/H5eaf638360004a6db8f8b6ae28682d6fc.jpg",
+            "https://sc04.alicdn.com/kf/H4716f96bb82742f09662ba7ab2ca9b8bI.jpg",
+            "https://sc04.alicdn.com/kf/H2ff245eb23504a3ea9c6c77dda92d2ebu.jpg",
+            "https://sc04.alicdn.com/kf/Ha713ed7b9ff44ee99c8a8bc83535cadfq.jpg",
+            "https://sc04.alicdn.com/kf/Hf3f646e8278045eb97bfb2831279459bI.jpg"
+          ],
+          "category": "Accessories",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel with 18K gold plating"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Accent",
+              "value": "Rhinestones"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Design",
+              "value": "Single alphabet letter initial pendant"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variant finish",
+              "value": "Gold"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Listed variants",
+              "value": "25 gold letter options (A, C-Z, plus two B variants)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Accessories"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.03",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.75",
+              "maxPrice": "1.03",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Which letters are available in these initial pendants?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The listed variants are Gold A and Gold C through Gold Z, along with two separate Gold B options. Each variant corresponds to one letter."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are the pendants made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The pendants use a stainless steel base with 18K gold plating and rhinestone accents."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I order a mix of different letters?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Letters are listed as separate variants, so a mixed order would be built from the individual letter options. The facts provided do not state a minimum quantity or mixed-variant terms."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "7e83b9a804a58d07d8ebae75f3975482686120fac44fda5b401026618b837522",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "7e83b9a804a58d07d8ebae75f3975482686120fac44fda5b401026618b837522",
+            "contentHash": "7e83b9a804a58d07d8ebae75f3975482686120fac44fda5b401026618b837522",
+            "attempts": 0,
+            "updatedAt": "2026-11-25T22:52:20.141Z",
             "model": "deepseek-v4-flash"
           }
         }
