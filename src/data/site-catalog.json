@@ -1,12 +1,19 @@
 {
   "schemaVersion": 3,
   "locale": "en",
-  "generatedAt": "2026-11-26T22:39:59.419Z",
+  "generatedAt": "2026-11-27T22:25:36.202Z",
   "sync": {
     "mode": "incremental",
     "cursor": "2026-11-25T22:52:04.717Z",
     "modifiedAfter": null,
-    "changedProductIds": [],
+    "changedProductIds": [
+      "1601496647677",
+      "1602032339071",
+      "1602032292579",
+      "1602032227973",
+      "1602032375137",
+      "1602032278674"
+    ],
     "deletedProductIds": [
       "AAHyTG7BAOVioqqEY6eonUzd",
       "AAHcTG7BAOVioqqEY6eepIEV",
@@ -14,9 +21,9 @@
     ]
   },
   "enrichmentSummary": {
-    "generated": 0,
+    "generated": 5,
     "reused": 1094,
-    "source_fallback": 0
+    "source_fallback": 1
   },
   "products": [
     {
@@ -249792,6 +249799,1325 @@
             "contentHash": "7e83b9a804a58d07d8ebae75f3975482686120fac44fda5b401026618b837522",
             "attempts": 0,
             "updatedAt": "2026-11-25T22:52:20.141Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1601496647677",
+      "sourceId": "1601496647677",
+      "sourceFingerprint": "d4814e1cd2319976e572ee93a6100476cd315a5812b55861242bb09dc0188f06",
+      "locale": "en",
+      "slug": "catholic-rosary-beads-made-of-stainless-steel-womens-bracelet-copper-color-gold-plated-non-fading-color-retaining",
+      "title": "Gold-Plated Stainless Steel Rosary Bracelet",
+      "eyebrow": "Rosary bracelet",
+      "summary": "This rosary bracelet pairs a warm copper-gold finish with stainless steel construction. The gold-plated surface is designed to resist fading, and the bracelet comes in three variant options. Its compact form makes it a wearable devotional accessory.",
+      "description": "A rosary bracelet in a copper-gold tone, made from stainless steel and finished with gold plating. The non-fading color retention helps maintain the warm metallic look over time. Available in three variants—Gold 3, Gold-1, and Gold-2—the bracelet offers a choice of styles within the same copper-gold palette. The stainless steel base gives the piece a solid feel without compromising the delicate appearance. As a rosary bracelet, it is a compact devotional article for personal use or gifting.",
+      "catholicContext": "The Rosary is a Catholic prayer centered on contemplation of events in the lives of Jesus Christ and the Virgin Mary.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHNTMb-AOXiPwuEY8FmBc3k",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/Hb10749af6ecd498093872c2ab6a4c9c1k.webp",
+      "imageAlt": "Gold-Plated Stainless Steel Rosary Bracelet",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb10749af6ecd498093872c2ab6a4c9c1k.webp",
+          "alt": "Gold-Plated Stainless Steel Rosary Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H1d1de3eb593c418981b324d6fb7f0620l.webp",
+          "alt": "Gold-Plated Stainless Steel Rosary Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb0acffa88841409fb520042fca80f5012.webp",
+          "alt": "Gold-Plated Stainless Steel Rosary Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H3a338b2a2b6e415f87269770a2c0ee03x.webp",
+          "alt": "Gold-Plated Stainless Steel Rosary Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2fdd3767ec3f4d32b373bc7b139e6be56.webp",
+          "alt": "Gold-Plated Stainless Steel Rosary Bracelet"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H09ab9778d17d4352b69940c41241b2ec0.webp",
+          "alt": "Gold-Plated Stainless Steel Rosary Bracelet - gold-1",
+          "label": "gold-1",
+          "sku": "ALI-AAHNTMb-AOXiPwuEY8FmBc3k-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd4a39cba423941aabe1c40c7b72c97586.webp",
+          "alt": "Gold-Plated Stainless Steel Rosary Bracelet - gold-2",
+          "label": "gold-2",
+          "sku": "ALI-AAHNTMb-AOXiPwuEY8FmBc3k-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H65a95355c2b04e029e539fe9db72a6c9q.webp",
+          "alt": "Gold-Plated Stainless Steel Rosary Bracelet - gold-3",
+          "label": "gold-3",
+          "sku": "ALI-AAHNTMb-AOXiPwuEY8FmBc3k-V--3"
+        }
+      ],
+      "accent": "#9a6b63",
+      "features": [
+        "Stainless steel base with gold plating",
+        "Copper-gold color tone",
+        "Non-fading color retention",
+        "Three variants: Gold 3, Gold-1, Gold-2",
+        "Rosary bracelet format"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Finish",
+          "value": "Gold plated"
+        },
+        {
+          "name": "Color",
+          "value": "Copper gold"
+        },
+        {
+          "name": "Variants",
+          "value": "Gold 3, Gold-1, Gold-2"
+        },
+        {
+          "name": "Category",
+          "value": "Rosary bracelets"
+        }
+      ],
+      "applications": [
+        "Personal devotion",
+        "Gift for a Catholic friend or family member",
+        "Church supply or bookstore inventory",
+        "Fundraising or ministry event favor"
+      ],
+      "faq": [
+        {
+          "question": "What material is the rosary bracelet made of?",
+          "answer": "The bracelet is made of stainless steel with gold plating."
+        },
+        {
+          "question": "Does the gold plating fade over time?",
+          "answer": "The product is described as having non-fading color retention, which helps maintain its appearance with proper care."
+        },
+        {
+          "question": "What variants are available?",
+          "answer": "There are three variants: Gold 3, Gold-1, and Gold-2."
+        }
+      ],
+      "pricing": {
+        "price": "3.19",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "2.90",
+          "max": "3.19"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Gold-Plated Stainless Steel Rosary Bracelet",
+          "description": "Gold-plated stainless steel rosary bracelet with copper-tone finish. Non-fading color retention and three variant options. Suitable for personal devotion or gifting.",
+          "sku": "ALI-AAHNTMb-AOXiPwuEY8FmBc3k",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb10749af6ecd498093872c2ab6a4c9c1k.png",
+            "https://sc04.alicdn.com/kf/H1d1de3eb593c418981b324d6fb7f0620l.png",
+            "https://sc04.alicdn.com/kf/Hb0acffa88841409fb520042fca80f5012.png",
+            "https://sc04.alicdn.com/kf/H3a338b2a2b6e415f87269770a2c0ee03x.png",
+            "https://sc04.alicdn.com/kf/H2fdd3767ec3f4d32b373bc7b139e6be56.png"
+          ],
+          "category": "Rosary bracelets",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Stainless steel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finish",
+              "value": "Gold plated"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Color",
+              "value": "Copper gold"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Gold 3, Gold-1, Gold-2"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Rosary bracelets"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "3.19",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "2.90",
+              "maxPrice": "3.19",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the rosary bracelet made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The bracelet is made of stainless steel with gold plating."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the gold plating fade over time?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product is described as having non-fading color retention, which helps maintain its appearance with proper care."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What variants are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are three variants: Gold 3, Gold-1, and Gold-2."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "2f76694087618ec9fe4437e90921b96fd266a93d9c994177f2983f1d4dc585b0",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "2f76694087618ec9fe4437e90921b96fd266a93d9c994177f2983f1d4dc585b0",
+            "contentHash": "2f76694087618ec9fe4437e90921b96fd266a93d9c994177f2983f1d4dc585b0",
+            "attempts": 0,
+            "updatedAt": "2026-11-27T22:25:08.717Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602032339071",
+      "sourceId": "1602032339071",
+      "sourceFingerprint": "06bba8ce054c60f59cc57591c4c6eda6d3d1b184d4c120043f151ef8a527693e",
+      "locale": "en",
+      "slug": "wholesale-vintage-evil-eye-rosary-cross-charm-bracelet-zinc-alloy-religious-beaded-bracelet-jewelry-gift-unisex",
+      "title": "Evil Eye Rosary Cross Charm Beaded Bracelet",
+      "eyebrow": "Vintage-style evil eye and rosary cross charm beaded bracelet in zinc alloy",
+      "summary": "Buyers choosing between gold and silver tones can match this vintage-style beaded bracelet to a gift or display. It combines an evil eye charm with a rosary cross charm on a zinc alloy build, unisex in wear, and comes in mixed color gold or silver across A, B, and A + B variants.",
+      "description": "This bracelet pairs an evil eye charm with a rosary cross charm on beaded construction in zinc alloy. The vintage look comes through in the mixed color finish rather than a single uniform tone, and the arrangement reads as unisex.\n\nBuyers pick between gold and silver color families, then choose A, B, or a combined A + B variant depending on how much variety they want to offer. Because A and B are separate variants, a mixed assortment can be built from one product line instead of several.",
+      "catholicContext": "A rosary is a Catholic prayer centered on contemplation of events in the lives of Jesus Christ and the Virgin Mary; the bracelet's rosary-style beading and cross charm relate to that devotional tradition, though the item is not itself a sacramental.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAEVTMb-AOXiPwuEY8CGN8Jm",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H59e37bfa53e6478086ed560f99ed75004.webp",
+      "imageAlt": "Evil Eye Rosary Cross Charm Beaded Bracelet",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H59e37bfa53e6478086ed560f99ed75004.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H631977d293494d50b298bec7c5bc1c3fp.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd2c966bccaa140fd917316559e63b9adS.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H899e79cb248b4187ba4cf417a949cba9o.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H665934d8b8d54e8a9fccd6682b8daeb6g.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hed19729afe7c4c99b2780ea94e2689e9M.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H41858682231140608b1dad1c67130e14j.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet - mixed-color-silver-b",
+          "label": "mixed-color-silver-b",
+          "sku": "ALI-AAEVTMb-AOXiPwuEY8CGN8Jm-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H0e2a5da7558743b493904e42e74172ddO.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet - mixed-color-silver-a",
+          "label": "mixed-color-silver-a",
+          "sku": "ALI-AAEVTMb-AOXiPwuEY8CGN8Jm-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H81645a8c56114c76af82609b80cfc9bdm.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet - mixed-color-gold-b",
+          "label": "mixed-color-gold-b",
+          "sku": "ALI-AAEVTMb-AOXiPwuEY8CGN8Jm-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H9ee04f1f7a51490dabf9116d58ffcdd5s.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet - mixed-color-gold-a",
+          "label": "mixed-color-gold-a",
+          "sku": "ALI-AAEVTMb-AOXiPwuEY8CGN8Jm-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbb9cfaff4e71427895a6546bb27db975I.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet - mixed-color-silver-a-b",
+          "label": "mixed-color-silver-a-b",
+          "sku": "ALI-AAEVTMb-AOXiPwuEY8CGN8Jm-V--6"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H7221132c0115402e91a85384cdfebfa6d.webp",
+          "alt": "Evil Eye Rosary Cross Charm Beaded Bracelet - mixed-color-gold-a-b",
+          "label": "mixed-color-gold-a-b",
+          "sku": "ALI-AAEVTMb-AOXiPwuEY8CGN8Jm-V--5"
+        }
+      ],
+      "accent": "#7a6d92",
+      "features": [
+        "Combines an evil eye charm with a rosary cross charm",
+        "Beaded construction in zinc alloy",
+        "Vintage-style mixed color finish",
+        "Unisex styling",
+        "Available in mixed color gold or mixed color silver"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Zinc alloy"
+        },
+        {
+          "name": "Construction",
+          "value": "Beaded bracelet"
+        },
+        {
+          "name": "Charms",
+          "value": "Evil eye charm and rosary cross charm"
+        },
+        {
+          "name": "Style",
+          "value": "Vintage"
+        },
+        {
+          "name": "Wearer",
+          "value": "Unisex"
+        },
+        {
+          "name": "Color options",
+          "value": "Mixed Color Gold; Mixed Color Silver"
+        },
+        {
+          "name": "Variants",
+          "value": "A, B, and A + B in each color"
+        }
+      ],
+      "applications": [
+        "Gift retail and charm jewelry assortments",
+        "Jewelry display alongside rosary-style beaded pieces",
+        "Unisex accessory stock in gold or silver tones",
+        "Mixed A + B variant selections for color variety"
+      ],
+      "faq": [
+        {
+          "question": "What material is the evil eye rosary cross charm bracelet made of?",
+          "answer": "The bracelet is made of zinc alloy with beaded construction."
+        },
+        {
+          "question": "Which variants can I order?",
+          "answer": "The bracelet comes in Mixed Color Gold A, Mixed Color Gold A + B, Mixed Color Gold B, Mixed Color Silver A, Mixed Color Silver A + B, and Mixed Color Silver B."
+        },
+        {
+          "question": "Is the bracelet designed for men or women?",
+          "answer": "The bracelet is listed as unisex, so it is not designated for one gender."
+        },
+        {
+          "question": "Does the bracelet carry a crucifix?",
+          "answer": "The product facts describe a rosary cross charm. A crucifix specifically depicts Christ on the cross, so confirm the charm detail with us before ordering if that distinction matters to your assortment."
+        }
+      ],
+      "pricing": {
+        "price": "0.72",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.72",
+          "max": "1.97"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Evil Eye Rosary Cross Charm Beaded Bracelet",
+          "description": "Vintage-style zinc alloy beaded bracelet with an evil eye and rosary cross charm, offered unisex in mixed color gold or silver variants A, B, and A + B.",
+          "sku": "ALI-AAEVTMb-AOXiPwuEY8CGN8Jm",
+          "image": [
+            "https://sc04.alicdn.com/kf/H59e37bfa53e6478086ed560f99ed75004.jpg",
+            "https://sc04.alicdn.com/kf/H631977d293494d50b298bec7c5bc1c3fp.jpg",
+            "https://sc04.alicdn.com/kf/Hd2c966bccaa140fd917316559e63b9adS.jpg",
+            "https://sc04.alicdn.com/kf/H899e79cb248b4187ba4cf417a949cba9o.jpg",
+            "https://sc04.alicdn.com/kf/H665934d8b8d54e8a9fccd6682b8daeb6g.jpg",
+            "https://sc04.alicdn.com/kf/Hed19729afe7c4c99b2780ea94e2689e9M.png"
+          ],
+          "category": "Rosary bracelets",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Zinc alloy"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Construction",
+              "value": "Beaded bracelet"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Charms",
+              "value": "Evil eye charm and rosary cross charm"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Style",
+              "value": "Vintage"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Wearer",
+              "value": "Unisex"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Color options",
+              "value": "Mixed Color Gold; Mixed Color Silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "A, B, and A + B in each color"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.72",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.72",
+              "maxPrice": "1.97",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the evil eye rosary cross charm bracelet made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The bracelet is made of zinc alloy with beaded construction."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which variants can I order?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The bracelet comes in Mixed Color Gold A, Mixed Color Gold A + B, Mixed Color Gold B, Mixed Color Silver A, Mixed Color Silver A + B, and Mixed Color Silver B."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the bracelet designed for men or women?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The bracelet is listed as unisex, so it is not designated for one gender."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the bracelet carry a crucifix?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The product facts describe a rosary cross charm. A crucifix specifically depicts Christ on the cross, so confirm the charm detail with us before ordering if that distinction matters to your assortment."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "f2eb4234b17ef090c8f6b5ab95daf63ab2815a5fec19f72ea38d0215775a253f",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "f2eb4234b17ef090c8f6b5ab95daf63ab2815a5fec19f72ea38d0215775a253f",
+            "contentHash": "f2eb4234b17ef090c8f6b5ab95daf63ab2815a5fec19f72ea38d0215775a253f",
+            "attempts": 0,
+            "updatedAt": "2026-11-27T22:25:13.834Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602032292579",
+      "sourceId": "1602032292579",
+      "sourceFingerprint": "6122a2bd85c95b8b36ed9eed632ca853e07a36273cc1e392b3600d889317b350",
+      "locale": "en",
+      "slug": "wholesale-vintage-cross-charm-pendant-adjustable-pearl-bracelet-alloy-rhinestone-fashion-jewelry-women-gift",
+      "title": "Vintage Cross Charm Pearl Bracelet",
+      "eyebrow": "Adjustable pearl bracelet with vintage-style cross charm",
+      "summary": "This adjustable bracelet pairs a pearl-style band with a vintage-look cross charm set in alloy and accented with rhinestones. Buyers can choose among five colorful variants, each identified by its own reference code. The adjustable closure is designed to suit a range of wrist sizes.",
+      "description": "Pearl-style elements form the main band of this bracelet, with an alloy cross charm hanging as the focal point. Rhinestone accents sit on the charm, giving it a vintage-inspired finish rather than a plain metal look. The adjustable closure lets the bracelet accommodate different wrist sizes, which simplifies stocking a single design across a customer base.\n\nThe charm reads as a cross rather than a crucifix, since the product facts describe a cross pendant. Buyers sourcing it as religious jewelry should keep that distinction in mind when listing it. Five colorful variants, referenced ZJ16496 through ZJ16500, allow a mixed order or a single-color selection depending on demand.",
+      "catholicContext": "A cross is a Christian symbol; a crucifix specifically depicts Christ on the cross, while a plain cross does not.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAH-TMb-AOXiPwuEY8CGNpj6",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/Hb2cf422c71784905a45bf946766c7984w.webp",
+      "imageAlt": "Vintage Cross Charm Pearl Bracelet",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb2cf422c71784905a45bf946766c7984w.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hcf65410cef9a4293a17bac773068f0c4G.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hccdc5adcbce141349f7e3c89ff7cfb90R.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hcb8b59d097e74fe6bfd0b43f57344b6dR.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbf8932eeb9134e00b3e04e8a48087cf2h.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H756ba8ce689447afaba985872dc88ca5a.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H60eb83383d064248a532143a430701aeQ.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet - colorful-zj16499",
+          "label": "colorful-zj16499",
+          "sku": "ALI-AAH-TMb-AOXiPwuEY8CGNpj6-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha078ccd356b9479abd3f92ca1b8768f4h.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet - colorful-zj16498",
+          "label": "colorful-zj16498",
+          "sku": "ALI-AAH-TMb-AOXiPwuEY8CGNpj6-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hc4c4f4f7b974454a99cbd16dd1a9d67f4.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet - colorful-zj16500",
+          "label": "colorful-zj16500",
+          "sku": "ALI-AAH-TMb-AOXiPwuEY8CGNpj6-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbeb04a4482fa48298f59af4bc92c41d53.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet - colorful-zj16497",
+          "label": "colorful-zj16497",
+          "sku": "ALI-AAH-TMb-AOXiPwuEY8CGNpj6-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb5b71be5344946d881d80ad3cfd3ee65D.webp",
+          "alt": "Vintage Cross Charm Pearl Bracelet - colorful-zj16496",
+          "label": "colorful-zj16496",
+          "sku": "ALI-AAH-TMb-AOXiPwuEY8CGNpj6-V--1"
+        }
+      ],
+      "accent": "#8a7b55",
+      "features": [
+        "Pearl-style bracelet band with an alloy cross charm",
+        "Rhinestone accents on the vintage-style charm",
+        "Adjustable closure for a range of wrist sizes",
+        "Five colorful variants, references ZJ16496 to ZJ16500",
+        "Designed as women's fashion jewelry"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Pearl-style band, alloy charm, rhinestone accents"
+        },
+        {
+          "name": "Charm",
+          "value": "Vintage-style cross with rhinestone detailing"
+        },
+        {
+          "name": "Size",
+          "value": "Adjustable"
+        },
+        {
+          "name": "Variants",
+          "value": "Colorful; ZJ16496, ZJ16497, ZJ16498, ZJ16499, ZJ16500"
+        },
+        {
+          "name": "Category",
+          "value": "Rosary bracelets"
+        }
+      ],
+      "applications": [
+        "Religious jewelry retail display",
+        "Gift selection for women",
+        "Everyday fashion accessory",
+        "Mixed-variant bracelet assortment"
+      ],
+      "faq": [
+        {
+          "question": "What materials are used in this bracelet?",
+          "answer": "The bracelet combines a pearl-style band with an alloy cross charm decorated with rhinestones."
+        },
+        {
+          "question": "How many color variants are available?",
+          "answer": "Five colorful variants are offered, referenced ZJ16496, ZJ16497, ZJ16498, ZJ16499, and ZJ16500."
+        },
+        {
+          "question": "Does the adjustable closure fit different wrist sizes?",
+          "answer": "The closure is adjustable, so the bracelet is intended to suit a range of wrist sizes."
+        }
+      ],
+      "pricing": {
+        "price": "0.74",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.74",
+          "max": "1.16"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Vintage Cross Charm Pearl Bracelet",
+          "description": "Adjustable pearl bracelet with a vintage-style cross charm in alloy and rhinestone accents, offered in five colorful variants for wholesale jewelry buyers.",
+          "sku": "ALI-AAH-TMb-AOXiPwuEY8CGNpj6",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hb2cf422c71784905a45bf946766c7984w.jpg",
+            "https://sc04.alicdn.com/kf/Hcf65410cef9a4293a17bac773068f0c4G.jpg",
+            "https://sc04.alicdn.com/kf/Hccdc5adcbce141349f7e3c89ff7cfb90R.jpg",
+            "https://sc04.alicdn.com/kf/Hcb8b59d097e74fe6bfd0b43f57344b6dR.jpg",
+            "https://sc04.alicdn.com/kf/Hbf8932eeb9134e00b3e04e8a48087cf2h.jpg",
+            "https://sc04.alicdn.com/kf/H756ba8ce689447afaba985872dc88ca5a.jpg"
+          ],
+          "category": "Rosary bracelets",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Pearl-style band, alloy charm, rhinestone accents"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Charm",
+              "value": "Vintage-style cross with rhinestone detailing"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Size",
+              "value": "Adjustable"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Colorful; ZJ16496, ZJ16497, ZJ16498, ZJ16499, ZJ16500"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Category",
+              "value": "Rosary bracelets"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.74",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.74",
+              "maxPrice": "1.16",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What materials are used in this bracelet?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The bracelet combines a pearl-style band with an alloy cross charm decorated with rhinestones."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many color variants are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Five colorful variants are offered, referenced ZJ16496, ZJ16497, ZJ16498, ZJ16499, and ZJ16500."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the adjustable closure fit different wrist sizes?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The closure is adjustable, so the bracelet is intended to suit a range of wrist sizes."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "d7053b419ca10cd985874b75329482a5c92a7a5eb7d42672f1203952a1858f56",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "d7053b419ca10cd985874b75329482a5c92a7a5eb7d42672f1203952a1858f56",
+            "contentHash": "d7053b419ca10cd985874b75329482a5c92a7a5eb7d42672f1203952a1858f56",
+            "attempts": 0,
+            "updatedAt": "2026-11-27T22:25:08.786Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602032227973",
+      "sourceId": "1602032227973",
+      "sourceFingerprint": "88083a8d613f01abecbf9213eec54c6fd593e64b6bc0b1dda9526f8b00a003cf",
+      "locale": "en",
+      "slug": "wholesale-zinc-alloy-rhinestone-enamel-pendant-charm-keychain-car-hanging-ornament-vintage-jewelry-accessories",
+      "title": "Rhinestone Enamel Pendant Charm Keychain Ornament",
+      "eyebrow": "Vintage-style zinc alloy pendant charm and hanging ornament with rhinestone and enamel details",
+      "summary": "This zinc alloy pendant charm works as a keychain piece or a small hanging ornament. Rhinestone and enamel detailing gives it a vintage look. Buyers can choose among five rose-gold variants with different shapes and sizes, including an oval enamel style and a rectangle.",
+      "description": "For buyers assembling small accessories ranges, this zinc alloy charm can be hung as an ornament or clipped to keys as a pendant piece. Rhinestone and enamel detailing gives each variant a vintage character rather than a plain metal finish.\n\nThe range covers five rose-gold variants. Shapes include a diamond-set heart, an enamel oval, a hollow oval, a rectangle, and a heart paired with a pearl piece. Sizes run from roughly 3.2cm up to 5.2cm, so a buyer can group them by shape or by scale.",
+      "catholicContext": "The Rosary is a Catholic prayer centered on contemplation of events in the lives of Jesus Christ and the Virgin Mary, with mysteries grouped as Joyful, Luminous, Sorrowful, and Glorious.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAGXTMb-AOXiPwuEY8CGKZyc",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/Hebbe5f4dbfaf4763ac85c84e8aebb2b4r.webp",
+      "imageAlt": "Rhinestone Enamel Pendant Charm Keychain Ornament",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hebbe5f4dbfaf4763ac85c84e8aebb2b4r.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H26ef477d1d4041f497b05e89cc3c062fA.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H1c8f63f83b2e46ea9295c4e696bd7254L.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H11007c7c431a4e6c9d0a442ad0a471a2Y.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H4f214f7d61f743a69b6342c7dc3ee56dd.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Haae1da59910d4ba2b058bfa98d407f53o.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament - oval-hollow-5-2-4-2cm-rose-gold",
+          "label": "oval-hollow-5-2-4-2cm-rose-gold",
+          "sku": "ALI-AAGXTMb-AOXiPwuEY8CGKZyc-V--4"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H481c85613ee54fb7a1f582242091aabbH.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament - rose-gold-love-pearl-piece",
+          "label": "rose-gold-love-pearl-piece",
+          "sku": "ALI-AAGXTMb-AOXiPwuEY8CGKZyc-V--5"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H12669842a4074f2c97db079445eb572dI.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament - rectangle-4-7-3-2cm-rose-gold",
+          "label": "rectangle-4-7-3-2cm-rose-gold",
+          "sku": "ALI-AAGXTMb-AOXiPwuEY8CGKZyc-V--2"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H6f75462c6c634ee3be72dd4816541ae2z.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament - oval-enamel-color-5-4-2cm-rose-gold-pearl-piece",
+          "label": "oval-enamel-color-5-4-2cm-rose-gold-pearl-piece",
+          "sku": "ALI-AAGXTMb-AOXiPwuEY8CGKZyc-V--3"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H54abee25ff7a4ddeba33ea20965f58a4k.webp",
+          "alt": "Rhinestone Enamel Pendant Charm Keychain Ornament - love-full-diamond-4-3cm-rose-gold",
+          "label": "love-full-diamond-4-3cm-rose-gold",
+          "sku": "ALI-AAGXTMb-AOXiPwuEY8CGKZyc-V--1"
+        }
+      ],
+      "accent": "#6d7887",
+      "features": [
+        "Zinc alloy pendant charm that doubles as a hanging ornament or keychain piece",
+        "Rhinestone and enamel detailing for a vintage-style finish",
+        "Five rose-gold variants covering heart, oval, and rectangle shapes",
+        "Sizes range from about 3.2cm to 5.2cm depending on the variant",
+        "Oval enamel variant pairs with a pearl piece"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Zinc alloy with rhinestone and enamel detailing"
+        },
+        {
+          "name": "Finish",
+          "value": "Rose gold"
+        },
+        {
+          "name": "Variants",
+          "value": "Love Full Diamond 4.3cm; Oval enamel color 5 x 4.2cm with pearl piece; Oval hollow 5.2 x 4.2cm; Rectangle 4.7 x 3.2cm; Rose gold love with pearl piece"
+        },
+        {
+          "name": "Size range",
+          "value": "Approximately 3.2cm to 5.2cm"
+        }
+      ],
+      "applications": [
+        "Keychain charm or pendant",
+        "Car hanging ornament",
+        "Bag or zipper pull accessory",
+        "Small decorative hanging piece"
+      ],
+      "faq": [
+        {
+          "question": "What are these charms made of?",
+          "answer": "Each charm is made from zinc alloy with rhinestone and enamel detailing in a rose-gold finish."
+        },
+        {
+          "question": "How many variants are available, and how do they differ?",
+          "answer": "There are five rose-gold variants: a Love Full Diamond at 4.3cm, an oval enamel color style at 5 x 4.2cm with a pearl piece, a hollow oval at 5.2 x 4.2cm, a rectangle at 4.7 x 3.2cm, and a rose-gold love style with a pearl piece."
+        },
+        {
+          "question": "What is the largest size in the range?",
+          "answer": "The hollow oval variant is the largest at 5.2 x 4.2cm, while the rectangle is the smallest at 4.7 x 3.2cm."
+        }
+      ],
+      "pricing": {
+        "price": "0.76",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.55",
+          "max": "0.76"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Rhinestone Enamel Pendant Charm Keychain Ornament",
+          "description": "Vintage-style zinc alloy pendant charm and hanging ornament with rhinestone and enamel detailing, offered in five rose-gold variants sized from about 3.2cm to 5.2cm.",
+          "sku": "ALI-AAGXTMb-AOXiPwuEY8CGKZyc",
+          "image": [
+            "https://sc04.alicdn.com/kf/Hebbe5f4dbfaf4763ac85c84e8aebb2b4r.jpg",
+            "https://sc04.alicdn.com/kf/H26ef477d1d4041f497b05e89cc3c062fA.jpg",
+            "https://sc04.alicdn.com/kf/H1c8f63f83b2e46ea9295c4e696bd7254L.jpg",
+            "https://sc04.alicdn.com/kf/H11007c7c431a4e6c9d0a442ad0a471a2Y.jpg",
+            "https://sc04.alicdn.com/kf/H4f214f7d61f743a69b6342c7dc3ee56dd.jpg"
+          ],
+          "category": "Rosary bracelets",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Zinc alloy with rhinestone and enamel detailing"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Finish",
+              "value": "Rose gold"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Variants",
+              "value": "Love Full Diamond 4.3cm; Oval enamel color 5 x 4.2cm with pearl piece; Oval hollow 5.2 x 4.2cm; Rectangle 4.7 x 3.2cm; Rose gold love with pearl piece"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Size range",
+              "value": "Approximately 3.2cm to 5.2cm"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "0.76",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.55",
+              "maxPrice": "0.76",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What are these charms made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Each charm is made from zinc alloy with rhinestone and enamel detailing in a rose-gold finish."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many variants are available, and how do they differ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There are five rose-gold variants: a Love Full Diamond at 4.3cm, an oval enamel color style at 5 x 4.2cm with a pearl piece, a hollow oval at 5.2 x 4.2cm, a rectangle at 4.7 x 3.2cm, and a rose-gold love style with a pearl piece."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the largest size in the range?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The hollow oval variant is the largest at 5.2 x 4.2cm, while the rectangle is the smallest at 4.7 x 3.2cm."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "c14a7221dc5a1376c57c3165b71d493833e80a3e86f17f1f8e6695cf51d9cd14",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "c14a7221dc5a1376c57c3165b71d493833e80a3e86f17f1f8e6695cf51d9cd14",
+            "contentHash": "c14a7221dc5a1376c57c3165b71d493833e80a3e86f17f1f8e6695cf51d9cd14",
+            "attempts": 0,
+            "updatedAt": "2026-11-27T22:25:21.338Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602032375137",
+      "sourceId": "1602032375137",
+      "sourceFingerprint": "c187308ec31bb14e5e441c9778d4db1c6f7f84d1f429afa659a8028f9a99bc6a",
+      "locale": "en",
+      "slug": "catholic-christmas-eve-wooden-hanging-plaque-decoration-party-holiday-gift-wholesale-wood-craft-ornament",
+      "title": "Catholic Christmas Eve Wooden Hanging Plaque",
+      "eyebrow": "Catholic Christmas Eve wooden hanging plaque decoration",
+      "summary": "A painted wooden hanging plaque featuring a Catholic Christmas Eve theme. Handmade from wood, it suits holiday decoration, gift-giving, or craft assortments. The plaque is produced in Zhejiang, China, and is available for wholesale orders.",
+      "description": "This wooden hanging plaque carries a Catholic Christmas Eve theme, making it a focused piece for holiday displays. The plaque is handmade and hand-painted, with the painted finish giving each piece its surface detail. Wood construction keeps it within the ornament and plaque category for seasonal decor. The plaque is made in Zhejiang, China, and is offered for wholesale purchase. It can be hung as part of Christmas decor or included in a religious gift assortment.",
+      "catholicContext": "The Catholic Catechism recognizes popular devotions, such as the Rosary and medals, as forms of piety that surround sacramental life but do not replace the Church's liturgical life.",
+      "catholicRelevance": "explicit",
+      "categories": [
+        {
+          "id": "84",
+          "name": "Ornaments",
+          "slug": "ornaments"
+        }
+      ],
+      "sku": "ALI-AAFBTMb-AOXiPwuEY8CGNF94",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H1e24cc0f146949ee80d710da4fbcb4346.webp",
+      "imageAlt": "Catholic Christmas Eve Wooden Hanging Plaque",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H1e24cc0f146949ee80d710da4fbcb4346.webp",
+          "alt": "Catholic Christmas Eve Wooden Hanging Plaque"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H485e7e2802f44f9abbad2b7984bf4d9cS.webp",
+          "alt": "Catholic Christmas Eve Wooden Hanging Plaque"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hb06caf99b4e84ea7a7af15eae642fc6bF.webp",
+          "alt": "Catholic Christmas Eve Wooden Hanging Plaque"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H86a19d672d724f8b81032b82e0171bd0L.webp",
+          "alt": "Catholic Christmas Eve Wooden Hanging Plaque"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H2956d9afc91f44cb84a1ebd1f29a8121R.webp",
+          "alt": "Catholic Christmas Eve Wooden Hanging Plaque"
+        }
+      ],
+      "variantImages": [],
+      "accent": "#8b6b4a",
+      "features": [
+        "Wooden construction",
+        "Handmade",
+        "Painted finish",
+        "Catholic Christmas Eve theme",
+        "Hanging plaque format"
+      ],
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "Wood"
+        },
+        {
+          "name": "Product Type",
+          "value": "Plaque"
+        },
+        {
+          "name": "Technique",
+          "value": "Painted"
+        },
+        {
+          "name": "Feature",
+          "value": "Handmade"
+        },
+        {
+          "name": "Theme",
+          "value": "Religious"
+        },
+        {
+          "name": "Place of Origin",
+          "value": "CN;ZHE"
+        }
+      ],
+      "applications": [
+        "Christmas holiday decoration",
+        "Religious gift",
+        "Home decoration",
+        "Craft ornament assortment"
+      ],
+      "faq": [
+        {
+          "question": "What material is the Catholic Christmas Eve wooden hanging plaque made of?",
+          "answer": "The plaque is made of wood."
+        },
+        {
+          "question": "Is the plaque handmade and painted?",
+          "answer": "Yes, the plaque is handmade and has a painted finish."
+        },
+        {
+          "question": "Where is the plaque produced?",
+          "answer": "The place of origin is Zhejiang, China (CN;ZHE)."
+        }
+      ],
+      "pricing": {
+        "price": "1.35",
+        "regularPrice": "1.35",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "0.98",
+          "max": "1.35"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Catholic Christmas Eve Wooden Hanging Plaque",
+          "description": "Hand-painted wooden hanging plaque with a Catholic Christmas Eve theme. Handmade religious ornament for holiday display, gift, or wholesale craft assortment.",
+          "sku": "ALI-AAFBTMb-AOXiPwuEY8CGNF94",
+          "image": [
+            "https://sc04.alicdn.com/kf/H1e24cc0f146949ee80d710da4fbcb4346.jpg",
+            "https://sc04.alicdn.com/kf/H485e7e2802f44f9abbad2b7984bf4d9cS.jpg",
+            "https://sc04.alicdn.com/kf/Hb06caf99b4e84ea7a7af15eae642fc6bF.jpg",
+            "https://sc04.alicdn.com/kf/H86a19d672d724f8b81032b82e0171bd0L.jpg",
+            "https://sc04.alicdn.com/kf/H2956d9afc91f44cb84a1ebd1f29a8121R.jpg"
+          ],
+          "category": "Ornaments",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Material",
+              "value": "Wood"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product Type",
+              "value": "Plaque"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Technique",
+              "value": "Painted"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Feature",
+              "value": "Handmade"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Theme",
+              "value": "Religious"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Place of Origin",
+              "value": "CN;ZHE"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.35",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "0.98",
+              "maxPrice": "1.35",
+              "priceCurrency": "USD"
+            }
+          }
+        },
+        "faq": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What material is the Catholic Christmas Eve wooden hanging plaque made of?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The plaque is made of wood."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the plaque handmade and painted?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the plaque is handmade and has a painted finish."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Where is the plaque produced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The place of origin is Zhejiang, China (CN;ZHE)."
+              }
+            }
+          ]
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "66ceea68b8f7ab5ea242fe41309f2e1dbfc57c1df7125571a227746ea8f172b7",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "66ceea68b8f7ab5ea242fe41309f2e1dbfc57c1df7125571a227746ea8f172b7",
+            "contentHash": "66ceea68b8f7ab5ea242fe41309f2e1dbfc57c1df7125571a227746ea8f172b7",
+            "attempts": 0,
+            "updatedAt": "2026-11-27T22:25:17.300Z",
+            "model": "deepseek-v4-flash"
+          }
+        }
+      }
+    },
+    {
+      "productId": "1602032278674",
+      "sourceId": "1602032278674",
+      "sourceFingerprint": "0506929a1e1144f95d6296b1324c5cceebd06f4f0db739f21b6ec958295bc5e4",
+      "locale": "en",
+      "slug": "wholesale-stainless-steel-square-photo-locket-adjustable-pull-chain-bracelet-fashion-jewelry-women-men-gift",
+      "title": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull",
+      "eyebrow": "Rosary bracelets",
+      "summary": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull Chain Bracelet Fashion Jewelry Women Men Gift",
+      "description": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull Chain Bracelet Fashion Jewelry Women Men Gift",
+      "catholicContext": "",
+      "catholicRelevance": "devotional_context",
+      "categories": [
+        {
+          "id": "20",
+          "name": "Rosary bracelets",
+          "slug": "rosary-bracelets"
+        }
+      ],
+      "sku": "ALI-AAHNTMb-AOXiPwuEY8CGNtaL",
+      "imageUrl": "https://mecrt.com/wp-content/uploads/2026/11/H66f91b0ef41b49718afd1cd93128b49ed.webp",
+      "imageAlt": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull",
+      "gallery": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H66f91b0ef41b49718afd1cd93128b49ed.webp",
+          "alt": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/He90181c1cda04fe58fad255c2224490fU.webp",
+          "alt": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H6066425ff0964df8a3e98239419f3fa0f.webp",
+          "alt": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hd11352cb6da64079b5755bbfb3c5c8e30.webp",
+          "alt": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H886aec1d8b784b94baa70d61d3a8765ff.webp",
+          "alt": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Ha1d64554ea0143e5a0688d9dc1dc2e8f2.webp",
+          "alt": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull"
+        }
+      ],
+      "variantImages": [
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/H73a05fd6ba21427ca1a550082375898dt.webp",
+          "alt": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull - gold-1",
+          "label": "gold-1",
+          "sku": "ALI-AAHNTMb-AOXiPwuEY8CGNtaL-V--1"
+        },
+        {
+          "url": "https://mecrt.com/wp-content/uploads/2026/11/Hbb12c12fc4344941b4e6e30e358d5fc0Q.webp",
+          "alt": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull - silver-2",
+          "label": "silver-2",
+          "sku": "ALI-AAHNTMb-AOXiPwuEY8CGNtaL-V--2"
+        }
+      ],
+      "accent": "#6f7c72",
+      "features": [
+        "Variant: Gold-1, Silver-2"
+      ],
+      "specifications": [
+        {
+          "name": "Variant",
+          "value": "Gold-1, Silver-2"
+        }
+      ],
+      "applications": [],
+      "faq": [],
+      "pricing": {
+        "price": "1.23",
+        "currency": "USD",
+        "onSale": false,
+        "priceRange": {
+          "min": "1.23",
+          "max": "1.50"
+        }
+      },
+      "structuredData": {
+        "product": {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull",
+          "description": "Wholesale Stainless Steel Square Photo Locket Adjustable Pull Chain Bracelet Fashion Jewelry Women Men Gift",
+          "sku": "ALI-AAHNTMb-AOXiPwuEY8CGNtaL",
+          "image": [
+            "https://sc04.alicdn.com/kf/H66f91b0ef41b49718afd1cd93128b49ed.jpg",
+            "https://sc04.alicdn.com/kf/He90181c1cda04fe58fad255c2224490fU.jpg",
+            "https://sc04.alicdn.com/kf/H6066425ff0964df8a3e98239419f3fa0f.jpg",
+            "https://sc04.alicdn.com/kf/Hd11352cb6da64079b5755bbfb3c5c8e30.jpg",
+            "https://sc04.alicdn.com/kf/H886aec1d8b784b94baa70d61d3a8765ff.jpg",
+            "https://sc04.alicdn.com/kf/Ha1d64554ea0143e5a0688d9dc1dc2e8f2.jpg"
+          ],
+          "category": "Rosary bracelets",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Variant",
+              "value": "Gold-1, Silver-2"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "1.23",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": "1.23",
+              "maxPrice": "1.50",
+              "priceCurrency": "USD"
+            }
+          }
+        }
+      },
+      "localization": {
+        "sourceLocale": "en",
+        "sourceHash": "d1a08398967b13e70cb1f5fbcca3fbc3e1eaac358f10a050e03804ac717f2963",
+        "translations": {
+          "en": {
+            "status": "source",
+            "sourceHash": "d1a08398967b13e70cb1f5fbcca3fbc3e1eaac358f10a050e03804ac717f2963",
+            "contentHash": "d1a08398967b13e70cb1f5fbcca3fbc3e1eaac358f10a050e03804ac717f2963",
+            "attempts": 0,
+            "updatedAt": "2026-11-27T22:25:35.206Z",
             "model": "deepseek-v4-flash"
           }
         }
