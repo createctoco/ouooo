@@ -9,6 +9,7 @@ export type LocaleDefinition = {
   openGraphLocale: string;
   direction: TextDirection;
   host: string;
+  flag: string;
 };
 
 export type AlternateLanguageLink = {

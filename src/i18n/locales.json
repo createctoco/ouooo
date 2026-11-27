@@ -1,97 +1,117 @@
 {
   "defaultLocale": "en",
   "locales": {
-    "en": { "label": "English", "hreflang": "en", "openGraphLocale": "en_US", "direction": "ltr", "host": "ouooo.com" },
+    "en": {
+      "label": "English",
+      "hreflang": "en",
+      "openGraphLocale": "en_US",
+      "direction": "ltr",
+      "host": "ouooo.com",
+      "flag": "us"
+    },
     "it": {
       "label": "Italiano",
       "hreflang": "it",
       "openGraphLocale": "it_IT",
       "direction": "ltr",
-      "host": "it.ouooo.com"
+      "host": "it.ouooo.com",
+      "flag": "it"
     },
     "es": {
       "label": "Español",
       "hreflang": "es",
       "openGraphLocale": "es_ES",
       "direction": "ltr",
-      "host": "es.ouooo.com"
+      "host": "es.ouooo.com",
+      "flag": "es"
     },
     "fr": {
       "label": "Français",
       "hreflang": "fr",
       "openGraphLocale": "fr_FR",
       "direction": "ltr",
-      "host": "fr.ouooo.com"
+      "host": "fr.ouooo.com",
+      "flag": "fr"
     },
     "pt": {
       "label": "Português",
       "hreflang": "pt",
       "openGraphLocale": "pt_PT",
       "direction": "ltr",
-      "host": "pt.ouooo.com"
+      "host": "pt.ouooo.com",
+      "flag": "br"
     },
     "pl": {
       "label": "Polski",
       "hreflang": "pl",
       "openGraphLocale": "pl_PL",
       "direction": "ltr",
-      "host": "pl.ouooo.com"
+      "host": "pl.ouooo.com",
+      "flag": "pl"
     },
     "de": {
       "label": "Deutsch",
       "hreflang": "de",
       "openGraphLocale": "de_DE",
       "direction": "ltr",
-      "host": "de.ouooo.com"
+      "host": "de.ouooo.com",
+      "flag": "de"
     },
     "fil": {
       "label": "Filipino",
       "hreflang": "fil",
       "openGraphLocale": "fil_PH",
       "direction": "ltr",
-      "host": "fil.ouooo.com"
+      "host": "fil.ouooo.com",
+      "flag": "ph"
     },
     "hr": {
       "label": "Hrvatski",
       "hreflang": "hr",
       "openGraphLocale": "hr_HR",
       "direction": "ltr",
-      "host": "hr.ouooo.com"
+      "host": "hr.ouooo.com",
+      "flag": "hr"
     },
     "sl": {
       "label": "Slovenščina",
       "hreflang": "sl",
       "openGraphLocale": "sl_SI",
       "direction": "ltr",
-      "host": "sl.ouooo.com"
+      "host": "sl.ouooo.com",
+      "flag": "si"
     },
     "ro": {
       "label": "Română",
       "hreflang": "ro",
       "openGraphLocale": "ro_RO",
       "direction": "ltr",
-      "host": "ro.ouooo.com"
+      "host": "ro.ouooo.com",
+      "flag": "ro"
     },
     "ar": {
       "label": "العربية",
       "hreflang": "ar",
       "openGraphLocale": "ar_SA",
       "direction": "rtl",
-      "host": "ar.ouooo.com"
+      "host": "ar.ouooo.com",
+      "flag": "sa"
     },
     "zh-hant": {
       "label": "繁體中文",
       "hreflang": "zh-Hant",
       "openGraphLocale": "zh_TW",
       "direction": "ltr",
-      "host": "zh-hant.ouooo.com"
+      "host": "zh-hant.ouooo.com",
+      "flag": "hk"
     },
     "zh-hans": {
       "label": "简体中文",
       "hreflang": "zh-Hans",
       "openGraphLocale": "zh_CN",
       "direction": "ltr",
-      "host": "zh-hans.ouooo.com"
+      "host": "zh-hans.ouooo.com",
+      "flag": "cn"
     }
   }
 }
